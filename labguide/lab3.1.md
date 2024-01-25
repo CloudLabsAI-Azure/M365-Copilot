@@ -4,7 +4,7 @@
 
 Facilitate the creation of a robust and collaborative workspace on SharePoint for a team project. This step-by-step guide aims to empower users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members.
 
-### Step 1: Access SharePoint
+### Task 1.1: Access SharePoint
 
 - **Login to Microsoft 365:**
    - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?) with the provided credentials. In the Sign in window you will see a login screen, in that enter the following email/username and then click on Ask Later.
@@ -15,7 +15,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 - **Navigate to SharePoint:**
    - Go to the SharePoint homepage by clicking on the SharePoint app or through the Microsoft 365 app launcher.
 
-### Step 2: Create a New Team Site
+### Task 1.2: Create a New Team Site
 
 - **Initiate Team Site Creation:**
    - Click on "Create site" or find the option in the left navigation menu.
@@ -26,7 +26,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 - **Fill Site Information:**
    - Provide essential details such as site name, description, and privacy settings. Click "Next" or "Finish" to create the site.
 
-### Step 3: Set Up Document Library for Monthly Reports
+### Task 1.3: Set Up Document Library for Monthly Reports
 
 - **Access Site Contents:**
    - Navigate to the left menu and click on "Site Contents" or "Documents."
@@ -37,7 +37,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 - **Name the Document Library:**
    - Give the library a name, e.g., "Reports," and click "Create."
 
-### Step 4: Organize Monthly Reports
+### Task 1.4: Organize Monthly Reports
 
 - **Create Monthly Reports Folder:**
    - Inside the document library, click "+ New" and choose "Folder." Name it "Monthly Reports."
@@ -45,7 +45,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 - **Upload Mock Reports:**
    - Open the "Monthly Reports" folder and click "+ New" to upload mock reports. Choose "File" and select documents with placeholder content.
 
-### Step 5: Share the Site with Team Members
+### Task 1.5: Share the Site with Team Members
 
 - **Return to Home Page:**
     - Go back to the home page of your SharePoint site.
@@ -59,7 +59,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 - **Set Permissions:**
     - Specify permissions (e.g., "Edit" or "View only"). Include a message if needed and click "Send."
 
-### Step 6: Explore Version History (Optional)
+### Task 1.6: Explore Version History (Optional)
 
 - **Edit and Save a Document:**
     - Open one of the uploaded documents, make a minor edit, and save the changes.
