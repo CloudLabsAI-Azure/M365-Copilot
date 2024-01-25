@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data – all in the flow of work – to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -14,9 +14,9 @@ Here is how you can use the transformative power of Microsoft Copilot in differe
 
 ### Task 1.1: Using Copilot in Word:
 
-In Word, **Copilot for Microsoft 365** transforms the process of document creation and refinement, allowing you to produce compelling content with ease. Copilot helps drafting from scratch, enhancing existing text, and capturing the essence of lengthy articles. With Copilot, you can initiate a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and readily adjust both the tone and conciseness of your writing.
+In Word, **Copilot for Microsoft 365** transforms the process of document creation and refinement, allowing you to produce compelling content with ease. Copilot helps draft from scratch, enhance the existing text, and capture the essence of lengthy articles. With Copilot, you can initiate a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and readily adjust both the tone and conciseness of your writing.
 
-#### **Content Generation in Word**:
+#### **Content Generation in Word:**
 
 One of the goals of Copilot in Word is to simplify the creation and modification of documents. It uses artificial intelligence to understand your writing goals and generate relevant and original content for you. You can use Copilot in Word to:
 
@@ -41,11 +41,11 @@ To use **Copilot in Word**, follow the below steps:
     List the ingredients for a cheesecake in a bulleted format.
     ```
 
-1. It will create the document on that topic of interest with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
+1. It will create a document on that topic of interest with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
-    >Note: You can also choose **"Copilot"** icon present on the top of the page and utilise the service.
+    >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
 
-1. You can also link an external word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
+1. You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
 
 Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
 
@@ -77,7 +77,7 @@ To use Copilot in Outlook, follow the below steps:
 
 1. You can also generate a complete email using **Copilot**. To do this, click on **New Email** and choose **Draft with Copilot** in the body. Provide an input and click on **Generate**.
 
-    >**Note**: You can also choose the length and tone of your output by clicking on **Generate options** sign present on the bottom left of the box.
+    >**Note:** You can also choose the length and tone of your output by clicking on the **Generate options** sign present on the bottom left of the box.
 
 ### Task 1.3: Using Copilot in PowerPoint
 
@@ -89,7 +89,7 @@ In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant
 
 #### **Creating Presentations from Word documents**
 
-**Copilot in PowerPoint simplifies the transformation of existing files, streamlining the conversion of your documents into vivid visual presentations effortlessly. With this capability, you can easily transform a Word document into a structured PowerPoint presentation, ensuring your content gets the visual representation it deserves. This process not only streamlines your workflow but also brings a new dimension to your written content.
+Copilot in PowerPoint simplifies the transformation of existing files, streamlining the conversion of your documents into vivid visual presentations effortlessly. With this capability, you can easily transform a Word document into a structured PowerPoint presentation, ensuring your content gets the visual representation it deserves. This process not only streamlines your workflow but also brings a new dimension to your written content.
 
 To use Copilot in PowerPoint, follow the below steps:
 
@@ -123,13 +123,13 @@ Beyond standard data analysis, Copilot crafts a coherent narrative from the patt
 
 #### **Transforming Data in Excel**
 
-With **Copilot in Excel**, taking control of your data visualization and management is straightforward and intuitive. Copilot empowers you to not only clean and organize your data but also to enhance it through various stylistic and structural modifications. From applying styles, fonts, and colors to extend your data’s capabilities through pivot tables and graphs, Copilot helps in every step. Easily command Copilot to create new columns, define conditions for data representation, and to formulate graphs for a comprehensive view.
+With **Copilot in Excel**, taking control of your data visualization and management is straightforward and intuitive. Copilot empowers you to not only clean and organize your data but also to enhance it through various stylistic and structural modifications. From applying styles, fonts, and colors to extending your data’s capabilities through pivot tables and graphs, Copilot helps in every step. Easily command Copilot to create new columns, define conditions for data representation, and formulate graphs for a comprehensive view.
 
 To use Copilot in PowerPoint, follow the below steps:
 
 1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
 
-1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data and analysing the data and click on **Send** icon.
+1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data, analysing the data and clicking on the **Send** icon.
 
 Here are some of the prompts you can take help of to explore more on Copilot in Excel:
 
@@ -148,7 +148,7 @@ Create a pivot table where the row is category, the column is supplier, and the 
 
 ### Task 1.5: Using Copilot in Teams
 
-In Teams, **Copilot for Microsoft 365** elevates the efficiency of teamwork, facilitating seamless conversations and more productive meetings. It helps in keeping you updated with discussions, summarizing key actions, and organizing focal points of conversations to promote a streamlined workflow within your team.
+In Teams, **Copilot for Microsoft 365** elevates the efficiency of teamwork, facilitating seamless conversations and more productive meetings. It helps keep you updated with discussions, summarizing key actions, and organizing focal points of conversations to promote a streamlined workflow within your team.
 
 #### **Enhancing Teams Chat Experience**
 
@@ -166,7 +166,7 @@ To use Copilot in PowerPoint, follow the below steps:
 
     It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
 
-1. **During a meeting**, Copilot can summarize key discussion points—including who said what and where people are aligned or disagree—and suggest action items, all in real time.
+1. **During a meeting**, Copilot can summarize key discussion points—including who said what and where people are aligned or disagree—and suggest action items, all in real-time.
 
 1. **After a meeting ends**, Select **Open Copilot** to see a summary of key points of discussion and identify agreed-upon next steps, including tasks assigned to specific people.
 
