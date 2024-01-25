@@ -30,6 +30,8 @@ To use **Copilot in Word**, follow the below steps:
 
 1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide any input which you want the Copilot to execute and click on **Generate**.
 
+   ![](./media/draft-with-copilot-word.png)
+
     Examples of sample inputs include:
     ```
     Write an essay about baseball.
@@ -43,9 +45,15 @@ To use **Copilot in Word**, follow the below steps:
 
 1. It will create a document on that topic of interest with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
+   ![](./media/keep-it-word.png)
+
     >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
 
+    >![](./media/copilot-icon-word.png)
+
 1. You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
+
+   ![](./media/reference-doc-word.png)
 
     Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
 
@@ -75,9 +83,15 @@ To use **Copilot in Outlook**, follow the below steps:
 
 1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
 
+   ![](./media/summary-copilot-outlook.png)
+
 1. You can also generate a complete email using **Copilot**. To do this, click on **New Email** and choose **Draft with Copilot** in the body. Provide an input and click on **Generate**.
 
+   ![](./media/draft-email-copilot.png)
+
     >**Note:** You can also choose the length and tone of your output by clicking on the **Generate options** sign present on the bottom left of the box.
+
+    >![](./media/generate-options-email.png)
 
 ### Task 1.3: Using Copilot in PowerPoint
 
@@ -95,21 +109,27 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Open your **PowerPoint** and select **Copilot** on top of the screen.
 
+   ![](./media/ppt-copilot.png)
+
 1. Click **Create a presentation** and provide your preferred topic and related information to craft your presentation.
+
+   ![](./media/create-ppt-copilot.png)
 
 1. Alternatively, you can also choose **Create a presentation from file** and attach a Word document as a reference and craft a presentation based on it.
 
-    Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
+   ![](./media/ppt-from-doc.png)
 
-    ```
-    Create a presentation on outdoor activities. Include sections on Hiking, Camping, Water Sports, and Biking
-    ```
-    ```
-    Add a slide about ______(Your preferred topic).
-    ```
-    ```
-    Add an image of a lakeside campfire.
-    ```
+Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
+
+```
+Create a presentation on outdoor activities. Include sections on Hiking, Camping, Water Sports, and Biking
+```
+```
+Add a slide about ______(Your preferred topic).
+```
+```
+Add an image of a lakeside campfire.
+```
 
 ### Task 1.4: Using Copilot in Excel
 
@@ -129,22 +149,26 @@ To use **Copilot in Excel**, follow the below steps:
 
 1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
 
+   ![](./media/copilot-excel.png)
+
 1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data, analysing the data and clicking on the **Send** icon.
 
-    Here are some of the prompts you can take help of to explore more on Copilot in Excel:
+   ![](./media/copilot-excel-extra.png)
 
-    ```
-    Analyze this quarter's business results and summarize three key trends.
-    ```
-    ```
-    Sort data by launch date.
-    ```
-    ```
-    Change the table style to light gray,
-    ```
-    ```
-    Create a pivot table where the row is category, the column is supplier, and the values represent the sum of the minimum reorder quantity.
-    ```
+Here are some of the prompts you can take help of to explore more on Copilot in Excel:
+
+```
+Analyze this quarter's business results and summarize three key trends.
+```
+```
+Sort data by launch date.
+```
+```
+Change the table style to light gray,
+```
+```
+Create a pivot table where the row is category, the column is supplier, and the values represent the sum of the minimum reorder quantity.
+```
 
 ### Task 1.5: Using Copilot in Teams
 
@@ -164,9 +188,13 @@ To use **Copilot in Teams**, follow the below steps:
 
 1. Open **Teams** and go to any chat. You will find the **Copilot** icon on the bottom of the chatbox which will help you to rewrite a message or even select its tone and length.
 
+    ![](./media/copilot-teams-chat.png)
+
     It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
 
 1. **During a meeting**, Copilot can summarize key discussion points—including who said what and where people are aligned or disagree—and suggest action items, all in real-time.
+
+   ![](./media/copilot-in-meeting.png)
 
 1. **After a meeting ends**, Select **Open Copilot** to see a summary of key points of discussion and identify agreed-upon next steps, including tasks assigned to specific people.
 
