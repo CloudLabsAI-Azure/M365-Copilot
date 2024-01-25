@@ -7,7 +7,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 ### Task 1.1: Access SharePoint
 
 - **Login to Microsoft 365:**
-   - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?) with the provided credentials. In the Sign in window you will see a login screen, in that enter the following email/username and then click on Ask Later.
+   - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?) with the provided credentials. In the Sign-in window, you will see a login screen, in that enter the following email/username and then click on Ask Later.
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
       ![](/labguide/media/lab3.1.png)
@@ -57,7 +57,7 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
     - Enter the email addresses of students or collaborators.
 
 - **Set Permissions:**
-    - Specify permissions (e.g., "Edit" or "View only"). Include a message if needed and click "Send."
+    - Specify permissions (e.g., "Edit" or "View only"). Include a message if needed and click "Send".
 
 ### Task 1.6: Explore Version History (Optional)
 
