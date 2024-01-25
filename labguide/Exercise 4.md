@@ -198,26 +198,58 @@ To use **Copilot in Teams**, follow the below steps:
 
 1. **After a meeting ends**, Select **Open Copilot** to see a summary of key points of discussion and identify agreed-upon next steps, including tasks assigned to specific people.
 
-Here are some of the prompts you can take help of to explore more on Copilot in Teams:
+   Here are some of the prompts you can take help of to explore more on Copilot in Teams:
 
-- During a meeting:
+   - **During a meeting:**
 
-    ```
-    Where do we disagree on this topic? 
-    ```
-    ```
-    What questions can I ask to move the meeting forward?
-    ```
-    ```
-    Create a table with the ideas discussed and their pros and cons.
-    ```
-- After a meeting:
-    ```
-    What questions were asked, answered, and unresolved?
-    ```
-    ```
-    Summarize what people said, in a less technical way. 
-    ```
-    ```
-    What was the mood of the meeting?  
-    ```
+      ```
+      Where do we disagree on this topic? 
+      ```
+      ```
+      What questions can I ask to move the meeting forward?
+      ```
+      ```
+      Create a table with the ideas discussed and their pros and cons.
+      ```
+   - **After a meeting:**
+      ```
+      What questions were asked, answered, and unresolved?
+      ```
+      ```
+      Summarize what people said, in a less technical way. 
+      ```
+      ```
+      What was the mood of the meeting?  
+      ```
+
+### Task 1.6: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
+
+**M365 Chat** enables users to engage in work-related conversations within SharePoint sites, lists, and libraries. Chats within these collaboration spaces, powered by Microsoft 365 Copilot's AI capabilities, can understand user intents and questions and provide personalized responses to your organization's Microsoft 365 data via Microsoft Graph.  
+
+For example, within a SharePoint site dedicated to a specific project, users can use natural language in M365 Chat to ask questions or make requests such as:
+
+"Copilot, show me my most recent draft documents related to this customer project"
+
+"Copilot, who has presented proposals to our largest customer in the last 6 months?"  
+
+
+Copilot can then query connected services such as SharePoint, Exchange, Teams, and more via Microsoft.
+
+"Copilot, set up a meeting for the project team next Wednesday at 2 pm to discuss our timeline."
+
+Copilot can then query connected services such as SharePoint, Exchange, Teams, and others via Microsoft Graph to provide answers and recommendations tailored to the user's specific M365 dataset and context. This includes surfacing relevant documents, conversations, employee insights, and calendar availability.
+
+
+**Key advantages of this integration include:**
+
+- Access to organizational knowledge through M365.
+
+- Time savings with automated assistance
+
+- Increased team collaboration and sharing.
+
+By incorporating Copilot's intelligence into the collaboration flow via chat in M365, users can more easily gather information to make decisions and coordinate teamwork efficiently.
+
+To use **M365 Chat**, follow the below steps:
+
+
