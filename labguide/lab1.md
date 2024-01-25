@@ -33,7 +33,7 @@ Copilot for Microsoft 365 is designed to transform the way employees work in the
 - **Presentation Development:** Simplifying the initiation of presentations with natural language commands, sparking creativity and idea generation.
 - **Data Analysis and Visualization:** Assisting in identifying trends, creating visualizations, and providing recommendations to simplify data analysis.
 - **Security and Compliance:** Ensuring comprehensive enterprise compliance and security controls for data protection and peace of mind.
-- **User Control:** Empowering users with control over AI suggestions, allowing modification or discardal, emphasizing the human element in AI interaction.
+- **User Control:** Empowering users with control over AI suggestions, allowing modification or discard, emphasizing the human element in AI interaction.
 
 ## Copilot's Architecture and Processing Flow: Step-by-Step
 
@@ -44,7 +44,8 @@ The following steps outline the processing flow of Copilot for Microsoft 365, fr
 ### User Interaction
 
 1. **User Input:**
-   - A user provides an input or asks a question within a Microsoft 365 app, such as Word or PowerPoint.
+   
+   - A user provides input or asks a question within a Microsoft 365 app, such as Word or PowerPoint.
 
 ### Grounding and Data Preparation
 
@@ -80,7 +81,3 @@ The following steps outline the processing flow of Copilot for Microsoft 365, fr
 ## Conclusion
 
 Understanding the intricate architecture and prompt flow of Copilot for Microsoft 365 provides insights into how this AI-powered tool delivers tailored and intelligent responses. As we proceed in this lab guide, we will explore these processes in more detail, offering you a deeper understanding of how Copilot enhances your productivity within the Microsoft 365 environment.
-
-
-
-
