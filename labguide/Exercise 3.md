@@ -10,21 +10,51 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
    - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?) with the provided credentials. In the Sign-in window, you will see a login screen, in that enter the following email/username and then click on Ask Later.
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-      ![](/labguide/media/lab3.1.png)
+      ![](/labguide/media/task3.1.1.png)
+
+   - Now enter the password and click on Sign in.
+   * Password:<inject key="AzureAdUserPassword"></inject>
+
+      ![](/labguide/media/task3.1.2.png)
 
 - **Navigate to SharePoint:**
-   - Go to the SharePoint homepage by clicking on the SharePoint app or through the Microsoft 365 app launcher.
+   - Go to the SharePoint homepage by clicking on the SharePoint app (2) or through the Microsoft 365 app launcher (1).
+
+      ![](/labguide/media/task3.2.1.png)
 
 ### Task 1.2: Create a New Team Site
 
 - **Initiate Team Site Creation:**
    - Click on "Create site" or find the option in the left navigation menu.
 
+      ![](/labguide/media/task3.2.2.png)
+
 - **Choose Team Site:**
    - Select "Team site" as the site type, suitable for team collaboration.
 
+      ![](/labguide/media/task3.2.3.png)
+
+- **Choose a Template**   
+   - Select "Standard team" as the template for this site.
+
+      ![](/labguide/media/task3.2.4.png)
+   
+   - Select "Use this template".
+
+      ![](/labguide/media/task3.2.5.png)
+
 - **Fill Site Information:**
-   - Provide essential details such as site name, description, and privacy settings. Click "Next" or "Finish" to create the site.
+   - Provide the site name as "Sales team". Click "Next" to proceed.
+
+      ![](/labguide/media/task3.2.6.png)
+
+   - Select the privacy setting as "Public". Click on "Create site" to create the site.
+
+      ![](/labguide/media/task3.2.7.png)
+
+   - Add members to the Sharepoint site by searching for the ODL_User <inject key="DeploymentID"></inject>, then click on "Finish".
+
+      ![](/labguide/media/task3.2.8.png)
 
 ### Task 1.3: Set Up Document Library for Monthly Reports
 
