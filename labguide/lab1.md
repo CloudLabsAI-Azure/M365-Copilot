@@ -26,7 +26,7 @@ With a deep understanding of user context, Copilot doesn't just observe; it take
 
 Copilot for Microsoft 365 is designed to transform the way employees work in the digital age, offering features such as:
 
-- **Reduction in Digital Overload:** By combining LLMs with work content and context, Copilot tackles tasks and alleviates the burden of digital overload.
+- **Reduction in Digital Overload:** By combining LLMs with work content and context, Copilot tackles tasks and alleviates the burden of digital overload
 - **Enhanced Meeting Engagement:** Assisting users in staying more engaged in meetings and providing quick catch-ups for missed meetings, ensuring continuous participation.
 - **Efficient Email Management:** Summarizing lengthy email threads and aiding in drafting responses, streamlining email communication.
 - **Writing Assistance:** Transforming writing processes by drafting, editing, summarizing, and creating alongside users, enhancing document quality and efficiency.
