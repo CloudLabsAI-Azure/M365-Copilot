@@ -111,11 +111,11 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
    ![](./media/ppt-copilot.png)
 
-1. Click **Create a presentation** and provide your preferred topic and related information to craft your presentation.
+1. Click **Create a presentation...** and provide your preferred topic and related information to draft your presentation.
 
    ![](./media/create-ppt-copilot.png)
 
-1. Alternatively, you can also choose **Create a presentation from file** and attach a Word document as a reference and craft a presentation based on it.
+1. Alternatively, you can also choose **Create a presentation from file...** and attach a Word document as a reference and craft a presentation based on it.
 
    ![](./media/ppt-from-doc.png)
 
