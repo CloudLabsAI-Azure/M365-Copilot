@@ -14,7 +14,7 @@ Here is how you can use the transformative power of Microsoft Copilot in differe
 
 ### Task 1.1: Using Copilot in Word:
 
-In Word, **Copilot for Microsoft 365** transforms the process of document creation and refinement, allowing you to produce compelling content with ease. Copilot helps drafting from scratch, enhancing existing text, and capturing the essence of lengthy articles.
+In Word, **Copilot for Microsoft 365** transforms the process of document creation and refinement, allowing you to produce compelling content with ease. Copilot helps drafting from scratch, enhancing existing text, and capturing the essence of lengthy articles. With Copilot, you can initiate a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and readily adjust both the tone and conciseness of your writing.
 
 1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide any input which you want the Copilot to execute and click on **Generate**.
 
@@ -26,7 +26,7 @@ In Word, **Copilot for Microsoft 365** transforms the process of document creati
 
 ### Task 1.2: Using Copilot in Outlook
 
-In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting you focus more on effective communication. It helps you understand long email threads, see different viewpoints, and spot unanswered questions. With Copilot, you can quickly reply using prompts or turn short notes into full emails using resources from Microsoft 365.
+In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting you focus more on effective communication. It helps you understand long email threads, see different viewpoints, and spot unanswered questions. With Copilot, you can quickly reply using prompts or turn short notes into full emails using resources from Microsoft 365. You can also easily adjust your message's tone and length.
 
 1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
 
@@ -36,7 +36,7 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 ### Task 1.3: Using Copilot in PowerPoint
 
-In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant, turning your concepts into impactful slides. With Copilot, you can effortlessly convert written documents into presentation decks, complete with speaker notes and references.
+In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant, turning your concepts into impactful slides. With Copilot, you can effortlessly convert written documents into presentation decks, complete with speaker notes and references. Beyond creation, it also offers tools to streamline long presentations and uses intuitive commands to refine layouts, adjust text formatting, and synchronize animations.
 
 1. Open your **PowerPoint** and select **Copilot** on top of the screen.
 
