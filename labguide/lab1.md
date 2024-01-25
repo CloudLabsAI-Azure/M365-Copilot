@@ -4,7 +4,7 @@
 
 At its core, Copilot for Microsoft 365 isn't merely a feature but an intelligent partner that seamlessly integrates into your daily Microsoft 365 interactions. Whether you're using Outlook, PowerPoint, Word, Excel, Teams, or other applications, Copilot aims to enhance your efficiency by generating content, providing relevant suggestions, and optimizing your processes.
 
-Microsoft Copilot for Microsoft 365 operates through a sophisticated architecture and prompt flow, ensuring that user inputs are not only understood but also generate tailored and contextually relevant responses. In this section, we'll explore the step-by-step process that Copilot follows, from user prompt to the final response.
+Microsoft Copilot for Microsoft 365 operates through a sophisticated architecture and prompt flow, ensuring that user inputs are not only understood but also generate tailored and contextually relevant responses. In this section, we'll explore the step-by-step process that Copilot follows, from the user prompt to the final response.
 
 ## Copilot's Understanding of Context and User Needs
 
@@ -19,7 +19,7 @@ Copilot's effectiveness lies in its unparalleled ability to understand users, ac
 With a deep understanding of user context, Copilot doesn't just observe; it takes action:
 
 - **Search and Retrieval:** Leveraging powerful search capabilities to identify valuable data and content sources for assistance.
-- **Natural Phrasing with Large Language Models:** Harnessing Large Language Models (LLMs) to craft naturally-phrased recommendations aligned with the user's unique situation.
+- **Natural Phrasing with Large Language Models:** Harnessing Large Language Models (LLMs) to craft naturally phrased recommendations aligned with the user's unique situation.
 - **Refining Recommendations:** Focusing on quality over quantity, Copilot evaluates and refines suggestions to ensure contextually relevant and specific results.
 
 ## Features and Transformations by Copilot
