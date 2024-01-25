@@ -1,6 +1,6 @@
-# Preparing for M365 Copilot Deployment
+# Exercise 3: Preparing for M365 Copilot Deployment
 
-## Organizing SharePoint Teams and Files
+## Task 1: Organizing SharePoint Teams and Files
 
 Facilitate the creation of a robust and collaborative workspace on SharePoint for a team project. This step-by-step guide aims to empower users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members.
 
