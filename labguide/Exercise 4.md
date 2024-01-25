@@ -47,23 +47,23 @@ To use **Copilot in Word**, follow the below steps:
 
 1. You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
 
-Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
+    Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
 
-```
-What are the key points in this doc?
-```
-```
-Summarize this document.
-```
-```
-Is there a call to action?
-```
+    ```
+    What are the key points in this doc?
+    ```
+    ```
+    Summarize this document.
+    ```
+    ```
+    Is there a call to action?
+    ```
 
 ### Task 1.2: Using Copilot in Outlook
 
 In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting you focus more on effective communication. It helps you understand long email threads, see different viewpoints, and spot unanswered questions. With Copilot, you can quickly reply using prompts or turn short notes into full emails using resources from Microsoft 365. You can also easily adjust your message's tone and length.
 
-#### **Summarizating email threads in Outlook**:
+#### **Summarizating email threads in Outlook:**
 
 **Copilot in Outlook** introduces the "Thread Summarize" feature, designed to simplify your email management. With this feature, Outlook either offers concise bullet points or generates an entire summary of the chosen email thread, displayed above the thread in the reading pane. This design makes it easier to grasp the main points of extended email conversations. Additionally, the summary includes links to specific responses, allowing for quick access to different parts of the thread.
 
@@ -71,7 +71,7 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 **Copilot in Outlook** also introduces the draft email feature, which helps you draft emails faster. This feature uses natural language processing to help you write emails by offering suggestions based on the context of your message. Copilot in Outlook can also help you write emails from scratch, using the information you provide. For example, you can start a new email by providing a topic and a few bullet points. Copilot in Outlook then uses this information to draft a full email for you.
 
-To use Copilot in Outlook, follow the below steps:
+To use **Copilot in Outlook**, follow the below steps:
 
 1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
 
@@ -91,7 +91,7 @@ In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant
 
 Copilot in PowerPoint simplifies the transformation of existing files, streamlining the conversion of your documents into vivid visual presentations effortlessly. With this capability, you can easily transform a Word document into a structured PowerPoint presentation, ensuring your content gets the visual representation it deserves. This process not only streamlines your workflow but also brings a new dimension to your written content.
 
-To use Copilot in PowerPoint, follow the below steps:
+To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Open your **PowerPoint** and select **Copilot** on top of the screen.
 
@@ -99,17 +99,17 @@ To use Copilot in PowerPoint, follow the below steps:
 
 1. Alternatively, you can also choose **Create a presentation from file** and attach a Word document as a reference and craft a presentation based on it.
 
-Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
+    Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
 
-```
-Create a presentation on outdoor activities. Include sections on Hiking, Camping, Water Sports, and Biking
-```
-```
-Add a slide about ______(Your preferred topic).
-```
-```
-Add an image of a lakeside campfire.
-```
+    ```
+    Create a presentation on outdoor activities. Include sections on Hiking, Camping, Water Sports, and Biking
+    ```
+    ```
+    Add a slide about ______(Your preferred topic).
+    ```
+    ```
+    Add an image of a lakeside campfire.
+    ```
 
 ### Task 1.4: Using Copilot in Excel
 
@@ -125,26 +125,26 @@ Beyond standard data analysis, Copilot crafts a coherent narrative from the patt
 
 With **Copilot in Excel**, taking control of your data visualization and management is straightforward and intuitive. Copilot empowers you to not only clean and organize your data but also to enhance it through various stylistic and structural modifications. From applying styles, fonts, and colors to extending your data’s capabilities through pivot tables and graphs, Copilot helps in every step. Easily command Copilot to create new columns, define conditions for data representation, and formulate graphs for a comprehensive view.
 
-To use Copilot in PowerPoint, follow the below steps:
+To use **Copilot in Excel**, follow the below steps:
 
 1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
 
 1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data, analysing the data and clicking on the **Send** icon.
 
-Here are some of the prompts you can take help of to explore more on Copilot in Excel:
+    Here are some of the prompts you can take help of to explore more on Copilot in Excel:
 
-```
-Analyze this quarter's business results and summarize three key trends.
-```
-```
-Sort data by launch date.
-```
-```
-Change the table style to light gray,
-```
-```
-Create a pivot table where the row is category, the column is supplier, and the values represent the sum of the minimum reorder quantity.
-```
+    ```
+    Analyze this quarter's business results and summarize three key trends.
+    ```
+    ```
+    Sort data by launch date.
+    ```
+    ```
+    Change the table style to light gray,
+    ```
+    ```
+    Create a pivot table where the row is category, the column is supplier, and the values represent the sum of the minimum reorder quantity.
+    ```
 
 ### Task 1.5: Using Copilot in Teams
 
@@ -160,7 +160,7 @@ In chat threads, **Copilot in Teams** can help users get up to speed on conversa
 
 Copilot aids you in steering the conversation forward with confidence, suggesting questions that you can pose to the group, helping to facilitate a richer and more inclusive discussion. Its goal is to help summarize the key discussions and identify the next actionable steps. Doing so helps ensure that all meeting attendants are on the same page with the agreed-upon tasks.
 
-To use Copilot in PowerPoint, follow the below steps:
+To use **Copilot in Teams**, follow the below steps:
 
 1. Open **Teams** and go to any chat. You will find the **Copilot** icon on the bottom of the chatbox which will help you to rewrite a message or even select its tone and length.
 
