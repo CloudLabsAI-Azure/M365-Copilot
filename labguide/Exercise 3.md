@@ -60,12 +60,11 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 
 ### Task 1.3: Set Up Document Library for Monthly Reports
 
-- **Access Site Contents:**
-   - Navigate to the left menu and click on **Site Contents** or **Documents**.
+- **Create Document Library**
+   - Navigate to the left menu and click on **Site contents** then click on **+ New** and select **Document Library**.
 
-- **Create Document Library:**
-   - Click on **+ New** and select **Document Library**.
-
+      ![](/labguide/media/task3.3.1.png)
+      
 - **Name the Document Library:**
    - Give the library a name, e.g., **Reports**, and click on **Create**.
 
