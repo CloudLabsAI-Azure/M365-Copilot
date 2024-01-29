@@ -98,3 +98,5 @@ Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, an
 All admin setting updates may take up to 24 hours to reflect any changes.
 
 
+### Task 3: Enable Plugins
+
