@@ -29,7 +29,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
 
 
-1. To assign, click on **Assign licenses** at the top, check the box for "Microsoft 365 Copilot", and click **Assign**.
+1. To assign, click on **Assign licenses** at the top, check the box for **Microsoft 365 Copilot", and click **Assign**.
 
 
 1. Save changes - All license changes are saved automatically after you make an assignment change.
@@ -62,6 +62,9 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
 
 
 1. Go to **Settings** > **Org settings**.
+
+
+1. Scroll down and click **Microsoft 365 Copilot**.
 
 
 1. 
