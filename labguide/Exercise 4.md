@@ -252,4 +252,46 @@ By incorporating Copilot's intelligence into the collaboration flow via chat in 
 
 To use **M365 Chat**, follow the below steps:
 
+1. Navigate to the [Microsoft 365](https://www.office.com/login?), click on **Outlook** icon to open Outlook web application.
+
+   ![](../labguide/media/M1.png)
+
+
+1. Compose a **New email** to yourself or another person.
+
+   ![](../labguide/media/M2.png)
+
+   - **To:** <inject key="AzureAdUserEmail"></inject>
+
+   - **Subject:** Bringing the joy and community of gaming to everyone
+
+   - On the **textbox** field, click on the **Insert** icon on the top bar and navigate to the **.........**, select, and open it.
+
+     ![](../labguide/media/M3.png)
+
+   - Click on **Send** it.
+
+     ![](../labguide/media/M4.png)
+
+
+1. Navigate back to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
+
+   ![](../labguide/media/M5.png)
+
+1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
+
+1. Ask Copilot - **Can you provide me with the summary of the last email?**.
+
+   ![](../labguide/media/M6.png)
+
+1. This will look like the following:
+
+   ![](../labguide/media/M7.png)
+
+
+
+
+
+
+
 
