@@ -2,10 +2,9 @@
 
 You can assign or remove Microsoft 365 Copilot licenses for users in your tenant through the Microsoft 365 Admin Center.
 
-
 ## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center
 
-### Task 1.1: Assign a Copilot license to user
+### Task 1.1: Assign a Copilot licenses to user
 
 Follow these steps to assign a Copilot license for an existing user from the admin center:
 
@@ -32,7 +31,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
  All license changes are saved automatically after you make an assignment change.
 
-### Task 1.2: Remove a Copilot license
+### Task 1.2: Remove a Copilot licenses
 
 To remove an already assigned Copilot license:
 
@@ -40,9 +39,11 @@ To remove an already assigned Copilot license:
 
     ![](../labguide/media/M10.png)
 
-1. Uncheck the **Microsoft Copilot for Microsoft 365** below the licences.
+1. Uncheck the **Microsoft Copilot for Microsoft 365** below the licenses.
 
     ![](../labguide/media/M12.png)
+
+    >**Note:** 
 
 1. Changes apply automatically after saving.
 
