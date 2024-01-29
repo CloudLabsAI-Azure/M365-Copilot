@@ -2,7 +2,7 @@
 
 ## Task 1: Organizing SharePoint Teams and Files
 
-Facilitate the creation of a robust and collaborative workspace on SharePoint for a team project. This step-by-step guide aims to empower users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. We will be using M365 Chat to analyze the details that would be present in a Sharepoint team site.
+In this task we will facilitate the creation of a robust and collaborative workspace on SharePoint for a team project. This step-by-step guide aims to empower users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. We will be using M365 Chat to analyze the details that would be present in a Sharepoint team site.
 
 ### Task 1.1: Access SharePoint
 
@@ -126,6 +126,152 @@ Facilitate the creation of a robust and collaborative workspace on SharePoint fo
 
 
 ## Task 2: Implementing Sensitivity Labels with Purview 
+
+Sensitivity labels are a way of categorizing and protecting your data based on its level of confidentiality and the impact to your business if it is leaked or misused. You can use sensitivity labels to apply metadata tags and encryption settings to your data sources, columns, tables, and files. Purview is a service that helps you manage and govern your data across your organization.
+
+In this task, you will learn how to use Purview to implement sensitivity labels for your data assets.
+
+### Task 2.1: Create sensitivity labels in Microsoft Purview
+
+- Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) portal and from the left menu select labels (1) and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select Turn on now (2). Once you do this, there can be a delay for the setting to propagate through the system.
+
+   ![](/labguide/media/exercise3(2.1).png)
+
+- On Labels (1) page, select + Create a label (2).
+
+   ![](/labguide/media/exercise3(2.2).png)
+
+- Provide a name and description for your label. Select **Next (4)** at the bottom of the page.
+
+    | Setting | Action |
+    | -- | -- |
+    | **Name** | Enter **Confidential-Finance (1)** |
+    | **Display name** | Enter **Confidential-Finance (2)** |
+    | **Description for users** | Enter **Confidential-Finance Demo (3)** | 
+
+   ![](/labguide/media/exercise3(2.3).png)
+
+- Note the scope for this label. The scope is set to Items. Read the description but don’t change anything. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.4).png)
+
+- On the Choose protection settings for labeled items select the Apply or remove encryption (1) and Apply content marking (2), then select Next (3).
+
+   ![](/labguide/media/exercise3(2.5).png)   
+
+- The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire. You can also assign permissions to specific users and groups By clicking on the Assign permissions (1). On the Assign permissions blade, click on + Add users or groups (2).
+
+   ![](/labguide/media/exercise3(2.6).png)
+
+-  On the **Add users or groups** window, select the user name **ODL_User <inject key="DeploymentID" enableCopy="false"/> (1)** and click on **Add (2)**.
+
+   ![](/labguide/media/exercise3(2.7).png)
+
+- You will be redirected to the Assign Permission page. Verify that the (1) is selected and click on Save (2).
+
+   ![](/labguide/media/exercise3(2.8).png)
+
+   >**Note:** Only selected users can interact with content that has this label applied. Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.
+
+- Click Next on Encryption window.
+
+   ![](/labguide/media/exercise3(2.9).png)
+
+- On the content markings page, take note of the information box at the top of the page. Turn on the Content Making (1) and select the check box for Add a watermark (2), Add a header (3) and Add a footer (4).
+
+   ![](/labguide/media/exercise3(2.10).png)
+
+- Under Add a watermark, click on Customize text (1). Under Watermark text, type Confidential watermark text (2) and click on Save (3).
+
+   ![](/labguide/media/exercise3(2.11).png)
+
+- Under Add a header, click on Customize text (1). Under Header text, type Confidential Document (2) and click on Save (3).
+
+   ![](/labguide/media/exercise3(2.12).png)
+
+- Under Add a footer, click on Customize text (1). Under Footer text, type Confidential Document (2) and click on Save (3).
+
+   ![](/labguide/media/exercise3(2.13).png)
+
+   >**Note**: Content markings will be applied to documents but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.
+
+- The content marking associated with this label is a watermark. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.14).png)
+
+- You are now in the Auto-labeling for files and emails window. Turn on the Auto-labeling for files and emails (1) and Read the description of auto-labelling on the top of the page and the information box below it and under Detect content that matches these conditions click on + Add condition (2) from the drop-down select Content contains (3) then under Group name select Add (4) drop-down, select Sensitive info type and in Sensitive info type (5) window search for Credit (6) and select the Credit card number (7), select Add (8) from the button, select Next (9) on the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.15).png)
+   ![](/labguide/media/exercise3(2.16).png)
+   ![](/labguide/media/exercise3(2.17).png)
+   ![](/labguide/media/exercise3(2.18).png)
+
+- This next window defines protection settings for groups and sites that have this label applied. If this is not enabled, select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.19).png)
+
+- Review the settings and click on Create label.
+
+   ![](/labguide/media/exercise3(2.20).png)
+
+### Task 2.2: Publish sensitivity label
+
+The task aims to provide a streamlined method for publishing sensitivity labels to users. Users are guided through a series of steps within Microsoft Purview, specifically under Label policies. The objective is to make the selected labels, such as Confidential-Finance and Highly-Confidential, available to all users, ensuring consistent and standardized data protection measures.
+
+- In the Microsoft Purview. portal, under Solutions, expand Information protection and in the drop-down select Label policies (1) and click on Publish label (2).
+
+   ![](/labguide/media/exercise3(2.21).png)
+
+- Select Choose sensitivity labels to publish (1). A window opens that provides information about the policy. Select Confidential-Finance (2) from the label and select Add (3).
+
+   ![](/labguide/media/exercise3(2.22).png)
+
+- Back on Choose sensitivity labels to publish blade, click on Next.
+
+   ![](/labguide/media/exercise3(2.23).png)
+
+- Click on Next on the Assign Admin Units page.
+
+   ![](/labguide/media/exercise3(2.24).png)
+
+- Read the description under Publish to users and groups. Notice that this label is available to all users. Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.25).png)
+
+- Under the policy settings. Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.26).png)
+
+- Under the Apply a Default label to documents. Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.27).png)
+
+- Under the Apply a Default label to emails.Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.28).png)
+
+- Under the Apply a default label to meetings and calendar events. Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.29).png)
+
+- Under the Apply a default label to Fabric and Power BI content. Don’t change any settings. Select Next at the bottom of the page.
+
+   ![](/labguide/media/exercise3(2.30).png)
+
+- The last configuration option is to name your policy. Enter the policy name as Confidential-Policy (1). Select Next (2) on the bottom of the page to exit the policy configuration and return to the Information Protection page.
+
+   ![](/labguide/media/exercise3(2.31).png)
+
+- Review the settings and click on Submit and then select Done.
+
+   ![](/labguide/media/exercise3(2.32).png)
+   ![](/labguide/media/exercise3(2.33).png)
+
+- Back to Label policies blade and notice the newly published label.
+
+   ![](/labguide/media/exercise3(2.34).png)
+
+
 
 ## Task 3: Understand Semantic Index (Read Only)
 
