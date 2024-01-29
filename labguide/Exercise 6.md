@@ -15,7 +15,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
     ![](../labguide/media/M8.png)
 
-1.  In the Active Users page, search or find the user you want to manage Copilot license. Click on their name.
+1.  In the Active users page, search or find the user you want to manage Copilot license. Click on **<inject key="AzureAdUserEmail"></inject>**.
 
     ![](../labguide/media/M9.png)
 
@@ -23,7 +23,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
     ![](../labguide/media/M10.png)
 
-1. To assign, expand the **Licenses** section, select the boxes for the licenses that you want to assign, then select **Save changes**.
+1. To assign, expand the **Licenses (1)** section, select the boxes for the licenses that you want to assign, then select **Save changes (3)**.
 
    >**Note:** In this case, we have already assigned the licences to the account.
 
@@ -39,11 +39,11 @@ To remove an already assigned Copilot license:
 
     ![](../labguide/media/M10.png)
 
-1. Uncheck the **Microsoft Copilot for Microsoft 365** below the licenses.
+1. Uncheck the **Microsoft Copilot for Microsoft 365** under the licenses section.
 
-    ![](../labguide/media/M12.png)
+    ![](../labguide/media/M18.png)
 
-    >**Note:** 
+    >**Note:** In this case, you don't need to remove the licenses.
 
 1. Changes apply automatically after saving.
 
@@ -71,5 +71,30 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
 1. If you want to **Turn apps and services on or off**, uncheck any of the apps and services and click **Save**.
  
    ![](../labguide/media/M17.png)
+
+
+### Task 2: Public web content access
+
+Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app has a feature that allows Copilot to reference web content when responding to user prompts. Allowing Copilot for Microsoft 365 to reference web content enhances the end user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
+
+1. In the Microsoft 365 admin center, go to **Settings (1)** > **Search & intelligence (2)**.
+
+    ![](../labguide/media/M19.png)
+
+1. On the **Configurations** page, select **Improved responses with web content in Copilot for Microsoft 365**.
+
+    ![](../labguide/media/M20.png)
+
+1. Select **Change**.
+
+1. Uncheck the checkbox for **Allow Copilot to reference web content**.
+
+    ![](../labguide/media/m21.png)
+
+    >**Note:** In this case, you don't need to uncheck this option.
+
+1. Select **Save**.
+
+All admin setting updates may take up to 24 hours to reflect any changes.
 
 
