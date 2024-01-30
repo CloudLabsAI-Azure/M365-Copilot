@@ -4,22 +4,21 @@ You can assign or remove Microsoft 365 Copilot licenses for users in your tenant
 
 ## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center
 
-### Task 1.1: Assign a Copilot licenses to user
+### Task 1.1: Assign Copilot licenses to the user
 
 Follow these steps to assign a Copilot license for an existing user from the admin center:
 
 1. Go to [Microsoft 365 Admin Center](admin.microsoft.com) and sign in with your admin credentials.
 
-
 1. From the left side navigation pane, click on **Users (1)** and then choose **Active users (2)**.
 
     ![](../labguide/media/M8.png)
 
-1.  In the Active users page, search or find the user you want to manage Copilot license. Click on **<inject key="AzureAdUserEmail"></inject>**.
+1.  In the Active Users page, search or find the user you want to manage the Copilot license. Click on **<inject key="AzureAdUserEmail"></inject>**.
 
     ![](../labguide/media/M9.png)
 
-1. In the user's profile page, on the right side click on **Licenses and apps** to go to their licenses details.
+1. On the user's profile page, on the right side click on **Licenses and apps** to go to their license details.
 
     ![](../labguide/media/M10.png)
 
@@ -35,7 +34,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
 To remove an already assigned Copilot license:
 
-1. Follow steps above to open the user's **Licenses and apps**.
+1. Follow the steps above to open the user's **Licenses and apps**.
 
     ![](../labguide/media/M10.png)
 
@@ -53,10 +52,9 @@ Now the user's Copilot license assignment status will be updated.
 
 Microsoft 365 Copilot comes with different services that can be enabled or disabled as per your preferences. This can be configured from the Microsoft 365 Admin Center.
 
-1. Login to [Microsoft 365 Admin Center](admin.microsoft.com).
+1. log in to [Microsoft 365 Admin Center](admin.microsoft.com).
 
-
-1. Go to **Billing (1)** > **Licences (2)**.
+1. Go to **Billing (1)** > **Licenses (2)**.
 
     ![](../labguide/media/M14.png)
 
@@ -72,10 +70,9 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
  
    ![](../labguide/media/M17.png)
 
-
 ### Task 2: Public web content access
 
-Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app has a feature that allows Copilot to reference web content when responding to user prompts. Allowing Copilot for Microsoft 365 to reference web content enhances the end user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
+Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app have a feature that allows Copilot to reference web content when responding to user prompts. Allowing Copilot for Microsoft 365 to reference web content enhances the end-user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
 
 1. In the Microsoft 365 admin center, go to **Settings (1)** > **Search & intelligence (2)**.
 
