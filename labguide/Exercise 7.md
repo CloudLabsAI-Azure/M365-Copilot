@@ -50,6 +50,70 @@ Before deploying Copilot, it is essential to prepare your data to maximize its e
 
 - **Training and awareness:** Provide training and awareness sessions to users and administrators about the importance of data classification and how to effectively use Copilot. This approach will facilitate a smooth transition and increase user adoption. In addition, utilize organizational change management strategies to champion the process and educate the workforce on how data classification and sanitization can expedite Copilot’s ingestion of the data.
 
+### Task 2.1: Using the Microsoft data classification dashboard
+
+The **data classification page** provides visibility into that body of content, specifically:
+
+- the number items that have been classified as a sensitive information type and what those classifications are
+
+- the top applied sensitivity labels in both Microsoft 365 and Azure Information Protection
+
+- the top applied retention labels
+
+- a summary of activities that users are taking on your sensitive content
+
+- the locations of your sensitive and retained data
+
+Follow the given steps to access the **Microsoft data classification dashboard**:
+
+1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+
+1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Overview**.
+
+1. Data classification will scan your sensitive content and labeled content before you create any policies. This is called **zero change management**. This lets you see the impact that all the retention and sensitivity labels are having in your environment and empower you to start assessing your protection and governance policy needs.
+
+1. The **Top sensitive information type** card shows the top sensitive information types that have been found and labeled across your organization.
+
+1. To find out how many items are in any given classification category, hover over the bar for the category.
+
+    >**Note:** If the card displays the message "**No data found with sensitive information**", it means that there are no items in your organization that have been classified as being a sensitive information type or no items that have been crawled.
+
+1. The **Top sensitivity labels applied to content** card shows the number of items (email or document) by sensitivity level.
+
+    >**Note:** If you haven't created or published any sensitivity labels or no content has had a sensitivity label applied, this card will display the message **"No sensitivity labels detected"**.
+
+1. The **Top retention labels applied to content** card shows you how many items have a given retention label. Retention labels are used to manage the retention and disposition of content in your organization. When applied, they can be used to control how long an item will be kept before deletion, whether it should be reviewed prior to deletion, when its retention period expires, and whether it should be marked as a record.
+
+    >**Note:** If this card displays the message,**"No retention labels detected"**, it means you haven't created or published any retention labels or no content has had a retention label applied.
+
+1. The **Top activities detected** card provides a quick summary of the most common actions that users are taking on the sensitivity labeled items.
+
+    >**Note:** If this card displays the message, **"No activity detected"** it means that there's been no activity on the files or that user and admin auditing isn't turned on.
+
+1. The **Sensitivity and retention labeled data by location** cards provide visibility into the number of items that have which label as well as their location.
+
+    >**Note:** If this card displays the message, **"No locations detected"**, it means you haven't created or published any sensitivity labels or no content has had a retention label applied.
+
+### Task 2.2: Using Content Explorer for Data Classification
+
+**Content explorer** allows you to natively view the items that were summarized on the **Overview** page. It shows a current snapshot of the items that have a sensitivity label, a retention label or have been classified as a sensitive information type in your organization.
+
+Follow the given steps to use the content explorer for data classification:
+
+1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+
+1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Content explorer**.
+
+1. If you know the name of the label, or the sensitive information type, you can type that into the filter box.
+
+1. Alternately, you can browse for the item by expanding the label type and selecting the label from the list.
+
+1. Select a location under **All locations** and drill down the folder structure to the item and double-click to open the item natively in content explorer.
+
+1. To create a .csv file that contains a listing of whatever the focus of the pane is, select **export**.
+
+>**Note:** It can take up to **seven days** for counts to be updated in content explorer.
+
 ## Task 3: Using Customer Keys in Microsoft 365 Copilot
 
 A **Customer Key** provides extra protection against viewing of data by unauthorized systems or personnel, and complements BitLocker disk encryption and SSE in Microsoft data centers. It helps you meet regulatory or compliance obligations for controlling root keys. You explicitly authorize Microsoft 365 services to use your encryption keys to provide value added cloud services, such as eDiscovery, anti-malware, anti-spam, search indexing, and so on.
@@ -118,6 +182,60 @@ The following information is displayed for each item on the **Pending** tab for 
 - **Sender column:** Sender of the message. If the policy match is a response from Copilot, the value is "Copilot".
 - **Recipient column:** Recipients included in the message. If the policy match is a prompt to Copilot, the value is "Copilot".
 - **Message text:** The message text that the user entered (the text that caused the policy match) is shown on the right side of the screen in its entirety.
+
+### Using Communication Compliance in Microsoft 365 Copilot
+
+To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
+
+1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+
+1. In the left navigation pane of the compliance portal, select **Communication compliance**. You will land on the **Overview** page of the **Communication compliance** portal.
+
+    ![](./media/communication-compliance-overview.png)
+
+1. Select the **Policies** tab and select **Create policy** to create and configure a new policy from a template or to create and configure a custom policy.
+
+    ![](./media/communication-compliance-createpolicy.png)
+
+1. To use communication compliance on Microsoft 365 Copilot, choose **Detect Copilot for Microsoft 365 interactions**, and a flyout page containing the required details will appear.
+
+    ![](./media/communication-compliance-copilot.png)
+
+1. You can see the name of the policy in the **Policy name** section, which is already populated. Here you can configure the following settings:
+
+    ![](./media/compliance-policy-config.png)
+    
+    - **Users or groups in scope:** Choose the users or groups to apply the policy to, including the users or groups you'd like to exclude. When using the conflict of interest template, you'll select two groups or two users to detect internal communications. You can select **All users** here.
+
+    - **Reviewers:** Reviewers added here are the reviewers that you can choose from when escalating an alert in the investigation and remediation workflow. When reviewers are added to a policy, they automatically receive an email message that notifies them of the assignment to the policy and provides links to information about the review process. You can select your own user here.
+
+    - **Sensitive data to collect:** This step is where you can select default and custom sensitive info types. Pick from existing custom sensitive information types or custom keyword dictionaries in the communication compliance policy wizard. You can create these items before running the wizard if needed. You can also create new sensitive information types from within the communication compliance policy wizard.
+
+        Select **Add trainable classifiers** to choose classifiers which can detect potentially inappropriate language and images sent or received in the body of email messages or other types of text. You can also select all the classifiers as per your choice and click **Add**.
+
+        ![](./media/policy-trainable-classifiers.png)
+
+1. Select **Create policy**.
+
+1. Within sometime, your policy will be created and select **Close** to close the flyout page.
+
+    ![](./media/compliance-policy-created.png)
+
+    >**Note:** It might take upto 1 hour to activate your policy.
+
+1. To test the proper functioning of your policy, select the **More actions** icon on your recently created policy and select **Test policy conditions**.
+
+    ![](./media/compliance-policy-test.png)
+
+1. In the flyout page:
+
+    ![](./media/compliance-policy-tested.png)
+
+    - Select the **Enter messages to test** option, and then enter some messages that you expect would be detected by the policy. Separate messages with a comma.
+
+    - If you have a .txt file that includes a list of messages to detect, select **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
+
+1. Select **Test** to see a list of test results.
 
 ## Task 5: Auditing in Microsoft 365 Copilot
 
@@ -539,4 +657,29 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
 1. In the left navigation pane of the compliance portal, select **Data lifecycle management** and then, **Microsoft 365**.
 
-1. Under **Retentionpolicies** tab, select **New retention policy**
+1. Under **Retentionpolicies** tab, select **New retention policy** to start creating a new retention policy.
+
+1. Provide the name and description of your retention policy in the appropriate boxes, and select **Next**.
+
+1. On the **Administrative Units** page, click **Next** by keeping the default of **Full directory**.
+
+1. For the **Choose the type of retention policy to create** page, select **Static** and then, **Next** to select the locations (**Microsoft 365 Copilot**) manually, for which you want the retention policy to be applied.
+
+    Deselect all the locations and select **Teams chats and Copilot interactions** ONLY to apply the policy on **Copilot for Microsoft 365**, and its all user prompts to Copilot and all Copilot responses. Select **Next**.
+
+    >**Note:** By default, all teams and all users are selected, but you can refine this by selecting the **Choose** and **Exclude** options.
+
+1. For **Decide if you want to retain content, delete it, or both** page, specify the configuration options for retaining and deleting content. You can also provide your custom period by choosing **Custom** from the drop-down menu and specifying the period after that.
+
+    You can create a retention policy that just retains content without deleting, retains and then deletes after a specified period of time, or just deletes content after a specified period of time. Select **Next**.
+
+1. On the **Review and Finish** page, review your settings and select **Submit**. Select **Done** when required.
+
+1. Select your recently created policy to see it in details and also check its status.
+
+    >**Note:** When you create and submit a retention policy, it can take up to seven days for the retention policy to be applied.
+
+    ![](./media/retention-policy-timings.png)
+
+If a user leaves your organization and their **Microsoft 365 account** is deleted, their **Copilot** messages that are subject to retention are stored in an inactive mailbox. The Copilot messages remain subject to any retention policy that was placed on the user before their mailbox was made inactive, and the contents are available to an **eDiscovery search**.
+
