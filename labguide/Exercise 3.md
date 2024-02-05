@@ -122,8 +122,7 @@ In this task we will facilitate the creation of a robust and collaborative works
 
       ![](/labguide/media/task3.5.3.png)
 
-**Congratulations!** You've successfully organized a SharePoint team site, created a document library for monthly reports, uploaded documents, shared the site with team members, and optionally explored version history.
-
+**Congratulations!** we navigated the process of preparing for M365 Copilot deployment by organizing SharePoint Teams and Files. We initiated the creation of a collaborative workspace on SharePoint, establishing a Team Site for the Sales team and configuring a Document Library for monthly reports. Utilizing M365 Copilot, we seamlessly generated mock data for an Excel workbook. Finally, we demonstrated the power of M365 Copilot by analyzing the data within the Excel workbook. By engaging with Copilot through the chat interface, we requested a summary of the data, showcasing how Copilot can assist in data analysis tasks. 
 
 ## Task 2: Implementing Sensitivity Labels with Purview 
 
