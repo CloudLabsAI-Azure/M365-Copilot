@@ -64,7 +64,7 @@ As with other Microsoft 365 services, such as eDiscovery and search, items encry
 
 Customer Key uses various encryption ciphers to encrypt keys as shown in the following figure:
 
-
+![](./media/customer-key-encryption.png)
 
 ## Task 4: Communication Compliance in Microsoft 365 Copilot
 
@@ -109,6 +109,8 @@ The following **Copilot apps** are supported by communication compliance:
 
 Any prompt or response entered into a supported Copilot app that matches a communication compliance policy is displayed as a policy match on the Policies page on the Pending tab, with separate entries for prompts and responses. If only the prompt or only the response matches a policy, an item is created on the Pending tab just for that policy match. You can remediate policy matches for Copilot in the same way that you remediate any other policy match.
 
+![](./media/communication-compliance.png)
+
 The following information is displayed for each item on the **Pending** tab for Copilot policy matches:
 
 - **Copilot icon:** The Copilot icon identifies the policy match as a Copilot interaction.
@@ -133,13 +135,21 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 
 1. Select **Start recording user and admin activity** to configure the Audit logging activities, and grant confirmation, if required.
 
+    ![](./media/audit-page.png)
+
 1. On the **Audit** page, configure the search using the following conditions on the **New Search** tab.
 
     - **Date and time range:** Select a date and time range to display the activities that occurred within that period. The date and time are presented in Coordinated Universal Time (UTC). The last seven days are selected by default.
+    
+        ![](./media/audit-page-2.png)
 
     - **Activities:** Select the activities to search for. Use the search box to search for activities to add to the list. Leave this box blank to return entries for all audited activities. To search for **Copilot events**, select **Copilot activities** and **Interacted with Copilot**.
 
+        ![](./media/audit-activity-names.png)
+
         You can also select Copilot as a workload.
+
+        ![](./media/audit-workload.png)
 
     - **Users:** Select this box and start typing the name of users to display search results for. The audit log entries for the selected activities performed by the users you select in this box are displayed in the list of results. Leave this box blank to return entries for all users (and service accounts) in your organization.
 
@@ -147,11 +157,17 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 
 1. The audit log search starts running. When the search is completed, audit records are displayed on the page. Select a record to display a flyout page with detailed properties.
 
-1. The following screen gets displayed showing all the record entries of the required type.
+    ![](./media/audit-search.png)
+
+1. The screen gets displayed showing all the record entries of the required type.
 
 1. Click on any entry to see it in more details.
 
+    ![](./media/audit-page.png)
+
 1. If you want to download the results as a report to your local system, select **Export** on the top of the Audit search results page and choose **Downloads file**.
+
+    ![](./media/audit-search-export.png)
 
 ## Task 6: Using Content Search in Microsoft 365 Copilot
 
@@ -169,9 +185,15 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
 
 1. On the **Content search** page, select **New search**.
 
+    ![](./media/content-search-page.png)
+
 1. On the **Name and description** page, enter a name for the search, an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
 
+    ![](./media/content-search-name.png)
+
 1. On the **Locations** page, choose the content locations that you want to search. You can search mailboxes, sites, and public folders. Select **Next**.
+
+    ![](./media/content-search-locations.png)
 
     - **Exchange mailboxes:** Set the toggle to **On**. The option to search all Exchange mailboxes is automatically selected. If needed, select **Choose users, groups, or teams** to specify the mailboxes to search. Use the search box to find user mailboxes and distribution groups. You can also search the mailbox associated with a Microsoft Team (for channel messages), Microsoft 365 Group, and Viva Engage Group. All Microsoft Copilot for Microsoft 365 activity data (user prompts and Copilot responses) generated in supported Microsoft 365 apps and services is stored in custodian mailboxes.
 
@@ -190,14 +212,22 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
     - You can add search conditions by selecting **Add condition** to narrow a search and return a more refined set of results. Each condition adds a clause to the search query that is created and run when you start the search. A condition is logically connected to the keyword query (specified in the keyword box) by a logical operator (c:c) that is similar in functionality to the AND operator. That means that items have to satisfy both the keyword query and one or more conditions to be included in the results. This is how conditions help to narrow your results.
 
     For **content search**, because user prompts to **Copilot** and responses from **Copilot** are stored in a user's mailbox, they can be searched and retrieved when the user's mailbox is selected as the source for a search query. Select and retrieve this data from the source mailbox by selecting **Add condition > Type > Copilot interactions**.
+
+    ![](./media/content-search-conditions.png)
     
     Select **Next**.
 
 1. Review the search settings, and then select **Submit** to start the search.
 
+    ![](./media/content-search-review.png)
+
 1. After some time, your Content search will be created. Click on **Done** and return to the **Content search** page.
 
+    ![](./media/content-search-created.png)
+
 1. Select the newly created content search to see more details about it.
+
+    ![](./media/content-search-details.png)
 
 ### Task 6.2: Exporting the report
 
@@ -206,6 +236,8 @@ After a **Content search** is successfully run, you can export the search report
 Follow the given steps to download the content search report of your recently generated content search:
 
 1. On the **Actions** menu at the bottom of the search flyout page of your Content search, select **Export report**.
+
+    ![](./media/content-search-export-report.png)
 
 1. Under **Output** options, choose one of the following options:
 
@@ -217,11 +249,17 @@ Follow the given steps to download the content search report of your recently ge
 
     Select **Option 2** to include all the items.
 
+    ![](./media/content-search-report-options.png)
+
 1. Select **Generate report**.
 
     The search reports are prepared for downloading, which means the report documents are uploaded to an Azure Storage location in the Microsoft cloud. This may take several minutes.
 
+    ![](./media/content-search-generate-report.png)
+
 1. Click **Ok** when prompted.
+
+    ![](./media/content-search-report-ok.png)
 
 ### Task 6.3: Downloading the report
 
@@ -229,15 +267,25 @@ Now, you need to download the report from the Azure Storage area to your local c
 
 1. On the **Content search** page in the compliance portal, select the **Exports** tab.
 
+    ![](./media/content-search-export-tab.png)
+
 1. Select the export job that you created earlier, ending with **_ReportsOnly**.
+
+    ![](./media/content-search-report-created.png)
 
 1. Under **Export Key** section, select **Copy to clipboard**. You will need this key to download the search report.
 
+    ![](./media/content-search-report-key.png)
+
 1. At the top of the flyout page, select **Download report**.
+
+    ![](./media/content-search-download-report.png)
 
 1. If you're prompted to install the **eDiscovery Export Tool**, select **Install**.
 
 1. In the eDiscovery Export Tool, do the following:
+
+    ![](./media/ediscoveryexporttool.png)
 
     - Paste the export key that you copied in the appropriate box.
 
@@ -246,6 +294,8 @@ Now, you need to download the report from the Azure Storage area to your local c
 1. Select **Start** to download the search results to your computer.
 
 1. Once the report gets downloaded, goto the location of the downloaded folder and open it.
+
+    ![](./media/content-search-downloaded-report.png)
 
 1. Open the **Results.csv** file and go through the report.
 
@@ -265,9 +315,15 @@ When users within an organization leverage **Microsoft Copilot** to create promp
 
 1. In the left navigation pane of the compliance portal, select **eDiscovery** and then, **Standard**.
 
+    ![](./media/ediscovery-standard.png)
+
 1. On the **eDiscovery (Standard)** page, select **Create a case**.
 
+    ![](./media/ediscovery-create-case.png)
+
 1. On the **New case** flyout page, give the case a name (required) and then type an optional description. The case name must be unique in your organization.
+
+    ![](./media/ediscovery-case-name.png)
 
 1. Select **Save** to create the case.
 
@@ -325,9 +381,15 @@ To create a **eDiscovery (Standard)** search, follow the given steps:
 
 1. On the **Home** page for the case, select the **Searches** tab, and then select **New search**.
 
+    ![](./media/ediscovery-search-create.png)
+
 1. In the **New search** wizard, type a name for the search, and an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
 
+    ![](./media/ediscovery-search-name.png)
+
 1. On the **Locations** page, choose the content locations that you want to search. You can search mailboxes, sites, and public folders.
+
+    ![](./media/ediscovery-search-locations.png)
 
     - **Exchange mailboxes:** Set the toggle to **On**. The option to put all Exchange mailboxes on hold is automatically selected. If you need to specify specific mailboxes to place on hold, **Choose users, groups, or teams**. Use the search box to find user mailboxes and distribution groups (to place a hold on the mailboxes of group members) to place on hold. You can also search the mailbox associated with a Microsoft Team (for channel messages), Office 365 Group, and Viva Engage Group. All Copilot activity data (user prompts and Copilot responses) generated in supported Microsoft 365 apps and services is stored in custodian mailboxes.
 
@@ -350,14 +412,20 @@ To create a **eDiscovery (Standard)** search, follow the given steps:
     - You can add search conditions by selecting **Add condition** to narrow a search and return a more refined set of results. Each condition adds a clause to the search query that is created and run when you start the search. A condition is logically connected to the keyword query (specified in the keyword box) by a logical operator (c:c) that is similar in functionality to the AND operator. That means that items have to satisfy both the keyword query and one or more conditions to be included in the results. This is how conditions help to narrow your results.
 
     For **content search**, because user prompts to **Copilot** and responses from **Copilot** are stored in a user's mailbox, they can be searched and retrieved when the user's mailbox is selected as the source for a search query. Select and retrieve this data from the source mailbox by selecting **Add condition > Type > Copilot interactions**.
+
+    ![](./media/content-search-conditions.png)
     
     Select **Next**.
 
 1. Review the search settings, and then select **Submit** to start the search.
 
+    ![](./media/ediscovery-search-review.png)
+
 1. After some time, your Content search will be created. Click on **Done** and return to the **Content search** page.
 
 1. Select the newly created content search to see more details about it.
+
+    ![](./media/ediscovery-search-details.png)
 
 ### Task 7.3: Exporting the report
 
@@ -367,7 +435,11 @@ Follow the given steps to download the content search report of your recently ge
 
 1. On the **Actions** menu at the bottom of the search flyout page of your Content search, select **Export report**.
 
+    ![](./media/content-search-export-report.png)
+
 1. Under **Output** options, choose one of the following options:
+
+    ![](./media/content-search-report-options.png)
 
     - **All items, excluding ones that have unrecognized format, are encrypted, or weren't indexed for other reasons:** This option only exports information about indexed items.
 
@@ -379,9 +451,13 @@ Follow the given steps to download the content search report of your recently ge
 
 1. Select **Generate report**.
 
+    ![](./media/content-search-generate-report.png)
+
     The search reports are prepared for downloading, which means the report documents are uploaded to an Azure Storage location in the Microsoft cloud. This may take several minutes.
 
 1. Click **Ok** when prompted.
+
+    ![](./media/content-search-report-ok.png)
 
 ### Task 7.4: Downloading the report
 
@@ -391,13 +467,21 @@ Now, you need to download the report from the Azure Storage area to your local c
 
 1. Select the export job that you created earlier, ending with **_ReportsOnly**.
 
+    ![](./media/ediscovery-report.png)
+
 1. Under **Export Key** section, select **Copy to clipboard**. You will need this key to download the search report.
 
+    ![](./media/content-search-report-key.png)
+
 1. At the top of the flyout page, select **Download report**.
+
+    ![](./media/content-search-download-report.png)
 
 1. If you're prompted to install the **eDiscovery Export Tool**, select **Install**.
 
 1. In the eDiscovery Export Tool, do the following:
+
+    ![](./media/ediscoveryexporttool.png)
 
     - Paste the export key that you copied in the appropriate box.
 
@@ -406,6 +490,8 @@ Now, you need to download the report from the Azure Storage area to your local c
 1. Select **Start** to download the search results to your computer.
 
 1. Once the report gets downloaded, goto the location of the downloaded folder and open it.
+
+    ![](./media/content-search-downloaded-report.png)
 
 1. Open the **Results.csv** file and go through the report.
 
@@ -418,6 +504,8 @@ The Exchange mailbox for retaining **Microsoft Copilot for Microsoft 365** messa
 After a retention policy is configured for **Microsoft Copilot for Microsoft 365** interactions, a timer job from the Exchange service periodically evaluates items in the hidden mailbox folder where these messages are stored. The timer job typically takes **1-7 days** to run. When these items have expired their retention period, they're moved to the SubstrateHolds folder—another hidden folder that's in every user mailbox to store "soft-deleted" items before they're permanently deleted. After a **retention policy** is configured for **Microsoft Copilot for Microsoft 365**, the paths the content takes depend on whether the retention policy is to retain and then delete, to retain only, or delete only.
 
 The following diagram represents the flow in details:
+
+![](./media/copilotretentionlifecycle.png)
 
 For the two paths in the diagram:
 
