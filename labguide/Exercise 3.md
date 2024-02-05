@@ -305,7 +305,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](/labguide/media/exercise3(2.39).png)
 
-
+This task has provided a clear walkthrough for implementing sensitivity labels in Microsoft Purview, enabling users to categorize and safeguard data based on confidentiality. The guided steps cover label creation, encryption configuration, content marking, and automated labeling, fostering a strong understanding of data protection. Customization options for watermarks, headers, and footers enhance security measures. Demonstrating practical application, the task integrates sensitivity labels seamlessly into Word documents, emphasizing their importance in real-world scenarios. The subsequent label publishing and application steps ensure consistent and standardized data protection, contributing to a robust organizational data governance framework.
 ## Task 3: Understand Semantic Index (Read Only)
 
 Microsoft technologies underpin Copilot for Microsoft 365, with a key role played by the Semantic Index. This vast knowledge graph, connecting billions of objects, concepts, and relationships, introduces a new dimension to data understanding within Microsoft 365.
