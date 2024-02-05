@@ -163,7 +163,7 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 
 1. Click on any entry to see it in more details.
 
-    ![](./media/audit-page.png)
+    ![](./media/audit-details.png)
 
 1. If you want to download the results as a report to your local system, select **Export** on the top of the Audit search results page and choose **Downloads file**.
 
