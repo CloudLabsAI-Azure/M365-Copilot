@@ -104,3 +104,7 @@ To use Copilot Lab prompts, follow the below steps:
     >**Note**: You can also save a prompt for quick access in future by clicking on **Save prompt** icon.
 
     >**Note**: You can also click on **Saved prompts** to see the saved prompts (if you saved earlier for quick access), and can also click on drop-down menu besides it to filter them as per categories.
+
+## Conclusion
+
+Microsoft Copilot Lab presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
