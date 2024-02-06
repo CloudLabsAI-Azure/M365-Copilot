@@ -5,35 +5,35 @@
   "BaseURL": "https://github.com/CloudLabsAI-Azure/M365-Copilot/tree/main",
   "Files": [
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%201.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%201.md",
        "Order": 1
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%202.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%202.md",
        "Order": 2
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%203.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%203.md",
        "Order": 3
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%204.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%204.md",
        "Order": 4
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%206.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%206.md",
        "Order": 5
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%207.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%207.md",
        "Order": 6
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%208.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%208.md",
        "Order": 7
      },
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%209.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%209.md",
        "Order": 8
      }
    ]
