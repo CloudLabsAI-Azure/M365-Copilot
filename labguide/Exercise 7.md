@@ -1,4 +1,4 @@
-# Reviewing Security and Compliance in Copilot
+# Exercise 07: Reviewing Security and Compliance in Copilot
 
 ## Introduction
 
