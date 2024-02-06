@@ -1,4 +1,4 @@
-# Lab 04: Using M365 Copilot
+# Exercise 04: Using Microsoft 365 Copilot
 
 ## Introduction
 
