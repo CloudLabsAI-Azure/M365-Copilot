@@ -114,6 +114,27 @@ Follow the given steps to use the content explorer for data classification:
 
 >**Note:** It can take up to **seven days** for counts to be updated in content explorer.
 
+### Task 2.3: Using Activity Explorer
+
+**Activity explorer** allows you to monitor what's being done with your labeled content. It provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and then made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data. There are more than 30 different filters available for use, like Data range, Activity type, Location, User, Sensitivity label, Retention label etc.
+
+>**Note:** Make sure **Audit** is turned on before using this in your account. If it's not, select **Turn Audit ON** from the activity explorer page.
+
+To go to the **Activity Explorer**, follow the given steps:
+
+1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+
+1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Activity explorer**.
+
+Activity explorer gathers information from the audit logs of multiple sources of activities. Some examples of the **Sensitivity label activities** and **Retention labeling activities** from applications native to Microsoft Office, the Azure Information Protection (AIP) unified labeling client and scanner, SharePoint, Exchange (sensitivity labels only), and OneDrive include:
+
+- Labels applied
+- Labels changed (upgraded, downgraded, or removed)
+- Autolabeling simulation
+- File read
+
+In addition, using Endpoint data loss prevention (DLP), Activity explorer gathers DLP policy matches events from Exchange, SharePoint, OneDrive, Teams Chat and Channel, on-premises SharePoint folders and libraries and more.
+
 ## Task 3: Using Customer Keys in Microsoft 365 Copilot
 
 A **Customer Key** provides extra protection against viewing of data by unauthorized systems or personnel, and complements BitLocker disk encryption and SSE in Microsoft data centers. It helps you meet regulatory or compliance obligations for controlling root keys. You explicitly authorize Microsoft 365 services to use your encryption keys to provide value added cloud services, such as eDiscovery, anti-malware, anti-spam, search indexing, and so on.
@@ -657,29 +678,45 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
 1. In the left navigation pane of the compliance portal, select **Data lifecycle management** and then, **Microsoft 365**.
 
+    ![](./media/retention-overview.png)
+
 1. Under **Retentionpolicies** tab, select **New retention policy** to start creating a new retention policy.
 
+    ![](./media/retention-policy-new.png)
+
 1. Provide the name and description of your retention policy in the appropriate boxes, and select **Next**.
+
+    ![](./media/retention-policy-name.png)
 
 1. On the **Administrative Units** page, click **Next** by keeping the default of **Full directory**.
 
 1. For the **Choose the type of retention policy to create** page, select **Static** and then, **Next** to select the locations (**Microsoft 365 Copilot**) manually, for which you want the retention policy to be applied.
 
+    ![](./media/retention-policy-static.png)
+
     Deselect all the locations and select **Teams chats and Copilot interactions** ONLY to apply the policy on **Copilot for Microsoft 365**, and its all user prompts to Copilot and all Copilot responses. Select **Next**.
+
+    ![](./media/retention-policy-locations.png)
 
     >**Note:** By default, all teams and all users are selected, but you can refine this by selecting the **Choose** and **Exclude** options.
 
 1. For **Decide if you want to retain content, delete it, or both** page, specify the configuration options for retaining and deleting content. You can also provide your custom period by choosing **Custom** from the drop-down menu and specifying the period after that.
 
+    ![](./media/retention-policy-configurations.png)
+
     You can create a retention policy that just retains content without deleting, retains and then deletes after a specified period of time, or just deletes content after a specified period of time. Select **Next**.
 
 1. On the **Review and Finish** page, review your settings and select **Submit**. Select **Done** when required.
 
+    ![](./media/retention-policy-review.png)
+
 1. Select your recently created policy to see it in details and also check its status.
+
+    ![](./media/retention-policy-created.png)
 
     >**Note:** When you create and submit a retention policy, it can take up to seven days for the retention policy to be applied.
 
-    ![](./media/retention-policy-timings.png)
+![](./media/retention-policy-timings.png)
 
 If a user leaves your organization and their **Microsoft 365 account** is deleted, their **Copilot** messages that are subject to retention are stored in an inactive mailbox. The Copilot messages remain subject to any retention policy that was placed on the user before their mailbox was made inactive, and the contents are available to an **eDiscovery search**.
 
