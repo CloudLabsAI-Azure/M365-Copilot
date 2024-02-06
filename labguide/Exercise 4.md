@@ -28,6 +28,14 @@ One of the goals of Copilot in Word is to simplify the creation and modification
 
 To use **Copilot in Word**, follow the below steps:
 
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and select **Word** from the apps list.
+
+   ![](./media/office-apps-page.png)
+
 1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide any input which you want the Copilot to execute and click on **Generate**.
 
    ![](./media/draft-with-copilot-word.png)
@@ -81,6 +89,14 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 To use **Copilot in Outlook**, follow the below steps:
 
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and select **Outlook** from the apps list.
+
+   ![](./media/office-apps-page.png)
+
 1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
 
    ![](./media/summary-copilot-outlook.png)
@@ -106,6 +122,14 @@ In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant
 Copilot in PowerPoint simplifies the transformation of existing files, streamlining the conversion of your documents into vivid visual presentations effortlessly. With this capability, you can easily transform a Word document into a structured PowerPoint presentation, ensuring your content gets the visual representation it deserves. This process not only streamlines your workflow but also brings a new dimension to your written content.
 
 To use **Copilot in PowerPoint**, follow the below steps:
+
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and select **PowerPoint** from the apps list.
+
+   ![](./media/office-apps-page.png)
 
 1. Open your **PowerPoint** and select **Copilot** on top of the screen.
 
@@ -147,6 +171,14 @@ With **Copilot in Excel**, taking control of your data visualization and managem
 
 To use **Copilot in Excel**, follow the below steps:
 
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and select **Excel** from the apps list.
+
+   ![](./media/office-apps-page.png)
+
 1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
 
    ![](./media/copilot-excel.png)
@@ -185,6 +217,14 @@ In chat threads, **Copilot in Teams** can help users get up to speed on conversa
 Copilot aids you in steering the conversation forward with confidence, suggesting questions that you can pose to the group, helping to facilitate a richer and more inclusive discussion. Its goal is to help summarize the key discussions and identify the next actionable steps. Doing so helps ensure that all meeting attendants are on the same page with the agreed-upon tasks.
 
 To use **Copilot in Teams**, follow the below steps:
+
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and select **Teams** from the apps list.
+
+   ![](./media/office-apps-page.png)
 
 1. Open **Teams** and go to any chat. You will find the **Copilot** icon on the bottom of the chatbox which will help you to rewrite a message or even select its tone and length.
 
