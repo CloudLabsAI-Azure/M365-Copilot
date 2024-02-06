@@ -222,7 +222,108 @@ To use **Copilot in Teams**, follow the below steps:
       What was the mood of the meeting?  
       ```
 
-### Task 1.6: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
+### Task 1.6: Using Copilot in Loop
+
+**Copilot for Microsoft 365 in Loop** transforms your team’s co-creation and collaboration experience to help you plan, brainstorm, and create using AI-powered contextual suggestions. When you start or update a shared workspace, Copilot can assist you when you need inspiration or want help tackling a blank page. Pick from a set of prompts or add your own. As you and your teammates work, you can go back to earlier prompts, add language to refine the output, and edit the generated responses for better, personalized results.
+
+To use **Copilot in Loop**, follow the below steps:
+
+1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+
+   ![](./media/office-page.png)
+
+1. Select **Apps** from the left pane and scroll down to select **Loop** from the apps list.
+
+   ![](./media/office-apps-page.png)
+
+1. Select **+** icon to create a new workspace.
+
+   ![](./media/loop-homepage.png)
+
+1. Provide a name to your workspace under the **Name** column and select **Continue**. Your workspace will open with a blank page.
+
+   ![](./media/loop-namepage.png)
+
+   ![](./media/loop-page.png)
+
+1. Provide a heading to your page and in body section, type **"/"** and select **Copilot** from the drop-down menu.
+
+   ![](./media/loop-copilot.png)
+
+1. **Copilot** offers suggested prompts you can choose, or you can type your own. To stay inspired and in your flow, **Copilot** can generate additional ideas for you.
+
+   You will find 4 options to start with:
+
+   - **Create:** Select **Create** if you want Copilot to help you start new content and provide a first draft of a value proposition or an outline for a presentation or marketing plan.
+
+      Suppose you want to create a marketing plan for a product launch. Use the **Create** prompt and include some refiners that contain more details about your product, desired channels, and length. Encourage your team members to add their own input and any additional refiners that they think might help with the end-result.
+
+      **Example prompts include:**
+
+      ```
+      Draft a mission statement for a new space exploration company.
+      ```
+      ```
+      Draft a work ticket for an app that isn't responding when people try to zoom in.
+      ```
+      ```
+      Draft an agenda for a meeting about creating bikes lanes in a small town.
+      ```
+
+   - **Brainstorm:** Choose **Brainstorm** to start a brainstorming session with **Copilot**. You can add some refiners to provide a better fit for your specific product, and edit generated names down to the ones you think are strong.
+
+      **Example prompts include:**
+
+      ```
+      Brainstorm strategies to attract new customers using social media.
+      ```
+      ```
+      Brainstorm ways to boost team morale.
+      ```
+      ```
+      Brainstorm character names for an animated movie about the life of dogs in the year 2035.
+      ```
+
+   - **Blueprint:** Select the **Blueprint** prompt to let **Copilot** quickly offer information about general best practices to help you be successful. You can add refining information and edit the content inline to make the results more contextual to your event. Ask Copilot for a structured output (e.g. ask for them as bullet) and use the results and the Loop page as a set of actions to work through with your team.
+
+      **Example prompts include:**
+
+      ```
+      Blueprint steps for a product launch.
+      ```
+      ```
+      Blueprint how to conduct a sales meeting with a potential client.
+      ```
+      ```
+      Blueprint plans for a conference for marketing professionals in technology.
+      ```
+
+   - **Describe:** The **Describe** prompt will ask Copilot to describe a concept in the way that will make it easier for you to understand.
+
+      **Example prompts include:**
+
+      ```
+      Describe the importance of two-factor authentication to a kid.
+      ```
+      ```
+      Describe how meditation effects the brain in the style of a psychology professor.
+      ```
+      ```
+      Describe how to prepare for a job interview.
+      ```
+
+   >**Note:** You can also type your own prompt in the text box and click **Send** to get the results.
+
+1. You will get the results on the page. If the results are not exactly what you are looking for, you can refine the results by using the box immediately below the response. Change the tone, format, or ask for a more specific subset of ideas.
+
+   ![](./media/loop-copilot-result.png)
+
+   Let's say Copilot offers a result that includes a bulleted list that you don't want. You can remove them, add a few of your own, and even ask Copilot to convert the bulleted list into a table. 
+
+>**Note:** When crafting your prompts, provide context, be specific about what you want and use common language. With **Copilot**, you are always in control and if it doesn’t give you the right response the first time, revise and refine your prompts, then try again. **Remember that** AI generated content may be sensitive or factually incorrect. Be sure to verify the information, its sources, and use your judgment.
+
+
+### Task 1.7: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
 
 **M365 Chat** enables users to engage in work-related conversations within SharePoint sites, lists, and libraries. Chats within these collaboration spaces, powered by Microsoft 365 Copilot's AI capabilities, can understand user intents and questions and provide personalized responses to your organization's Microsoft 365 data via Microsoft Graph.  
 
