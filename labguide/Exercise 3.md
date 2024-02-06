@@ -139,11 +139,11 @@ In this task, you will learn how to use Purview to implement sensitivity labels 
 
 - Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) portal and from the left menu select labels (1) and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select Turn on now (2). Once you do this, there can be a delay for the setting to propagate through the system.
 
-   ![](/labguide/media/exercise3(2.1).png)
+   ![](./media/exercise3(2.1).png)
 
 - On Labels (1) page, select + Create a label (2).
 
-   ![](/labguide/media/exercise3(2.2).png)
+   ![](./media/exercise3(2.2).png)
 
 - Provide a name and description for your label. Select **Next (4)** at the bottom of the page.
 
@@ -153,11 +153,11 @@ In this task, you will learn how to use Purview to implement sensitivity labels 
     | **Display name** | Enter **Confidential-Finance (2)** |
     | **Description for users** | Enter **Confidential-Finance Demo (3)** | 
 
-   ![](/labguide/media/exercise3(2.3).png)
+   ![](./media/exercise3(2.3).png)
 
 - Note the scope for this label. The scope is set to Items. Read the description but don’t change anything. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.4).png)
+   ![](./media/exercise3(2.4).png)
 
 - On the Choose protection settings for labeled items select the Apply or remove encryption (1) and Apply content marking (2), then select Next (3).
 
