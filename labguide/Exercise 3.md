@@ -14,35 +14,35 @@ In this task we will facilitate the creation of a robust and collaborative works
 
    * Email/Username: **<inject key="AzureAdUserEmail"></inject>**
 
-      ![](/labguide/media/task3.1.1.png)
+      ![](./media/task3.1.1.png)
 
    - Now enter the following password and click on **Sign in**.
 
    * Password: **<inject key="AzureAdUserPassword"></inject>**
 
-      ![](/labguide/media/task3.1.2.png)
+      ![](./media/task3.1.2.png)
 
 - **Navigate to SharePoint:**
    - Go to the SharePoint homepage by clicking on the **SharePoint (2)** app or through the **Microsoft 365 app launcher (1)**.
 
-      ![](/labguide/media/task3.2.1.png)
+      ![](./media/task3.2.1.png)
 
 ### Task 1.2: Create a New Team Site
 
 - **Initiate Team Site Creation:**
    - Click on **+ Create site** or find the option in the left navigation menu.
 
-      ![](/labguide/media/task3.2.2.png)
+      ![](./media/task3.2.2.png)
 
 - **Choose Team Site:**
    - Select **Team site** as the site type suitable for team collaboration.
 
-      ![](/labguide/media/task3.2.3.png)
+      ![](./media/task3.2.3.png)
 
 - **Choose a Template**   
    - Select **Standard team** as the template for this site.
 
-      ![](/labguide/media/task3.2.4.png)
+      ![](./media/task3.2.4.png)
    
    - Click on **Use template**.
 
