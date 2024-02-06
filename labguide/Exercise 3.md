@@ -161,62 +161,62 @@ In this task, you will learn how to use Purview to implement sensitivity labels 
 
 - On the Choose protection settings for labeled items select the Apply or remove encryption (1) and Apply content marking (2), then select Next (3).
 
-   ![](/labguide/media/exercise3(2.5).png)   
+   ![](./media/exercise3(2.5).png)   
 
 - The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire. You can also assign permissions to specific users and groups By clicking on the Assign permissions (1). On the Assign permissions blade, click on + Add users or groups (2).
 
-   ![](/labguide/media/exercise3(2.6).png)
+   ![](./media/exercise3(2.6).png)
 
 -  On the **Add users or groups** window, select the user name **ODL_User <inject key="DeploymentID" enableCopy="false"/> (1)** and click on **Add (2)**.
 
-   ![](/labguide/media/exercise3(2.7).png)
+   ![](./media/exercise3(2.7).png)
 
 - You will be redirected to the Assign Permission page. Verify that the (1) is selected and click on Save (2).
 
-   ![](/labguide/media/exercise3(2.8).png)
+   ![](./media/exercise3(2.8).png)
 
    >**Note:** Only selected users can interact with content that has this label applied. Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.
 
 - Click Next on Encryption window.
 
-   ![](/labguide/media/exercise3(2.9).png)
+   ![](./media/exercise3(2.9).png)
 
 - On the content markings page, take note of the information box at the top of the page. Turn on the Content Making (1) and select the check box for Add a watermark (2), Add a header (3) and Add a footer (4).
 
-   ![](/labguide/media/exercise3(2.10).png)
+   ![](./media/exercise3(2.10).png)
 
 - Under Add a watermark, click on Customize text (1). Under Watermark text, type Confidential watermark text (2) and click on Save (3).
 
-   ![](/labguide/media/exercise3(2.11).png)
+   ![](./media/exercise3(2.11).png)
 
 - Under Add a header, click on Customize text (1). Under Header text, type Confidential Document (2) and click on Save (3).
 
-   ![](/labguide/media/exercise3(2.12).png)
+   ![](./media/exercise3(2.12).png)
 
 - Under Add a footer, click on Customize text (1). Under Footer text, type Confidential Document (2) and click on Save (3).
 
-   ![](/labguide/media/exercise3(2.13).png)
+   ![](./media/exercise3(2.13).png)
 
    >**Note**: Content markings will be applied to documents but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.
 
 - The content marking associated with this label is a watermark. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.14).png)
+   ![](./media/exercise3(2.14).png)
 
 - You are now in the Auto-labeling for files and emails window. Turn on the Auto-labeling for files and emails (1) and Read the description of auto-labelling on the top of the page and the information box below it and under Detect content that matches these conditions click on + Add condition (2) from the drop-down select Content contains (3) then under Group name select Add (4) drop-down, select Sensitive info type and in Sensitive info type (5) window search for Credit (6) and select the Credit card number (7), select Add (8) from the button, select Next (9) on the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.15).png)
-   ![](/labguide/media/exercise3(2.16).png)
-   ![](/labguide/media/exercise3(2.17).png)
-   ![](/labguide/media/exercise3(2.18).png)
+   ![](./media/exercise3(2.15).png)
+   ![](./media/exercise3(2.16).png)
+   ![](./media/exercise3(2.17).png)
+   ![](./media/exercise3(2.18).png)
 
 - This next window defines protection settings for groups and sites that have this label applied. If this is not enabled, select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.19).png)
+   ![](./media/exercise3(2.19).png)
 
 - Review the settings and click on Create label.
 
-   ![](/labguide/media/exercise3(2.20).png)
+   ![](./media/exercise3(2.20).png)
 
 ### Task 2.2: Publish sensitivity label
 
@@ -224,72 +224,72 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
 - In the Microsoft Purview. portal, under Solutions, expand Information protection and in the drop-down select Label policies (1) and click on Publish label (2).
 
-   ![](/labguide/media/exercise3(2.21).png)
+   ![](./media/exercise3(2.21).png)
 
 - Select Choose sensitivity labels to publish (1). A window opens that provides information about the policy. Select Confidential-Finance (2) from the label and select Add (3).
 
-   ![](/labguide/media/exercise3(2.22).png)
+   ![](./media/exercise3(2.22).png)
 
 - Back on Choose sensitivity labels to publish blade, click on Next.
 
-   ![](/labguide/media/exercise3(2.23).png)
+   ![](./media/exercise3(2.23).png)
 
 - Click on Next on the Assign Admin Units page.
 
-   ![](/labguide/media/exercise3(2.24).png)
+   ![](./media/exercise3(2.24).png)
 
 - Read the description under Publish to users and groups. Notice that this label is available to all users. Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.25).png)
+   ![](./media/exercise3(2.25).png)
 
 - Under the policy settings. Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.26).png)
+   ![](./media/exercise3(2.26).png)
 
 - Under the Apply a Default label to documents. Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.27).png)
+   ![](./media/exercise3(2.27).png)
 
 - Under the Apply a Default label to emails.Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.28).png)
+   ![](./media/exercise3(2.28).png)
 
 - Under the Apply a default label to meetings and calendar events. Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.29).png)
+   ![](./media/exercise3(2.29).png)
 
 - Under the Apply a default label to Fabric and Power BI content. Don’t change any settings. Select Next at the bottom of the page.
 
-   ![](/labguide/media/exercise3(2.30).png)
+   ![](./media/exercise3(2.30).png)
 
 - The last configuration option is to name your policy. Enter the policy name as Confidential-Policy (1). Select Next (2) on the bottom of the page to exit the policy configuration and return to the Information Protection page.
 
-   ![](/labguide/media/exercise3(2.31).png)
+   ![](./media/exercise3(2.31).png)
 
 - Review the settings and click on Submit and then select Done.
 
-   ![](/labguide/media/exercise3(2.32).png)
-   ![](/labguide/media/exercise3(2.33).png)
+   ![](./media/exercise3(2.32).png)
+   ![](./media/exercise3(2.33).png)
 
 - Back to Label policies blade and notice the newly published label.
 
-   ![](/labguide/media/exercise3(2.34).png)
+   ![](./media/exercise3(2.34).png)
 
 ### Task 2.3: Applying a Sensitivity label to a Word document
 
 -  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the App launcher icon (1), on the Word select Open context menu (2) and select Open in new tab (3).
 
-   ![](/labguide/media/exercise3(2.35).png)
+   ![](./media/exercise3(2.35).png)
 
 - Select blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says Document (1), and in the File Name box enter, Test-label (2) and press enter.
 
-   ![](/labguide/media/exercise3(2.36).png)
+   ![](./media/exercise3(2.36).png)
 
    >**Note:** In this step, we are creating a new Word document that will be utilized for applying a sensitivity lab
 
 - From the top menu bar, select Sensitivity (1). (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select Confidential-Finance (2).
 
-   ![](/labguide/media/exercise3(2.37).png)
+   ![](./media/exercise3(2.37).png)
 
 
 
@@ -299,13 +299,13 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
 - From the top menu bar, select View (1), then select Reading view (2).
 
-   ![](/labguide/media/exercise3(2.38).png)
+   ![](./media/exercise3(2.38).png)
 
    >**Note:** Reading view allows you to observe how the document includes a watermark, a visual indication of the document's sensitivity level.
 
 - Notice how the document includes the watermark.
 
-   ![](/labguide/media/exercise3(2.39).png)
+   ![](./media/exercise3(2.39).png)
 
 This task has provided a clear walkthrough for implementing sensitivity labels in Microsoft Purview, enabling users to categorize and safeguard data based on confidentiality. The guided steps cover label creation, encryption configuration, content marking, and automated labeling, fostering a strong understanding of data protection. Customization options for watermarks, headers, and footers enhance security measures. Demonstrating practical application, the task integrates sensitivity labels seamlessly into Word documents, emphasizing their importance in real-world scenarios. The subsequent label publishing and application steps ensure consistent and standardized data protection, contributing to a robust organizational data governance framework.
 ## Task 3: Understand Semantic Index (Read Only)
