@@ -37,7 +37,7 @@ Copilot for Microsoft 365 is designed to transform the way employees work in the
 
 ## Copilot's Architecture and Processing Flow: Step-by-Step
 
-![](/labguide/media/copilot-for-microsoft-365-architecture.png)
+![](./media/copilot-for-microsoft-365-architecture.png)
 
 The following steps outline the processing flow of Copilot for Microsoft 365, from user prompt to Copilot response:
 
