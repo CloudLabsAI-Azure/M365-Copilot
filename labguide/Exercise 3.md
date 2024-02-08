@@ -189,9 +189,48 @@ In this optional task, we offer users the opportunity to create a collaborative 
 
 Sensitivity labels are a way of categorizing and protecting your data based on its level of confidentiality and the impact to your business if it is leaked or misused. You can use sensitivity labels to apply metadata tags and encryption settings to your data sources, columns, tables, and files. Purview is a service that helps you manage and govern your data across your organization.
 
-In this task, you will learn how to use Purview to implement sensitivity labels for your data assets.
+CoPilot is a system that aids in the management and control of data within an organization. It can work in conjunction with Sensitivity Labels to classify and protect sensitive information. Sensitivity Labels are attributes that can be applied to documents and emails to classify them based on the content sensitivity. These labels can trigger protective actions like encryption or visual markings. Once a sensitivity label is applied to content, it stays with the content regardless of where it's stored or with whom it's shared.
 
-### Task 2.1: Create sensitivity labels in Microsoft Purview
+### Understanding Sensitivity labels
+
+Sensitivity labels in Microsoft 365 allow organizations to classify and protect their sensitive content. Here's some information on what these labels represent in Contoso Ltd:
+
+- **Confidential:**
+The "Confidential" sensitivity label is used when information is meant to be restricted to a specific group of people within an organization. This label is typically used for data such as employee records, internal policies, or strategic plans. Unauthorized disclosure of this information can lead to potential damage to the organization, but not to the same extent as that classified as "Highly Confidential."
+
+- **Highly Confidential:**
+The "Highly Confidential" sensitivity label is assigned to the most sensitive information that, if disclosed, could result in severe harm to the organization. This might include trade secrets, legal documents, or personally identifiable information (PII) such as social security numbers, credit card information, or health records. Extra security measures, like encryption, are often applied to these documents to prevent unauthorized access or sharing.
+
+- **Internal:**
+The "Internal" sensitivity label is used for information that is not intended for public view but doesn't necessarily contain sensitive data. This could include internal newsletters, meeting minutes, or project plans. This label serves as a reminder to employees that the information should not be shared outside the organization, though its disclosure wouldn't cause significant harm.
+
+- **Public**
+The "Public" sensitivity label is applied to information that can be freely shared both inside and outside the organization. This information poses no risk if disclosed and is often intended for public consumption. Examples could include press releases, marketing materials, or public-facing reports.
+
+   >**Note:** Remember, sensitivity labels are a tool for managing and protecting data, but they are most effective when combined with user education about data handling and security best practices.
+
+### Task 2.1: Applying Sensitivity label to Documents.
+
+- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on "Blank document".
+
+   ![](./media/label1.1.png)
+
+   ![](./media/label1.2.png)
+
+- Let's ask Copilot to Summarise a document which has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
+
+   ```
+   Summarise the document /Industry Analysis Report for Contoso Ltd.docx
+   ```
+
+   ![](./media/label1.3.png)
+
+
+   ![](./media/label1.4.png)
+
+### Task 2.2: How are sensitivity labels created in Microsoft Purview (Read Only)
+
+In this task, you will learn how to use Purview to implement sensitivity labels for your data assets.
 
 - Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) portal and from the left menu select labels (1) and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select Turn on now (2). Once you do this, there can be a delay for the setting to propagate through the system.
 
@@ -274,7 +313,7 @@ In this task, you will learn how to use Purview to implement sensitivity labels 
 
    ![](./media/exercise3(2.20).png)
 
-### Task 2.2: Publish sensitivity label
+### Task 2.3: Publish sensitivity label (Read Only)
 
 The task aims to provide a streamlined method for publishing sensitivity labels to users. Users are guided through a series of steps within Microsoft Purview, specifically under Label policies. The objective is to make the selected labels, such as Confidential-Finance and Highly-Confidential, available to all users, ensuring consistent and standardized data protection measures.
 
@@ -331,7 +370,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](./media/exercise3(2.34).png)
 
-### Task 2.3: Applying a Sensitivity label to a Word document
+### Task 2.4: Applying a Sensitivity label to a Word document (Read Only)
 
 -  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the App launcher icon (1), on the Word select Open context menu (2) and select Open in new tab (3).
 
@@ -364,6 +403,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
    ![](./media/exercise3(2.39).png)
 
 This task has provided a clear walkthrough for implementing sensitivity labels in Microsoft Purview, enabling users to categorize and safeguard data based on confidentiality. The guided steps cover label creation, encryption configuration, content marking, and automated labeling, fostering a strong understanding of data protection. Customization options for watermarks, headers, and footers enhance security measures. Demonstrating practical application, the task integrates sensitivity labels seamlessly into Word documents, emphasizing their importance in real-world scenarios. The subsequent label publishing and application steps ensure consistent and standardized data protection, contributing to a robust organizational data governance framework.
+
 ## Task 3: Understand Semantic Index (Read Only)
 
 Microsoft technologies underpin Copilot for Microsoft 365, with a key role played by the Semantic Index. This vast knowledge graph, connecting billions of objects, concepts, and relationships, introduces a new dimension to data understanding within Microsoft 365.
