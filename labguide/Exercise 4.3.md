@@ -1,4 +1,4 @@
-# Exercise 04: Using Microsoft 365 Copilot in PowerPoint
+# Exercise 4.3: Using Microsoft 365 Copilot in PowerPoint
 
 ## Introduction
 
