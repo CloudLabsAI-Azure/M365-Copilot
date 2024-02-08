@@ -22,7 +22,7 @@ One of the goals of Copilot in Word is to simplify the creation and modification
 
 To use **Copilot in Word**, follow the below steps:
 
-1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
+1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
 
    ![](./media/office-page.png)
 
@@ -36,13 +36,13 @@ To use **Copilot in Word**, follow the below steps:
 
     Examples of sample inputs include:
     ```
-    Write an essay about baseball.
+    Write an essay about Microsoft 365.
     ```
     ```
-    Give detailed instructions, including outlines, notes, or file references on mechatronics.
+    Give detailed instructions, including outlines, notes, or file references on use of artificial intelligence in IT companies.
     ```
     ```
-    List the ingredients for a cheesecake in a bulleted format.
+    List the technologies used in app development in a bulleted format.
     ```
 
 1. It will create a document on that topic of interest with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
