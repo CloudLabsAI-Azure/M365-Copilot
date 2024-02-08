@@ -1,4 +1,4 @@
-# Exercise 04: Using Microsoft 365 Copilot in Word
+# Exercise 4.2: Using Microsoft 365 Copilot in Word
 
 ## Introduction
 
