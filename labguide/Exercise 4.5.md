@@ -1,4 +1,4 @@
-# Exercise 04: Using Microsoft 365 Copilot in Teams
+# Exercise 4.5: Using Microsoft 365 Copilot in Teams
 
 ## Introduction
 
