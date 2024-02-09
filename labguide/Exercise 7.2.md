@@ -1,4 +1,4 @@
-# Exercise 07: Reviewing Security and Compliance in Copilot Using Data Classification
+# Exercise 7.2: Reviewing Security and Compliance in Copilot Using Data Classification (Read Only)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Before deploying Copilot, it is essential to prepare your data to maximize its e
 
 - **Training and awareness:** Provide training and awareness sessions to users and administrators about the importance of data classification and how to effectively use Copilot. This approach will facilitate a smooth transition and increase user adoption. In addition, utilize organizational change management strategies to champion the process and educate the workforce on how data classification and sanitization can expedite Copilot’s ingestion of the data.
 
-### Task 2.1: Using the Microsoft data classification dashboard
+### Task 1: Using the Microsoft data classification dashboard
 
 The **data classification page** provides visibility into that body of content, specifically:
 
@@ -70,7 +70,7 @@ Follow the given steps to access the **Microsoft data classification dashboard**
 
     >**Note:** If this card displays the message, **"No locations detected"**, it means you haven't created or published any sensitivity labels or no content has had a retention label applied.
 
-### Task 2.2: Using Content Explorer for Data Classification
+### Task 2: Using Content Explorer for Data Classification
 
 **Content explorer** allows you to natively view the items that were summarized on the **Overview** page. It shows a current snapshot of the items that have a sensitivity label, a retention label or have been classified as a sensitive information type in your organization.
 
@@ -90,7 +90,7 @@ Follow the given steps to use the content explorer for data classification:
 
 >**Note:** It can take up to **seven days** for counts to be updated in content explorer.
 
-### Task 2.3: Using Activity Explorer
+### Task 3: Using Activity Explorer
 
 **Activity explorer** allows you to monitor what's being done with your labeled content. It provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and then made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data. There are more than 30 different filters available for use, like Data range, Activity type, Location, User, Sensitivity label, Retention label etc.
 
@@ -110,3 +110,9 @@ Activity explorer gathers information from the audit logs of multiple sources of
 - File read
 
 In addition, using Endpoint data loss prevention (DLP), Activity explorer gathers DLP policy matches events from Exchange, SharePoint, OneDrive, Teams Chat and Channel, on-premises SharePoint folders and libraries and more.
+
+## Conclusion
+
+In conclusion, understanding and leveraging the capabilities of **Microsoft Copilot** within the Microsoft 365 ecosystem are crucial steps towards enhancing data security and compliance for organizations. The emphasis on **data classification** forms a cornerstone for efficient functioning of Copilot, enabling it to provide accurate recommendations and automate the categorization process.
+
+By embracing the security and compliance features of **Microsoft Copilot**, organizations can not only streamline data management processes but also adhere to industry regulations and legal requirements. This, in turn, fosters a secure digital environment, safeguarding sensitive information and reinforcing trust in the organization's commitment to privacy and data protection.
