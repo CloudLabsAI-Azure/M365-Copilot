@@ -1,8 +1,9 @@
 # Exercise 6: Manage Copilot
 
-You can assign or remove Microsoft 365 Copilot licenses for users in your tenant through the Microsoft 365 Admin Center.
+This exercise guides you through the process of managing Microsoft 365 Copilot licenses for users in your tenant through the Microsoft 365 Admin Center. You'll learn how to assign and remove licenses, manage Microsoft 365 Copilot services, and configure public web content access. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization.
 
-## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center
+
+## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center (Read Only)
 
 ### Task 1.1: Assign Copilot licenses to the user
 
@@ -48,7 +49,7 @@ To remove an already assigned Copilot license:
 
 Now the user's Copilot license assignment status will be updated.
 
-### Task 1.3: Manage Microsoft 365 Copilot Services
+### Task 1.3: Manage Microsoft 365 Copilot Services 
 
 Microsoft 365 Copilot comes with different services that can be enabled or disabled as per your preferences. This can be configured from the Microsoft 365 Admin Center.
 
@@ -70,7 +71,7 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
  
    ![](../labguide/media/M17.png)
 
-### Task 2: Public web content access
+### Task 2: Public web content access (Read Only)
 
 Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app have a feature that allows Copilot to reference web content when responding to user prompts. Allowing Copilot for Microsoft 365 to reference web content enhances the end-user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
 
@@ -94,4 +95,5 @@ Microsoft Copilot for Microsoft 365 chat experiences in Bing, Microsoft Edge, an
 
 All admin setting updates may take up to 24 hours to reflect any changes.
 
-
+## Conclusion: 
+By the end of this exercise, you'll be well-equipped to manage Microsoft 365 Copilot licenses within your organization. You'll understand how to assign and remove these licenses for users and how to enable or disable specific Copilot services based on your organization's needs. Additionally, you'll learn how to configure Copilot's ability to reference web content, enhancing its utility and the end-user experience. Remember, changes to the admin settings may take up to 24 hours to reflect. This knowledge will allow you to effectively manage and tailor the Copilot experience to best suit your organizational requirements.
