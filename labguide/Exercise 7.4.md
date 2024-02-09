@@ -1,4 +1,4 @@
-# Exercise 7.4: Reviewing Security and Compliance in Copilot Using Communication Compliance
+# Exercise 7.4: Reviewing Security and Compliance in Copilot Using Communication Compliance (Read Only)
 
 ## Introduction
 
@@ -112,3 +112,9 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
     - If you have a .txt file that includes a list of messages to detect, select **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
 
 1. Select **Test** to see a list of test results.
+
+## Conclusion
+
+In conclusion, the incorporation of **Communication Compliance** within **Microsoft Copilot for Microsoft 365** enhances the platform's capabilities to address communication-related risks effectively. The robust features of Communication Compliance empower organizations to detect, capture, and act on potentially inappropriate messages, minimizing communication risks within the organization.
+
+By leveraging pre-defined and custom policies, **Communication Compliance** provides a comprehensive solution for checking both internal and external communications across various channels, including **Microsoft Copilot for Microsoft 365**. This functionality ensures that designated reviewers can examine communications for policy matches, facilitating a proactive approach to compliance and risk management. By embracing **Communication Compliance in Microsoft 365 Copilot**, organizations can fortify their communication channels against potential risks, uphold corporate standards, and proactively address compliance challenges. This integration contributes to a secure digital environment where communication is not only efficient but also aligned with organizational policies and regulatory requirements.
