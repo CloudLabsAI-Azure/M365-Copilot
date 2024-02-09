@@ -1,8 +1,10 @@
 # Exercise 1: Introduction to Microsoft Copilot for Microsoft 365 Lab Guide
 
-Welcome to the Microsoft Copilot for Microsoft 365 Lab Guide, an immersive exploration into the revolutionary world of AI-powered productivity. In this guide, we'll delve into the groundbreaking features of Microsoft Copilot, an upcoming AI-driven tool that promises to redefine the way we approach everyday tasks within the Microsoft 365 ecosystem.
+Welcome to the Microsoft Copilot for Microsoft 365 Lab, an immersive exploration into the revolutionary world of AI-powered productivity. In this guide, we'll delve into the groundbreaking features of Microsoft Copilot, an upcoming AI-driven tool that promises to redefine the way we approach everyday tasks within the Microsoft 365 ecosystem.
 
 ## Unleashing Creativity, Unlocking Productivity, and Up-leveling Skills
+
+![](../labguide/media/intro1.1.png)
 
 At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology and the vast capabilities of Large Language Models (LLMs). By seamlessly integrating with Microsoft Graph and the suite of Microsoft 365 applications, Copilot transforms natural language into a potent force for innovation and growth. This transformative tool aims to revolutionize work in three fundamental ways:
 
