@@ -1,10 +1,10 @@
-# Exercise 7.5: Reviewing Security and Compliance in Copilot Using Audit
+# Exercise 7.5: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
 
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Auditing in Microsoft 365 Copilot
 
@@ -55,3 +55,7 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 1. If you want to download the results as a report to your local system, select **Export** on the top of the Audit search results page and choose **Downloads file**.
 
     ![](./media/audit-search-export.png)
+
+## Conclusion
+
+In conclusion, the integration of auditing capabilities within **Microsoft 365 Copilot** through the Microsoft Purview auditing solutions provides organizations with a powerful tool to enhance security, facilitate forensic investigations, conduct internal inquiries, and meet compliance obligations effectively. By configuring audit logging activities, organizations can define specific conditions for their searches, including date and time range, activities, and users. This allows for a targeted investigation into Copilot events, providing detailed insights into user interactions and file access. By leveraging auditing capabilities in **Microsoft 365 Copilot**, organizations can reinforce their commitment to data security, user privacy, and compliance. This integrated solution contributes to a robust security posture, empowering organizations to monitor and respond to user activities within Copilot effectively.
