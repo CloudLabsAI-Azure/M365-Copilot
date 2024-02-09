@@ -1,4 +1,4 @@
-# Exercise 7.3: Reviewing Security and Compliance in Copilot Using Customer Keys
+# Exercise 7.3: Reviewing Security and Compliance in Copilot Using Customer Keys (Read Only)
 
 ## Introduction
 
@@ -21,3 +21,9 @@ As with other Microsoft 365 services, such as eDiscovery and search, items encry
 Customer Key uses various encryption ciphers to encrypt keys as shown in the following figure:
 
 ![](./media/customer-key-encryption.png)
+
+## Conclusion
+
+In conclusion, the incorporation of **Customer Keys in Microsoft 365 Copilot** adds an extra layer of protection, fortifying data security and compliance measures. This exercise has elucidated the significance of Customer Keys in preventing unauthorized access to data, complementing existing security measures like BitLocker disk encryption and SSE in Microsoft data centers.
+
+The interoperability of items encrypted with Microsoft Purview Customer Key with **Copilot for Microsoft 365** underscores the seamless integration of security features across Microsoft 365 services. Overall, the utilization of Customer Keys reinforces the robustness of security protocols, contributing to a resilient and compliant environment within the **Microsoft 365** ecosystem.
