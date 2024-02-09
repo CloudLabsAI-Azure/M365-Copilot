@@ -1,16 +1,16 @@
-# Exercise 07: Reviewing Security and Compliance in Copilot Using eDiscovery
+# Exercise 07: Reviewing Security and Compliance in Copilot Using eDiscovery (Read Only)
 
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Using eDiscovery in M365 Copilot
 
 **Microsoft Purview eDiscovery (Standard)** provides a basic eDiscovery tool that organizations can use to search and export content in Microsoft 365 and Office 365, including **M365 Copilot**. You can also use eDiscovery (Standard) to place an eDiscovery hold on content locations, such as Exchange mailboxes, SharePoint sites, OneDrive accounts, and Microsoft Teams.
 
-When users within an organization leverage **Microsoft Copilot** to create prompt and response data, it may contain sensitive or confidential information, or evidence of intellectual property. Organizations need to have visibility and control over this data and be able to identify, preserve, collect, review and export it for legal, regulatory or data security investigation. That's why M**icrosoft Purview eDiscovery** provides support for **Microsoft 365 Copilot interactions.**
+When users within an organization leverage **Microsoft Copilot** to create prompt and response data, it may contain sensitive or confidential information, or evidence of intellectual property. Organizations need to have visibility and control over this data and be able to identify, preserve, collect, review and export it for legal, regulatory or data security investigation. That's why **Microsoft Purview eDiscovery** provides support for **Microsoft 365 Copilot interactions.**
 
 **eDiscovery** has the ability to help with search, discovery, preservation, review and export of Copilot interactions in Microsoft 365 across Word, Excel, PowerPoint, Teams to name a few. It ensures these Copilot conversations are discoverable and actionable through the regular eDiscovery process. It also provides the ability to filter for specific Copilot interactions in the query building experience to make it easier to scope the searches.
 
@@ -201,3 +201,9 @@ Now, you need to download the report from the Azure Storage area to your local c
     ![](./media/content-search-downloaded-report.png)
 
 1. Open the **Results.csv** file and go through the report.
+
+## Conclusion
+
+In conclusion, the use of **eDiscovery in Microsoft Copilot** through Microsoft Purview is an integral part of ensuring robust security and compliance measures within Microsoft 365. This exercise has guided users through the process of creating an eDiscovery case, implementing holds on relevant content locations, and performing searches tailored to their investigative needs.
+
+By following these steps, users are equipped with the knowledge and skills to leverage eDiscovery in **Microsoft Copilot** effectively, demonstrating a commitment to maintaining compliance, protecting sensitive data, and swiftly responding to legal or security requirements. The security and privacy principles inherent in **Microsoft Copilot** align with organizational needs, ensuring a balance between innovation and data governance.
