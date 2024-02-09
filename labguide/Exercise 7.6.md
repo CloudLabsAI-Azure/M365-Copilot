@@ -1,10 +1,10 @@
-# Exercise 7.6: Reviewing Security and Compliance in Copilot Using Content Search
+# Exercise 7.6: Reviewing Security and Compliance in Copilot Using Content Search (Read Only)
 
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Using Content Search in Microsoft 365 Copilot
 
@@ -136,3 +136,6 @@ Now, you need to download the report from the Azure Storage area to your local c
 
 1. Open the **Results.csv** file and go through the report.
 
+## Conclusion
+
+In conclusion, the utilization of **Content Search in Microsoft 365 Copilot** via the Microsoft Purview compliance portal serves as a powerful tool for organizations to uphold data security and compliance standards. This capability empowers users to search and analyze in-place content, including email, documents, and instant messaging conversations that involve interactions with **M365 Copilot**. By incorporating these practices into their routine operations, organizations can ensure effective data management, compliance with regulations, and swift response to security events. The privacy and security principles embedded in **Microsoft Copilot** remain intact, reinforcing a commitment to user privacy and data protection.
