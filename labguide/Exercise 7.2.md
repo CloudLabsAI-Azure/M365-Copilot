@@ -6,7 +6,7 @@
 
 Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
-## Using Data Classification in MS 365 Copilot
+## Using Data Classification in Microsoft 365 Copilot
 
 **Data classification** plays a critical role in helping businesses organize and safeguard their data. Sorting information by its level of sensitivity — like personally identifiable information or confidential records — lets organizations put in place tailored security measures against unauthorized intrusion and data leaks. Additionally, data classification enables businesses to comply with industry regulations and legal requirements by helping ensure that sensitive information is handled appropriately.
 
@@ -25,6 +25,8 @@ Before deploying Copilot, it is essential to prepare your data to maximize its e
 - **Engage stakeholders:** Involve key stakeholders, such as legal, compliance and IT teams, in the data preparation process. Their input will ensure the classification process aligns with regulatory requirements and organizational policies.
 
 - **Training and awareness:** Provide training and awareness sessions to users and administrators about the importance of data classification and how to effectively use Copilot. This approach will facilitate a smooth transition and increase user adoption. In addition, utilize organizational change management strategies to champion the process and educate the workforce on how data classification and sanitization can expedite Copilot’s ingestion of the data.
+
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of Data Classification in the Purview portal.
 
 ### Task 1: Using the Microsoft data classification dashboard
 
