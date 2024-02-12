@@ -61,6 +61,8 @@ The following information is displayed for each item on the **Pending** tab for 
 
 ### Using Communication Compliance in Microsoft 365 Copilot
 
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal.
+
 To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
