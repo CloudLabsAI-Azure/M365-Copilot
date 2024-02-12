@@ -14,6 +14,8 @@ For **Auditing in M365 Copilot**, details are captured when users interact with 
 
 ### Accessing the M365 Copilot Logs
 
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of auditing logs in the Purview portal.
+
 Copilot events can be accessed in the **Audit** solution from the **Microsoft Purview compliance portal**.
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the CloudLabs provided credentials.
