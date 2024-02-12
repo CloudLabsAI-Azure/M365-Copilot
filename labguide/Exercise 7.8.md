@@ -42,6 +42,8 @@ When the retention period expires and copies a message to the SubstrateHolds fol
 
 ### Creating and Configuring Retenetion Policies
 
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Retention Policies in the Purview portal.
+
 A **retention policy** lets you manage the data for your organization by deciding proactively whether to retain content, delete content, or retain and then delete the content very efficiently by assigning the same retention settings at the container level to be automatically inherited by content in that container. For example, retention policies for the location **Teams chats and Copilot interactions** include user prompts to **Microsoft Copilot for Microsoft 365**, and the Copilot responses to users. These messages can be retained and deleted for compliance reasons.
 
 To create a retention policy to for all the interactions with **Microsoft 365 Copilot**, follow the given steps:
@@ -52,7 +54,7 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
     ![](./media/retention-overview.png)
 
-1. Under **Retentionpolicies** tab, select **New retention policy** to start creating a new retention policy.
+1. Under **Retention policies** tab, select **New retention policy** to start creating a new retention policy.
 
     ![](./media/retention-policy-new.png)
 
