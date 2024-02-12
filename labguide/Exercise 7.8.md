@@ -1,4 +1,4 @@
-# Exercise 7.8: Reviewing Security and Compliance in Copilot using Retention Policies (Read Only)
+# Exercise 5.8: Reviewing Security and Compliance in Copilot using Retention Policies (Read Only)
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Exercise 2: Understanding M365 Copilot Architecture (Read Only)
+# Exercise 1: Understanding M365 Copilot Architecture (Read Only)
 
 ## Overview
 

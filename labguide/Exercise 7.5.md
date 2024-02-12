@@ -1,4 +1,4 @@
-# Exercise 7.5: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
+# Exercise 5.5: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
 
 ## Introduction
 

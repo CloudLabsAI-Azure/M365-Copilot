@@ -1,4 +1,4 @@
-# Exercise 4.2: Using Microsoft 365 Copilot in Outlook
+# Exercise 3.2: Using Microsoft 365 Copilot in Outlook
 
 ## Introduction
 

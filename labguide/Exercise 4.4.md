@@ -1,4 +1,4 @@
-# Exercise 4.4: Using Microsoft 365 Copilot in Excel
+# Exercise 3.4: Using Microsoft 365 Copilot in Excel
 
 ## Introduction
 

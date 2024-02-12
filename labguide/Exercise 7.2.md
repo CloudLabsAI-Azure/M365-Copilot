@@ -1,4 +1,4 @@
-# Exercise 7.2: Reviewing Security and Compliance in Copilot Using Data Classification (Read Only)
+# Exercise 5.2: Reviewing Security and Compliance in Copilot Using Data Classification (Read Only)
 
 ## Introduction
 

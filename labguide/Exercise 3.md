@@ -1,4 +1,4 @@
-# Exercise 3: Preparing for M365 Copilot Deployment
+# Exercise 2: Preparing for M365 Copilot Deployment
 
 In this exercise we will walkthrough a comprehensive journey, skillfully preparing users for the deployment of M365 Copilot through three interconnected tasks. Efficient collaboration and information management within an organization hinge on the meticulous organization of SharePoint sites. We will delve into the critical process of structuring SharePoint teams and files for optimal functionality and productivity. Through meticulous organization, SharePoint becomes a powerhouse for streamlined information retrieval and enhanced collaboration. By navigating through a structured "Finance" SharePoint site and leveraging the capabilities of Microsoft 365 Copilot, this exercise illuminates the importance of organized information architecture in driving organizational efficiency and productivity.
 

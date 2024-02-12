@@ -1,4 +1,4 @@
-# Exercise 4.6: Using Microsoft 365 Copilot in Loop
+# Exercise 3.6: Using Microsoft 365 Copilot in Loop
 
 ## Introduction
 

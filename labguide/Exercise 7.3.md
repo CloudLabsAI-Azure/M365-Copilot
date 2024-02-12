@@ -1,4 +1,4 @@
-# Exercise 7.3: Reviewing Security and Compliance in Copilot Using Customer Keys (Read Only)
+# Exercise 5.3: Reviewing Security and Compliance in Copilot Using Customer Keys (Read Only)
 
 ## Introduction
 

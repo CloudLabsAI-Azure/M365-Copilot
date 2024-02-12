@@ -1,4 +1,4 @@
-# Exercise 6: Manage Copilot
+# Exercise 4: Manage Copilot
 
 This exercise guides you through the process of managing Microsoft 365 Copilot licenses for users in your tenant through the Microsoft 365 Admin Center. You'll learn how to assign and remove licenses, manage Microsoft 365 Copilot services, and configure public web content access. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization.
 

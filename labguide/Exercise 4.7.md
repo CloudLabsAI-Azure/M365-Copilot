@@ -1,4 +1,4 @@
-# Exercise 4.7: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
+# Exercise 3.7: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
 
 ## Introduction
 
