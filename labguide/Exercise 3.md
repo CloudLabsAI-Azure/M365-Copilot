@@ -36,6 +36,8 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 
    - Click on the Finance Sharepoint site.
 
+      >**Note:** If the Finance SharePoint site isn't visible in your Frequent sites, please utilize the search box and enter "Finance" to locate it. 
+
       ![](./media/finance1.1.png)
 
    - Navigate to the "Site Contents" section, where you'll find pre-created document libraries arranged in an organized and structured manner.
@@ -80,9 +82,9 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 
 **Congratulations!** we emphasized the importance of organizing SharePoint sites for efficient collaboration and management of information within organizations. We explored the structured "Finance" SharePoint site, showcasing its document libraries and folders. Leveraging Microsoft 365 Copilot, we effortlessly retrieved specific details and even summarized data from files like the "February Payroll" report. By integrating organized SharePoint sites with Copilot's capabilities, organizations can streamline information retrieval, enhance collaboration, and optimize productivity across teams and departments.
 
-### Task 1.2: Explore Creating a New Team Site (Optional)
+### Task 1.2: Explore Creating a New Team Site (Read Only)
 
-In this optional task, we offer users the opportunity to create a collaborative workspace on SharePoint for team projects. This step-by-step guide empowers users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. Utilizing M365 Chat, users can explore the details present in a SharePoint team site and experiment with its functionalities at their discretion.
+In this Read Only task, we offer users the opportunity to create a collaborative workspace on SharePoint for team projects. This step-by-step guide empowers users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. Utilizing M365 Chat, users can explore the details present in a SharePoint team site and experiment with its functionalities at their discretion.
 
 - **Navigate to SharePoint:**
    - Go to the SharePoint homepage by clicking on the **SharePoint (2)** app or through the **Microsoft 365 app launcher (1)**.
@@ -109,7 +111,7 @@ In this optional task, we offer users the opportunity to create a collaborative 
       ![](./media/task3.2.5.png)
 
 - **Fill Site Information:**
-   - Provide the Site name as **Sales team**. Click **Next** to proceed.
+   - Provide the Site name as **Sales team - (Your Username)**. Click **Next** to proceed.
 
       ![](./media/task3.2.6.png)
 
@@ -121,7 +123,7 @@ In this optional task, we offer users the opportunity to create a collaborative 
 
       ![](./media/task3.2.8.png)
 
-### Task 1.3: Set Up Document Library for Monthly Reports
+### Task 1.3: Set Up Document Library for Monthly Reports (Read Only)
 
 - **Create Document Library**
    - Navigate to the left menu and click on **Site contents** then click on **+ New** and select **Document Library**.
@@ -135,7 +137,7 @@ In this optional task, we offer users the opportunity to create a collaborative 
 
       ![](./media/task3.3.3.png)
 
-### Task 1.4: Organize Monthly Reports
+### Task 1.4: Organize Monthly Reports (Read Only)
 
 - **Create Monthly Reports Folder:**
    - Inside the document library, click **New (1)** and choose **"Folder (2)"** Name it "Monthly Reports."
@@ -167,7 +169,7 @@ In this optional task, we offer users the opportunity to create a collaborative 
 
       ![](./media/task3.4.7.png)
 
-### Task 1.5: Using Copilot to analyze the data.
+### Task 1.5: Using Copilot to analyze the data. (Read Only)
 
 - **Navigate to Office Apps**
     - Go back to the home page of the [Office Apps](https://www.office.com/login?) and then click on **"Copilot"** to open the M365 copilot chat.

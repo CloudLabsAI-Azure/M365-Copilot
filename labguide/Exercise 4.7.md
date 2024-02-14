@@ -36,38 +36,20 @@ By incorporating Copilot's intelligence into the collaboration flow via chat in 
 
 To use **M365 Chat**, follow the below steps:
 
-1. Navigate to the [Microsoft 365](https://www.office.com/login?), click on **Outlook** icon to open Outlook web application.
-
-   ![](../labguide/media/M1.png)
-
-
-1. Compose a **New email** to yourself or another person.
-
-   ![](../labguide/media/M2.png)
-
-   - **To:** <inject key="AzureAdUserEmail"></inject>
-
-   - **Subject:** Bringing the joy and community of gaming to everyone
-
-   - On the **textbox** field, click on the **Insert** icon on the top bar and navigate to the **.........**, select, and open it.
-
-     ![](../labguide/media/M3.png)
-
-   - Click on **Send** it.
-
-     ![](../labguide/media/M4.png)
-
-
-1. Navigate back to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
+1. Navigate to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
 
    ![](../labguide/media/M5.png)
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **Can you provide me with the summary of the last email?**.
+1. Ask Copilot - **Find the email with the subject 'Assistance Needed: Setting Up New Laptop'**.
 
-   ![](../labguide/media/M6.png)
+   ![](../labguide/media/m365chat1.1.png)
 
 1. This will look like the following:
 
-   ![](../labguide/media/M7.png)
+   ![](../labguide/media/M365chat1.2.png)
+
+## Conclusion
+
+In conclusion, the integration of Microsoft 365 Copilot with M365 Chat revolutionizes how users access and interact with organizational data. By seamlessly embedding Copilot's AI capabilities into the collaboration flow, users can effortlessly retrieve information, automate tasks, and enhance teamwork efficiency. This powerful integration not only saves time but also fosters increased collaboration and knowledge sharing across teams, ultimately driving productivity and innovation within the organization.
