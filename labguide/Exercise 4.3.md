@@ -30,15 +30,28 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Open your **PowerPoint** and select **Copilot** on top of the screen.
 
+   ![](./media/ppt1.1.png)  
    ![](./media/ppt-copilot.png)
 
 1. Click **Create a presentation...** and provide your preferred topic and related information to draft your presentation.
 
    ![](./media/create-ppt-copilot.png)
 
+1. Imagine you need to create a PowerPoint presentation on Artificial Intelligence. You can provide Copilot with the following prompt, and it will generate a PowerPoint presentation for you.
+
+   ![](./media/ppt1.2.png)
+
 1. Alternatively, you can also choose **Create a presentation from file...** and attach a Word document as a reference and craft a presentation based on it.
 
    ![](./media/ppt-from-doc.png)
+
+1. Suppose you wish to convert a report, such as an Industry Analysis Report for Contoso LTD, into a presentation. You can provide Copilot with the following prompt.
+
+   ![](./media/ppt1.3.png)
+
+1. Copilot will craft an exceptional presentation from the report, complete with speaker notes.
+
+   ![](./media/ppt.14.png)
 
 Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
 
@@ -51,3 +64,7 @@ Add a slide about the use of Copilot in app development.
 ```
 Add an image related to encryption coding in slide number 4.
 ```
+
+## Conclusion:
+
+In conclusion, Microsoft 365 Copilot enhances the PowerPoint experience by simplifying the creation of impactful presentations. With its intuitive interface and AI-powered capabilities, Copilot streamlines the process of crafting slides, transforming concepts into visually compelling narratives. Whether starting from scratch or converting existing documents, Copilot empowers users to create professional presentations efficiently. By bridging the gap between idea and visual representation, Copilot elevates the quality and efficiency of PowerPoint presentations, ultimately enhancing communication and collaboration in the workplace.
