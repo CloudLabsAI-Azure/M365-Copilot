@@ -46,6 +46,7 @@ To use **M365 Chat**, follow the below steps:
 
    ![](../labguide/media/m365chat1.1.png)
 
+
 1. This will look like the following:
 
    ![](../labguide/media/M365chat1.2.png)
