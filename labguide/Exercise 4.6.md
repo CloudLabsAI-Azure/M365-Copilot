@@ -16,9 +16,11 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/office-page.png)
 
-1. Select **Apps** from the left pane and scroll down to select **Loop** from the apps list.
+1. Select **Apps** from the left pane and search for **Loop** in the search bar.
 
    ![](./media/office-apps-page.png)
+
+   ![](./media/loop-search.png)
 
 1. Select **+** icon to create a new workspace.
 
@@ -100,8 +102,12 @@ To use **Copilot in Loop**, follow the below steps:
 
 1. You will get the results on the page. If the results are not exactly what you are looking for, you can refine the results by using the box immediately below the response. Change the tone, format, or ask for a more specific subset of ideas.
 
-   ![](./media/loop-copilot-result.png)
+   ![](./media/loop-final.png)
 
    Let's say Copilot offers a result that includes a bulleted list that you don't want. You can remove them, add a few of your own, and even ask Copilot to convert the bulleted list into a table. 
 
 >**Note:** When crafting your prompts, provide context, be specific about what you want and use common language. With **Copilot**, you are always in control and if it doesn’t give you the right response the first time, revise and refine your prompts, then try again. **Remember that** AI generated content may be sensitive or factually incorrect. Be sure to verify the information, its sources, and use your judgment.
+
+## Conclusion
+
+In conclusion, **Copilot** is a powerful AI tool designed to automate tasks, enhance collaboration, and streamline workflows across various Microsoft 365 apps, including Loop. It helps in co-creating and planning by offering AI-powered contextual suggestions, making it easier to start or update a shared workspace. It aids in creating new content, brainstorming ideas, providing blueprints for best practices, or describing concepts in an easily understandable manner. Thus, **Microsoft 365 Copilot in Loop** is an invaluable tool for any organization, enhancing productivity and creativity while fostering effective team collaboration. Its intelligent assistance capabilities make it a continually evolving asset that can adapt to an organization's ever-changing needs.
