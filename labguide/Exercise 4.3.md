@@ -22,7 +22,7 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/365-homepage.png)
 
 1. Select **Apps** from the left pane and select **PowerPoint** from the apps list.
 
