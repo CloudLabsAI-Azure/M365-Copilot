@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Microsoft 365 Copilot",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabsAI-Azure/M365-Copilot/tree/main",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/UserGuide.md",
+       "Order": 1
+     }
+   ]
+ }
+]
