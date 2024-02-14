@@ -22,7 +22,7 @@ To use **Copilot in Outlook**, follow the below steps:
 
 1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/365-homepage.png)
 
 1. Select **Apps** from the left pane and select **Outlook** from the apps list.
 
