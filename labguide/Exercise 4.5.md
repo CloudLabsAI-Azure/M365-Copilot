@@ -30,38 +30,33 @@ To use **Copilot in Teams**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open **Teams** and go to any chat. You will find the **Copilot** icon on the bottom of the chatbox which will help you to rewrite a message or even select its tone and length.
+1. Open **Teams** and go to the chat with a user named as **Spektra Admin**.
+   
+    ![](./media/teams-chat.png)
 
-    ![](./media/copilot-teams-chat.png)
+1. The following screen will appear presenting a pre-built chat with **Spektra Admin**. You can use this chat to see the transformative capabilities of **Copilot in Teams**.
 
-    It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
+    ![](./media/chat-admin.png)
 
-1. **During a meeting**, Copilot can summarize key discussion points—including who said what and where people are aligned or disagree—and suggest action items, all in real-time.
+1. Select the **Copilot** icon from the top right corner to use Copilot on the provided chat.
 
-   ![](./media/copilot-in-meeting.png)
+    ![](./media/teams-chat-copilot.png)
 
-1. **After a meeting ends**, Select **Open Copilot** to see a summary of key points of discussion and identify agreed-upon next steps, including tasks assigned to specific people.
+1. Here you can provide prompts like listing actions points from the chat, summarizing the chat etc. as per your needs. A sample prompt is given below with the output delivered by **Copilot**.
 
-   Here are some of the prompts you can take help of to explore more on Copilot in Teams:
+    ![](./media/teams-copilot-use.png)
 
-   - **During a meeting:**
+   Some sample prompts include:
+   ```
+   List action points from the chat.
+   ```
+   ```
+   Summarise the chat.
+   ```
+   ```
+   On what points an agreement is reached?
+   ```
 
-      ```
-      Where do we disagree on this topic? 
-      ```
-      ```
-      What questions can I ask to move the meeting forward?
-      ```
-      ```
-      Create a table with the ideas discussed and their pros and cons.
-      ```
-   - **After a meeting:**
-      ```
-      What questions were asked, answered, and unresolved?
-      ```
-      ```
-      Summarize what people said, in a less technical way. 
-      ```
-      ```
-      What was the mood of the meeting?  
-      ```
+## Conclusion
+
+In conclusion, Copilot can significantly enhance the Teams user experience, promoting a more organized, productive, and effective communication environment. It can generate summaries of chat threads, identify key action points, and help users catch up on missed discussions efficiently. Furthermore, the tool empowers users to direct conversations confidently by suggesting potential questions to facilitate rich and inclusive discussions. It also aids in maintaining alignment within the team by summarizing key discussions and identifying next steps. Thus, **Microsoft 365 Copilot** is a valuable tool for any team-oriented setting, boosting productivity, enhancing engagement, and streamlining workflows.
