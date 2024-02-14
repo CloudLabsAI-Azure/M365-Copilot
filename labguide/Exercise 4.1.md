@@ -24,13 +24,17 @@ To use **Copilot in Word**, follow the below steps:
 
 1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/365-homepage.png)
 
 1. Select **Apps** from the left pane and select **Word** from the apps list.
 
    ![](./media/office-apps-page.png)
 
-1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide input as which you want the Copilot to execute and click on **Generate**.
+1. Select **Blank document** to open a new Word document.
+
+   ![](./media/word-blank.png)
+
+1. In the **Word** document, you will find the prompt **Draft with Copilot**. Provide input as which you want the Copilot to execute and click on **Generate**.
 
    ![](./media/draft-with-copilot-word.png)
 
