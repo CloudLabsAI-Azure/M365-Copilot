@@ -39,3 +39,12 @@ To use **Copilot in Outlook**, follow the below steps:
     >**Note:** You can also choose the length and tone of your output by clicking on the **Generate options** sign present on the bottom left of the box.
 
     >![](./media/generate-options-email.png)
+
+1. Imagine needing to compose an email to request time off. You can provide Copilot with the following prompt, and it will assist you in drafting the email.
+
+   ![](./media/outlook1.1.png)
+   ![](./media/outlook1.2.png)
+
+## Conclusion:
+
+In conclusion, Microsoft 365 Copilot revolutionizes email management and drafting in Outlook, enhancing productivity and communication efficiency. With features like Thread Summarize, users can quickly grasp the main points of lengthy email threads, improving understanding and decision-making. Additionally, the Draft with Copilot feature streamlines the email drafting process by offering intelligent suggestions based on the context provided, enabling users to compose emails faster and more effectively. By seamlessly integrating Copilot's AI capabilities into Outlook, Microsoft empowers users to manage their emails more efficiently, ultimately enhancing collaboration and productivity in the workplace.
