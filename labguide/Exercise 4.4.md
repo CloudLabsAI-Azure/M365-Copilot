@@ -30,13 +30,34 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
+1. Select **Blank Workbook** to open a new Excel workbook.
 
-   ![](./media/copilot-excel.png)
+    ![](./media/excel-blank.png)
 
-1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data, analysing the data and clicking on the **Send** icon.
+1. In the new **Excel** workbook , choose **Copilot** on top of the screen.
 
-   ![](./media/copilot-excel-extra.png)
+   ![](./media/excel-copilot.png)
+
+1. The **Copilot** popup will appear. As **Copilot in Excel** needs some data to work on it, select **Try and example** to get a sample table.
+
+    ![](./media/excel-example.png)
+
+1. Provide your input. You can you can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
+
+   ![](./media/excel-sample-prompt.png)
+
+   Some other sample prompts that you can provide are:
+   ```
+   Show suggestions for formula column.
+   ```
+   ```
+   How can I highlight, filter and sort data?
+   ```
+
+1. The following output appears showing the insights for the provided table.
+
+    ![](./media/excel-data-insights.png)
+
 
 Here are some of the prompts you can take help of to explore more on Copilot in Excel:
 
