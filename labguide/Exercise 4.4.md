@@ -38,7 +38,7 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/excel-copilot.png)
 
-1. The **Copilot** popup will appear. As **Copilot in Excel** needs some data to work on it, select **Try and example** to get a sample table.
+1. The **Copilot** popup will appear. As **Copilot in Excel** needs some data to work on it, select **Try an example** to get a sample table.
 
     ![](./media/excel-example.png)
 
