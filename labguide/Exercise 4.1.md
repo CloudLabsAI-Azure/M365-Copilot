@@ -30,7 +30,7 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide any input which you want the Copilot to execute and click on **Generate**.
+1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide input as which you want the Copilot to execute and click on **Generate**.
 
    ![](./media/draft-with-copilot-word.png)
 
@@ -55,9 +55,10 @@ To use **Copilot in Word**, follow the below steps:
 
 ## Referencing Existing Documents in Word
 
-You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
+You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document. You can also provide prompt like **Summarise the document /**
 
 ![](./media/reference-doc-word.png)
+![](./media/word1.1.png)
 
 Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
 
@@ -70,3 +71,7 @@ Summarize this document.
 ```
 Is there a call to action?
 ```
+
+## Conclusion: 
+
+In conclusion, Microsoft 365 Copilot transforms the document creation process in Word, enabling users to write faster, with confidence, and with creativity. By leveraging AI capabilities, Copilot assists in generating relevant and original content, enhancing productivity and quality. Whether starting from scratch or referencing existing documents, Copilot simplifies the writing process, providing users with valuable insights and suggestions. With its intuitive interface and seamless integration with Word, Copilot empowers users to create compelling and polished documents efficiently.
