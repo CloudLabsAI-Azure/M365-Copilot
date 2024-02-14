@@ -28,9 +28,17 @@ To use **Copilot in Outlook**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
+1. Open your **Outlook** and click on the email sent by **Spektra Admin**.
 
-   ![](./media/summary-copilot-outlook.png)
+   ![](./media/outlook-email.png)
+
+1. On the email thread, select **Summary by Copilot** to generate an entire summary of the chosen email thread.
+
+   ![](./media/outlook-summary.png)
+
+1. A summary like this will be presented to you.
+
+   ![](./media/outlook-summarized.png)
 
 1. You can also generate a complete email using **Copilot**. To do this, click on **New Email** and choose **Draft with Copilot** in the body. Provide an input and click on **Generate**.
 
