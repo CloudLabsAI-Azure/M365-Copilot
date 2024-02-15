@@ -2,7 +2,7 @@
 
 ## Overview
 
-At its core, Copilot for Microsoft 365 isn't merely a feature but an intelligent partner that seamlessly integrates into your daily Microsoft 365 interactions. Whether you're using Outlook, PowerPoint, Word, Excel, Teams, or other applications, Copilot aims to enhance your efficiency by generating content, providing relevant suggestions, and optimizing your processes.
+At its core, Copilot for Microsoft 365 isn't merely a feature, but an intelligent partner that seamlessly integrates into your daily Microsoft 365 interactions. Whether you're using Outlook, PowerPoint, Word, Excel, Teams, or other applications, Copilot aims to enhance your efficiency by generating content, providing relevant suggestions, and optimizing your processes.
 
 Microsoft Copilot for Microsoft 365 operates through a sophisticated architecture and prompt flow, ensuring that user inputs are not only understood but also generate tailored and contextually relevant responses. In this section, we'll explore the step-by-step process that Copilot follows, from the user prompt to the final response.
 
@@ -26,14 +26,14 @@ With a deep understanding of user context, Copilot doesn't just observe; it take
 
 Copilot for Microsoft 365 is designed to transform the way employees work in the digital age, offering features such as:
 
-- **Reduction in Digital Overload:** By combining LLMs with work content and context, Copilot tackles tasks and alleviates the burden of digital overload
+- **Reduction in Digital Overload:** By combining LLMs with work content and context, Copilot tackles tasks and alleviates the burden of digital overload.
 - **Enhanced Meeting Engagement:** Assisting users in staying more engaged in meetings and providing quick catch-ups for missed meetings, ensuring continuous participation.
 - **Efficient Email Management:** Summarizing lengthy email threads and aiding in drafting responses, streamlining email communication.
 - **Writing Assistance:** Transforming writing processes by drafting, editing, summarizing, and creating alongside users, enhancing document quality and efficiency.
 - **Presentation Development:** Simplifying the initiation of presentations with natural language commands, sparking creativity and idea generation.
 - **Data Analysis and Visualization:** Assisting in identifying trends, creating visualizations, and providing recommendations to simplify data analysis.
 - **Security and Compliance:** Ensuring comprehensive enterprise compliance and security controls for data protection and peace of mind.
-- **User Control:** Empowering users with control over AI suggestions, allowing modification or discard, emphasizing the human element in AI interaction.
+- **User Control:** Empowering users with control over AI suggestions, allowing modification or discard, and emphasizing the human element in AI interaction.
 
 ## Copilot's Architecture and Processing Flow: Step-by-Step
 
