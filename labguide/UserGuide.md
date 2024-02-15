@@ -108,49 +108,6 @@ The provided sandbox environment is meticulously equipped with comprehensive pri
 
 These represent only a fraction of the capabilities that can be attained. Feel free to delve deeper into additional features and offerings of **Microsoft Copilot for Microsoft 365**.
 
-## Redeeming a Voucher
-
-To redeem the voucher and access your lab, follow the given steps:
-
-1. Visit https://ms-sandbox.cloudlabs.ai
-
-1. Click on **Sign up or log in** button.
-
-    ![](./media/sandbox-homepage.png)
-
-1. You can use your work account for login/signup into the sandbox portal.
-
-1. Enter the work account **email id** and click on **Next**.
-
-    ![](./media/login-1.png)
-
-1. Enter the **Password** and click on **sign in**.
-
-    ![](./media/login-2.png)
-
-1. Once you are logged in, click on the **Redeem Code** tab, and enter your voucher code to redeem it.
-
-    ![](./media/redeem-code.png)
-
-1. Once you have redeemed the voucher, the course will be added to **My Learning** page.
-
-    ![](./media/voucher-sandboxlab.png)
-
-1. Navigate to **My Learning** section and find your course details under the **Ongoing Courses** and click on **Start**.
-
-    ![](./media/sandbox-course.png)
-
-1. Prior to initiating the lab, make sure to review the prerequisites and explore the features outlined in the KBYG document.
-
-1. To obtain access to the course, click on **Get started** button and click on **Launch**. The sandbox 
-will take about 10 minutes to get deployed. You can start your exploration once the sandbox is deployed.
-
-    ![](./media/launch-sandbox.png)
-
-1. If you run into any issue or have any questions, navigate to the top left corner, and click on **Support** button. Please share the information via email which will be routed to 24*7 support.
-
-    ![](./media/sandbox-support.png)
-
 ## Common Troubleshooting
 
 Here are few common issues and fix which you might encounter while performing the lab.
