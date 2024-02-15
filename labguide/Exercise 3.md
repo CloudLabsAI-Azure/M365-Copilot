@@ -1,6 +1,6 @@
 # Exercise 2: Preparing for M365 Copilot Deployment
 
-In this exercise we will walkthrough a comprehensive journey, skillfully preparing users for the deployment of M365 Copilot through three interconnected tasks. Efficient collaboration and information management within an organization hinge on the meticulous organization of SharePoint sites. We will delve into the critical process of structuring SharePoint teams and files for optimal functionality and productivity. Through meticulous organization, SharePoint becomes a powerhouse for streamlined information retrieval and enhanced collaboration. By navigating through a structured "Finance" SharePoint site and leveraging the capabilities of Microsoft 365 Copilot, this exercise illuminates the importance of organized information architecture in driving organizational efficiency and productivity.
+In this exercise, we will go through a comprehensive journey, skillfully preparing users for the deployment of M365 Copilot through three interconnected tasks. Efficient collaboration and information management within an organization hinge on the meticulous organization of SharePoint sites. We will delve into the critical process of structuring SharePoint teams and files for optimal functionality and productivity. Through meticulous organization, SharePoint becomes a powerhouse for streamlined information retrieval and enhanced collaboration. By navigating through a structured "Finance" SharePoint site and leveraging the capabilities of Microsoft 365 Copilot, this exercise illuminates the importance of organized information architecture in driving organizational efficiency and productivity.
 
 Safeguarding sensitive data is paramount for any organization's security and compliance efforts. We will also delve into the implementation of sensitivity labels using Microsoft Purview, a pivotal tool for categorizing and protecting data based on its level of confidentiality. By establishing sensitivity labels such as "Confidential" and "Highly Confidential," organizations can ensure that sensitive information is appropriately protected and accessed only by authorized personnel. This exercise provides a comprehensive guide to creating and publishing sensitivity labels, showcasing the integration of robust data protection measures within the organizational framework.
 
@@ -9,7 +9,7 @@ The Semantic Index stands at the forefront of Copilot for Microsoft 365, revolut
 
 ## Task 1: Organizing SharePoint Teams and Files
 
-Organizing your SharePoint site is crucial for efficient collaboration and information management within your organization. A well-organized and structured SharePoint site can help Microsoft 365 Copilot by making it easier to find and retrieve relevant information. When the site is organized and the content is properly tagged and categorized, it makes it easier for me to search and retrieve the information you need. This can help me provide you with more accurate and relevant responses to your queries. Additionally, a well-organized SharePoint site can help improve collaboration and productivity within your organization by making it easier for everyone to find and access the information they need.
+Organizing your SharePoint site is crucial for efficient collaboration and information management within your organization. A well-organized and structured SharePoint site can help Microsoft 365 Copilot by making it easier to find and retrieve relevant information. When the site is organized and the content is properly tagged and categorized, it makes it easier for me to search for and retrieve the information you need. This can help me provide you with more accurate and relevant responses to your queries. Additionally, a well-organized SharePoint site can help improve collaboration and productivity within your organization by making it easier for everyone to find and access the information they need.
 
 Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This site serves as a collaborative platform integrated with Microsoft 365, facilitating seamless document management and team collaboration.
 
@@ -17,7 +17,7 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 ### Task 1.1: Explore Finance SharePoint Site.
 
 - **Login to Microsoft 365:**
-   - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?). You will see the login screen, enter the username and click on **Next**. 
+   - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?). You will see the login screen. Enter the username and click **Next**. 
 
       ![](./media/task3.1.1.png)
 
@@ -32,7 +32,7 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 
    - Click on the Finance Sharepoint site.
 
-      >**Note:** If the Finance SharePoint site isn't visible in your Frequent sites, please utilize the search box and enter "Finance" to locate it. 
+      >**Note:** If the Finance SharePoint site isn't visible on your frequent sites, please utilize the search box and enter "Finance" to locate it. 
 
       ![](./media/finance1.1.png)
 
@@ -50,7 +50,7 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
    
       ![](./media/task3.5.1.png)
 
-   - Let's ask Copilot to fetch some details of the **Finance** sharepoint site. Please use the prompt below.
+   - Let's ask Copilot to fetch some details about the **Finance** SharePoint site. Please use the prompt below.
 
       >**Note**: The responses generated by Copilot in the provided examples can differ during your lab sessions.
 
@@ -60,7 +60,7 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
       
       ![](./media/finance1.4.png)
    
-   - We can also request Copilot to retrieve specific information about a file within the SharePoint site. Use the following prompt.
+   - We can also request the Copilot retrieve specific information about a file within the SharePoint site. Use the following prompt:
 
       ```
       Could you elaborate more on February Payroll?
@@ -68,10 +68,10 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 
       ![](./media/finance1.5.png)
 
-   - We can even ask Copilot regarding the Policies of our Organization from the **Human Resources** SharePoint site. Please use the following prompt.
+   - We can even ask Copilot about the policies of our Organization from the **Human Resources** SharePoint site. Please use the following prompt:
 
       ```
-      Create an FAQ based on Code of Conduct Policy.docx
+      Create an FAQ based on the Code of Conduct Policy.docx
       ```
 
       ![](./media/finance1.6.png)
@@ -80,7 +80,7 @@ Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This
 
 ### Task 1.2: Explore Creating a New Team Site (Read Only)
 
-In this Read Only task, we offer users the opportunity to create a collaborative workspace on SharePoint for team projects. This step-by-step guide empowers users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. Utilizing M365 Chat, users can explore the details present in a SharePoint team site and experiment with its functionalities at their discretion.
+In this Read-Only task, we offer users the opportunity to create a collaborative workspace on SharePoint for team projects. This step-by-step guide empowers users to organize a SharePoint site, establish a structured document library for monthly reports, and foster seamless collaboration among team members. Utilizing M365 Chat, users can explore the details present in a SharePoint team site and experiment with its functionalities at their discretion.
 
 - **Navigate to SharePoint:**
    - Go to the SharePoint homepage by clicking on the **SharePoint (2)** app or through the **Microsoft 365 app launcher (1)**.
@@ -102,12 +102,12 @@ In this Read Only task, we offer users the opportunity to create a collaborative
 
       ![](./media/task3.2.4.png)
    
-   - Click on **Use template**.
+   - Click on the **Use template** option.
 
       ![](./media/task3.2.5.png)
 
 - **Fill Site Information:**
-   - Provide the Site name as **Sales team - (Your Username)**. Click **Next** to proceed.
+   - Provide the site name as **Sales team - (Your Username)**. Click **Next** to proceed.
 
       ![](./media/task3.2.6.png)
 
@@ -122,7 +122,7 @@ In this Read Only task, we offer users the opportunity to create a collaborative
 ### Task 1.3: Set Up Document Library for Monthly Reports (Read Only)
 
 - **Create Document Library**
-   - Navigate to the left menu and click on **Site contents** then click on **+ New** and select **Document Library**.
+   - Navigate to the left menu and click on **Site contents**, then click on **+ New** and select **Document Library**.
 
       ![](./media/task3.3.1.png)
 
@@ -136,7 +136,7 @@ In this Read Only task, we offer users the opportunity to create a collaborative
 ### Task 1.4: Organize Monthly Reports (Read Only)
 
 - **Create Monthly Reports Folder:**
-   - Inside the document library, click **New (1)** and choose **"Folder (2)"** Name it **Monthly Reports**.
+   - Inside the document library, click **New (1)** and choose **"Folder (2)"**. Name it **Monthly Reports**.
 
       ![](./media/task3.4.1.png)
       
@@ -147,21 +147,21 @@ In this Read Only task, we offer users the opportunity to create a collaborative
 
       ![](./media/task3.4.3.png)
 
-   - On the left hand side corner you will find the **"Copilot"** icon, click on it to open the copilot chat. 
+   - On the left-hand side corner, you will find the **"Copilot"** icon. Click on it to open the copilot chat. 
 
       ![](./media/task3.4.4.png)
 
-   - On the coppilot chat click on **Try an example** to generate mock data for the excel workbook.
+   - On the Copilot chat, click on **Try an example** to generate mock data for the Excel workbook.
 
       ![](./media/task3.4.5.png)
 
       >**Note**: The responses generated by Copilot in the provided examples can differ during your lab sessions.
 
-   - Copilot will generate sample data for the excel similar to the below example.
+   - Copilot will generate sample data for the Excel similar to the below example.
 
       ![](./media/task3.4.6.png)
 
-   - Click on the excel workbook name **"Book(1)"** on the top left corner. Save the excel workbook as **Reports-data(2)** and then press **Enter**.
+   - Click on the Excel workbook named **"Book (1)"** in the top left corner. Save the Excel workbook as **Reports-data (2)** and then select **Enter**.
 
       ![](./media/task3.4.7.png)
 
@@ -173,30 +173,30 @@ In this Read Only task, we offer users the opportunity to create a collaborative
       ![](./media/task3.5.1.png)
 
 - **Analyze the data**
-    - In the chat box copy paste the below and ask the Copilot chat to summarize the data present in the **Reports-data** excel workbook and then press **Enter**
+    - In the chat box, copy and paste the below and ask the Copilot chat to summarize the data present in the **Reports-data** Excel workbook and then select **Enter**.
 
       ```
       Summarize the data present in /
       ```
       ![](./media/task3.5.2.png)
    
-   - Copilot will summarize the data present in the excel workbook and respond like shown in the example.
+   - Copilot will summarize the data present in the Excel workbook and respond as shown in the example.
      
       >**Note**: The responses generated by Copilot in the provided examples can differ during your lab sessions.
 
       ![](./media/task3.5.3.png)
 
-**Congratulations!** we navigated the process of preparing for M365 Copilot deployment by organizing SharePoint Teams and Files. We initiated the creation of a collaborative workspace on SharePoint, establishing a Team Site for the Sales team and configuring a Document Library for monthly reports. Utilizing M365 Copilot, we seamlessly generated mock data for an Excel workbook. Finally, we demonstrated the power of M365 Copilot by analyzing the data within the Excel workbook. By engaging with Copilot through the chat interface, we requested a summary of the data, showcasing how Copilot can assist in data analysis tasks. 
+**Congratulations!** We navigated the process of preparing for M365 Copilot deployment by organizing SharePoint Teams and Files. We initiated the creation of a collaborative workspace on SharePoint, establishing a Team Site for the Sales team and configuring a Document Library for monthly reports. Utilizing M365 Copilot, we seamlessly generated mock data for an Excel workbook. Finally, we demonstrated the power of M365 Copilot by analyzing the data within the Excel workbook. By engaging with Copilot through the chat interface, we requested a summary of the data, showcasing how Copilot can assist in data analysis tasks. 
 
 ## Task 2: Implementing Sensitivity Labels with Purview 
 
-Sensitivity labels are a way of categorizing and protecting your data based on its level of confidentiality and the impact to your business if it is leaked or misused. You can use sensitivity labels to apply metadata tags and encryption settings to your data sources, columns, tables, and files. Purview is a service that helps you manage and govern your data across your organization.
+Sensitivity labels are a way of categorizing and protecting your data based on its level of confidentiality and the impact on your business if it is leaked or misused. You can use sensitivity labels to apply metadata tags and encryption settings to your data sources, columns, tables, and files. Purview is a service that helps you manage and govern your data across your organization.
 
-CoPilot is a system that aids in the management and control of data within an organization. It can work in conjunction with Sensitivity Labels to classify and protect sensitive information. Sensitivity Labels are attributes that can be applied to documents and emails to classify them based on the content sensitivity. These labels can trigger protective actions like encryption or visual markings. Once a sensitivity label is applied to content, it stays with the content regardless of where it's stored or with whom it's shared.
+Copilot is a system that aids in the management and control of data within an organization. It can work in conjunction with Sensitivity Labels to classify and protect sensitive information. Sensitivity Labels are attributes that can be applied to documents and emails to classify them based on their content sensitivity. These labels can trigger protective actions like encryption or visual markings. Once a sensitivity label is applied to content, it stays with the content regardless of where it's stored or with whom it's shared.
 
 ### Understanding Sensitivity labels
 
-Sensitivity labels in Microsoft 365 allow organizations to classify and protect their sensitive content. Here's some information on what these labels represent in Contoso Ltd:
+Sensitivity labels in Microsoft 365 allow organizations to classify and protect their sensitive content. Here's some information on what these labels represent at Contoso Ltd:
 
 - **Confidential:**
 The **Confidential** sensitivity label is used when information is meant to be restricted to a specific group of people within an organization. This label is typically used for data such as employee records, internal policies, or strategic plans. Unauthorized disclosure of this information can lead to potential damage to the organization, but not to the same extent as that classified as **Highly Confidential**.
@@ -207,20 +207,20 @@ The **Highly Confidential** sensitivity label is assigned to the most sensitive 
 - **Internal:**
 The **Internal** sensitivity label is used for information that is not intended for public view but doesn't necessarily contain sensitive data. This could include internal newsletters, meeting minutes, or project plans. This label serves as a reminder to employees that the information should not be shared outside the organization, though its disclosure wouldn't cause significant harm.
 
-- **Public**
+- **Public:**
 The **Public** sensitivity label is applied to information that can be freely shared both inside and outside the organization. This information poses no risk if disclosed and is often intended for public consumption. Examples could include press releases, marketing materials, or public-facing reports.
 
    >**Note:** Remember, sensitivity labels are a tool for managing and protecting data, but they are most effective when combined with user education about data handling and security best practices.
 
 ### Task 2.1: Applying Sensitivity label to Documents.
 
-- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
+- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the application launcher. In the new tab, click on **Blank document**.
 
    ![](./media/label1.1.png)
 
    ![](./media/label1.2.png)
 
-- Let's ask Copilot to Summarise a document which has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
+- Let's ask Copilot to Summarize a document that has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
 
    ```
    Summarise the document /Industry Analysis Report for Contoso Ltd.docx
@@ -235,14 +235,14 @@ The **Public** sensitivity label is applied to information that can be freely sh
 
 In this task, you will learn how Purview is used to implement sensitivity labels for your data assets.
 
->**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and publishing Sensitivity Labels in the Purview portal.
+>**Note:** You are not expected to perform the following steps: This information is provided solely to give you an understanding of the process of creating and publishing Sensitivity Labels in the Purview portal.
 
 
-- Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) portal and from the left menu select **labels (1)** and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select **Turn on now (2)**. Once you do this, there can be a delay for the setting to propagate through the system.
+- Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) Portal, and from the left menu, select **labels (1)**. In the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select **Turn on now (2)**. Once you do this, there can be a delay for the setting to propagate through the system.
 
    ![](./media/exercise3(2.1).png)
 
-- On **Labels (1)** page, select **+ Create a label (2)**.
+- On the **Labels (1)** page, select **+ Create a label (2)**.
 
    ![](./media/exercise3(2.2).png)
 
@@ -256,15 +256,15 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 
    ![](./media/exercise3(2.3).png)
 
-- Note the scope for this label. The scope is set to Items. Read the description but don’t change anything. Select **Next** at the bottom of the page.
+- Please note the scope for this label, which is set to Items. Read the description carefully without making any changes. Then, proceed by selecting Next at the bottom of the page.
 
    ![](./media/exercise3(2.4).png)
 
-- On the **Choose protection settings for labeled items** select **Apply or remove encryption (1)** and **Apply content marking (2)**, then select **Next (3)**.
+- On the **Choose protection settings for labeled items**, select **Apply or remove encryption (1)** and **Apply content marking (2)**, then select **Next (3)**.
 
    ![](./media/exercise3(2.5).png)   
 
-- The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire. You can also assign permissions to specific users and groups By clicking on the **Assign permissions (1)**. On the Assign permissions blade, click on **+ Add users or groups (2)**.
+- The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the users' access to content is set to never expire. You can also assign permissions to specific users and groups by clicking on **Assign permissions (1)**. On the Assign Permissions blade, click on **+ Add users or groups (2)**.
 
    ![](./media/exercise3(2.6).png)
 
@@ -272,17 +272,17 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 
    ![](./media/exercise3(2.7).png)
 
-- You will be redirected to the **Assign Permission** page. Verify that the user is selected and click on **Save (2)**.
+- You will be redirected to the **Assign Permission** page. Verify that the user is selected, and click on **Save (2)**.
 
    ![](./media/exercise3(2.8).png)
 
-   >**Note:** Only selected users can interact with content that has this label applied. Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.
+   >**Note:** Only selected users can interact with content that has this label applied. Under users and groups, the tenant is defined, so all users in your tenant can view content that has this label.
 
-- Click Next on Encryption window.
+- Click Next on the Encryption window.
 
    ![](./media/exercise3(2.9).png)
 
-- On the content markings page, take note of the information box at the top of the page. Turn on the **Content Making (1)** and select the check box for **Add a watermark (2)**, **Add a header (3)** and **Add a footer (4)**.
+- On the content markings page, take note of the information box at the top of the page. Turn on **Content Making (1)** and select the check box for **Add a watermark (2)**, **Add a header (3)**, and **Add a footer (4)**.
 
    ![](./media/exercise3(2.10).png)
 
@@ -294,17 +294,17 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 
    ![](./media/exercise3(2.12).png)
 
-- Under **Add a footer**, click on **Customize text (1)**. Under Footer text, type **Confidential Document (2)** and click on **Save (3)**.
+- Under **Add a footer**, click on **Customize text (1)**. Under the Footer text, type **Confidential Document (2)** and click on **Save (3)**.
 
    ![](./media/exercise3(2.13).png)
 
-   >**Note**: Content markings will be applied to documents but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.
+   >**Note**: Content markings will be applied to documents, but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.
 
 - The content marking associated with this label is a watermark. Select Next at the bottom of the page.
 
    ![](./media/exercise3(2.14).png)
 
-- You are now in the Auto-labeling for files and emails window. Turn on the **Auto-labeling for files and emails (1)** and Read the description of auto-labelling on the top of the page and the information box below it and under Detect content that matches these conditions click on **+ Add condition (2)** from the drop-down select **Content contains (3)** then under Group name select **Add (4)** drop-down, select Sensitive info type and in Sensitive info type (5) window search for **Credit (6)** and select the **Credit card number (7)**, select **Add (8)** from the button, select **Next (9)** on the bottom of the page.
+- You are now in the Auto-labeling for files and emails window. Turn on the **Auto-labeling for files and emails (1)** and read the description of auto-labeling at the top of the page and the information box below it. Under Detect content that matches these conditions, click on **+ Add condition (2)** from the drop-down and select **Content contains (3)**. Next, Under Group name select the **Add (4)** drop-down, select Sensitive info type, and in the Sensitive info type (5) window search for **Credit (6)** and select the **Credit card number (7)**, select **Add (8)** from the button, select **Next (9)** on the bottom of the page.
 
    ![](./media/exercise3(2.15).png)
   
@@ -326,11 +326,11 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 
 The task aims to provide a streamlined method for publishing sensitivity labels to users. Users are guided through a series of steps within Microsoft Purview, specifically under Label policies. The objective is to make the selected labels, such as Confidential-Finance and Highly-Confidential, available to all users, ensuring consistent and standardized data protection measures.
 
-- In the Microsoft Purview. portal, under Solutions, expand Information protection and in the drop-down select **Label policies (1)** and click on **Publish label (2)**.
+- In the Microsoft Purview portal, under Solutions, expand Information protection. Next, in the drop-down, select **Label policies (1)** and click on **Publish label (2)**.
 
    ![](./media/exercise3(2.21).png)
 
-- Select **Choose sensitivity labels to publish (1)**. A window opens that provides information about the policy. Select **Confidential-Finance (2)** from the label and select **Add (3)**.
+- Select **Choose sensitivity labels to publish (1)**. A window opens that provides information about the policy. Select **Confidential-Finance (2)** from the label, and select **Add (3)**.
 
    ![](./media/exercise3(2.22).png)
 
@@ -350,7 +350,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](./media/exercise3(2.26).png)
 
-- Under the **Apply a Default label to documents**, don’t change any settings. Select **Next** at the bottom of the page.
+- Under **Apply a Default label to documents**, don’t change any settings. Select **Next** at the bottom of the page.
 
    ![](./media/exercise3(2.27).png)
 
@@ -370,29 +370,29 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](./media/exercise3(2.31).png)
 
-- Review the settings and click on **Submit** and then select **Done**.
+- Review the settings, click on **Submit**, and then select **Done**.
 
    ![](./media/exercise3(2.32).png)
   
    ![](./media/exercise3(2.33).png)
 
-- Back to **Label policies** blade and notice the newly published label.
+- Back to the **Label policies** blade, notice the newly published label.
 
    ![](./media/exercise3(2.34).png)
 
 ### Task 2.4: Applying a Sensitivity label to a Word document (Read Only)
 
--  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the **App launcher icon (1)**, on the Word select **Open context menu (2)** and select **Open in new tab (3)**.
+-  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the **App launcher icon (1)**, and on Word select **Open context menu (2)**, and select **Open in new tab (3)**.
 
    ![](./media/exercise3(2.35).png)
 
-- Select blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says **Document (1)**, and in the File Name box enter, **Test-label (2)** and press enter.
+- Select a blank document, then enter some text on the page. On the blue bar at the top of the page, select the down arrow next to where it says **Document (1)**, and in the File Name box, enter **Test-label (2)** and press enter.
 
    ![](./media/exercise3(2.36).png)
 
    >**Note:** In this step, we are creating a new Word document that will be utilized for applying a sensitivity lab.
 
-- From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
+- To access the desired option, navigate to the top menu bar and click on Sensitivity (1). (Note: If the option does not immediately appear, please be patient as it may take some time to load. Alternatively, you can try refreshing the page or signing out and signing back in). Once the Sensitivity option is visible, select Confidential-Finance (2) from the dropdown menu.
 
    ![](./media/exercise3(2.37).png)
 
@@ -416,7 +416,7 @@ This task has provided a clear walkthrough for implementing sensitivity labels i
 
 Microsoft technologies underpin **Copilot for Microsoft 365**, with a key role played by the Semantic Index. This vast knowledge graph, connecting billions of objects, concepts, and relationships, introduces a new dimension to data understanding within Microsoft 365.
 
-The Semantic Index for Copilot constructs an intricate map of your personal and company data, establishing important connections and identifying significant relationships. This design is much like the inner workings of the human brain. It goes beyond the confines of keyword search by interpreting and encoding the conceptual relationships between data elements. By analyzing your Microsoft Graph data - encompassing emails, documents, calendars, chats, and more - and working synergistically with LLMs, it delivers personalized, relevant, and actionable responses.
+The Semantic Index for Copilot constructs an intricate map of your personal and company data, establishing important connections and identifying significant relationships. This design is much like the inner workings of the human brain. It goes beyond the confines of keyword search by interpreting and encoding the conceptual relationships between data elements. By analyzing your Microsoft Graph data—encompassing emails, documents, calendars, chats, and more—and working synergistically with LLMs, it delivers personalized, relevant, and actionable responses.
 
 ## Key Features
 
@@ -425,14 +425,14 @@ The Semantic Index for Copilot constructs an intricate map of your personal and 
    - Security is paramount, ensuring that users only access data within their designated permissions.
 
 2. **Contextual Responses:**
-   - Leveraging individual and company data, Semantic Index enables Copilot to provide pertinent and actionable responses.
+   - Leveraging individual and company data, the Semantic Index enables Copilot to provide pertinent and actionable responses.
    - Through a secure and compliant process, it constructs a sophisticated map of relationships, respecting user privacy.
 
 ## How Copilot Uses Semantic Index
 
 1. **Vectorized Indices:**
    - Advances keyword matching with vectorized indices, fostering conceptual understanding.
-   - Multi-dimensional spaces facilitate semantic similarity, moving beyond rigid exact matches. These vectors enable Copilot to handle a broader set of search queries beyond “exact match.”
+   - Multi-dimensional spaces facilitate semantic similarity, moving beyond rigid, exact matches. These vectors enable Copilot to handle a broader set of search queries beyond “exact match.”
 
 2. **Semantic Search:**
    - Captures semantic meaning, comprehending relationships between diverse forms of words.
@@ -444,21 +444,21 @@ The Semantic Index for Copilot constructs an intricate map of your personal and 
 
 ## Semantic Relationships
 
-Microsoft's Semantic Index enables grounding through its predefined knowledge graph that contains billions of concepts interconnected by semantic relationships. A semantic relationship refers to a typed connection between two entities or concepts that encodes some meaningful association between them. The graph contains semantic data on people, places, organizations, products, concepts, and the relationships between them all. This graph provides the semantic "understanding" of words, phrases, and entities that Microsoft products use.
+Microsoft's Semantic Index enables grounding through its predefined knowledge graph, which contains billions of concepts interconnected by semantic relationships. A semantic relationship refers to a typed connection between two entities or concepts that encodes some meaningful association between them. The graph contains semantic data on people, places, organizations, products, concepts, and the relationships between them all. This graph provides the semantic "understanding" of words, phrases, and entities that Microsoft products use.
 
 The Semantic Index relies on a predefined knowledge graph that features various semantic relationships, such as "is-a," "part-of," "works-for," etc. These relationships enable Copilot to infer new knowledge, enriching language grounding and contextual understanding.
 
 - **"is-a":** Used for categorization or inheritance (e.g., "dog is-a mammal").
-- **"part-of":** Describes composition or properties of an entity (e.g., "wheel part-of car").
+- **"part-of":** Describes the composition or properties of an entity (e.g., "wheel is a part-of a car").
 - **"works-for":** Associates an employee with an employer (e.g., "John works-for Microsoft").
-- **"located-in":** Relates an entity to its geographic location (e.g., "Paris located-in France").
-- **"causes":** Connects a cause to an effect (e.g., "rain causes wet").
+- **"located-in":** Relates to an entity's geographic location (e.g., "Paris located-in France").
+- **"causes":** Connects a cause to an effect (e.g., "rain causes wetness").
 
-Semantic Index uses billions of these structured relationships between entities, concepts, and data to encode human-like understanding of the connections between things. This web of semantic relationships is what enables context and language grounding.
+The Semantic Index uses billions of these structured relationships between entities, concepts, and data to encode a human-like understanding of the connections between things. This web of semantic relationships is what enables context and language grounding.
 
 ## Customer Data and Security
 
-Semantic Index doesn't change a customer's data. It simply indexes an organization's Microsoft 365 data across Microsoft 365 apps. The permissions model within your Microsoft 365 tenant can help ensure that data doesn't unintentionally leak between users, groups, and tenants. The Semantic Index only presents data that each individual can access using the same underlying controls for data access used in other Microsoft 365 services. Semantic Index honors the user identity-based access boundary so that the grounding process only accesses content that the current user is authorized to access. Data generated by the Semantic Index remains within your company’s tenant, and complies with your security, compliance, identity, and privacy policies and processes. The Semantic Index works only with content to which your users already have permission and doesn't affect storage quotas.
+The Semantic Index doesn't change a customer's data. It simply indexes an organization's Microsoft 365 data across Microsoft 365 apps. The permissions model within your Microsoft 365 tenant can help ensure that data doesn't unintentionally leak between users, groups, and tenants. The Semantic Index only presents data that each individual can access using the same underlying controls for data access used in other Microsoft 365 services. Semantic Index honors the user identity-based access boundary so that the grounding process only accesses content that the current user is authorized to access. Data generated by the Semantic Index remains within your company’s tenant and complies with your security, compliance, identity, and privacy policies and processes. The Semantic Index works only with content to which your users already have permission and doesn't affect storage quotas.
 
 ## Benefits for Users
 
@@ -467,7 +467,7 @@ Semantic Index doesn't change a customer's data. It simply indexes an organizati
    - Contextualizes broad queries, interprets ambiguous instructions, and links concepts across domains.
 
 2. **Continuous Improvement:**
-   - New content is continually indexed. This action constantly expands the Semantic Index knowledge graph, which increases its ability to understand an ever growing number of objects, concepts, and the relationships between them. In doing so, Copilot for Microsoft 365's contextual comprehension continues to grow more powerful over time.
+   - New content is continually indexed. This action constantly expands the Semantic Index knowledge graph, which increases its ability to understand an ever-growing number of objects, concepts, and the relationships between them. In doing so, Copilot for Microsoft 365's contextual comprehension continues to grow more powerful over time.
 
 ## Incorporating Third-Party Information
 
