@@ -22,7 +22,7 @@ One of the goals of Copilot in Word is to simplify the creation and modification
 
 To use **Copilot in Word**, follow the below steps:
 
-1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
+1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
 
