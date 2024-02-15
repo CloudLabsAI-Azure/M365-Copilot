@@ -2,7 +2,7 @@
 
 Welcome to the Microsoft Copilot for Microsoft 365 Lab, an immersive exploration into the revolutionary world of AI-powered productivity. In this guide, we'll delve into the groundbreaking features of Microsoft Copilot, an upcoming AI-driven tool that promises to redefine the way we approach everyday tasks within the Microsoft 365 ecosystem.
 
-## Unleashing Creativity, Unlocking Productivity, and Up-leveling Skills
+## Unleashing Creativity, Unlocking Productivity, and Up-Leveling Skills
 
 ![](../labguide/media/intro1.1.png)
 
@@ -28,4 +28,4 @@ Throughout this lab guide, we'll explore real-world examples of Copilot for Micr
 
 ## Conclusion
 
-The aim of Copilot for Microsoft 365 is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot, and discover how AI can truly become an invaluable ally in your quest for professional excellence. 
+The aim of Copilot for Microsoft 365 is clear, it is to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot and discover how AI can truly become an invaluable ally in your quest for professional excellence. 
