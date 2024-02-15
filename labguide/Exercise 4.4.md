@@ -22,7 +22,7 @@ With **Copilot in Excel**, taking control of your data visualization and managem
 
 To use **Copilot in Excel**, follow the below steps:
 
-1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
+1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
 
