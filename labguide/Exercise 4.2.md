@@ -20,7 +20,7 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 To use **Copilot in Outlook**, follow the below steps:
 
-1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
+1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
 
