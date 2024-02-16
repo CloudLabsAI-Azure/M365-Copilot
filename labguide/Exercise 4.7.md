@@ -42,14 +42,29 @@ To use **M365 Chat**, follow the below steps:
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **Find the email with the subject 'Assistance Needed: Setting Up New Laptop'**.
+1. Ask Copilot - **What are the key points from this document:**. Then provide **/** and goto **Files** to select a file, say "Software Training Guide".
 
-   ![](../labguide/media/m365chat1.1.png)
+   ![](../labguide/media/copilot-chat-prompt.png)
 
 
-1. This will look like the following:
+1. This response will be presented as below:
 
-   ![](../labguide/media/M365chat1.2.png)
+   ![](../labguide/media/copilot-chat-answer.png)
+
+
+## Try Out Yourself
+
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the example prompts you can take help of to explore more on **Microsoft 365 Chat**. Besides these, you can also create your own prompts and interact with Copilot.
+
+```
+Summarize this document: /(document)
+```
+```
+Draft FAQs based on this file: /(file)
+```
+```
+List ideas for a fun remote team even for Contoso Ltd.
+```
 
 ## Conclusion
 
