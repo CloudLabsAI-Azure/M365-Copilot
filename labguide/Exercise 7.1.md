@@ -30,26 +30,9 @@ The **Public** sensitivity label is applied to information that can be freely sh
 
    >**Note:** Remember, sensitivity labels are a tool for managing and protecting data, but they are most effective when combined with user education about data handling and security best practices.
 
-### Task 1.1: Applying Sensitivity label to Documents.
-
-- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
-
-   ![](./media/label1.1.png)
-
-   ![](./media/label1.2.png)
-
-- Let's ask Copilot to Summarise a document which has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
-
-   ```
-   Summarise the document /Industry Analysis Report for Contoso Ltd.docx
-   ```
-
-   ![](./media/label1.3.png)
 
 
-   ![](./media/label1.4.png)
-
-### Task 1.2: How are sensitivity labels created in Microsoft Purview (Read Only)
+### Task 1.1: How are sensitivity labels created in Microsoft Purview (Read Only)
 
 In this task, you will learn how Purview is used to implement sensitivity labels for your data assets.
 
