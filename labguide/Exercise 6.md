@@ -72,6 +72,22 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
 1. If you want to **Turn apps and services on or off**, uncheck any of the apps and services and click **Save**.
  
    ![](../labguide/media/M17.png)
+   
+   Given below are the features of each of the following services of **Microsoft 365 Copilot**:
+
+    - **Graph Connectors in Microsoft 365 Copilot:** These connectors enable Copilot to access data from **Microsoft Graph**, a cloud-based service that provides a unified programmability model to access data in Microsoft 365. This feature allows Copilot to source information from a wide range of Microsoft services and apps, enriching its responses with contextually relevant data.
+
+    - **Intelligent Search:** This feature uses AI technology to streamline the process of searching for information across Microsoft 365 apps. Instead of merely returning results based on keywords, Intelligent Search understands the context of the search query, providing more relevant results. It can also suggest answers to questions or direct users to specific documents or data points.
+
+    - **Microsoft 365 Chat:** **Microsoft 365 Copilot** enhances the chat experience by providing real-time assistance. It can generate responses to questions, provide suggestions, and even automate certain tasks within the chat. This feature can help streamline communications and increase productivity.
+
+    - **Microsoft 365 Copilot in Teams:** In Teams, Copilot can help summarize key points in a conversation, suggest next steps, and even help with meeting notes. This feature can keep you updated and organized, and enhance the efficiency of teamwork by turning conversations into actions.
+
+    - **Microsoft 365 Copilot in Productivity Apps:** Copilot is integrated with productivity apps like Word, Excel, PowerPoint, and more. It can provide suggestions, automate tasks, and even generate content based on user input. In PowerPoint, for example, it can help design slides, while in Word it can help draft and edit documents.
+
+    - **Power Platform Connectors in Microsoft 365 Copilot:** These connectors allow Copilot to interact with the **Power Platform**, a suite of tools including Power Apps, Power Automate, Power BI, and Power Virtual Agents. This enables the AI to access data, perform operations, or trigger workflows within these tools, further enhancing its capabilities and the range of tasks it can help automate.
+
+    Together, these features make **Microsoft 365 Copilot** a powerful tool that can significantly enhance productivity and simplify workflows in an organization.
 
 ### Task 2: Public web content access (Read Only)
 
