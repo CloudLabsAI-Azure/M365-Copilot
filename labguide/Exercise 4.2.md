@@ -50,8 +50,9 @@ To use **Copilot in Outlook**, follow the below steps:
 
 1. Imagine needing to compose an email to request time off. You can provide Copilot with the following prompt, and it will assist you in drafting the email.
 
-   ![](./media/outlook1.1.png)
-   ![](./media/outlook1.2.png)
+   ![](./media/draft-email.png)
+   
+   ![](./media/drafted-email.png)
 
 ## Conclusion:
 
