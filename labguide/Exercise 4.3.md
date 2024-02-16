@@ -55,7 +55,7 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 ## Try Out Yourself
 
-You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the prompts you can take help of to explore more on **Copilot in PowerPoint**:
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the example prompts you can take help of to explore more on **Copilot in PowerPoint**. Besides these, you can also create your own prompts and interact with Copilot.
 
 ```
 Create a presentation on the use of Copilot in Contoso Ltd. as an IT Consultancy.
