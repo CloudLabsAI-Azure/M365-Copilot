@@ -60,7 +60,7 @@ To use **Copilot in Excel**, follow the below steps:
 
 ## Try Yourself Out
 
-You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the prompts you can take help of to explore more on **Copilot in Excel**:
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the example prompts you can take help of to explore more on **Copilot in Excel**. Besides these, you can also create your own prompts and interact with Copilot.
 
 ```
 Analyze this quarter's business results and summarize three key trends.
