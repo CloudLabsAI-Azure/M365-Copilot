@@ -5,6 +5,8 @@ This exercise guides you through the process of managing Microsoft 365 Copilot l
 
 ## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center (Read Only)
 
+>**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
+
 ### Task 1.1: Assign Copilot licenses to the user
 
 Follow these steps to assign a Copilot license for an existing user from the admin center:

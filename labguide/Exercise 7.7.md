@@ -14,7 +14,7 @@ After you run a search, the number of content locations and an estimated number 
 
 When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as Word, PowerPoint, Excel, OneNote, Loop, or Whiteboard), data about these interactions is stored. The stored data includes the user's prompt, how Copilot responded, and information used to ground Copilot's response. **For example**, this stored data provides users with Copilot interaction history in Microsoft Copilot with Graph-grounded chat and meetings in Microsoft Teams. This data is processed and stored in alignment with contractual commitments with your organization’s other content in Microsoft 365. The data is encrypted while it's stored and isn't used to train foundation LLMs, including those used by **Microsoft Copilot for Microsoft 365**.
 
->**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Content Search in the Purview portal.
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Content Search in the Purview portal. Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
 ### Task 1: Creating and running a Search
 

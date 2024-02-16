@@ -30,6 +30,7 @@ The **Public** sensitivity label is applied to information that can be freely sh
 
    >**Note:** Remember, sensitivity labels are a tool for managing and protecting data, but they are most effective when combined with user education about data handling and security best practices.
 
+   >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
 
 ### Task 1.1: How are sensitivity labels created in Microsoft Purview (Read Only)
@@ -181,35 +182,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](./media/exercise3(2.34).png)
 
-### Task 1.4: Applying a Sensitivity label to a Word document
 
--  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the **App launcher icon (1)**, on the Word select **Open context menu (2)** and select **Open in new tab (3)**.
-
-   ![](./media/exercise3(2.35).png)
-
-- Select blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says **Document (1)**, and in the File Name box enter, **Test-label (2)** and press enter.
-
-   ![](./media/exercise3(2.36).png)
-
-   >**Note:** In this step, we are creating a new Word document that will be utilized for applying a sensitivity lab.
-
-- From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
-
-   ![](./media/exercise3(2.37).png)
-
-    >**Note:** The sensitivity bar makes it easy for you to see what label is applied to your file, and to apply or change a label whenever you need to, including when saving the file. Just select the sensitivity bar in the save dialog to see the labelling options for this file.
-
-    >**Note**: Applying a sensitivity label helps secure data by abstracting sensitive content.
-
-- From the top menu bar, select **View (1)**, then select **Reading view (2)**.
-
-   ![](./media/exercise3(2.38).png)
-
-   >**Note:** Reading view allows you to observe how the document includes a watermark, a visual indication of the document's sensitivity level.
-
-- Notice how the document includes the watermark.
-
-   ![](./media/exercise3(2.39).png)
 
 This task has provided a clear walkthrough for implementing sensitivity labels in Microsoft Purview, enabling users to categorize and safeguard data based on confidentiality. The guided steps cover label creation, encryption configuration, content marking, and automated labeling, fostering a strong understanding of data protection. Customization options for watermarks, headers, and footers enhance security measures. Demonstrating practical application, the task integrates sensitivity labels seamlessly into Word documents, emphasizing their importance in real-world scenarios. The subsequent label publishing and application steps ensure consistent and standardized data protection, contributing to a robust organizational data governance framework.
 

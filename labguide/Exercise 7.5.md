@@ -61,7 +61,7 @@ The following information is displayed for each item on the **Pending** tab for 
 
 ### Using Communication Compliance in Microsoft 365 Copilot
 
->**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal.
+>**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal. Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
 To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
 
