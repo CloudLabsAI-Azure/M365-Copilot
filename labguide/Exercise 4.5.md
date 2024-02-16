@@ -10,11 +10,11 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 In Teams, **Copilot for Microsoft 365** elevates the efficiency of teamwork, facilitating seamless conversations and more productive meetings. It helps keep you updated with discussions, summarizing key actions, and organizing focal points of conversations to promote a streamlined workflow within your team.
 
-## **Enhancing Teams Chat Experience**
+## Enhancing Teams Chat Experience
 
 In chat threads, **Copilot in Teams** can help users get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads. Users can ask Copilot to generate a summary of the chat conversation over a recent time period they specify (Copilot provides prompts for the past day, seven days, or 30 days). Copilot can also draft an email to the meeting participants that summarizes the meeting and includes the action items. Overall, Copilot in Teams is a powerful tool that can help users stay organized and productive in their online meetings and conversations.
 
-## **Harness meeting insights**
+## Harness meeting insights
 
 **Copilot in Teams** furnishes you with a succinct summary of the missed discussions, empowering you to catch up swiftly. You can utilize the suggested prompts or craft your personalized questions to garner essential insights about the ongoing meeting context, enhancing your engagement and comprehension.
 
@@ -46,16 +46,60 @@ To use **Copilot in Teams**, follow the below steps:
 
     ![](./media/teams-copilot-use.png)
 
-   Some sample prompts include:
-   ```
-   List action points from the chat.
-   ```
-   ```
-   Summarise the chat.
-   ```
-   ```
-   On what points an agreement is reached?
-   ```
+## Utilizing Copilot in Meetings
+
+Here you will see the practical utility and capabilities of the **M365 Copilot** in a real-world context. You'll conduct a meeting and a chat conversation with your colleagues, using the M365 Copilot to streamline and summarize these interactions. The goal is to gain hands-on experience with the tool and understand its potential to enhance productivity and communication within your organization.
+
+- ### Scheduling a Meeting
+
+    To schedule a meeting in Microsoft Teams with your colleagues, follow the given steps:
+
+    1. Select **Calender** from the left pane. Choose **New Meeting** from the top right corner.
+
+    1. A  new page will open where you can add a title to your meeting, add required attendees, select the date and time and add any other required information.
+
+        Give a name to your meeting and add your colleagues by typing their usernames in the appropriate box, and choose your favourable time slot.
+
+        ![](./media/setup-meeting.png)
+
+    1. Select **Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+
+        ![](./media/meeting-setup.png)
+
+    1. To start the meeting, click on the invite and select **Join**.
+
+- ### Utilizing M365 Copilot during the Meeting
+
+    To utilise the capabilities of **Microsoft 365 Copilot** in a meeting, follow the given steps:
+
+    1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+
+    1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
+
+        ![](./media/action-items.png)
+
+        ![](./media/takeup-questions.png)
+
+    1. Review the Meeting Summary by asking Copilot to provide a summary of the meeting when it's about to end, which will highlight key points, decisions, and action items.
+
+        ![](./media/summary-meeting.png)
+
+        Share the summary with others who may have missed the meeting.
+
+## Try Out Yourself
+
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. For this, ask the username of one of your colleagues and search his/her name on the search bar present on top of the screen. Chat with him/her and then, you can use the following example prompts or prvide your own prompts to the Copilot:
+
+```
+List action points from the chat.
+```
+```
+Summarise the chat.
+```
+```
+On what points an agreement is reached?
+```
+
 
 ## Conclusion
 
