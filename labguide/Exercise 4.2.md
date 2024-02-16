@@ -51,8 +51,19 @@ To use **Copilot in Outlook**, follow the below steps:
 1. Imagine needing to compose an email to request time off. You can provide Copilot with the following prompt, and it will assist you in drafting the email.
 
    ![](./media/draft-email.png)
-   
+
    ![](./media/drafted-email.png)
+
+## Try Yourself Out
+
+You can also try your own scenarios and examples out to analyse the functioning of Copilot. Here are some of the example prompts which you can take help of to explore more on **Copilot in Outlook**. Besides these, you can also create your own prompts and interact with Copilot.
+
+```
+Write an email congratulating my team on the end of the fiscal year.
+```
+```
+Draft an email asking your manager for your planned leaves.
+```
 
 ## Conclusion:
 
