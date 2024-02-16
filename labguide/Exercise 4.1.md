@@ -65,7 +65,7 @@ You can also link an external Word document present in your **OneDrive account**
 ## Try Out Yourself
 
 You can also try your own scenarios and examples out to analyse the functioning of Copilot.
-Here are some of the prompts which you can take help of to explore more on **Copilot in Word**.
+Here are some of the example prompts which you can take help of to explore more on **Copilot in Word**. Besides these, you can also create your own prompts and interact with Copilot.
 
 - **For Creating New Documents:**
 

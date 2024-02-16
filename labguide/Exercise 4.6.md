@@ -32,11 +32,25 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/loop-page.png)
 
-1. Provide a heading to your page and in body section, type **"/"** and select **Copilot** from the drop-down menu.
+1. Provide a heading to your page and in body section, type **"/"** and select **Draft page content** from the drop-down menu.
 
    ![](./media/loop-copilot.png)
 
-1. **Copilot** offers suggested prompts you can choose, or you can type your own. To stay inspired and in your flow, **Copilot** can generate additional ideas for you.
+1. The Copilot prompt-box will appear where you can give prompts to let Copilot do the things for you. For instance, you can provide the prompt - `Draft a project plan on marketing campaign that includes goals, target audience, marketing channels, budget, timeline, and key performance indicators (KPIs).`  to create a project plan for you with the necessary details.
+
+   ![](./media/loop-plan.png)
+
+1. You will get the results on the page. If the results are not exactly what you are looking for, you can refine the results by using the box immediately below the response. Change the tone, format, or ask for a more specific subset of ideas.
+
+   ![](./media/loop-final-2.png)
+
+   Let's say Copilot offers a result that includes a bulleted list that you don't want. You can remove them, add a few of your own, and even ask Copilot to convert the bulleted list into a table. 
+
+>**Note:** When crafting your prompts, provide context, be specific about what you want and use common language. With **Copilot**, you are always in control and if it doesn’t give you the right response the first time, revise and refine your prompts, then try again. **Remember that** AI generated content may be sensitive or factually incorrect. Be sure to verify the information, its sources, and use your judgment.
+
+## Try Out Yourself
+
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. **Copilot** offers suggested prompts you can choose, or you can type your own. To stay inspired and in your flow, **Copilot** can generate additional ideas for you.
 
    You will find 4 options to start with:
 
@@ -97,16 +111,6 @@ To use **Copilot in Loop**, follow the below steps:
       ```
       Describe how to prepare for a job interview for the role of AI Developer for Contoso Ltd., an IT Consultancy.
       ```
-
-   >**Note:** You can also type your own prompt in the text box and click **Send** to get the results.
-
-1. You will get the results on the page. If the results are not exactly what you are looking for, you can refine the results by using the box immediately below the response. Change the tone, format, or ask for a more specific subset of ideas.
-
-   ![](./media/loop-final.png)
-
-   Let's say Copilot offers a result that includes a bulleted list that you don't want. You can remove them, add a few of your own, and even ask Copilot to convert the bulleted list into a table. 
-
->**Note:** When crafting your prompts, provide context, be specific about what you want and use common language. With **Copilot**, you are always in control and if it doesn’t give you the right response the first time, revise and refine your prompts, then try again. **Remember that** AI generated content may be sensitive or factually incorrect. Be sure to verify the information, its sources, and use your judgment.
 
 ## Conclusion
 
