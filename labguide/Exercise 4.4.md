@@ -26,21 +26,29 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/365-homepage.png)
 
-1. Select **Apps** from the left pane and select **Excel** from the apps list.
+1. Select **Apps** from the left pane and search for **SharePoint** from the apps list. Select it.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/sharepoint.png)
 
-1. Select **Blank Workbook** to open a new Excel workbook.
+1. You will be navigated to the **SharePoint** homepage.  Select **Marketing Department** to go to the site of Marketing department.
 
-    ![](./media/excel-blank.png)
+   ![](./media/marketing-dept.png)
 
-1. In the new **Excel** workbook , choose **Copilot** on top of the screen.
+1. From the left pane, select **Site Contents** and then, choose **Strategy Library** folder.
 
-   ![](./media/excel-copilot.png)
+   ![](./media/str-libr-page.png)
 
-1. The **Copilot** popup will appear. As **Copilot in Excel** needs some data to work on it, select **Try an example** to get a sample table.
+1. Double-click to open **Market Research** folder and select **Campaign Awareness.xlsx**.
 
-    ![](./media/excel-example.png)
+   ![](./media/camp-awareness-page.png)
+
+1. Your excel file will open containing the data.
+
+1. In the new **Excel** workbook, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+
+   ![](./media/camp-aware-sheet.png)
+
+1. The **Copilot** popup will appear.
 
 1. Provide your input. You can you can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
 
