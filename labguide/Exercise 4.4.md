@@ -58,8 +58,9 @@ To use **Copilot in Excel**, follow the below steps:
 
     ![](./media/excel-data-insights.png)
 
+## Try Yourself Out
 
-Here are some of the prompts you can take help of to explore more on Copilot in Excel:
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the prompts you can take help of to explore more on **Copilot in Excel**:
 
 ```
 Analyze this quarter's business results and summarize three key trends.

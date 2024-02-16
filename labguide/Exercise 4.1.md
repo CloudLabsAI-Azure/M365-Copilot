@@ -34,12 +34,42 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/word-blank.png)
 
-1. In the **Word** document, you will find the prompt **Draft with Copilot**. Provide input as which you want the Copilot to execute and click on **Generate**.
+1. In the **Word** document, you will find the prompt **Draft with Copilot**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
 
-   ![](./media/draft-with-copilot-word.png)
+   ![](./media/draft-with-copilot-word-2.png)
 
-    Examples of sample inputs include:
-    ```
+1. It will create a document on the given topic with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
+
+   ![](./media/document-created.png)
+
+   ![](./media/keep-it-word-2.png)
+
+    >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
+
+    >![](./media/copilot-icon-word.png)
+
+## Referencing Existing Documents in Word
+
+You can also link an external Word document present in your **OneDrive account** and generate output based on that. To do so, follow the given steps:
+
+1. On the **Draft with Copilot** screen, choose **Reference your content** and select the preferred document. You can also provide prompt like **Summarise the document /**
+
+   ![](./media/reference-doc-word.png)
+
+   ![](./media/word1.1.png)
+
+1. A summary of the chosen document will be presented as shown.
+
+   ![](./media/summary-doc.png)
+
+## Try Out Yourself
+
+You can also try your own scenarios and examples out to analyse the functioning of Copilot.
+Here are some of the prompts which you can take help of to explore more on **Copilot in Word**.
+
+- **For Creating New Documents:**
+
+   ```
     Write an essay about Microsoft 365.
     ```
     ```
@@ -49,32 +79,17 @@ To use **Copilot in Word**, follow the below steps:
     List the technologies used in app development in a bulleted format.
     ```
 
-1. It will create a document on that topic of interest with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
+- **For Referencing Old Documents:**
 
-   ![](./media/keep-it-word.png)
-
-    >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
-
-    >![](./media/copilot-icon-word.png)
-
-## Referencing Existing Documents in Word
-
-You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document. You can also provide prompt like **Summarise the document /**
-
-![](./media/reference-doc-word.png)
-![](./media/word1.1.png)
-
-Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
-
-```
-What are the key points in this doc?
-```
-```
-Summarize this document.
-```
-```
-Is there a call to action?
-```
+   ```
+   What are the key points in this doc?
+   ```
+   ```
+   Summarize this document.
+   ```
+   ```
+   Is there a call to action?
+   ```
 
 ## Conclusion: 
 

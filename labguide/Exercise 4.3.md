@@ -51,9 +51,11 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Copilot will craft an exceptional presentation from the report, complete with speaker notes.
 
-   ![](./media/ppt.14.png)
+   ![](./media/ppt-created.png)
 
-Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
+## Try Out Yourself
+
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the prompts you can take help of to explore more on **Copilot in PowerPoint**:
 
 ```
 Create a presentation on the use of Copilot in Contoso Ltd. as an IT Consultancy.
@@ -67,4 +69,4 @@ Add an image related to encryption coding in slide number 4.
 
 ## Conclusion:
 
-In conclusion, Microsoft 365 Copilot enhances the PowerPoint experience by simplifying the creation of impactful presentations. With its intuitive interface and AI-powered capabilities, Copilot streamlines the process of crafting slides, transforming concepts into visually compelling narratives. Whether starting from scratch or converting existing documents, Copilot empowers users to create professional presentations efficiently. By bridging the gap between idea and visual representation, Copilot elevates the quality and efficiency of PowerPoint presentations, ultimately enhancing communication and collaboration in the workplace.
+In conclusion, **Microsoft 365 Copilot** enhances the PowerPoint experience by simplifying the creation of impactful presentations. With its intuitive interface and AI-powered capabilities, Copilot streamlines the process of crafting slides, transforming concepts into visually compelling narratives. Whether starting from scratch or converting existing documents, Copilot empowers users to create professional presentations efficiently. By bridging the gap between idea and visual representation, Copilot elevates the quality and efficiency of PowerPoint presentations, ultimately enhancing communication and collaboration in the workplace.
