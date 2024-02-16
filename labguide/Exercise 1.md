@@ -45,6 +45,12 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 - [Exploring Microsoft Copilot Lab](#exploring-microsoft-copilot-lab)
 - [Try Out Your Organizational Use Cases with M365 Copilot Capabilities](#try-out-your-organizational-use-cases-with-m365-copilot-capabilities)
 
+## Scenario
+
+**Contoso Ltd.**, a leading IT Consultancy firm, is always in search of ways to improve its efficiency and productivity. To achieve this, they've decided to incorporate **Microsoft Copilot for Microsoft 365** into their operations. With its extensive range of features and the ability to streamline tasks, automate workflows, and enhance collaboration, Contoso is confident that Copilot will be a game-changer.
+
+As part of the lab, you've been given access to Contoso's Microsoft 365 environment to test and demonstrate the capabilities of **Microsoft 365 Copilot**. You have the access to Contoso's data present in various SharePoint sites, namely Human Resource, Marketing and Finance, which you will utilize in future in the lab. You also have been provided the access to Teams environment as an employee of the **Contoso Ltd.** By the end of this lab, you'll have a thorough understanding of how **Microsoft 365 Copilot** can transform an organization's productivity and efficiency, just as it's doing for **Contoso Ltd**.
+
 
 ## The AI-Employee Collaboration Advantage
 
