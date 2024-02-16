@@ -6,7 +6,7 @@
 
 Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for **Microsoft Copilot for Microsoft 365**:
 
-## Task 2: Implementing Sensitivity Labels with Purview 
+## Task 1: Implementing Sensitivity Labels with Purview 
 
 Sensitivity labels are a way of categorizing and protecting your data based on its level of confidentiality and the impact to your business if it is leaked or misused. You can use sensitivity labels to apply metadata tags and encryption settings to your data sources, columns, tables, and files. Purview is a service that helps you manage and govern your data across your organization.
 
@@ -30,7 +30,7 @@ The **Public** sensitivity label is applied to information that can be freely sh
 
    >**Note:** Remember, sensitivity labels are a tool for managing and protecting data, but they are most effective when combined with user education about data handling and security best practices.
 
-### Task 2.1: Applying Sensitivity label to Documents.
+### Task 1.1: Applying Sensitivity label to Documents.
 
 - Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
 
@@ -49,7 +49,7 @@ The **Public** sensitivity label is applied to information that can be freely sh
 
    ![](./media/label1.4.png)
 
-### Task 2.2: How are sensitivity labels created in Microsoft Purview (Read Only)
+### Task 1.2: How are sensitivity labels created in Microsoft Purview (Read Only)
 
 In this task, you will learn how Purview is used to implement sensitivity labels for your data assets.
 
@@ -140,7 +140,7 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 
    ![](./media/exercise3(2.20).png)
 
-### Task 2.3: Publish sensitivity label (Read Only)
+### Task 1.3: Publish sensitivity label (Read Only)
 
 The task aims to provide a streamlined method for publishing sensitivity labels to users. Users are guided through a series of steps within Microsoft Purview, specifically under Label policies. The objective is to make the selected labels, such as Confidential-Finance and Highly-Confidential, available to all users, ensuring consistent and standardized data protection measures.
 
@@ -198,7 +198,7 @@ The task aims to provide a streamlined method for publishing sensitivity labels 
 
    ![](./media/exercise3(2.34).png)
 
-### Task 2.4: Applying a Sensitivity label to a Word document (Read Only)
+### Task 1.4: Applying a Sensitivity label to a Word document
 
 -  Navigate back to the [Microsoft Purview](https://compliance.microsoft.com/homepage) home page, select the **App launcher icon (1)**, on the Word select **Open context menu (2)** and select **Open in new tab (3)**.
 
