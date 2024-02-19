@@ -113,5 +113,25 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
 
 All admin setting updates may take up to 24 hours to reflect any changes.
 
+- ### End-user Action Required
+
+Once the admin provides access to let **M365 Copilot** access content from the web, the user need to manually turn it on as well. Follow the given steps below to allow the access to the web content for the Copilot:
+
+1. Navigate to `https://www.office.com` and sign in using the **CloudLabs provided credentials**. Select **Copilot** icon from the left pane.
+
+    ![](../labguide/media/office-page.png)
+
+1. On the page of **M365 Copilot Chat**, select the icon for **Plugins**.
+
+    ![](../labguide/media/copilot-plugins.png)
+
+1. You will see a toggle for the plugin **Web Content** which is set off by default. Turn this toggle **ON**. Once it's ON, it allows Copilot to access web-based resources to improve its functionality and suggestions.
+
+    ![](../labguide/media/web-content-toggle.png)
+
+    Your Microsoft 365 Copilot Chat can, now, utilize web to display the responses to you.
+
+>**Note:** If you turn off web access from the admin center, this control is disabled. However, if you enable web access, you must enable this toggle as well to allow web access for the Copilot.
+
 ## Conclusion: 
 By the end of this exercise, you'll be well-equipped to manage Microsoft 365 Copilot licenses within your organization. You'll understand how to assign and remove these licenses for users and how to enable or disable specific Copilot services based on your organization's needs. Additionally, you'll learn how to configure Copilot's ability to reference web content, enhancing its utility and the end-user experience. Remember, changes to the admin settings may take up to 24 hours to reflect. This knowledge will allow you to effectively manage and tailor the Copilot experience to best suit your organizational requirements.
