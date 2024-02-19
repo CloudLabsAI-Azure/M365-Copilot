@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work, to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -12,14 +12,14 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 For example, within a SharePoint site dedicated to a specific project, users can use natural language in M365 Chat to ask questions or make requests such as:
 
-"Copilot, show me my most recent draft documents related to this customer project"
+"Copilot, show me my most recent draft documents related to this customer project."
 
 "Copilot, who has presented proposals to our largest customer in the last 6 months?"  
 
 
 Copilot can then query connected services such as SharePoint, Exchange, Teams, and more via Microsoft.
 
-"Copilot, set up a meeting for the project team next Wednesday at 2 pm to discuss our timeline."
+"Copilot, set up a meeting for the project team next Wednesday at 2 p.m. to discuss our timeline."
 
 Copilot can then query connected services such as SharePoint, Exchange, Teams, and others via Microsoft Graph to provide answers and recommendations tailored to the user's specific M365 dataset and context. This includes surfacing relevant documents, conversations, employee insights, and calendar availability.
 
@@ -36,13 +36,13 @@ By incorporating Copilot's intelligence into the collaboration flow via chat in 
 
 To use **M365 Chat**, follow the below steps:
 
-1. Navigate to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
+1. Navigate to the home page of [Microsoft 365](https://www.office.com/login?), and click on the **Copilot** icon to open the Copilot chat application.
 
    ![](../labguide/media/M5.png)
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **Find the email with the subject 'Assistance Needed: Setting Up New Laptop'**.
+1. Ask Copilot: **Find the email with the subject 'Assistance Needed: Setting Up a New Laptop'**.
 
    ![](../labguide/media/m365chat1.1.png)
 
