@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work, to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -14,7 +14,7 @@ In **Excel**, **Copilot for Microsoft 365** is your data analysis companion, mak
 
 With **Copilot in Excel**, analyzing business data becomes a seamless experience. As soon as you input your datasets into Excel, Copilot stands ready to transform these complex figures into comprehensible insights.
 
-Beyond standard data analysis, Copilot crafts a coherent narrative from the patterns it identifies, ensuring a smooth transition from raw data to meaningful understanding. This process allows your key findings to become powerful drivers in making informed business decisions.
+Beyond standard data analysis, Copilot crafts a coherent narrative from the patterns it identifies, ensuring a smooth transition from raw data to meaningful understanding. This process allows your key findings to become powerful drivers for making informed business decisions.
 
 ## **Transforming Data in Excel**
 
@@ -22,7 +22,7 @@ With **Copilot in Excel**, taking control of your data visualization and managem
 
 To use **Copilot in Excel**, follow the below steps:
 
-1. Open **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
+1. Open the **Microsoft 365** application and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
 
@@ -42,33 +42,33 @@ To use **Copilot in Excel**, follow the below steps:
 
     ![](./media/excel-example.png)
 
-1. Provide your input. You can you can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
+1. Provide your input. You can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
 
    ![](./media/excel-sample-prompt.png)
 
    Some other sample prompts that you can provide are:
    ```
-   Show suggestions for formula column.
+   Show suggestions for the formula column.
    ```
    ```
-   How can I highlight, filter and sort data?
+   How can I highlight, filter, and sort data?
    ```
 
-1. The following output appears showing the insights for the provided table.
+1. The following output appears, showing the insights for the provided table.
 
     ![](./media/excel-data-insights.png)
 
 
-Here are some of the prompts you can take help of to explore more on Copilot in Excel:
+Here are some of the prompts you can use to explore more on Copilot in Excel:
 
 ```
 Analyze this quarter's business results and summarize three key trends.
 ```
 ```
-Sort data by launch date.
+Sort the data by the launch date.
 ```
 ```
-Change the table style to light gray,
+Change the table style to light gray.
 ```
 ```
 Create a pivot table where the row is category, the column is supplier, and the values represent the sum of the minimum reorder quantity.
