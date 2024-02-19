@@ -42,11 +42,29 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/camp-awareness-page.png)
 
-1. Your excel file will open containing the data.
-
-1. In the new **Excel** workbook, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+1. Your excel file will open containing the data, Select **File** tab. 
 
    ![](./media/camp-aware-sheet.png)
+
+   ![](./media/file-tab.png)
+
+   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
+
+1. Select **Save As** and choose **Save a Copy** to save a copy of the **Campaign Awareness Report** in your own OneDrive.
+
+   ![](./media/save-copy.png)
+
+1. You can provide your preferred name to the file you will save to your personal **OneDrive** account in the **File name** textbox. Select **Location** to set the location of the saved copy of the file to your personal **OneDrive** account. Choose **More save locations**.
+
+   ![](./media/save-locations.png)
+
+1. Select **My Files** from the left pane and select **Save Here** to save the copy of the file to your personal **OneDrive** account.
+
+   ![](./media/save-here.png)
+
+1. Your new **Excel** workbook will open that you saved by your preferred name, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+
+   ![](./media/camp-aware-copilot.png)
 
 1. The **Copilot** popup will appear.
 
@@ -65,6 +83,20 @@ To use **Copilot in Excel**, follow the below steps:
 1. The following output appears showing the insights for the provided table.
 
     ![](./media/excel-data-insights.png)
+
+1. You can also add a new column in your report by providing Copilot the necessary information regarding the column. For instance, ask Copilot to `Add a column called 'Engagement Rate' that divides the number of Engaged Users by the total number of Users Targeted and display the result as a percentage.` in the prompt-box and send it.
+
+   ![](./media/excel-prompt2.png)
+
+1. The **Copilot** would provide you the formula that it used for creating the column you asked. Select **Insert column** to insert the column based on the same formula.
+
+   ![](./media/engagement-rate.png)
+
+1. The new column named **Engagement Rate** will be addded to your table as shown below:
+
+   ![](./media/modified-table.png)
+
+   It exemplifies the simplicity of transforming your data with **Copilot in Excel**. 
 
 ## Try Out Yourself
 
