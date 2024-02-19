@@ -1,5 +1,7 @@
 # Exercise 1: Understanding M365 Copilot Architecture (Read Only)
 
+>**Note:** The following exercise is Read-Only to let you understand the architecture of **M365 Copilot** and to get well-versed with its features and the transformative actions it can take.
+
 ## Overview
 
 At its core, Copilot for Microsoft 365 isn't merely a feature but an intelligent partner that seamlessly integrates into your daily Microsoft 365 interactions. Whether you're using Outlook, PowerPoint, Word, Excel, Teams, or other applications, Copilot aims to enhance your efficiency by generating content, providing relevant suggestions, and optimizing your processes.
