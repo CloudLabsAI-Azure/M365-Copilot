@@ -1,4 +1,4 @@
-## Exercise 3.2: Understand Semantic Index (Read Only)
+## Exercise 2.2: Understand Semantic Index (Read Only)
 
 Microsoft technologies underpin **Copilot for Microsoft 365**, with a key role played by the Semantic Index. This vast knowledge graph, connecting billions of objects, concepts, and relationships, introduces a new dimension to data understanding within Microsoft 365.
 

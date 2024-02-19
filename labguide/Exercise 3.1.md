@@ -1,4 +1,4 @@
-# Exercise 3.1: Preparing for M365 Copilot Deployment
+# Exercise 2.1: Preparing for M365 Copilot Deployment
 
 In this exercise we will walkthrough a comprehensive journey, skillfully preparing users for the deployment of M365 Copilot through three interconnected tasks. Efficient collaboration and information management within an organization hinge on the meticulous organization of SharePoint sites. We will delve into the critical process of structuring SharePoint teams and files for optimal functionality and productivity. Through meticulous organization, SharePoint becomes a powerhouse for streamlined information retrieval and enhanced collaboration. By navigating through a structured "Finance" SharePoint site and leveraging the capabilities of Microsoft 365 Copilot, this exercise illuminates the importance of organized information architecture in driving organizational efficiency and productivity.
 
@@ -6,10 +6,10 @@ In this exercise we will walkthrough a comprehensive journey, skillfully prepari
 
 Organizing your SharePoint site is crucial for efficient collaboration and information management within your organization. A well-organized and structured SharePoint site can help Microsoft 365 Copilot by making it easier to find and retrieve relevant information. When the site is organized and the content is properly tagged and categorized, it makes it easier for me to search and retrieve the information you need. This can help me provide you with more accurate and relevant responses to your queries. Additionally, a well-organized SharePoint site can help improve collaboration and productivity within your organization by making it easier for everyone to find and access the information they need.
 
-Let's explore the "Finance" SharePoint site we have set up for Contoso Ltd. This site serves as a collaborative platform integrated with Microsoft 365, facilitating seamless document management and team collaboration.
+Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites serves as a collaborative platform integrated with Microsoft 365, facilitating seamless document management and team collaboration.
 
 
-### Task 1.1: Explore Finance SharePoint Site.
+### Task 1.1: Explore SharePoint Sites.
 
 - **Login to Microsoft 365:**
    - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?). You will see the login screen, enter the username and click on **Next**. 
