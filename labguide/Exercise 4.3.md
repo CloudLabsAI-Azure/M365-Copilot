@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work, to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -53,7 +53,7 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
    ![](./media/ppt.14.png)
 
-Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
+Here are some of the prompts you can use to explore more on Copilot in PowerPoint:
 
 ```
 Create a presentation on the use of Copilot in Contoso Ltd. as an IT Consultancy.
@@ -62,7 +62,7 @@ Create a presentation on the use of Copilot in Contoso Ltd. as an IT Consultancy
 Add a slide about the use of Copilot in app development.
 ```
 ```
-Add an image related to encryption coding in slide number 4.
+Add an image related to encryption coding on slide number 4.
 ```
 
 ## Conclusion:
