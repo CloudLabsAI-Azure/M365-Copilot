@@ -11,19 +11,19 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
 1. Go to [Microsoft 365 Admin Center](https://admin.microsoft.com/) and sign in with your admin credentials.
 
-1. From the left side navigation pane, click on **Users (1)** and then choose **Active users (2)**.
+1. From the left side navigation pane, click on **Users (1)**, and then choose **Active Users (2)**.
 
     ![](../labguide/media/M8.png)
 
-1.  In the Active Users page, search or find the user you want to manage the Copilot license. Click on the user.
+1.  In the Active Users page, search for or find the user you want to manage the Copilot license. Click on the user.
 
     ![](../labguide/media/active-users.png)
 
-1. On the user's profile page, on the right side click on **Licenses and apps** to go to their license details.
+1. On the user's profile page, on the right side, click on **Licenses and apps** to go to their license details.
 
     ![](../labguide/media/user-licenses.png)
 
-1. To assign, expand the **Licenses (1)** section, select the boxes for the licenses that you want to assign, then select **Save changes (3)**.
+1. To assign, expand the **Licenses (1)** section, select the boxes for the licenses that you want to assign, and then select **Save changes (3)**.
 
    >**Note:** In this case, we have already assigned the licences to the account.
 
@@ -31,7 +31,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
  All license changes are saved automatically after you make an assignment change.
 
-### Task 1.2: Remove a Copilot licenses
+### Task 1.2: Remove Copilot licenses
 
 To remove an already assigned Copilot license:
 
@@ -53,7 +53,7 @@ Now the user's Copilot license assignment status will be updated.
 
 Microsoft 365 Copilot comes with different services that can be enabled or disabled as per your preferences. This can be configured from the Microsoft 365 Admin Center.
 
-1. log in to [Microsoft 365 Admin Center](admin.microsoft.com).
+1. Login to [Microsoft 365 Admin Center](admin.microsoft.com).
 
 1. Go to **Billing (1)** > **Licenses (2)**.
 
