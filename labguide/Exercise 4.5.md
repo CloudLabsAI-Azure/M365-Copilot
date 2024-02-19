@@ -88,7 +88,7 @@ Here you will see the practical utility and capabilities of the **M365 Copilot**
 
 ## Try Out Yourself
 
-You can also try out your own scenarios and examples to analyse the functioning of Copilot. For this, ask the username of one of your colleagues and search his/her name on the search bar present on top of the screen. Chat with him/her and then, you can use the following example prompts or prvide your own prompts to the Copilot:
+You can also try out your own scenarios and examples to analyse the functioning of Copilot. For this, ask the username of one of your colleagues and search his/her name on the search bar present on top of the screen. Chat with him/her and then, you can use the following example prompts or provide your own prompts to the Copilot:
 
 ```
 List action points from the chat.
