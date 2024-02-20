@@ -14,7 +14,7 @@ In a world where the pace of work often surpasses our ability to keep up, **Copi
 
 ## About the Sandbox
 
-Using this environment, you'll be able to explore complete features and offerings offered by **Microsoft Copilot for Microsoft 365**. Please find the detailed overview of the sandbox environment below.
+Using this environment, you'll be able to explore the complete features and offerings offered by **Microsoft Copilot for Microsoft 365**. Please find a detailed overview of the sandbox environment below.
 
 Pre-provisioned virtual machine and resources:
 
@@ -22,7 +22,7 @@ Pre-provisioned virtual machine and resources:
 like Virtual networks, Network security groups, managed disks, Network interface cards, and 
 IP addresses are deployed as part of the automation.
 
-    This virtual machine is tailored and configured to the sandbox's specifications. Few SharePoint Sites, data files, applications, packages, and OS configurations are all pre-configured, you can further customize it as per your need. It is recommended that you use the same virtual machine throughout the sandbox.
+    This virtual machine is tailored and configured to the sandbox's specifications. Few SharePoint Sites, data files, applications, packages, and OS configurations are all pre-configured; you can further customize it as per your needs. It is recommended that you use the same virtual machine throughout the sandbox.
 
 ## Licenses
 
@@ -32,7 +32,7 @@ IP addresses are deployed as part of the automation.
 
 ## Azure Credits
 
-You have been given Azure credit limit of $190 USD which includes the running cost of pre-deployed Azure resources, license cost, and other resources deployed while running through the sandbox.
+You have been given an Azure credit limit of $190 USD, which includes the running cost of pre-deployed Azure resources, license costs, and other resources deployed while running through the sandbox.
 
 ## Alerts
 
@@ -43,37 +43,37 @@ allocated Azure Credit are reached: at **50%, 75%, 90%, 95%, and 100%** utilizat
 
 ## Cost Monitoring
 
-To monitor and analyse your Azure credit spend, you can navigate to the Azure Subscription page by following the steps mentioned below:
+To monitor and analyze your Azure credit spend, you can navigate to the Azure Subscription page by following the steps mentioned below:
 
-1. From Azure portal home page, search for **Subscriptions (1)** using the search bar and select the same from the suggestions.
+1. From the Azure portal home page, search for **Subscriptions (1)** using the search bar and select the same from the suggestions.
 
-1. Select **Cost analysis** tab from the **Cost Management** pane. You can access a comprehensive breakdown of your Azure spending, offering a granular view of costs associated with various services, and resources.
+1. Select the **Cost analysis** tab from the **Cost Management** pane. You can access a comprehensive breakdown of your Azure spending, offering a granular view of costs associated with various services, and resources.
 
 ## Duration of the Sandbox:
 
-- The sandbox environment will be active for **30 days/720 hours** from the time of registration.
+- The sandbox environment will be active for **30 days or 720 hours** from the time of registration.
 
-- The maximum allowed virtual machine uptime is only 150 hours. It is recommended to deallocate the virtual machine while not in use.
+- The maximum allowed virtual machine uptime is only 150 hours. It is recommended to deallocate the virtual machine while it is not in use.
 
 ## VM Idle Start/Stop:
 
-The virtual machine is set up with a custom feature called Idle start/stop. This custom package will check the virtual machine's idleness every 2 hours/120 minutes. If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 10 minutes, the virtual machine will shut down automatically.This feature is enabled for virtual machines to optimize Azure costs.
+The virtual machine is set up with a custom feature called idle start/stop. This custom package will check the virtual machine's idleness every 2 hours. If the virtual machine is left idle for over 2 hours, a pop-up window will appear, prompting you to respond. If you do not act within 10 minutes, the virtual machine will shut down automatically. This feature is enabled for virtual machines to optimize Azure costs.
 
 ## Deletion of the Sandbox
 
-When 100% of Azure credits are spent, the sandbox environment will get automatically deleted without any prior notification. To retain the environment for a longer period and to get the most out of the environment, please follow the best practices mentioned below.
+When 100% of Azure credits are spent, the sandbox environment will be automatically deleted without any prior notification. To retain the environment for a longer period and to get the most out of the environment, please follow the best practices mentioned below.
 
 ## Best Practices
 
 1. **Resources usage:** Please stop the virtual machines and other resources when not in use to minimize the Azure spend.
 
-1. **Alert notifications:** Make sure to check your registered email's inbox for any alert-related mails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
+1. **Alert notifications:** Make sure to check your registered email's inbox for any alert-related mail. Alerts give you the opportunity to head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
 
 ## Sandbox Use Cases
 
-The provided sandbox environment is meticulously equipped with comprehensive privileges, resources, pre-configured accounts, and requisite licenses, all tailored to facilitate and enhance your exploration of the **Microsoft Copilot for Microsoft 365**. This carefully curated environment is designed to empower users like yourself to delve into the intricacies of the **Microsoft Copilot for Microsoft 365** with optimal support and efficiency. Here are few of the concepts that can be explored utilizing this sandbox environment.
+The provided sandbox environment is meticulously equipped with comprehensive privileges, resources, pre-configured accounts, and requisite licenses, all tailored to facilitate and enhance your exploration of the **Microsoft Copilot for Microsoft 365**. This carefully curated environment is designed to empower users like yourself to delve into the intricacies of the **Microsoft Copilot for Microsoft 365** with optimal support and efficiency. Here are a few of the concepts that can be explored utilizing this sandbox environment.
 
-- Understand the architecture and features of Microsoft 365 Copilot
+- Understand the architecture and features of Microsoft 365 Copilot.
 
 - Utilize Copilot to work on the file structure present in various SharePoint Sites of Contoso Ltd.
 
@@ -104,9 +104,9 @@ The provided sandbox environment is meticulously equipped with comprehensive pri
 
 - Using Copilot Lab for learning the Copilot prompts and finding Power Prompts - those phrases you share with Copilot that accelerate your productivity.
 
-- Demonstrating the practical utility and capabilities of the M365 Copilot in a real-world in Teams.
+- Demonstrating the practical utility and capabilities of the M365 Copilot in a real-world scenario in Teams.
 
-These represent only a fraction of the capabilities that can be attained. Feel free to delve deeper into additional features and offerings of **Microsoft Copilot for Microsoft 365**.
+These represent only a fraction of the capabilities that can be attained. Feel free to delve deeper into the additional features and offerings of **Microsoft Copilot for Microsoft 365**.
 
 ## Redeeming a Voucher
 
@@ -114,36 +114,36 @@ To redeem the voucher and access your lab, follow the given steps:
 
 1. Visit https://ms-sandbox.cloudlabs.ai
 
-1. Click on **Sign up or log in** button.
+1. Click on the **Sign up or log in** button.
 
-1. You can use your work account for login/signup into the sandbox portal.
+1. You can use your work account to login or sign up for the Sandbox portal.
 
 1. Enter the work account **email id** and click on **Next**.
 
-1. Enter the **Password** and click on **sign in**.
+1. Enter the **Password** and click **sign in**.
 
 1. Once you are logged in, click on the **Redeem Voucher** tab, and enter your voucher code to redeem it.
 
-1. Once you have redeemed the voucher, the course will be added to **My Learning** page.
+1. Once you have redeemed the voucher, the course will be added to the **My Learning** page.
 
-1. Navigate to **My Learning** Section.
+1. Navigate to the **My Learning** Section.
 
-1. Find your course details under the Courses and click on **Start**.
+1. Find your course details under the Courses tab, and click on **Start**.
 
 1. Prior to initiating the lab, make sure to review the prerequisites and explore the features outlined in the KBYG document.
 
-1. To obtain access to the course, click on **Get started** button and click on **Launch**. The sandbox 
+1. To obtain access to the course, click on the **Get started** button and click on **Launch**. The sandbox 
 will take about 10 minutes to get deployed. You can start your exploration once the sandbox is deployed.
 
-1. If you run into any issue or have any questions, navigate to the top left corner, and click on **Support** button. Please share the information via email which will be routed to 24*7 support.
+1. If you run into any issues or have any questions, navigate to the top left corner, and click on the **Support** button. Please share the information via email, which will be routed to 24*7 support.
 
 ## Common Troubleshooting
 
-Here are few common issues and fix which you might encounter while performing the lab.
+Here are a few common issues and fixs that you might encounter while performing the lab.
 
 - VM Remote connection issue: RDP: [Known Functionality Issues | CloudLabs Documentation](https://docs.cloudlabs.ai/Learner/Troubleshooting/RDP/)
 
-- o	Copy Paste Issue: [Copy Paste | CloudLabs Documentation](https://docs.cloudlabs.ai/Learner/Troubleshooting/CopyPaste/)
+- Copy Paste Issue: [Copy Paste | CloudLabs Documentation](https://docs.cloudlabs.ai/Learner/Troubleshooting/CopyPaste/)
 
 ## Contact Support
 
