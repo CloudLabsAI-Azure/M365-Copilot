@@ -10,7 +10,7 @@ To schedule a meeting in Microsodt Teams with your colleagues, follow the given 
 
 1. Open **Microsoft Teams** and select **Calender** from the left pane. Choose **New Meeting** from the top right corner.
 
-1. A  new page will open where you can add a title to your meeting, add required attendees, select the date and time and add any other required information.
+1. A new page will open where you can add a title to your meeting, add required attendees, select the date and time and add any other required information.
 
     Give a name to your meeting and add your colleagues by typing their usernames in the appropriate box, and choose your favourable time slot.
 
@@ -24,11 +24,11 @@ To schedule a meeting in Microsodt Teams with your colleagues, follow the given 
 
 ### Utilizing M365 Copilot during the Meeting
 
-To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the given steps:
+To utilize the capabilities of Microsoft 365 Copilot in a meeting, follow the given steps:
 
-1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+1. Organize a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
 
-1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
+1. During the meeting, ask Copilot to take notes, list action items, or generate relevant questions.
 
     ![](./media/action-items.png)
 
@@ -46,11 +46,11 @@ After the meeting, continue the discussion through a chat conversation with your
 
 ![](./media/meeting-chat.png)
 
-1. On the chat conversation page, select the **Copilot** icon on the top right corner to utilise the Copilot.
+1. On the chat conversation page, select the **Copilot** icon on the top right corner to use the Copilot.
 
     ![](./media/teams-copilot.png)
 
-1. Ask Copilot about highlights from the conversation, any decisions derived out of it or even to summarise the whole chat.
+1. Ask Copilot about highlights from the conversation, any decisions derived from it, or even to summarize the whole chat.
 
     ![](./media/chat-highlights.png)
 
