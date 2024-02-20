@@ -14,8 +14,6 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 
 3. **Up-level Skills:** Copilot acts as a personalized learning companion, helping you enhance your existing skills and swiftly acquire new ones, thereby fostering continuous professional growth.
 
-
-
 ## Table of Contents
 
 - [Introduction to M365 Copilot](#introduction-to-m365-copilot)
@@ -31,7 +29,11 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
    - [Using Microsoft 365 Copilot in Teams](#using-microsoft-365-copilot-in-teams)
    - [Using Microsoft 365 Copilot in Loop](#using-microsoft-365-copilot-in-loop)
    - [Using Microsoft 365 chat](#using-microsoft-365-chat)
-- [Manage Copilot](#manage-copilot)
+- [Administer M365 Copilot](#manage-copilot)
+   - [Managing Microsoft 365 Copilot Licenses in Admin Center](#Managing-Microsoft-365-Copilot-Licenses-in-Admin-Center)
+   - [Managing Microsoft 365 Copilot Services](#Manage-Microsoft-365-Copilot-Services)
+   - [Managing Public web content access](#Managing-Public-web-content-access)
+   - [Change update channel of Microsoft 365 Apps to enable Copilot](#Change-update-channel-of-Microsoft-365-Apps-to-enable-Copilot)
 - [Reviewing Security and Compliance in Copilot](#reviewing-security-and-compliance-in-copilot)
    - [Reviewing Security and Compliance in Copilot using Sensitivity Labels](#reviewing-security-and-compliance-in-copilot-using-sensitivity-labels)
    - [Implementing sensitivity label](#implementing-sensitivity-label)
