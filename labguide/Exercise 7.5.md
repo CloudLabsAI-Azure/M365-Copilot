@@ -1,4 +1,4 @@
-# Exercise 5.5: Reviewing Security and Compliance in Copilot Using Communication Compliance (Read Only)
+# Exercise 4.4: Reviewing Security and Compliance in Copilot Using Communication Compliance (Read Only)
 
 ## Introduction
 
