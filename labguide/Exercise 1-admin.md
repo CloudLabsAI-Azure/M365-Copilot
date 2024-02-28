@@ -40,8 +40,7 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 
 **Contoso Ltd.**, a leading IT Consultancy firm, is always in search of ways to improve its efficiency and productivity. To achieve this, they've decided to incorporate **Microsoft Copilot for Microsoft 365** into their operations. With its extensive range of features and the ability to streamline tasks, automate workflows, and enhance collaboration, Contoso is confident that Copilot will be a game-changer.
 
-As part of the lab, you've been given access to Contoso's Microsoft 365 environment to test and demonstrate the capabilities of **Microsoft 365 Copilot**. You have the access to Contoso's data present in various SharePoint sites, namely Human Resource, Marketing and Finance, which you will utilize in future in the lab. You also have been provided the access to Teams environment as an employee of the **Contoso Ltd.** By the end of this lab, you'll have a thorough understanding of how **Microsoft 365 Copilot** can transform an organization's productivity and efficiency, just as it's doing for **Contoso Ltd**.
-
+As part of the lab, you, as an administrator at **Contoso Ltd.** will be utilizing **Microsoft 365 admin centre** and **Microsoft Purview Portal** to manage **Microsoft 365 Copilot** for the employees of organization, and implement and manage various security and compliance features as well. By the end of this lab, you will have a robust understanding of how to deploy, manage, and ensure the security and compliance of **Microsoft Copilot** within your organization. You'll be equipped with the knowledge and skills to leverage this AI-powered assistant's capabilities while maintaining a secure and compliant environment.
 
 ## The AI-Employee Collaboration Advantage
 
@@ -53,8 +52,10 @@ Designed to address the challenges of the digital age, Copilot seamlessly integr
 
 ## Examples in Action
 
-Throughout this lab guide, we'll explore real-world examples of Copilot for Microsoft 365 in action. From summarizing email threads in Outlook to transforming text-heavy slides into concise bullet points in PowerPoint, and even rewriting paragraphs in different tones or styles in Word, you'll witness firsthand the transformative power of Copilot across various scenarios.
+Throughout this lab guide, As an administrator, you'll learn how to manage Microsoft 365 Copilot licenses in the Admin Center, manage Microsoft 365 Copilot services, and manage public web content access. You'll also understand how to change the update channel of Microsoft 365 Apps to enable Copilot.
+
+A significant portion of the lab is dedicated to reviewing Security and Compliance in Copilot. You'll learn how to implement and manage various security and compliance features, including Sensitivity Labels, Data Classification, Customer Keys, Communication Compliance, Audit, Content Search, eDiscovery, and Retention Policies. These sections aim to provide you with a thorough understanding of how to ensure data security and meet compliance requirements while using Microsoft Copilot.
 
 ## Conclusion
 
-The aim of Copilot for Microsoft 365 is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot, and discover how AI can truly become an invaluable ally in your quest for professional excellence. 
+The aim of **Copilot for Microsoft 365** is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation, and administering and securing your organization's digital workspace for the **Copilot for Microsoft 365** is extremely efficient. Join us in exploring the full potential of Microsoft Copilot as an administrative tool. Learn how to manage its features, and implement its security and compliance capabilities. Discover how AI can become an invaluable partner in your endeavor to achieve administrative excellence and safeguard your organization's digital assets.
