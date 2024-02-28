@@ -1,4 +1,4 @@
-# Exercise 5.7: Reviewing Security and Compliance in Copilot Using Content Search (Read Only)
+# Exercise 4.6: Reviewing Security and Compliance in Copilot Using Content Search (Read Only)
 
 ## Introduction
 
