@@ -1,4 +1,4 @@
-## Exercise 2.2: Understand Semantic Index (Read Only)
+# Exercise 2.2: Understand Semantic Index (Read Only)
 
 >**Note**: The following exercise is Read-Only to let you understand the key role played by the Semantic Index.
 
