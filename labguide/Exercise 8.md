@@ -1,4 +1,4 @@
-# Exercise 6: Exploring Microsoft Copilot Lab
+# Exercise 5: Exploring Microsoft Copilot Lab
 
 ## Introduction
 
