@@ -1,4 +1,4 @@
-# Exercise 5.8: Reviewing Security and Compliance in Copilot Using eDiscovery (Read Only)
+# Exercise 4.7: Reviewing Security and Compliance in Copilot Using eDiscovery (Read Only)
 
 ## Introduction
 
