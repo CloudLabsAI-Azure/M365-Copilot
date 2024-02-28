@@ -1,0 +1,65 @@
+[ 
+  {
+  "Name": "Microsoft 365 Copilot for Users",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabsAI-Azure/M365-Copilot/tree/bifurcated-content",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%201-user.md",
+       "Order": 1
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%202.md",
+       "Order": 2
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%203.1.md",
+        "Order": 3
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%203.2.md",
+        "Order": 4
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.1.md",
+      "Order": 5
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.2.md",
+      "Order": 6
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.3.md",
+      "Order": 7
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.4.md",
+      "Order": 8
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.5.md",
+      "Order": 9
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.6.md",
+      "Order": 10
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%204.7.md",
+     "Order": 11
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%207.2.md",
+       "Order": 12
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%208.md",
+     "Order": 13
+     },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/bifurcated-content/labguide/Exercise%209.md",
+     "Order": 14
+     }
+   ]
+ }
+]
