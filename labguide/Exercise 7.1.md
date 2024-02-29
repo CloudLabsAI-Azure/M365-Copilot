@@ -1,4 +1,4 @@
-# Exercise 5.1: Reviewing Security and Compliance in Copilot using Sensitivity Labels
+# Exercise 5.1: Reviewing Security and Compliance in Copilot using Sensitivity Labels (Read Only)
 
 ## Introduction
 
