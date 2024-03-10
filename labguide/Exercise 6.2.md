@@ -8,7 +8,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
-1. log in to [Microsoft 365 Admin Center](admin.microsoft.com).
+1. Log in to [Microsoft 365 Admin Center]`https://admin.microsoft.com/`.
 
 1. Go to **Billing (1)** > **Licenses (2)**.
 
