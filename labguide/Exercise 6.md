@@ -55,7 +55,7 @@ Now the user's Copilot license assignment status will be updated.
 
 Microsoft 365 Copilot comes with different services that can be enabled or disabled as per your preferences. This can be configured from the Microsoft 365 Admin Center.
 
-1. log in to [Microsoft 365 Admin Center](admin.microsoft.com).
+1. log in to [Microsoft 365 Admin Center] `https://admin.microsoft.com/`.
 
 1. Go to **Billing (1)** > **Licenses (2)**.
 
