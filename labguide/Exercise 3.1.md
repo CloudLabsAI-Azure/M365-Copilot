@@ -12,7 +12,7 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 ### Task 1.1: Explore SharePoint Sites.
 
 - **Login to Microsoft 365:**
-   - Open your web browser and sign in to [Microsoft 365](https://www.office.com/login?). You will see the login screen, enter the username and click on **Next**. 
+   - Open your web browser and sign in to `https://www.office.com/login?`. You will see the login screen, enter the username and click on **Next**. 
 
       ![](./media/task3.1.1.png)
 
@@ -41,7 +41,7 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 
 - **Using Copilot to fetch data.**
 
-   - Navigate back to [Microsoft 365](https://www.office.com/login?) and click on **Copilot** to open the M365 Copilot chat.
+   - Navigate back to `https://www.office.com` and click on **Copilot** to open the M365 Copilot chat.
    
       ![](./media/task3.5.1.png)
 
