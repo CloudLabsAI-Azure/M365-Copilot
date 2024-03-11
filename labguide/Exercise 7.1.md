@@ -40,7 +40,7 @@ In this task, you will learn how Purview is used to implement sensitivity labels
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and publishing Sensitivity Labels in the Purview portal.
 
 
-- Navigate to the [Microsoft Purview](https://compliance.microsoft.com/homepage) portal and from the left menu select **labels (1)** and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select **Turn on now (2)**. Once you do this, there can be a delay for the setting to propagate through the system.
+- Navigate to the [Microsoft Purview] `https://compliance.microsoft.com/homepage` portal and from the left menu select **labels (1)** and in the yellow information box, indicate that Your organization has not turned on the ability to process content in Office online files that have encrypted sensitivity labels applied and are stored in OneDrive and SharePoint. Select **Turn on now (2)**. Once you do this, there can be a delay for the setting to propagate through the system.
 
    ![](./media/exercise3(2.1).png)
 
