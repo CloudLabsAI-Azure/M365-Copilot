@@ -48,6 +48,10 @@ A **retention policy** lets you manage the data for your organization by decidin
 
 To create a retention policy to for all the interactions with **Microsoft 365 Copilot**, follow the given steps:
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **Data lifecycle management** and then, **Microsoft 365**.

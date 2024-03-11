@@ -36,6 +36,10 @@ By incorporating Copilot's intelligence into the collaboration flow via chat in 
 
 To use **M365 Chat**, follow the below steps:
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Navigate to the home page of the `https://www.office.com/login?`, click on **Copilot** icon to open copilot chat application.
 
    ![](../labguide/media/M5.png)

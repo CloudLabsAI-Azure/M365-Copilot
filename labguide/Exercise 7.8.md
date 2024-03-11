@@ -20,6 +20,10 @@ When users within an organization leverage **Microsoft Copilot** to create promp
 
  Here are the steps to create a case on eDiscovery page in the **Microsoft Compliance portal**.
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
  1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **eDiscovery** and then, **Standard**.

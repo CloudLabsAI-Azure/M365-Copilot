@@ -20,6 +20,10 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 To use **Copilot in Outlook**, follow the below steps:
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)

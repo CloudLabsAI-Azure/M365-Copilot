@@ -65,6 +65,10 @@ The following information is displayed for each item on the **Pending** tab for 
 
 To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **Communication compliance**. You will land on the **Overview** page of the **Communication compliance** portal.

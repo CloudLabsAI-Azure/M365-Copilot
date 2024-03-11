@@ -18,6 +18,10 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
 
 ### Task 1: Creating and running a Search
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **Content search**.

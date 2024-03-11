@@ -12,6 +12,10 @@ This exercise guides you through the process of managing **Microsoft 365 Copilot
 
 Follow these steps to assign a Copilot license for an existing user from the admin center:
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. Go to [Microsoft 365 Admin Center] `https://admin.microsoft.com/` and sign in with your admin credentials.
 
 1. From the left side navigation pane, click on **Users (1)** and then choose **Active users (2)**.

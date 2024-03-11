@@ -12,6 +12,10 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 ### Task 1.1: Explore SharePoint Sites.
 
 - **Login to Microsoft 365:**
+   - Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+      ![](./media/licensekey2.png)
+
    - Open your web browser and sign in to `https://www.office.com/login?`. You will see the login screen, enter the username and click on **Next**. 
 
       ![](./media/task3.1.1.png)

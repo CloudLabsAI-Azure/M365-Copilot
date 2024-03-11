@@ -8,6 +8,10 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
+
 1. In the Microsoft 365 admin center, go to **Settings (1)** > **Search & intelligence (2)**.
 
     ![](../labguide/media/M19.png)
@@ -31,6 +35,10 @@ All admin setting updates may take up to 24 hours to reflect any changes.
 - ### End-user Action Required
 
 Once the admin provides access to let **M365 Copilot** access content from the web, the user need to manually turn it on as well. Follow the given steps below to allow the access to the web content for the Copilot:
+
+1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+
+   ![](./media/licensekey2.png)
 
 1. Navigate to `https://www.office.com` and sign in using the **CloudLabs provided credentials**. Select **Copilot** icon from the left pane.
 
