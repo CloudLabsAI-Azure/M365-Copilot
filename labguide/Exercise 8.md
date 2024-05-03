@@ -44,21 +44,21 @@ You can also filter the prompts as per the application where you need them, like
 
 1. In the **Copilot Lab** portal, click on the *App* dropdown menu present under the **Prompts to try** section.
 
-    ![](./media/app-filter.png)
+    ![](./media/prompts_2.png)
 
 1. Choose the application whose prompts you want to see and only the selected application prompts will appear. You can select more than 1 apps at a time.
 
-    ![](./media/app-filters.png)
+    ![](./media/prompts_3.png)
 
 1. To filter prompts as per different scenarios, choose **Categories** drop-down menu. You can select different categories for which you want to see the prompts.
 
-    ![](./media/categories-filter.png)
+    ![](./media/prompts_2_1.png)
 
     ![](./media/categories-filters.png)
 
 1. You can also click on **Saved prompts** to see all the prompts you saved earlier, at once.
 
-    ![](./media/saved-prompts.png)
+    ![](./media/prompts_2_1_1.png)
 
 ## Using Copilot Lab in Word and PowerPoint
 
