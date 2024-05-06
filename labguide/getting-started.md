@@ -10,22 +10,26 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
 
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
 
-  ![](./media/365-env-ready.png)
+  ![](./media/main.png)
 
 ## Exploring Your Lab Resources
 
 To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab. You will find your credentials under **M365 Copilot User Details**. The value before the **|** will be your User ID and the value after **|** will be your User password to log into Microsoft 365 applications and utilize the lab environment.
 
-  ![](./media/licensekey2.png)
+  ![](./media/env.png)
 
 ## Utilizing the Split Window Feature
 
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the bottom right corner.
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Upper right corner.
 
-  ![](./media/365-split-window.png)
+  ![](./media/main-1.png)
 
 ## Managing Your Virtual Machine
 
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-  ![](./media/365-resources.png)
+  ![](./media/vm-run.png)
+
+Click "Next" from the bottom right corner to embark on your Lab journey!
+
+  ![](./media/nxt.png)
