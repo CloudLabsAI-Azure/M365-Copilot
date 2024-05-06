@@ -2,6 +2,8 @@
 
 >**Note**: The following exercise is Read-Only to let you understand the key role played by the Semantic Index.
 
+## Introduction
+
 Microsoft technologies underpin **Copilot for Microsoft 365**, with a key role played by the Semantic Index. This vast knowledge graph, connecting billions of objects, concepts, and relationships, introduces a new dimension to data understanding within Microsoft 365.
 
 The Semantic Index for Copilot constructs an intricate map of your personal and company data, establishing important connections and identifying significant relationships. This design is much like the inner workings of the human brain. It goes beyond the confines of keyword search by interpreting and encoding the conceptual relationships between data elements. By analyzing your Microsoft Graph data - encompassing emails, documents, calendars, chats, and more - and working synergistically with LLMs, it delivers personalized, relevant, and actionable responses.
