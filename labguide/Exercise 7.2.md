@@ -1,5 +1,7 @@
 # Exercise 5.2: Implementing sensitivity label
 
+## Introduction
+
 This guide introduces how to apply sensitivity labels to Word documents in Microsoft 365. Sensitivity labels are a part of the Microsoft Information Protection (MIP) framework that enables end users to classify and protect their data, including documents and emails. These labels can be applied manually or automatically, depending on the rules set by the organization. By applying sensitivity labels, organizations can manage and secure their data more efficiently, ensuring that sensitive information is handled appropriately.
 
 ### Task 1.1: Applying a Sensitivity label to a Word document
