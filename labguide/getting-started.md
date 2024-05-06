@@ -18,6 +18,10 @@ To get a better understanding of your lab resources and credentials, navigate to
 
   ![](./media/env.png)
 
+Copy and paste the credentials in the notepad **Username (1)** & **Password (2)**
+
+  ![](./media/copy.png)
+
 ## Utilizing the Split Window Feature
 
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Upper right corner.
