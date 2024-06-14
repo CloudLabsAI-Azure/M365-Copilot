@@ -30,9 +30,9 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/loop_main.png)
 
-1. Select **+** icon to create a new workspace.
+1. Click on **Getting Started** and **+ New workspace** to create a new workspace.
 
-   ![](./media/loop.png)
+   ![](./media/new-ws01.png)
    
 1. Provide a name to your workspace under the **Name (1)** column and select **create a workspace (2)**. Your workspace will open with a blank page.
 
