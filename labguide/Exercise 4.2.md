@@ -58,6 +58,10 @@ To use **Copilot in Outlook**, follow the below steps:
 
    ![](./media/drafted-email.png)
 
+   >**Note:** A rare times, the button of **Copilot in Outlook** is not visible. In that case, you can utilise the **Copilot for Sales** feature. To do so, select **Copilot for Sales** from the bar and continue to use the transformative power of the Copilot.
+   ![](./media/copilot-sales.png)
+   ![](./media/copilot-sales-draft.png)
+
 ## Try Yourself Out
 
 You can also try your own scenarios and examples out to analyse the functioning of Copilot. Here are some of the example prompts which you can take help of to explore more on **Copilot in Outlook**. Besides these, you can also create your own prompts and interact with Copilot.
