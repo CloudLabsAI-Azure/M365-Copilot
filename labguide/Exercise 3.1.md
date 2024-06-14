@@ -31,6 +31,10 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 
       ![](./media/task3.2.1.png)
 
+     Alternatively, you can also search **SharePoint** in the searchbar and select the icon.
+
+     ![](./media/sharepoint-search].png)
+
    - Click on the Finance Sharepoint site.
 
       >**Note:** If the Finance SharePoint site isn't visible in your Frequent sites, please utilize the search box and enter "Finance" to locate it. 
