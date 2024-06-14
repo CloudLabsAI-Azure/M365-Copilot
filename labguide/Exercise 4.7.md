@@ -55,6 +55,7 @@ To use **M365 Chat**, follow the below steps:
 
    ![](../labguide/media/copilot-chat-answer.png)
 
+   >**Note:** At rare times, the **M365 Copilot Chat** reauthenticates itelf, and during that some issues may arise, causing the **M365 Copilot Chat** to be unresponsive. Whenever that happens, make sure to close the browser, reopen, clear all the cache and cookies, and sign in again. Ensure closing all the incognito tabs as well when trying in Incognito/Private mode.
 
 ## Try Out Yourself
 
