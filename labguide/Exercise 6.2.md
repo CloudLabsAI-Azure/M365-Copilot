@@ -24,7 +24,9 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
     ![](../labguide/media/copilot-license.png)
 
-1. Select the user and select **Manage apps & services**. 
+1. Select the user and select **Manage apps & services**.
+
+   >**Note:** Temporarily, The **Manage apps & services** view is not visible to the **Read-Only** access you have been provided with. This feature is ONLY accessible to the ADMINS with Administrative level of access. Thus, please go through the lab guide to understand the feature purpose, and how admins can utilize it.
 
    ![](../labguide/media/user-manage-license.png)
 
