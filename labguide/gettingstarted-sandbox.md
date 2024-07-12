@@ -30,4 +30,3 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 Click "Next" from the bottom right corner to embark on your Lab journey!
 
-  ![](./media/nxt.png)
