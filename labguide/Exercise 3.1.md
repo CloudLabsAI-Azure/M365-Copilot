@@ -73,6 +73,10 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 
       ![](./media/finance1.5.png)
 
+   - Navigate back to sharepoint and search for **Human Resource** Sharepoint site from the search bar and select it.
+     
+      ![](./media/sharepoint-search.png)
+
    - The **Human Resources SharePoint site** is a crucial resource for any organization, as it serves as a central repository for various Human Resources (HR) related documents and information. The structure of this site is designed to ensure easy access and efficient navigation of all its contents. 
    
       ![](./media/hrsite1.1.png)
