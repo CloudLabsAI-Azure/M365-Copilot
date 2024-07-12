@@ -38,6 +38,10 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/marketing-dept.png)
 
+   >**Note:** If you are not able to find **Marketing Department** sharepoint, Search for **Marketing Department** sharepoint site from the search bar.
+
+      ![](./media/sharepoint-search.png)
+
 1. From the left pane, select **Site Contents** and then, choose **Strategy Library** folder.
 
    ![](./media/str-libr-page.png)
