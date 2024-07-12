@@ -14,7 +14,7 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
 
 ## Exploring Your Lab Resources
 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab. You will find your credentials under **M365 Copilot User Details** to log into Microsoft 365 applications and utilize the lab environment.
+To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab. You will find your credentials to log into Microsoft 365 applications and utilize the lab environment.
 
 ## Utilizing the Split Window Feature
 
