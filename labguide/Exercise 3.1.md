@@ -73,7 +73,7 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 
       ![](./media/finance1.5.png)
 
-   - Navigate back to sharepoint and search for **Human Resource** Sharepoint from the search bar and select it.
+   - Navigate back to sharepoint and search for **Human Resource** Sharepoint site from the search bar and select it.
      
       ![](./media/sharepoint-search.png)
 
