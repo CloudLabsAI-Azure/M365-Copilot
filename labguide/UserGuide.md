@@ -36,10 +36,7 @@ You have been given Azure credit limit of $190 USD which includes the running co
 
 ## Alerts
 
-- You will receive cost alerts via your registered email address when specific thresholds of your 
-allocated Azure Credit are reached: at **50%, 75%, 90%, 95%, and 100%** utilization.
-
-- These alerts serve as proactive notifications to keep you informed about your Azure spending and ensure you are aware of your consumption levels.
+- You will not be having access to Azure subscription as this lab is based on Microsoft 365 Copilot.
 
 ## Cost Monitoring
 
