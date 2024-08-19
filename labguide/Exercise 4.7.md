@@ -1,5 +1,7 @@
 # Exercise 3.7: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
 
+In this exercise, you will learn how to use Microsoft 365 Copilot with M365 Chat to access and interact with Microsoft Graph data. Copilot’s integration with M365 Chat enables users to make data-driven requests and receive tailored responses based on organizational knowledge and connected services. This exercise will guide you through querying data, summarizing documents, and automating tasks within your Microsoft 365 environment.
+
 ## Introduction
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
@@ -74,3 +76,7 @@ List ideas for a fun remote team even for Contoso Ltd.
 ## Conclusion
 
 In conclusion, the integration of Microsoft 365 Copilot with M365 Chat revolutionizes how users access and interact with organizational data. By seamlessly embedding Copilot's AI capabilities into the collaboration flow, users can effortlessly retrieve information, automate tasks, and enhance teamwork efficiency. This powerful integration not only saves time but also fosters increased collaboration and knowledge sharing across teams, ultimately driving productivity and innovation within the organization.
+
+## Summary
+
+In this exercise, you explored the powerful integration of Microsoft 365 Copilot with M365 Chat. By leveraging Copilot’s AI capabilities, you learned to access organizational data, automate tasks, and enhance team collaboration. Copilot allows you to query documents, draft responses, and manage tasks efficiently through natural language interactions. This integration significantly improves how users access and utilize organizational knowledge, fostering better teamwork and productivity.
