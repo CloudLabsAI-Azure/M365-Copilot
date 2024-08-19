@@ -1,5 +1,7 @@
 # Exercise 5.3: Reviewing Security and Compliance in Copilot Using Data Classification (Read Only)
 
+In this exercise, you will review how Microsoft Copilot integrates with data classification to enhance security and compliance in Microsoft 365. Data classification helps organize and protect data by its sensitivity level, and Copilot uses this information to make accurate recommendations and automate categorization. You'll explore how data classification is displayed and managed through the Microsoft Purview portal, including data inventory, content labeling, and activity monitoring.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -122,3 +124,7 @@ In addition, using Endpoint data loss prevention (DLP), Activity explorer gather
 In conclusion, understanding and leveraging the capabilities of **Microsoft Copilot** within the Microsoft 365 ecosystem are crucial steps towards enhancing data security and compliance for organizations. The emphasis on **data classification** forms a cornerstone for efficient functioning of Copilot, enabling it to provide accurate recommendations and automate the categorization process.
 
 By embracing the security and compliance features of **Microsoft Copilot**, organizations can not only streamline data management processes but also adhere to industry regulations and legal requirements. This, in turn, fosters a secure digital environment, safeguarding sensitive information and reinforcing trust in the organization's commitment to privacy and data protection.
+
+## Summary
+
+In this exercise, you learned how Microsoft Copilot uses data classification to enhance data security and compliance in Microsoft 365. By classifying data based on sensitivity, Copilot can automate and improve data management. You explored tools like the data classification dashboard, Content Explorer, and Activity Explorer to review and manage classified content, ensuring better security and regulatory compliance.
