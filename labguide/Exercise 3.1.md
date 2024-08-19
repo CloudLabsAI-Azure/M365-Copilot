@@ -99,6 +99,6 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
       Create an FAQ based on Code of Conduct Policy.docx
       ```
 
-      ![](./media/finance1.6.png)
+      ![](./media/finance1.61.png)
 
 **Congratulations!** We emphasized the importance of organizing SharePoint sites for efficient collaboration and management of information within organizations. We explored the structured **Finance** SharePoint site, showcasing its document libraries and folders. Leveraging **Microsoft 365 Copilot**, we effortlessly retrieved specific details and even summarized data from files like the **February Payroll** report. By integrating organized SharePoint sites with Copilot's capabilities, organizations can streamline information retrieval, enhance collaboration, and optimize productivity across teams and departments.
