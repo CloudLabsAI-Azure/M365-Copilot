@@ -1,5 +1,7 @@
 # Exercise 07: Reviewing Security and Compliance in Copilot
 
+In this exercise, you will use Microsoft 365 Copilot to manage and enhance communication within your organization. You'll schedule and conduct a meeting in Microsoft Teams, use Copilot to assist during the meeting, and follow up with a chat conversation. This exercise aims to showcase the practical applications of Copilot in real-world scenarios, helping you understand how it can boost productivity and streamline communication.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -720,3 +722,6 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
 If a user leaves your organization and their **Microsoft 365 account** is deleted, their **Copilot** messages that are subject to retention are stored in an inactive mailbox. The Copilot messages remain subject to any retention policy that was placed on the user before their mailbox was made inactive, and the contents are available to an **eDiscovery search**.
 
+## Summary
+
+By completing this exercise, you gained hands-on experience with M365 Copilot's features for improving organizational communication. You learned how to schedule and manage meetings in Microsoft Teams, leverage Copilot for note-taking, action items, and summaries, and use it to analyze chat conversations. This exercise demonstrated Copilot's ability to enhance productivity by efficiently capturing and summarizing key points from meetings and chats, ultimately showcasing its potential to streamline and improve your professional interactions.
