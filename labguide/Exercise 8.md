@@ -1,5 +1,7 @@
 # Exercise 6: Exploring Microsoft Copilot Lab
 
+In this exercise, you will explore Microsoft Copilot Lab, a tool designed to help users practice prompt engineering with Microsoft Copilot. It offers a variety of prompts to assist with tasks across different Microsoft 365 applications, helping users to streamline their work processes and enhance productivity.
+
 ## Introduction
 
 **Microsoft Copilot** is a new feature that became available for all Microsoft 365 users. It’s an AI-powered tool that can help you with various tasks, such as writing documents, creating presentations, sending emails, and summarizing meetings. All you need to do is click a button and let Copilot do the work for you.
@@ -108,3 +110,7 @@ To use Copilot Lab prompts, follow the below steps:
 ## Conclusion
 
 Microsoft Copilot Lab presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
+
+## Summary
+
+Through this exercise, you have learned how to navigate and utilize Microsoft Copilot Lab to enhance your prompt engineering skills. You explored different prompt categories, customized prompts for specific needs, and integrated these prompts into applications like Word, PowerPoint, and Microsoft Chat. This experience demonstrates how to effectively use Microsoft Copilot to streamline tasks and improve productivity, while also contributing to a collaborative environment by sharing and learning from prompts within the community.
