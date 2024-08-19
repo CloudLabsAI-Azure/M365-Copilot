@@ -1,5 +1,7 @@
 # Exercise 5.9: Reviewing Security and Compliance in Copilot using Retention Policies (Read Only)
 
+This exercise focuses on using Retention Policies in Microsoft 365 Copilot to manage data retention and deletion, ensuring compliance and data security.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -103,3 +105,7 @@ If a user leaves your organization and their **Microsoft 365 account** is delete
 In conclusion, the integration of **Retention Policies with Microsoft Copilot for Microsoft 365** plays a crucial role in enhancing security and compliance measures. By utilizing retention policies, organizations can retain, delete, or apply a combination of retention and deletion to Copilot messages. The detailed content paths for various scenarios, such as messages being removed or remaining in Copilot after the retention period, provided clarity on the lifecycle of Copilot messages.
 
 By completing this lab, users are now equipped with the knowledge and skills to leverage retention policies effectively in the context of **Microsoft Copilot**. This ensures that organizations can meet compliance requirements, manage data lifecycle efficiently, and uphold the highest standards of security and privacy within the **Microsoft 365** environment.
+
+## Summary
+
+The exercise explains how Retention Policies in Microsoft 365 Copilot help manage data by retaining or deleting Copilot messages based on policy settings. Copilot interactions are stored in a hidden Exchange mailbox folder, and their retention or deletion follows a specific path depending on the policy configuration. You learned how to create and configure retention policies, apply them to Copilot interactions, and understand their impact on data lifecycle management. This process supports compliance, data governance, and security within Microsoft 365
