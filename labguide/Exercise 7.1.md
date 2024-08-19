@@ -1,5 +1,7 @@
 # Exercise 5.1: Reviewing Security and Compliance in Copilot using Sensitivity Labels (Read Only)
 
+In this exercise, you will explore how Microsoft Copilot integrates with Sensitivity Labels to enhance data security and compliance. Sensitivity Labels help classify and protect data based on its sensitivity level. You will learn about creating, applying, and publishing these labels using Microsoft Purview, understanding how they can be used to safeguard your organization’s sensitive information.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -216,3 +218,7 @@ In summary, **Microsoft 365 Copilot** is more stringent when handling encrypted 
 In conclusion, the integration of **Sensitivity Labels in Microsoft Copilot** for **Microsoft 365** significantly enhances security and compliance measures. **Sensitivity Labels**, being customizable, allow organizations to tailor categories for different levels of sensitive content, ensuring alignment with specific business needs. The clear text storage of labels in metadata facilitates interoperability with third-party apps and services, enabling them to apply their protective actions if necessary.
 
 In the context of **Microsoft Copilot**, Sensitivity Labels play a crucial role in providing an extra layer of protection. The visibility of the sensitivity label with the highest priority to users in Graph-grounded chat conversations ensures that the most restrictive label is appropriately acknowledged. To maximize the effectiveness of **Microsoft 365 Copilot** in safeguarding sensitive information, it is imperative for organizations to implement sensitivity labels, establish appropriate permissions, and protect their most sensitive data using these labels. This integrated approach ensures a robust security posture and compliance adherence within the **Microsoft 365** environment.
+
+## Summary
+
+In this exercise, you learned how to use Sensitivity Labels with Microsoft Copilot to secure data effectively. Sensitivity Labels help classify and protect sensitive information by applying protections like encryption. You saw how to create and publish these labels in Microsoft Purview, ensuring that sensitive data is only accessible to authorized users. This approach enhances security and compliance, maintaining robust data protection within your organization.
