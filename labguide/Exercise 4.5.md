@@ -1,5 +1,7 @@
 # Exercise 3.5: Using Microsoft 365 Copilot in Teams
 
+In this exercise, you will explore how Microsoft 365 Copilot enhances teamwork and communication in Microsoft Teams. You'll learn how Copilot helps summarize chat threads, organize meeting insights, and draft emails based on meeting discussions. You will also gain practical experience by scheduling and managing meetings using Copilot to streamline communications and improve productivity.
+
 ## Introduction
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
@@ -108,3 +110,7 @@ On what points an agreement is reached?
 ## Conclusion
 
 In conclusion, Copilot can significantly enhance the Teams user experience, promoting a more organized, productive, and effective communication environment. It can generate summaries of chat threads, identify key action points, and help users catch up on missed discussions efficiently. Furthermore, the tool empowers users to direct conversations confidently by suggesting potential questions to facilitate rich and inclusive discussions. It also aids in maintaining alignment within the team by summarizing key discussions and identifying next steps. Thus, **Microsoft 365 Copilot** is a valuable tool for any team-oriented setting, boosting productivity, enhancing engagement, and streamlining workflows.
+
+## Summary
+
+In this exercise, you discovered how Microsoft 365 Copilot improves the Teams experience by summarizing chat conversations, organizing meeting insights, and aiding in email drafting. Copilot enhances productivity by providing clear summaries, identifying action items, and facilitating effective communication during meetings. This makes it easier to stay organized, engaged, and aligned with your team’s goals.
