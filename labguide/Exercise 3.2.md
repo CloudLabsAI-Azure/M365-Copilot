@@ -68,3 +68,7 @@ Graph connectors empower the integration of external data, enriching Copilot wit
 ## Conclusion
 
 In conclusion, the Semantic Index is a pivotal component empowering Copilot for Microsoft 365. It not only provides a foundation for intelligent code and text generation but also ensures continuous improvement and integration with third-party data, enhancing user experiences over time.
+
+## Summary
+
+In this exercise, you learned about the Semantic Index, which helps Microsoft 365 Copilot understand and connect information better. You saw how it maps out data relationships to provide smarter, more relevant responses while keeping your data secure and up-to-date.
