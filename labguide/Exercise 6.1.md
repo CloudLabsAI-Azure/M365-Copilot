@@ -1,5 +1,7 @@
 # Exercise 4.1: Administering M365 Copilot
 
+This exercise is aimed at understanding how to manage Microsoft 365 Copilot licenses through the Microsoft 365 Admin Center. Although you are in read-only mode with Global Reader access, you will learn how to view, assign, and remove Copilot licenses.
+
 ## Introduction
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
@@ -63,3 +65,7 @@ Now the user's Copilot license assignment status will be updated.
 In conclusion, you've gained an in-depth understanding of how to effectively manage Microsoft Copilot licenses through the **Microsoft 365 Admin Center**.
 
 You've learned how to assign and remove licenses for specific users, an essential function for managing access to **Microsoft Copilot**. You've also gained a strong understanding of how to manage Microsoft Copilot services and configure public web content access, key skills for optimizing the usage of this AI tool in your organization.
+
+## Summary
+
+You've learned how to manage Microsoft 365 Copilot licenses, including how to view, assign, and remove licenses. This knowledge is crucial for ensuring the effective use of Copilot and managing user access in your organization. Even with read-only access, understanding these processes will help you support effective license management and tool utilization.
