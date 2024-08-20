@@ -68,4 +68,4 @@ You've learned how to assign and remove licenses for specific users, an essentia
 
 ## Summary
 
-You've learned how to manage Microsoft 365 Copilot licenses, including how to view, assign, and remove licenses. This knowledge is crucial for ensuring the effective use of Copilot and managing user access in your organization. Even with read-only access, understanding these processes will help you support effective license management and tool utilization.
+In this exercise,you've learned how to manage Microsoft 365 Copilot licenses, including how to view, assign, and remove licenses. This knowledge is crucial for ensuring the effective use of Copilot and managing user access in your organization. Even with read-only access, understanding these processes will help you support effective license management and tool utilization.
