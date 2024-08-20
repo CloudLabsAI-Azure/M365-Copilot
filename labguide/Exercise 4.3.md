@@ -34,7 +34,7 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open your **PowerPoint** and select a **Blank Presentation** them select **Copilot** on top of the screen.
+1. Open your **PowerPoint** and select a **Blank Presentation** then select **Copilot** on top of the screen.
 
    ![](./media/ppt1.1.png)  
    ![](./media/ppt-copilot.png)
