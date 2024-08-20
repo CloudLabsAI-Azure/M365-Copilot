@@ -1,5 +1,7 @@
 # Exercise 4.2: Administering M365 Copilot( Read-Only)
 
+This exercise is aimed at understanding how to manage Microsoft 365 Copilot services through the Microsoft 365 Admin Center, even with read-only access. You will learn how to view and understand the configuration and management of various Copilot services.
+
 ## Introduction
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
@@ -53,3 +55,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 ## Conclusion
 
 In conclusion, you have learned how to administer and manage the AI-powered **Microsoft Copilot** in a Microsoft 365 environment using the **Microsoft 365 Admin Center**. You explored how to configure, manage, and optimize Copilot according to an organization's specific needs like managing various services of Copilot, including Graph Connectors, Intelligent Search, Microsoft 365 Chat, Copilot in Teams, Copilot in Productivity Apps, and Power Platform Connectors. Through understanding these features, you have developed the skills necessary to maximize the benefits of Microsoft Copilot in an organization, enhancing productivity and simplifying workflows.
+
+## Summary
+
+In this exercise, you’ve explored how to view and understand the management of Microsoft 365 Copilot services in the Admin Center. Even with read-only access, you have learned about the various features of Copilot, including Graph Connectors, Intelligent Search, and integration with chat and productivity apps. This knowledge will help you support Copilot administration and optimize its use within your organization.

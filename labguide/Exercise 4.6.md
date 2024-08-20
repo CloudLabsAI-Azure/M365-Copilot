@@ -1,5 +1,7 @@
 # Exercise 3.6: Using Microsoft 365 Copilot in Loop
 
+In this exercise, you will learn how to use Microsoft 365 Copilot in Loop to enhance team collaboration and content creation. Copilot assists with drafting, brainstorming, and refining ideas in a shared workspace, making it easier to plan projects, develop content, and generate creative solutions. You will practice creating and updating workspaces, refining generated content, and using Copilot to streamline team efforts.
+
 ## Introduction
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
@@ -123,3 +125,7 @@ You can also try out your own scenarios and examples to analyse the functioning 
 ## Conclusion
 
 In conclusion, **Copilot** is a powerful AI tool designed to automate tasks, enhance collaboration, and streamline workflows across various Microsoft 365 apps, including Loop. It helps in co-creating and planning by offering AI-powered contextual suggestions, making it easier to start or update a shared workspace. It aids in creating new content, brainstorming ideas, providing blueprints for best practices, or describing concepts in an easily understandable manner. Thus, **Microsoft 365 Copilot in Loop** is an invaluable tool for any organization, enhancing productivity and creativity while fostering effective team collaboration. Its intelligent assistance capabilities make it a continually evolving asset that can adapt to an organization's ever-changing needs.
+
+## Summary
+
+In this exercise, you explored how Microsoft 365 Copilot in Loop enhances team collaboration by providing AI-powered suggestions for drafting, brainstorming, and refining content. Copilot helps automate the creation of project plans, marketing strategies, and more by generating initial drafts and allowing for iterative refinement. This tool facilitates effective teamwork and creative processes, making it easier to manage and develop content in a shared workspace. Microsoft 365 Copilot in Loop is a valuable asset for improving productivity and collaboration within any organization.

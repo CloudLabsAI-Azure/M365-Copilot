@@ -1,5 +1,7 @@
 # Exercise 5.8: Reviewing Security and Compliance in Copilot Using eDiscovery (Read Only)
 
+This exercise demonstrates how eDiscovery in Microsoft 365 Copilot helps manage and secure data by enabling searches, holds, and exports of relevant content.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -213,3 +215,7 @@ Now, you need to download the report from the Azure Storage area to your local c
 In conclusion, the use of **eDiscovery in Microsoft Copilot** through Microsoft Purview is an integral part of ensuring robust security and compliance measures within Microsoft 365. This exercise has guided users through the process of creating an eDiscovery case, implementing holds on relevant content locations, and performing searches tailored to their investigative needs.
 
 By following these steps, users are equipped with the knowledge and skills to leverage eDiscovery in **Microsoft Copilot** effectively, demonstrating a commitment to maintaining compliance, protecting sensitive data, and swiftly responding to legal or security requirements. The security and privacy principles inherent in **Microsoft Copilot** align with organizational needs, ensuring a balance between innovation and data governance.
+
+## Summary
+
+The exercise covered the use of eDiscovery in Microsoft 365 Copilot for security and compliance. You learned how to create eDiscovery cases, place holds on content locations, and perform searches for Copilot interactions. This process helps organizations manage sensitive data and comply with legal and regulatory requirements. The steps also include exporting and downloading search reports, ensuring that data management and compliance are effectively maintained.

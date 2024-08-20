@@ -1,5 +1,7 @@
 # Exercise 4.4: Administering M365 Copilot
 
+This exercise provides guidance on how to manage the update channels for Microsoft 365 Apps, specifically focusing on changing to the Monthly Enterprise Channel and enabling Cloud updates.
+
 ## Introduction
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
@@ -49,3 +51,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 ## Conclusion
 
 In conclusion, Contoso Ltd's decision to opt for the Monthly Enterprise Channel for their Microsoft 365 Apps and Cloud updates as their management solution is a strategic move that aligns perfectly with their business needs. The Monthly Enterprise Channel provides a balanced, predictable update schedule that ensures stability and security, while also offering the latest features. The Cloud updates complement this by providing an efficient, automated, and real-time update management process that can be tailored to meet Contoso's specific needs.
+
+## Summary
+
+In this exercice,You’ve learned how to view and understand the process of changing the update channel for Microsoft 365 Apps and enabling Cloud updates. By opting for the Monthly Enterprise Channel and using Cloud updates, Contoso Ltd. ensures a balance of feature updates, security, and stability while benefiting from an automated update management process.

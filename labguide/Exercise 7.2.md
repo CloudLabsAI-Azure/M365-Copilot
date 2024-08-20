@@ -1,5 +1,7 @@
 # Exercise 5.2: Implementing sensitivity label
 
+In this exercise, you'll learn how to apply sensitivity labels to Word documents in Microsoft 365. Sensitivity labels are part of Microsoft Information Protection (MIP) and help classify and protect data. You'll explore how to manually apply these labels to a Word document and also see how Microsoft Copilot can automatically apply labels when summarizing documents.
+
 ## Introduction
 
 This guide introduces how to apply sensitivity labels to Word documents in Microsoft 365. Sensitivity labels are a part of the Microsoft Information Protection (MIP) framework that enables end users to classify and protect their data, including documents and emails. These labels can be applied manually or automatically, depending on the rules set by the organization. By applying sensitivity labels, organizations can manage and secure their data more efficiently, ensuring that sensitive information is handled appropriately.
@@ -59,3 +61,7 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 Applying sensitivity labels in Microsoft 365 is a crucial step in protecting sensitive data. Whether you're working on a Word document or using the Copilot tool to summarize a document, understanding how to apply these labels is essential. The process involves navigating to the document, selecting the "Sensitivity" option from the top menu bar, and choosing the appropriate label.
 
 By applying sensitivity labels, you're not only enhancing the security of your documents but also ensuring compliance with data handling policies. This practice enables users to identify and treat sensitive information appropriately, thereby reducing the risk of data leaks or misuse. Remember, the key to effective data protection lies in the right use of tools and vigilance in handling sensitive information.
+
+## Summary
+
+In this exercise, you practiced applying sensitivity labels to Word documents. You learned to manually assign a label through the Sensitivity option in Word and observed how Copilot automatically applies labels when summarizing documents. Using sensitivity labels enhances document security and ensures compliance with data protection policies, helping manage sensitive information effectively and reducing the risk of data leaks.

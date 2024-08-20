@@ -1,5 +1,7 @@
 # Exercise 5.6: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
 
+In this exercise, we will review how auditing in Microsoft 365 Copilot enhances security and compliance. Auditing captures detailed records of user and admin activities, helping organizations respond to security events, conduct investigations, and meet compliance obligations.
+
 ## Introduction
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
@@ -65,3 +67,7 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 ## Conclusion
 
 In conclusion, the integration of auditing capabilities within **Microsoft 365 Copilot** through the Microsoft Purview auditing solutions provides organizations with a powerful tool to enhance security, facilitate forensic investigations, conduct internal inquiries, and meet compliance obligations effectively. By configuring audit logging activities, organizations can define specific conditions for their searches, including date and time range, activities, and users. This allows for a targeted investigation into Copilot events, providing detailed insights into user interactions and file access. By leveraging auditing capabilities in **Microsoft 365 Copilot**, organizations can reinforce their commitment to data security, user privacy, and compliance. This integrated solution contributes to a robust security posture, empowering organizations to monitor and respond to user activities within Copilot effectively.
+
+## Summary
+
+In this exercise, we examined how auditing in Microsoft 365 Copilot supports security and compliance. Auditing captures detailed logs of user interactions with Copilot, including activity timestamps and accessed files. By accessing and configuring these logs through the Microsoft Purview compliance portal, organizations can monitor activities, perform investigations, and ensure compliance. This capability strengthens data security and provides valuable insights into user interactions, contributing to a robust security and compliance framework.

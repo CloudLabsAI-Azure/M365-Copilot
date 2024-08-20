@@ -1,5 +1,7 @@
 # Exercise 3.3: Using Microsoft 365 Copilot in PowerPoint
 
+In this exercise, you will explore how Microsoft 365 Copilot enhances the PowerPoint experience. You’ll learn how to use Copilot to create, refine, and transform presentations. The exercise will guide you through generating presentations from scratch or converting existing Word documents into slide decks, allowing you to streamline the creation of impactful and visually appealing presentations.
+
 ## Introduction
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
@@ -32,7 +34,7 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
    ![](./media/office-apps-page.png)
 
-1. Open your **PowerPoint** and select **Copilot** on top of the screen.
+1. Open your **PowerPoint** and select a **Blank Presentation** then select **Copilot** on top of the screen.
 
    ![](./media/ppt1.1.png)  
    ![](./media/ppt-copilot.png)
@@ -74,3 +76,7 @@ Add an image related to encryption coding in slide number 4.
 ## Conclusion:
 
 In conclusion, **Microsoft 365 Copilot** enhances the PowerPoint experience by simplifying the creation of impactful presentations. With its intuitive interface and AI-powered capabilities, Copilot streamlines the process of crafting slides, transforming concepts into visually compelling narratives. Whether starting from scratch or converting existing documents, Copilot empowers users to create professional presentations efficiently. By bridging the gap between idea and visual representation, Copilot elevates the quality and efficiency of PowerPoint presentations, ultimately enhancing communication and collaboration in the workplace.
+
+## Summary
+
+In this exercise, you explored how Microsoft 365 Copilot can streamline PowerPoint presentations. You learned to create presentations from scratch or convert Word documents into slide decks. Copilot’s capabilities simplify slide creation and refinement, enabling you to transform ideas into compelling presentations efficiently.
