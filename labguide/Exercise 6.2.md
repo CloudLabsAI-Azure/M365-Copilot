@@ -58,4 +58,4 @@ In conclusion, you have learned how to administer and manage the AI-powered **Mi
 
 ## Summary
 
-You’ve explored how to view and understand the management of Microsoft 365 Copilot services in the Admin Center. Even with read-only access, you have learned about the various features of Copilot, including Graph Connectors, Intelligent Search, and integration with chat and productivity apps. This knowledge will help you support Copilot administration and optimize its use within your organization.
+In this exercise, you’ve explored how to view and understand the management of Microsoft 365 Copilot services in the Admin Center. Even with read-only access, you have learned about the various features of Copilot, including Graph Connectors, Intelligent Search, and integration with chat and productivity apps. This knowledge will help you support Copilot administration and optimize its use within your organization.
