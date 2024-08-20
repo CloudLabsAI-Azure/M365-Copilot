@@ -76,7 +76,7 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/camp-aware-copilot.png)
 
-1. The **Copilot** popup will appear, Clcik on it
+1. The **Copilot** popup will appear, Click on it.
 
 1. Provide your input. You can you can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
 
