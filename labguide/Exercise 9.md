@@ -16,7 +16,7 @@ To schedule a meeting in Microsodt Teams with your colleagues, follow the given 
 
     ![](./media/setup-meeting.png)
 
-1. Select **Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+1. Select **Send/Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
 
     ![](./media/meeting-setup.png)
 
@@ -57,6 +57,8 @@ After the meeting, continue the discussion through a chat conversation with your
     ![](./media/chat-highlights.png)
 
     ![](./media/chat-decisions.png)
+
+  >**Note:** Please ensure that at least single attendees joins the call to explore the Copilot feature during this session.
 
 ### Review and Analyze
 
