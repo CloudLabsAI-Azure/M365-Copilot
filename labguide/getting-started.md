@@ -16,7 +16,7 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
 
 To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab. You will find your credentials under **M365 Copilot User Details**. The value before the **|** will be your User ID and the value after **|** will be your User password to log into Microsoft 365 applications and utilize the lab environment.
 
-  ![](./media/env.png)
+  ![](./media/labguideupdategettingstarted.png)
 
 Copy and paste the credentials in the notepad **Username (1)** & **Password (2)**
 
