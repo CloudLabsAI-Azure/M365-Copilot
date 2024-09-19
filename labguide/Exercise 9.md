@@ -26,7 +26,7 @@ To schedule a meeting in Microsodt Teams with your colleagues, follow the given 
 
 To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the given steps:
 
-1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+1. Organise a meeting and select **Copilot** from the top bar. select **Language** and click on **Confirm** at popup **What language is everyone speaking?** A side pane will open where you can give prompts to the Copilot.
 
 1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
 
@@ -39,6 +39,8 @@ To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the gi
     ![](./media/summary-meeting.png)
 
     Share the summary with others who may have missed the meeting.
+
+  >**Note:** If you come across any issues while using copilot or the output does not matches with above shared image output this is because there is no user on the call for to perform any action for the copilot. please proceed to next step or use different teams id to join to the call and perform the above task.
 
 ### Conduct a Chat Conversation
 
