@@ -4,9 +4,9 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 ### Task 1.1: Applying a Sensitivity label to a Word document
 
-- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
+- Navigate to [Microsoft 365](https://www.office.com), Select **Apps** from the left pane and select **Word** from the apps list. In the new tab, click on **Blank document**.
 
-   ![](./media/label1.1.png)
+   ![](./media/appsicon.png)
 
    ![](./media/label1.2.png)
 
