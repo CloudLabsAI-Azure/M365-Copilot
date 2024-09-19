@@ -20,9 +20,9 @@ Here are some of the main features of Copilot Lab:
 
 ## Using Copilot Lab
 
-1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot Lab**. You will see a similar screen:
+1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot Lab**. scroll down and You will see a similar screen:
 
-    ![](./media/copilot-lab-webpage.png)
+    ![](./media/copiootsinp2.png)
 
     You will find a large number of example prompts here, based on different situations and tones, for various all kinds of Microsoft 365 apps.
 
@@ -50,11 +50,9 @@ You can also filter the prompts as per the application where you need them, like
 
     ![](./media/app-filters.png)
 
-1. To filter prompts as per different scenarios, choose **Categories** drop-down menu. You can select different categories for which you want to see the prompts.
+1. To filter prompts as per different scenarios, choose **Task** drop-down menu. You can select different categories for which you want to see the prompts.
 
-    ![](./media/categories-filter.png)
-
-    ![](./media/categories-filters.png)
+    ![](./media/copiootsinp3.png)
 
 1. You can also click on **Saved prompts** to see all the prompts you saved earlier, at once.
 
@@ -74,7 +72,7 @@ To use Copilot Lab prompts, follow the below steps:
 
 1. Click on the **View prompts** icon to explore prompts. A drop-down menu with prompt categories and **View more** prompts option will open.
 
-    ![](./media/categories-filters.png)
+    ![](./media/copiootsinp4.png)
 
 1. Click on each category and explore the related prompts. To find more prompts, select the **View more prompts** option. The Copilot Lab dialog box will open.
     
