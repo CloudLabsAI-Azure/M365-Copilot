@@ -36,9 +36,9 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 ### Task 1.2: Applying Sensitivity label using Copilot
 
-- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
+- Navigate to [Microsoft 365](https://www.office.com), Select **Apps** from the left pane and select **Word** from the apps list. In the new tab, click on **Blank document**.
 
-   ![](./media/label1.1.png)
+   ![](./media/appsicon.png)
 
    ![](./media/label1.2.png)
 
@@ -48,7 +48,7 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
    Summarise the document /Industry Analysis Report for Contoso Ltd.docx
    ```
 
-   ![](./media/label1.3.png)
+   ![](./media/copiootsinp1.png)
 
 
    ![](./media/label1.4.png)
