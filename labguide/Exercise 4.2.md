@@ -24,9 +24,7 @@ To use **Copilot in Outlook**, follow the below steps:
 
    ![](./media/365-homepage.png)
 
-1. Select **Apps** from the left pane and select **Outlook** from the apps list.
-
-   ![](./media/office-apps-page.png)
+1. Search for **Outlook** search bar and select **Outlook web access** from the list which will take you to the Outlook portal.
 
 1. Open your **Outlook** and click on the email sent by **Spektra Admin**.
 
