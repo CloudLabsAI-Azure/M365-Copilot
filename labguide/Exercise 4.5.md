@@ -72,7 +72,7 @@ Here you will see the practical utility and capabilities of the **M365 Copilot**
 
     To utilise the capabilities of **Microsoft 365 Copilot** in a meeting, follow the given steps:
 
-    1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+    1. Organise a meeting and select **Copilot** from the top bar. select **confirm** on what language to select, A side pane will open where you can give prompts to the Copilot.
 
     1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
 
