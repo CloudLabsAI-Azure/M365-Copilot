@@ -44,6 +44,8 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/camp-awareness-page.png)
 
+   >**Note:** You might find multiple Campaign Awareness file, open any file to perform next step.
+
 1. Your excel file will open containing the data, Select **File** tab. 
 
    ![](./media/camp-aware-sheet.png)
