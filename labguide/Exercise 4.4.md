@@ -46,29 +46,11 @@ To use **Copilot in Excel**, follow the below steps:
 
    >**Note:** You might find multiple Campaign Awareness file, open any file to perform next step.
 
-1. Your excel file will open containing the data, Select **File** tab. 
-
-   ![](./media/camp-aware-sheet.png)
-
-   ![](./media/file-tab.png)
-
-   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
-
-1. Select **Save As** and choose **Save a Copy** to save a copy of the **Campaign Awareness Report** in your own OneDrive.
-
-   ![](./media/save-copy.png)
-
-1. You can provide your preferred name to the file you will save to your personal **OneDrive** account in the **File name** textbox. Select **Location** to set the location of the saved copy of the file to your personal **OneDrive** account. Choose **More save locations**.
-
-   ![](./media/save-locations.png)
-
-1. Select **My Files** from the left pane and select **Save Here** to save the copy of the file to your personal **OneDrive** account.
-
-   ![](./media/save-here.png)
-
-1. Your new **Excel** workbook will open that you saved by your preferred name, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+1. Your excel file will open containing the data, click on any cell of the table to select it and choose **Copilot** on top of the screen.. 
 
    ![](./media/camp-aware-copilot.png)
+
+   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
 
 1. The **Copilot** popup will appear.
 
@@ -96,7 +78,7 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/engagement-rate.png)
 
-1. The new column named **Engagement Rate** will be addded to your table as shown below:
+1. The new column named **Engagement Rate2** will be addded to your table as shown below:
 
    ![](./media/modified-table.png)
 
