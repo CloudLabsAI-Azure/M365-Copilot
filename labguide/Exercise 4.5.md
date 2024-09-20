@@ -62,7 +62,7 @@ Here you will see the practical utility and capabilities of the **M365 Copilot**
 
         ![](./media/setup-meeting.png)
 
-    1. Select **Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+    1. Select **Send/Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
 
         ![](./media/meeting-setup.png)
 
@@ -72,7 +72,7 @@ Here you will see the practical utility and capabilities of the **M365 Copilot**
 
     To utilise the capabilities of **Microsoft 365 Copilot** in a meeting, follow the given steps:
 
-    1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+    1. Organise a meeting and select **Copilot** from the top bar. select **confirm** on what language to select, A side pane will open where you can give prompts to the Copilot.
 
     1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
 
@@ -85,6 +85,8 @@ Here you will see the practical utility and capabilities of the **M365 Copilot**
         ![](./media/summary-meeting.png)
 
         Share the summary with others who may have missed the meeting.
+
+   >**Note:** You may see the different output from the copilot chat window, please move to the next step.
 
 ## Try Out Yourself
 

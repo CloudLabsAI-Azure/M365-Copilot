@@ -16,7 +16,7 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/365-homepage.png)
 
-1. Select **Apps** from the left pane and search for **Loop** in the search bar.
+1. Select **Apps** from the left pane and search for **Loop** in the search bar. Click on **Get Started**.
 
    ![](./media/office-apps-page.png)
 

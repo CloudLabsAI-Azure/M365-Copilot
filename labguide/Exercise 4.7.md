@@ -38,7 +38,7 @@ To use **M365 Chat**, follow the below steps:
 
 1. Navigate to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
 
-   ![](../labguide/media/M5.png)
+   ![](../labguide/media/copiootsinp.png)
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 

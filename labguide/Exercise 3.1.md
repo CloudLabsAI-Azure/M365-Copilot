@@ -23,7 +23,7 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 - **Navigate to SharePoint:**
    - Go to the SharePoint homepage by clicking on the **SharePoint (2)** app or through the **Microsoft 365 app launcher (1)**.
 
-      ![](./media/task3.2.1.png)
+      ![](./media/newsiteimg.png)
 
    - Click on the Finance Sharepoint site.
 
