@@ -42,9 +42,13 @@ To use **M365 Chat**, follow the below steps:
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **What are the key points from this document:**. Then provide **/** and goto **Files** to select a file, say "Software Training Guide".
+1. Ask Copilot - **What are the key points from this document: (1)**. Then provide **/** go to **Uploads (2)** , select **attach cloud files (3)** to select a file **Software Training Guide** and click on **next** and click on **send**.
 
-   ![](../labguide/media/copilot-chat-prompt.png)
+   ![](../labguide/media/attach_cloud.png)
+
+   ![](../labguide/media/select_software.png)
+
+   ![](../labguide/media/send.png)
 
 
 1. This response will be presented as below:
