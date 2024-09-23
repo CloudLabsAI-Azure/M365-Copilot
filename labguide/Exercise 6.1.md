@@ -57,3 +57,6 @@ Now the user's Copilot license assignment status will be updated.
 In conclusion, you've gained an in-depth understanding of how to effectively manage Microsoft Copilot licenses through the **Microsoft 365 Admin Center**.
 
 You've learned how to assign and remove licenses for specific users, an essential function for managing access to **Microsoft Copilot**. You've also gained a strong understanding of how to manage Microsoft Copilot services and configure public web content access, key skills for optimizing the usage of this AI tool in your organization.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
