@@ -106,3 +106,6 @@ On what points an agreement is reached?
 ## Conclusion
 
 In conclusion, Copilot can significantly enhance the Teams user experience, promoting a more organized, productive, and effective communication environment. It can generate summaries of chat threads, identify key action points, and help users catch up on missed discussions efficiently. Furthermore, the tool empowers users to direct conversations confidently by suggesting potential questions to facilitate rich and inclusive discussions. It also aids in maintaining alignment within the team by summarizing key discussions and identifying next steps. Thus, **Microsoft 365 Copilot** is a valuable tool for any team-oriented setting, boosting productivity, enhancing engagement, and streamlining workflows.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
