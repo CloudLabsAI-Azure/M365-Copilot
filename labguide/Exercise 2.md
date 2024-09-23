@@ -84,4 +84,4 @@ The following steps outline the processing flow of Copilot for Microsoft 365, fr
 
 Understanding the intricate architecture and prompt flow of Copilot for Microsoft 365 provides insights into how this AI-powered tool delivers tailored and intelligent responses. As we proceed in this lab guide, we will explore these processes in more detail, offering you a deeper understanding of how Copilot enhances your productivity within the Microsoft 365 environment.
 
-## **Congratulations! you have successfully completed this lab, please click on next**
+## **Congratulations! you have successfully completed this exercise, please click on next**
