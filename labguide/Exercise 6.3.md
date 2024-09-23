@@ -51,3 +51,6 @@ Once the admin provides access to let **M365 Copilot** access content from the w
 ## Conclusion
 
 In conclusion, you learnt how to manage **Microsoft 365 Copilot** licenses within your organization. You have understood how to assign and remove these licenses for users and how to enable or disable specific Copilot services based on your organization's needs. Additionally, you also understood how to configure Copilot's ability to reference web content, enhancing its utility and the end-user experience. This knowledge would allow you to effectively manage and tailor the Copilot experience to best suit your organizational requirements.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
