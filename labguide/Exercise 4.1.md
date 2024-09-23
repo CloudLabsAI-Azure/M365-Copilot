@@ -94,3 +94,5 @@ Here are some of the example prompts which you can take help of to explore more 
 ## Conclusion: 
 
 In conclusion, Microsoft 365 Copilot transforms the document creation process in Word, enabling users to write faster, with confidence, and with creativity. By leveraging AI capabilities, Copilot assists in generating relevant and original content, enhancing productivity and quality. Whether starting from scratch or referencing existing documents, Copilot simplifies the writing process, providing users with valuable insights and suggestions. With its intuitive interface and seamless integration with Word, Copilot empowers users to create compelling and polished documents efficiently.
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
