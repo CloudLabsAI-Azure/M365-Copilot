@@ -40,7 +40,7 @@ When the retention period expires and copies a message to the SubstrateHolds fol
 
 1. **If messages remain in Copilot** after the retention period expires, the message is copied to the SubstrateHolds folder. This action typically takes between 1-7 days from the expiry date. The message is retained there for at least 1 day and then permanently deleted the next time the timer job runs (typically between 1-7 days).
 
-### Creating and Configuring Retenetion Policies
+### Task 1: Creating and Configuring Retenetion Policies
 
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Retention Policies in the Purview portal.  Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
