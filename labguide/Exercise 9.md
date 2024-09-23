@@ -70,4 +70,4 @@ After the meeting, continue the discussion through a chat conversation with your
 By the end of this exercise, you'll have a clear understanding of how M365 Copilot can assist you in summarizing meetings and chat conversations. This hands-on experience will demonstrate the tool's potential to enhance productivity and efficiency in your professional communication. Remember to provide feedback and suggestions for improvements to further refine the capabilities of M365 Copilot.
 
 
-## **Congratulations! you have successfully completed this exercise, please click on next**
+## **Congratulations! you have successfully completed this exercise.**
