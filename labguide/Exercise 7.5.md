@@ -59,7 +59,7 @@ The following information is displayed for each item on the **Pending** tab for 
 - **Recipient column:** Recipients included in the message. If the policy match is a prompt to Copilot, the value is "Copilot".
 - **Message text:** The message text that the user entered (the text that caused the policy match) is shown on the right side of the screen in its entirety.
 
-### Using Communication Compliance in Microsoft 365 Copilot
+### Task 1: Using Communication Compliance in Microsoft 365 Copilot
 
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal. Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
