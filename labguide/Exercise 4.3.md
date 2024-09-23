@@ -14,7 +14,7 @@ In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant
 
 **Copilot in PowerPoint** transforms the way you craft your slides. When you launch a blank PowerPoint document, it stands ready to shape your ideas into a structured presentation, initiating the creation process based on your directives and incorporating a tailored narrative to craft a compelling story. Copilot bridges the gap between idea and visual representation with ease, amplifying your key messages to resonate with your audience.
 
-## Creating Presentations from Word documents
+### Task 3.3.1: Creating Presentations from Word documents
 
 **Copilot in PowerPoint** simplifies the transformation of existing files, streamlining the conversion of your documents into vivid visual presentations effortlessly. With this capability, you can easily transform a Word document into a structured PowerPoint presentation, ensuring your content gets the visual representation it deserves. This process not only streamlines your workflow but also brings a new dimension to your written content.
 
