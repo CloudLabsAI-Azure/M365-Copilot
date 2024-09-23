@@ -99,3 +99,5 @@ If a user leaves your organization and their **Microsoft 365 account** is delete
 In conclusion, the integration of **Retention Policies with Microsoft Copilot for Microsoft 365** plays a crucial role in enhancing security and compliance measures. By utilizing retention policies, organizations can retain, delete, or apply a combination of retention and deletion to Copilot messages. The detailed content paths for various scenarios, such as messages being removed or remaining in Copilot after the retention period, provided clarity on the lifecycle of Copilot messages.
 
 By completing this lab, users are now equipped with the knowledge and skills to leverage retention policies effectively in the context of **Microsoft Copilot**. This ensures that organizations can meet compliance requirements, manage data lifecycle efficiently, and uphold the highest standards of security and privacy within the **Microsoft 365** environment.
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
