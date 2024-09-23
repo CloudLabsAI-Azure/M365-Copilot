@@ -61,3 +61,6 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 ## Conclusion
 
 In conclusion, the integration of auditing capabilities within **Microsoft 365 Copilot** through the Microsoft Purview auditing solutions provides organizations with a powerful tool to enhance security, facilitate forensic investigations, conduct internal inquiries, and meet compliance obligations effectively. By configuring audit logging activities, organizations can define specific conditions for their searches, including date and time range, activities, and users. This allows for a targeted investigation into Copilot events, providing detailed insights into user interactions and file access. By leveraging auditing capabilities in **Microsoft 365 Copilot**, organizations can reinforce their commitment to data security, user privacy, and compliance. This integrated solution contributes to a robust security posture, empowering organizations to monitor and respond to user activities within Copilot effectively.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
