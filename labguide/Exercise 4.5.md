@@ -14,7 +14,7 @@ In Teams, **Copilot for Microsoft 365** elevates the efficiency of teamwork, fac
 
 In chat threads, **Copilot in Teams** can help users get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads. Users can ask Copilot to generate a summary of the chat conversation over a recent time period they specify (Copilot provides prompts for the past day, seven days, or 30 days). Copilot can also draft an email to the meeting participants that summarizes the meeting and includes the action items. Overall, Copilot in Teams is a powerful tool that can help users stay organized and productive in their online meetings and conversations.
 
-## Harness meeting insights
+### Task 3.5.1: Harness meeting insights
 
 **Copilot in Teams** furnishes you with a succinct summary of the missed discussions, empowering you to catch up swiftly. You can utilize the suggested prompts or craft your personalized questions to garner essential insights about the ongoing meeting context, enhancing your engagement and comprehension.
 
@@ -46,7 +46,7 @@ To use **Copilot in Teams**, follow the below steps:
 
     ![](./media/teams-copilot-use.png)
 
-## Utilizing Copilot in Meetings
+### Task 3.5.2: Utilizing Copilot in Meetings
 
 Here you will see the practical utility and capabilities of the **M365 Copilot** in a real-world context. You'll conduct a meeting and a chat conversation with your colleagues, using the M365 Copilot to streamline and summarize these interactions. The goal is to gain hands-on experience with the tool and understand its potential to enhance productivity and communication within your organization.
 
