@@ -66,3 +66,6 @@ Draft an email asking your manager for your planned leaves.
 ## Conclusion:
 
 In conclusion, Microsoft 365 Copilot revolutionizes email management and drafting in Outlook, enhancing productivity and communication efficiency. With features like Thread Summarize, users can quickly grasp the main points of lengthy email threads, improving understanding and decision-making. Additionally, the Draft with Copilot feature streamlines the email drafting process by offering intelligent suggestions based on the context provided, enabling users to compose emails faster and more effectively. By seamlessly integrating Copilot's AI capabilities into Outlook, Microsoft empowers users to manage their emails more efficiently, ultimately enhancing collaboration and productivity in the workplace.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
