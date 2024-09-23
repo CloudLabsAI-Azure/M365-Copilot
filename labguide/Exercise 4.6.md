@@ -12,6 +12,8 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 To use **Copilot in Loop**, follow the below steps:
 
+### Task 3.6.1: Copilot in Loop
+
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
