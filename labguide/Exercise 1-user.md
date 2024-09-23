@@ -57,3 +57,6 @@ Throughout this lab guide, we'll explore real-world examples of Copilot for Micr
 ## Conclusion
 
 The aim of Copilot for Microsoft 365 is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot, and discover how AI can truly become an invaluable ally in your quest for professional excellence. 
+
+
+## **You have successfully gone through this lab, please click on next**
