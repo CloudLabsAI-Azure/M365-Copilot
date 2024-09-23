@@ -27,3 +27,6 @@ Customer Key uses various encryption ciphers to encrypt keys as shown in the fol
 In conclusion, the incorporation of **Customer Keys in Microsoft 365 Copilot** adds an extra layer of protection, fortifying data security and compliance measures. This exercise has elucidated the significance of Customer Keys in preventing unauthorized access to data, complementing existing security measures like BitLocker disk encryption and SSE in Microsoft data centers.
 
 The interoperability of items encrypted with Microsoft Purview Customer Key with **Copilot for Microsoft 365** underscores the seamless integration of security features across Microsoft 365 services. Overall, the utilization of Customer Keys reinforces the robustness of security protocols, contributing to a resilient and compliant environment within the **Microsoft 365** ecosystem.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
