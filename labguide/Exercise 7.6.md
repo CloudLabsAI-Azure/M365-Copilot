@@ -12,7 +12,7 @@ Microsoft Purview auditing solutions provide an integrated solution to help orga
 
 For **Auditing in M365 Copilot**, details are captured when users interact with Copilot. Events include how and when users interact with Copilot, in which Microsoft 365 service the activity took place, and references to the files stored in Microsoft 365 that were accessed during the interaction. If these files have a sensitivity label applied, that's also captured.
 
-### Accessing the M365 Copilot Logs
+### Task 1: Accessing the M365 Copilot Logs
 
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of auditing logs in the Purview portal.
 
