@@ -70,3 +70,6 @@ Add an image related to encryption coding in slide number 4.
 ## Conclusion:
 
 In conclusion, **Microsoft 365 Copilot** enhances the PowerPoint experience by simplifying the creation of impactful presentations. With its intuitive interface and AI-powered capabilities, Copilot streamlines the process of crafting slides, transforming concepts into visually compelling narratives. Whether starting from scratch or converting existing documents, Copilot empowers users to create professional presentations efficiently. By bridging the gap between idea and visual representation, Copilot elevates the quality and efficiency of PowerPoint presentations, ultimately enhancing communication and collaboration in the workplace.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
