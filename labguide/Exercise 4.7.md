@@ -34,6 +34,8 @@ Copilot can then query connected services such as SharePoint, Exchange, Teams, a
 
 By incorporating Copilot's intelligence into the collaboration flow via chat in M365, users can more easily gather information to make decisions and coordinate teamwork efficiently.
 
+### Task 3.7.1: M365 Chat to Access Microsoft Graph Data
+
 To use **M365 Chat**, follow the below steps:
 
 1. Navigate to the home page of the [Microsoft 365](https://www.office.com/login?), click on **Copilot** icon to open copilot chat application.
