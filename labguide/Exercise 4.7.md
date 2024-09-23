@@ -73,3 +73,6 @@ List ideas for a fun remote team even for Contoso Ltd.
 ## Conclusion
 
 In conclusion, the integration of Microsoft 365 Copilot with M365 Chat revolutionizes how users access and interact with organizational data. By seamlessly embedding Copilot's AI capabilities into the collaboration flow, users can effortlessly retrieve information, automate tasks, and enhance teamwork efficiency. This powerful integration not only saves time but also fosters increased collaboration and knowledge sharing across teams, ultimately driving productivity and innovation within the organization.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**
