@@ -14,7 +14,7 @@ In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting 
 
 **Copilot in Outlook** introduces the "Thread Summarize" feature, designed to simplify your email management. With this feature, Outlook either offers concise bullet points or generates an entire summary of the chosen email thread, displayed above the thread in the reading pane. This design makes it easier to grasp the main points of extended email conversations. Additionally, the summary includes links to specific responses, allowing for quick access to different parts of the thread.
 
-## **Drafting Emails in Outlook**
+### Task 3.2.1: **Drafting Emails in Outlook**
 
 **Copilot in Outlook** also introduces the draft email feature, which helps you draft emails faster. This feature uses natural language processing to help you write emails by offering suggestions based on the context of your message. Copilot in Outlook can also help you write emails from scratch, using the information you provide. For example, you can start a new email by providing a topic and a few bullet points. Copilot in Outlook then uses this information to draft a full email for you.
 
