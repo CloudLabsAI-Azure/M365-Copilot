@@ -18,7 +18,7 @@ Here are some of the main features of Copilot exercise:
 
 1. By using Copilot exercise, you can discover new ways to use Copilot and improve your prompt engineering skills. You can also learn from other users and experts who have created and shared their own prompts. You can also contribute to the Copilot exercise community by creating and sharing your own prompts.
 
-## Using Copilot exercise
+### Task 1: Using Copilot exercise
 
 1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot exercise**. scroll down and You will see a similar screen:
 
@@ -38,7 +38,7 @@ Here are some of the main features of Copilot exercise:
 
 1. Go to the related application where you want to try the prompt out and notice the outputs.
 
-### Filtering the prompts
+### Task 2: Filtering the prompts
 
 You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel etc. or as per the scenarios where you want to use the, like for creating a documnet, understanding an email or report etc.
 
@@ -58,7 +58,7 @@ You can also filter the prompts as per the application where you need them, like
 
     ![](./media/saved-prompts.png)
 
-## Using Copilot exercise in Word and PowerPoint
+### Task 3: Using Copilot exercise in Word and PowerPoint
 
 **Copilot exercise** is also integrated in MS Word and MS PowerPoint, and the prompts can directly be referenced from the apps, without separately navigating to the Copilot Lab portal.
 
@@ -83,7 +83,7 @@ To use Copilot exercise prompts, follow the below steps:
     >**Note**: You can also click on **Saved prompts** to see the saved prompts (if you saved earlier for quick access), and can also click on drop-down menu besides it to filter them as per categories.
     ![](./media/internal-filters.png)
 
-## Using Copilot exercise in Microsoft Chat
+### Task 4: Using Copilot exercise in Microsoft Chat
 
 1. Navigate to **Microsoft Copilot Chat** by clicking on **Copilot** icon from the left pane.
 
