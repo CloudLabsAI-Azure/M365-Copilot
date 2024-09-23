@@ -12,7 +12,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
-- **Enable Cloud Update**
+### Task 1: Enable Cloud Update
 
 1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, we have already established a security group named **Copilot Users**.
 
