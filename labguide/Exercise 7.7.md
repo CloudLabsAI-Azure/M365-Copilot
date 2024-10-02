@@ -141,3 +141,6 @@ Now, you need to download the report from the Azure Storage area to your local c
 ## Conclusion
 
 In conclusion, the utilization of **Content Search in Microsoft 365 Copilot** via the Microsoft Purview compliance portal serves as a powerful tool for organizations to uphold data security and compliance standards. This capability empowers users to search and analyze in-place content, including email, documents, and instant messaging conversations that involve interactions with **M365 Copilot**. By incorporating these practices into their routine operations, organizations can ensure effective data management, compliance with regulations, and swift response to security events. The privacy and security principles embedded in **Microsoft Copilot** remain intact, reinforcing a commitment to user privacy and data protection.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

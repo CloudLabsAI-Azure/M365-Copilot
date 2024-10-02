@@ -216,3 +216,6 @@ In summary, **Microsoft 365 Copilot** is more stringent when handling encrypted 
 In conclusion, the integration of **Sensitivity Labels in Microsoft Copilot** for **Microsoft 365** significantly enhances security and compliance measures. **Sensitivity Labels**, being customizable, allow organizations to tailor categories for different levels of sensitive content, ensuring alignment with specific business needs. The clear text storage of labels in metadata facilitates interoperability with third-party apps and services, enabling them to apply their protective actions if necessary.
 
 In the context of **Microsoft Copilot**, Sensitivity Labels play a crucial role in providing an extra layer of protection. The visibility of the sensitivity label with the highest priority to users in Graph-grounded chat conversations ensures that the most restrictive label is appropriately acknowledged. To maximize the effectiveness of **Microsoft 365 Copilot** in safeguarding sensitive information, it is imperative for organizations to implement sensitivity labels, establish appropriate permissions, and protect their most sensitive data using these labels. This integrated approach ensures a robust security posture and compliance adherence within the **Microsoft 365** environment.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

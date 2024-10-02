@@ -720,3 +720,4 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
 If a user leaves your organization and their **Microsoft 365 account** is deleted, their **Copilot** messages that are subject to retention are stored in an inactive mailbox. The Copilot messages remain subject to any retention policy that was placed on the user before their mailbox was made inactive, and the contents are available to an **eDiscovery search**.
 
+## **Congratulations! you have successfully completed this exercise, please click on next**

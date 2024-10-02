@@ -59,7 +59,7 @@ The following information is displayed for each item on the **Pending** tab for 
 - **Recipient column:** Recipients included in the message. If the policy match is a prompt to Copilot, the value is "Copilot".
 - **Message text:** The message text that the user entered (the text that caused the policy match) is shown on the right side of the screen in its entirety.
 
-### Using Communication Compliance in Microsoft 365 Copilot
+### Task 1: Using Communication Compliance in Microsoft 365 Copilot
 
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal. Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
@@ -120,3 +120,6 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
 In conclusion, the incorporation of **Communication Compliance** within **Microsoft Copilot for Microsoft 365** enhances the platform's capabilities to address communication-related risks effectively. The robust features of Communication Compliance empower organizations to detect, capture, and act on potentially inappropriate messages, minimizing communication risks within the organization.
 
 By leveraging pre-defined and custom policies, **Communication Compliance** provides a comprehensive solution for checking both internal and external communications across various channels, including **Microsoft Copilot for Microsoft 365**. This functionality ensures that designated reviewers can examine communications for policy matches, facilitating a proactive approach to compliance and risk management. By embracing **Communication Compliance in Microsoft 365 Copilot**, organizations can fortify their communication channels against potential risks, uphold corporate standards, and proactively address compliance challenges. This integration contributes to a secure digital environment where communication is not only efficient but also aligned with organizational policies and regulatory requirements.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

@@ -10,7 +10,7 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 In Word, **Copilot for Microsoft 365** transforms the process of document creation and refinement, allowing you to produce compelling content with ease. Copilot helps draft from scratch, enhance the existing text, and capture the essence of lengthy articles. With Copilot, you can initiate a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and readily adjust both the tone and conciseness of your writing.
 
-## **Content Generation in Word:**
+### Task 3.1.1: **Content Generation in Word:**
 
 One of the goals of Copilot in Word is to simplify the creation and modification of documents. It uses artificial intelligence to understand your writing goals and generate relevant and original content for you. You can use Copilot in Word to:
 
@@ -48,7 +48,7 @@ To use **Copilot in Word**, follow the below steps:
 
     >![](./media/copilot-icon-word.png)
 
-## Referencing Existing Documents in Word
+### Task 3.1.2: Referencing Existing Documents in Word
 
 You can also link an external Word document present in your **OneDrive account** and generate output based on that. To do so, follow the given steps:
 
@@ -62,7 +62,7 @@ You can also link an external Word document present in your **OneDrive account**
 
    ![](./media/summary-doc.png)
 
-## Try Out Yourself
+### Task 3.1.3: Try Out Yourself
 
 You can also try your own scenarios and examples out to analyse the functioning of Copilot.
 Here are some of the example prompts which you can take help of to explore more on **Copilot in Word**. Besides these, you can also create your own prompts and interact with Copilot.
@@ -94,3 +94,5 @@ Here are some of the example prompts which you can take help of to explore more 
 ## Conclusion: 
 
 In conclusion, Microsoft 365 Copilot transforms the document creation process in Word, enabling users to write faster, with confidence, and with creativity. By leveraging AI capabilities, Copilot assists in generating relevant and original content, enhancing productivity and quality. Whether starting from scratch or referencing existing documents, Copilot simplifies the writing process, providing users with valuable insights and suggestions. With its intuitive interface and seamless integration with Word, Copilot empowers users to create compelling and polished documents efficiently.
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

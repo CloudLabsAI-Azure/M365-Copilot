@@ -53,9 +53,12 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
    ![](./media/label1.4.png)
 
-  >**Note:** You may find the output from the copilot different from the above screenshot output. please ignore and proceed to next lab. 
+  >**Note:** You may find the output from the copilot different from the above screenshot output. please ignore and proceed to next exercise. 
 
 ## Conclusion:
 Applying sensitivity labels in Microsoft 365 is a crucial step in protecting sensitive data. Whether you're working on a Word document or using the Copilot tool to summarize a document, understanding how to apply these labels is essential. The process involves navigating to the document, selecting the "Sensitivity" option from the top menu bar, and choosing the appropriate label.
 
 By applying sensitivity labels, you're not only enhancing the security of your documents but also ensuring compliance with data handling policies. This practice enables users to identify and treat sensitive information appropriately, thereby reducing the risk of data leaks or misuse. Remember, the key to effective data protection lies in the right use of tools and vigilance in handling sensitive information.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

@@ -12,6 +12,8 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 To use **Copilot in Loop**, follow the below steps:
 
+### Task 3.6.1: Copilot in Loop
+
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
    ![](./media/365-homepage.png)
@@ -115,3 +117,6 @@ You can also try out your own scenarios and examples to analyse the functioning 
 ## Conclusion
 
 In conclusion, **Copilot** is a powerful AI tool designed to automate tasks, enhance collaboration, and streamline workflows across various Microsoft 365 apps, including Loop. It helps in co-creating and planning by offering AI-powered contextual suggestions, making it easier to start or update a shared workspace. It aids in creating new content, brainstorming ideas, providing blueprints for best practices, or describing concepts in an easily understandable manner. Thus, **Microsoft 365 Copilot in Loop** is an invaluable tool for any organization, enhancing productivity and creativity while fostering effective team collaboration. Its intelligent assistance capabilities make it a continually evolving asset that can adapt to an organization's ever-changing needs.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

@@ -8,19 +8,19 @@
 
 - **Prompt Engineering:** Prompt engineering is the skill of knowing when and how to ask Copilot to do something for you. It’s like giving instructions to a smart assistant. You want to be clear, concise, and specific, so that Copilot can understand your goal and deliver the best results.
 
-## Features of Copilot Lab
+## Features of Copilot exercise
 
-Here are some of the main features of Copilot Lab:
+Here are some of the main features of Copilot exercise:
 
-1. Copilot Lab is designed to help you learn prompt engineering in a fun and easy way. You can browse through different categories of prompts, such as business, education, entertainment, and more. You can also search for prompts by keywords or topics.
+1. Copilot exercise is designed to help you learn prompt engineering in a fun and easy way. You can browse through different categories of prompts, such as business, education, entertainment, and more. You can also search for prompts by keywords or topics.
 
 1. It helps to try out any prompt you like and see how Copilot responds. You can also edit the prompt or the response to see how it changes the outcome. You can also share your prompts and responses with other users and get feedback and suggestions.
 
-1. By using Copilot Lab, you can discover new ways to use Copilot and improve your prompt engineering skills. You can also learn from other users and experts who have created and shared their own prompts. You can also contribute to the Copilot Lab community by creating and sharing your own prompts.
+1. By using Copilot exercise, you can discover new ways to use Copilot and improve your prompt engineering skills. You can also learn from other users and experts who have created and shared their own prompts. You can also contribute to the Copilot exercise community by creating and sharing your own prompts.
 
-## Using Copilot Lab
+### Task 1: Using Copilot exercise
 
-1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot Lab**. scroll down and You will see a similar screen:
+1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot exercise**. scroll down and You will see a similar screen:
 
     ![](./media/copiootsinp2.png)
 
@@ -38,11 +38,11 @@ Here are some of the main features of Copilot Lab:
 
 1. Go to the related application where you want to try the prompt out and notice the outputs.
 
-### Filtering the prompts
+### Task 2: Filtering the prompts
 
 You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel etc. or as per the scenarios where you want to use the, like for creating a documnet, understanding an email or report etc.
 
-1. In the **Copilot Lab** portal, click on the *App* dropdown menu present under the **Prompts to try** section.
+1. In the **Copilot exercise** portal, click on the *App* dropdown menu present under the **Prompts to try** section.
 
     ![](./media/app-filter.png)
 
@@ -58,11 +58,11 @@ You can also filter the prompts as per the application where you need them, like
 
     ![](./media/saved-prompts.png)
 
-## Using Copilot Lab in Word and PowerPoint
+### Task 3: Using Copilot exercise in Word and PowerPoint
 
-**Copilot Lab** is also integrated in MS Word and MS PowerPoint, and the prompts can directly be referenced from the apps, without separately navigating to the Copilot Lab portal.
+**Copilot exercise** is also integrated in MS Word and MS PowerPoint, and the prompts can directly be referenced from the apps, without separately navigating to the Copilot Lab portal.
 
-To use Copilot Lab prompts, follow the below steps:
+To use Copilot exercise prompts, follow the below steps:
 
 1. Open Word or PowerPoint in your web browser.
 
@@ -83,7 +83,7 @@ To use Copilot Lab prompts, follow the below steps:
     >**Note**: You can also click on **Saved prompts** to see the saved prompts (if you saved earlier for quick access), and can also click on drop-down menu besides it to filter them as per categories.
     ![](./media/internal-filters.png)
 
-## Using Copilot Lab in Microsoft Chat
+### Task 4: Using Copilot exercise in Microsoft Chat
 
 1. Navigate to **Microsoft Copilot Chat** by clicking on **Copilot** icon from the left pane.
 
@@ -91,7 +91,7 @@ To use Copilot Lab prompts, follow the below steps:
 
 1. Move through the sample prompts and select the one you need. The prompt will appear in the Copilot edit box. Click on **Send** icon to generate the response in the Copilot chat pane.
 
-1. To explore more prompts, click on **View prompts** button and the **Copilot Lab** dialog box will appear.
+1. To explore more prompts, click on **View prompts** button and the **Copilot exercise** dialog box will appear.
 
     ![](./media/view-prompts-chat.png)
 
@@ -105,4 +105,7 @@ To use Copilot Lab prompts, follow the below steps:
 
 ## Conclusion
 
-Microsoft Copilot Lab presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
+Microsoft Copilot exercise presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

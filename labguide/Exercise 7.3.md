@@ -118,3 +118,6 @@ In addition, using Endpoint data loss prevention (DLP), Activity explorer gather
 In conclusion, understanding and leveraging the capabilities of **Microsoft Copilot** within the Microsoft 365 ecosystem are crucial steps towards enhancing data security and compliance for organizations. The emphasis on **data classification** forms a cornerstone for efficient functioning of Copilot, enabling it to provide accurate recommendations and automate the categorization process.
 
 By embracing the security and compliance features of **Microsoft Copilot**, organizations can not only streamline data management processes but also adhere to industry regulations and legal requirements. This, in turn, fosters a secure digital environment, safeguarding sensitive information and reinforcing trust in the organization's commitment to privacy and data protection.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

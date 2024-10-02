@@ -4,7 +4,7 @@ This exercise is designed to demonstrate the practical utility and capabilities 
 
 ## Task 1: Utilize M365 Copilot in teams.
 
-### Scheduling a Meeting
+### Task 1.1: Scheduling a Meeting
 
 To schedule a meeting in Microsodt Teams with your colleagues, follow the given steps:
 
@@ -22,7 +22,7 @@ To schedule a meeting in Microsodt Teams with your colleagues, follow the given 
 
 1. To start the meeting, click on the invite and select **Join**.
 
-### Utilizing M365 Copilot during the Meeting
+### Task 1.2: Utilizing M365 Copilot during the Meeting
 
 To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the given steps:
 
@@ -42,11 +42,11 @@ To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the gi
 
   >**Note:** If you come across any issues while using copilot or the output does not matches with above shared image output this is because there is no user on the call for to perform any action for the copilot. please proceed to next step or use different teams id to join to the call and perform the above task.
 
-### Conduct a Chat Conversation
+### Task 1.3: Conduct a Chat Conversation
 
-After the meeting, continue the discussion through a chat conversation with your colleagues on Microsoft Teams.
+1. After the meeting, continue the discussion through a chat conversation with your colleagues on Microsoft Teams.
 
-![](./media/meeting-chat.png)
+    ![](./media/meeting-chat.png)
 
 1. On the chat conversation page, select the **Copilot** icon on the top right corner to utilise the Copilot.
 
@@ -60,7 +60,7 @@ After the meeting, continue the discussion through a chat conversation with your
 
   >**Note:** Please ensure that at least single attendees joins the call to explore the Copilot feature during this session.
 
-### Review and Analyze
+### Task 1.4: Review and Analyze
 
 1. Review and go through the summaries and other answers provided by the M365 Copilot.
 
@@ -68,3 +68,6 @@ After the meeting, continue the discussion through a chat conversation with your
 
 ## Conclusion: 
 By the end of this exercise, you'll have a clear understanding of how M365 Copilot can assist you in summarizing meetings and chat conversations. This hands-on experience will demonstrate the tool's potential to enhance productivity and efficiency in your professional communication. Remember to provide feedback and suggestions for improvements to further refine the capabilities of M365 Copilot.
+
+
+## **Congratulations! you have successfully completed this exercise.**

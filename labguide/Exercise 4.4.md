@@ -16,7 +16,7 @@ With **Copilot in Excel**, analyzing business data becomes a seamless experience
 
 Beyond standard data analysis, Copilot crafts a coherent narrative from the patterns it identifies, ensuring a smooth transition from raw data to meaningful understanding. This process allows your key findings to become powerful drivers in making informed business decisions.
 
-## **Transforming Data in Excel**
+### Task 3.4.1: **Transforming Data in Excel**
 
 With **Copilot in Excel**, taking control of your data visualization and management is straightforward and intuitive. Copilot empowers you to not only clean and organize your data but also to enhance it through various stylistic and structural modifications. From applying styles, fonts, and colors to extending your data’s capabilities through pivot tables and graphs, Copilot helps in every step. Easily command Copilot to create new columns, define conditions for data representation, and formulate graphs for a comprehensive view.
 
@@ -44,29 +44,13 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/camp-awareness-page.png)
 
-1. Your excel file will open containing the data, Select **File** tab. 
+   >**Note:** You might find multiple Campaign Awareness file, open any file to perform next step.
 
-   ![](./media/camp-aware-sheet.png)
-
-   ![](./media/file-tab.png)
-
-   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
-
-1. Select **Save As** and choose **Save a Copy** to save a copy of the **Campaign Awareness Report** in your own OneDrive.
-
-   ![](./media/save-copy.png)
-
-1. You can provide your preferred name to the file you will save to your personal **OneDrive** account in the **File name** textbox. Select **Location** to set the location of the saved copy of the file to your personal **OneDrive** account. Choose **More save locations**.
-
-   ![](./media/save-locations.png)
-
-1. Select **My Files** from the left pane and select **Save Here** to save the copy of the file to your personal **OneDrive** account.
-
-   ![](./media/save-here.png)
-
-1. Your new **Excel** workbook will open that you saved by your preferred name, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+1. Your excel file will open containing the data, click on any cell of the table to select it and choose **Copilot** on top of the screen.. 
 
    ![](./media/camp-aware-copilot.png)
+
+   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
 
 1. The **Copilot** popup will appear.
 
@@ -94,7 +78,7 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/engagement-rate.png)
 
-1. The new column named **Engagement Rate** will be addded to your table as shown below:
+1. The new column named **Engagement Rate2** will be addded to your table as shown below:
 
    ![](./media/modified-table.png)
 
@@ -120,3 +104,6 @@ Create a pivot table where the row is category, the column is supplier, and the 
 ## Conclusion
 
 In conclusion, Copilot is an intuitive and powerful tool that simplifies data analysis, making it easy for users to derive meaningful insights from complex datasets. It also offers robust data visualization and management features, enabling users to customize and enhance their data presentations. Through a series of simple commands, Copilot can execute intricate tasks such as creating pivot tables, sorting and filtering data, and performing 'what-if' analyses. Thus, **Microsoft 365 Copilot** significantly enhances the Excel user experience, facilitating seamless data analysis, management, and visualization, thereby proving to be a valuable asset for any organization seeking to optimize their data handling and decision-making processes.
+
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

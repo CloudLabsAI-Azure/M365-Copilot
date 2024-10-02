@@ -12,7 +12,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
-- **Enable Cloud Update**
+### Task 1: Enable Cloud Update
 
 1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, we have already established a security group named **Copilot Users**.
 
@@ -43,3 +43,5 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 ## Conclusion
 
 In conclusion, Contoso Ltd's decision to opt for the Monthly Enterprise Channel for their Microsoft 365 Apps and Cloud updates as their management solution is a strategic move that aligns perfectly with their business needs. The Monthly Enterprise Channel provides a balanced, predictable update schedule that ensures stability and security, while also offering the latest features. The Cloud updates complement this by providing an efficient, automated, and real-time update management process that can be tailored to meet Contoso's specific needs.
+
+## **Congratulations! you have successfully completed this exercise, please click on next**

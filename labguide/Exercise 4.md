@@ -430,9 +430,4 @@ To use **M365 Chat**, follow the below steps:
    ![](../labguide/media/M7.png)
 
 
-
-
-
-
-
-
+## **Congratulations! you have successfully completed this exercise, please click on next**
