@@ -1,4 +1,4 @@
-# Introduction to Microsoft Copilot for Microsoft 365 Lab Guide
+# Introduction to Microsoft Copilot for Microsoft 365
 
 Welcome to the Microsoft Copilot for Microsoft 365 Lab, an immersive exploration into the revolutionary world of AI-powered productivity. In this guide, we'll delve into the groundbreaking features of Microsoft Copilot, an upcoming AI-driven tool that promises to redefine the way we approach everyday tasks within the Microsoft 365 ecosystem.
 
