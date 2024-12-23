@@ -40,7 +40,7 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/word-blank.png)
 
-1. In the **Word** document, you will find the prompt **Draft with Copilot**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
+1. In the **Word** document, you will find the prompt **What do you want Copilot to draft**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
 
    ![](./media/draft-with-copilot-word-2.png)
 
