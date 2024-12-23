@@ -60,7 +60,7 @@ You can also link an external Word document present in your **OneDrive account**
 
 1. On the **Draft with Copilot** screen, choose **Reference your content** and select the preferred document. You can also provide prompt like **Summarise the document /**
 
-   ![](./media/reference-doc-word.png)
+   ![](./media/im5.png)
 
    ![](./media/im4.png)
 
