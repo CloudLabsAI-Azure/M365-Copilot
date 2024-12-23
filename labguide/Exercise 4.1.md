@@ -42,7 +42,7 @@ To use **Copilot in Word**, follow the below steps:
 
 1. In the **Word** document, you will find the prompt **What do you want Copilot to draft**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
 
-   ![](./media/draft-with-copilot-word-2.png)
+   ![](./media/im3.png)
 
 1. It will create a document on the given topic with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
@@ -62,7 +62,7 @@ You can also link an external Word document present in your **OneDrive account**
 
    ![](./media/reference-doc-word.png)
 
-   ![](./media/word1.1.png)
+   ![](./media/im4.png)
 
 1. A summary of the chosen document will be presented as shown.
 
