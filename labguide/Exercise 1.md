@@ -14,38 +14,38 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 
 3. **Up-level Skills:** Copilot acts as a personalized learning companion, helping you enhance your existing skills and swiftly acquire new ones, thereby fostering continuous professional growth.
 
-## Table of Contents
+## Objective
 
-- [Introduction to M365 Copilot](#introduction-to-m365-copilot)
-- [Understanding M365 Copilot Architecture](#understanding-m365-copilot-architecture)
-- [Preparing for M365 Copilot Deployment](#preparing-for-m365-copilot-deployment)
-   - [Organizing Sharepoint teams and files](#organizing-sharepoint-teams-and-files)
-   - [Understand Semantic Index](#understand-semantic-index)
-- [Using Copilot in M365 Applications](#using-copilot-in-m365-applications)
-   - [Using Microsoft 365 Copilot in Word](#using-microsoft-365-copilot-in-word)
-   - [Using Microsoft 365 Copilot in Outlook](#using-microsoft-365-copilot-in-outlook)
-   - [Using Microsoft 365 Copilot in Powerpoint](#using-microsoft-365-copilot-in-powerpoint)
-   - [Using Microsoft 365 Copilot in Excel](#using-microsoft-365-copilot-in-excel)
-   - [Using Microsoft 365 Copilot in Teams](#using-microsoft-365-copilot-in-teams)
-   - [Using Microsoft 365 Copilot in Loop](#using-microsoft-365-copilot-in-loop)
-   - [Using Microsoft 365 chat](#using-microsoft-365-chat)
-- [Administer M365 Copilot](#manage-copilot)
-   - [Managing Microsoft 365 Copilot Licenses in Admin Center](#Managing-Microsoft-365-Copilot-Licenses-in-Admin-Center)
-   - [Managing Microsoft 365 Copilot Services](#Manage-Microsoft-365-Copilot-Services)
-   - [Managing Public web content access](#Managing-Public-web-content-access)
-   - [Change update channel of Microsoft 365 Apps to enable Copilot](#Change-update-channel-of-Microsoft-365-Apps-to-enable-Copilot)
-- [Reviewing Security and Compliance in Copilot](#reviewing-security-and-compliance-in-copilot)
-   - [Reviewing Security and Compliance in Copilot using Sensitivity Labels](#reviewing-security-and-compliance-in-copilot-using-sensitivity-labels)
-   - [Implementing sensitivity label](#implementing-sensitivity-label)
-   - [Reviewing Security and Compliance in Copilot Using Data Classification](#reviewing-security-and-compliance-in-copilot-using-data-classification)
-   - [Reviewing Security and Compliance in Copilot Using Customer Keys](#reviewing-security-and-compliance-in-copilot-using-customer-keys)
-   - [Reviewing Security and Compliance in Copilot Using Communication Compliance](#reviewing-security-and-compliance-in-copilot-using-communication-compliance)
-   - [Reviewing Security and Compliance in Copilot Using Audit](#reviewing-security-and-compliance-in-copilot-using-audit)
-   - [Reviewing Security and Compliance in Copilot Using Content Search](#reviewing-security-and-compliance-in-copilot-using-content-search)
-   - [Reviewing Security and Compliance in Copilot Using eDiscovery](#reviewing-security-and-compliance-in-copilot-using-ediscovery)
-   - [Reviewing Security and Compliance in Copilot using Retention Policies](#reviewing-security-and-compliance-in-copilot-using-retention-policies)
-- [Exploring Microsoft Copilot Lab](#exploring-microsoft-copilot-lab)
-- [Try Out Your Organizational Use Cases with M365 Copilot Capabilities](#try-out-your-organizational-use-cases-with-m365-copilot-capabilities)
+- **Introduction to M365 Copilot** : Learn about the capabilities of Microsoft 365 Copilot.
+- **Understanding M365 Copilot Architecture** : Explore how M365 Copilot is designed and integrated.
+- **Preparing for M365 Copilot Deployment** : 
+   - **Organizing Sharepoint teams and files** : Structure SharePoint for efficient collaboration.
+   - **Understand Semantic Index** : Learn how Semantic Index improves search and context in M365.
+- **Using Copilot in M365 Applications** :
+   - **Using Microsoft 365 Copilot in Word** : Automate content creation and editing.
+   - **Using Microsoft 365 Copilot in Outlook** : Draft and manage emails efficiently.
+   - **Using Microsoft 365 Copilot in Powerpoint** : Create impactful presentations with AI.
+   - **Using Microsoft 365 Copilot in Excel** : Analyze data and generate insights quickly.
+   - **Using Microsoft 365 Copilot in Teams** : Enhance collaboration and manage tasks with AI.
+   - **Using Microsoft 365 Copilot in Loop** : Collaborate seamlessly with real-time updates.
+   - **Using Microsoft 365 chat** : Centralize conversations and integrate insights.
+- **Administer M365 Copilot** :
+   - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
+   - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.
+   - **Managing Public web content access** : Control Copilot's access to web content for compliance.
+   - **Change update channel of Microsoft 365 Apps to enable Copilot** : Adjust update settings for Copilot functionality.
+- **Reviewing Security and Compliance in Copilot** : 
+   - **Reviewing Security and Compliance in Copilot using Sensitivity Labels** : Protect content with appropriate labels.
+   - **Implementing sensitivity label** : Apply labels to classify and secure data.
+   - **Reviewing Security and Compliance in Copilot Using Data Classification** : Organize data based on sensitivity and usage.
+   - **Reviewing Security and Compliance in Copilot Using Customer Keys** : Use customer keys for data encryption.
+   - **Reviewing Security and Compliance in Copilot Using Communication Compliance** : Monitor and manage communication policies.
+   - **Reviewing Security and Compliance in Copilot Using Audit** : Track user activities and system changes.
+   - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
+   - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
+   - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
+- **Exploring Microsoft Copilot Lab** : Gain deeper insights through practical labs.
+- **Try Out Your Organizational Use Cases with M365 Copilot Capabilities** : Experiment with Copilot to address specific business needs.
 
 ## Scenario
 
