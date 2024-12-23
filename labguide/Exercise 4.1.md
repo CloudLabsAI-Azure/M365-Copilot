@@ -34,7 +34,7 @@ To use **Copilot in Word**, follow the below steps:
 
 1. Select **Apps** from the left pane and select **Word** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/im2.png)
 
 1. Select **Blank document** to open a new Word document.
 
