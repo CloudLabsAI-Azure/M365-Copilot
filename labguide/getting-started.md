@@ -1,3 +1,5 @@
+
+
 # Getting Started with Microsoft Copilot for Microsoft 365
 
 Welcome to your **Microsoft Copilot for Microsoft 365** lab! We've prepared a seamless environment for you to explore and learn about **Microsoft Copilot for Microsoft 365**. Let's begin by making the most of this experience:
