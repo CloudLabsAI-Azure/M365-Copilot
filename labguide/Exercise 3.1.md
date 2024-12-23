@@ -57,7 +57,7 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
    - Navigate back to `https://www.office.com` and click on **Copilot** to open the M365 Copilot chat.
    
-      ![](./media/task3.5.1.png)
+      ![](./media/im1.png)
 
    - Let's ask Copilot to fetch some details of the **Finance** sharepoint site. Please use the prompt below.
 
