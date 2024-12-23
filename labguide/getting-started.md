@@ -60,8 +60,7 @@ Microsoft 365 Copilot's architecture seamlessly integrates advanced AI capabilit
 
 ## Architecture Diagram
 
-
-
+![](./media/copilot-for-microsoft-365-architecture.png)
 
 ## Explanation of Components
 
@@ -80,7 +79,7 @@ Microsoft 365 Copilot's architecture seamlessly integrates advanced AI capabilit
 - Customer Keys: Enhance encryption with customer-managed encryption keys.
 - Communication Compliance: Monitor and enforce organizational communication policies.
 
-# Getting Started with Microsoft Copilot for Microsoft 365
+## Getting Started with Microsoft Copilot for Microsoft 365
 
 Welcome to your **Microsoft Copilot for Microsoft 365** lab! We've prepared a seamless environment for you to explore and learn about **Microsoft Copilot for Microsoft 365**. Let's begin by making the most of this experience:
 
