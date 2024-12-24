@@ -2,7 +2,7 @@
 
 In this exercise, you will explore how Microsoft 365 Copilot enhances the PowerPoint experience. You’ll learn how to use Copilot to create, refine, and transform presentations. The exercise will guide you through generating presentations from scratch or converting existing Word documents into slide decks, allowing you to streamline the creation of impactful and visually appealing presentations.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
