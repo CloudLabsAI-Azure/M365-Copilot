@@ -2,7 +2,7 @@
 
 In this exercise, we will review how Communication Compliance enhances security and compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor and manage communications to detect and address potentially inappropriate or risky messages. It supports various communication channels, including Microsoft Copilot, and helps ensure adherence to organizational and regulatory policies.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
