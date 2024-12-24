@@ -2,7 +2,7 @@
 
 This exercise is aimed at understanding how to manage Microsoft 365 Copilot services through the Microsoft 365 Admin Center, even with read-only access. You will learn how to view and understand the configuration and management of various Copilot services.
 
-## Introduction
+## Overview
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
 
