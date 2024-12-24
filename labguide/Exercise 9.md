@@ -1,6 +1,6 @@
 # Exercise 7: Try Out Your Organizational Use Cases with M365 Copilot Capabilities
 
-## Introduction
+## Overview
 
 This exercise is designed to demonstrate the practical utility and capabilities of the M365 Copilot in a real-world context. You'll conduct a meeting and a chat conversation with your colleagues, using the M365 Copilot to streamline and summarize these interactions. The goal is to gain hands-on experience with the tool and understand its potential to enhance productivity and communication within your organization.
 
