@@ -2,7 +2,7 @@
 
 In this exercise, we explore how Content Search in Microsoft 365 Copilot helps ensure data security and compliance by allowing searches and analysis of content, including Copilot interactions.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
