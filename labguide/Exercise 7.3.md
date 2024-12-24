@@ -2,7 +2,7 @@
 
 In this exercise, you will review how Microsoft Copilot integrates with data classification to enhance security and compliance in Microsoft 365. Data classification helps organize and protect data by its sensitivity level, and Copilot uses this information to make accurate recommendations and automate categorization. You'll explore how data classification is displayed and managed through the Microsoft Purview portal, including data inventory, content labeling, and activity monitoring.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
