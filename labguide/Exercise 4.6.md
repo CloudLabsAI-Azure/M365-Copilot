@@ -2,7 +2,7 @@
 
 In this exercise, you will learn how to use Microsoft 365 Copilot in Loop to enhance team collaboration and content creation. Copilot assists with drafting, brainstorming, and refining ideas in a shared workspace, making it easier to plan projects, develop content, and generate creative solutions. You will practice creating and updating workspaces, refining generated content, and using Copilot to streamline team efforts.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
