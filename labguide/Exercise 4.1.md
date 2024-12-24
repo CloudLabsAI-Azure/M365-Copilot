@@ -2,7 +2,7 @@
 
 In this exercise, you will use Microsoft 365 Copilot in Word to create, enhance, and reference documents, demonstrating how AI-driven features streamline and elevate the writing process.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
