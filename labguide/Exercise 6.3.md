@@ -2,7 +2,7 @@
 
 This exercise covers how to manage Microsoft 365 Copilot, particularly focusing on configuring public web content access. The steps include understanding how to enable or disable this feature to enhance Copilot’s functionality.
 
-## Introduction
+## Overview
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
 
