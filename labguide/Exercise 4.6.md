@@ -36,11 +36,11 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/new-ws01.png)
    
-1. Provide a name to your workspace under the **Name (1)** column and select **create a workspace (2)**. Your workspace will open with a blank page.
+1. Provide a name to your workspace under the **Name (1)** column, select **Continue** then click on **Create**. Your workspace will open with a blank page.
 
-   ![](./media/add_main_1.png)
+   ![](./media/im8.png)
 
-   ![](./media/loop-page.png)
+   ![](./media/im7.png)
 
 1. Provide a heading to your page and in body section, type **"/"** and select **Draft page content** from the drop-down menu.
 
