@@ -92,7 +92,7 @@ Microsoft 365 Copilot comes with different services that can be enabled or disab
 
     Together, these features make **Microsoft 365 Copilot** a powerful tool that can significantly enhance productivity and simplify workflows in an organization.
 
-### Task 2: Public web content access (Read Only)
+### Task 2: Public web content access 
 
 **Microsoft Copilot for Microsoft 365** chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app have a feature that allows Copilot to reference web content when responding to user prompts. Allowing Copilot for Microsoft 365 to reference web content enhances the end-user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
 
@@ -138,7 +138,7 @@ Once the admin provides access to let **M365 Copilot** access content from the w
 
 By the end of this task, you'll be well-equipped to manage Microsoft 365 Copilot licenses within your organization. You'll understand how to assign and remove these licenses for users and how to enable or disable specific Copilot services based on your organization's needs. Additionally, you'll learn how to configure Copilot's ability to reference web content, enhancing its utility and the end-user experience. Remember, changes to the admin settings may take up to 24 hours to reflect. This knowledge will allow you to effectively manage and tailor the Copilot experience to best suit your organizational requirements.
 
-### Task 3: Change update channel of Microsoft 365 Apps to enable Copilot (Read Only)
+### Task 3: Change update channel of Microsoft 365 Apps to enable Copilot
 
 One of the benefits of Microsoft 365 Apps is that Microsoft provides new (and updated) features for Office apps, such as Excel and Word, regularly. You can control how often the users in your organization get these new features by specifying the update channel. In addition to new features, update channels provide, as needed, security and non-security updates regularly, every month. Non-security updates provide fixes for known issues and provide stability or performance improvements for Office.
 
