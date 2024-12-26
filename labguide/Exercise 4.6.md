@@ -42,6 +42,8 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/im7.png)
 
+   ![](./media/loop-page.png)
+
 1. Provide a heading to your page and in body section, type **"/"** and select **Draft page content** from the drop-down menu.
 
    ![](./media/loop-copilot.png)
