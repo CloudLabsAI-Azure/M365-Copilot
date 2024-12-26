@@ -1,4 +1,4 @@
-# Exercise 4: Manage Copilot
+# Exercise 4: Manage Copilot (Read Only)
 
 This exercise covers how to manage and configure Microsoft Copilot in a Microsoft 365 environment via the Microsoft 365 Admin Center. You will focus on changing the update channel for Microsoft 365 Apps to support Copilot, specifically using the Monthly Enterprise Channel and enabling Cloud updates.
 
@@ -6,7 +6,7 @@ This exercise covers how to manage and configure Microsoft Copilot in a Microsof
 
 This exercise guides you through the process of managing Microsoft 365 Copilot licenses for users in your tenant through the Microsoft 365 Admin Center. You'll learn how to assign and remove licenses, manage Microsoft 365 Copilot services, and configure public web content access. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization.
 
-## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center (Read Only)
+## Task 1: Managing Microsoft 365 Copilot Licenses in Admin Center 
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
