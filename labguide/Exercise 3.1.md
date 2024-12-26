@@ -2,7 +2,7 @@
 
 In this exercise, you will organize SharePoint sites and use M365 Copilot to efficiently retrieve and manage information, enhancing collaboration and productivity.
 
-## Introduction
+## Overview
 
 In this exercise we will walkthrough a comprehensive journey, skillfully preparing users for the deployment of M365 Copilot through three interconnected tasks. Efficient collaboration and information management within an organization hinge on the meticulous organization of SharePoint sites. We will delve into the critical process of structuring SharePoint teams and files for optimal functionality and productivity. Through meticulous organization, SharePoint becomes a powerhouse for streamlined information retrieval and enhanced collaboration. By navigating through a structured "Finance" SharePoint site and leveraging the capabilities of Microsoft 365 Copilot, this exercise illuminates the importance of organized information architecture in driving organizational efficiency and productivity.
 
@@ -57,7 +57,7 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
    - Navigate back to `https://www.office.com` and click on **Copilot** to open the M365 Copilot chat.
    
-      ![](./media/task3.5.1.png)
+      ![](./media/im1.png)
 
    - Let's ask Copilot to fetch some details of the **Finance** sharepoint site. Please use the prompt below.
 

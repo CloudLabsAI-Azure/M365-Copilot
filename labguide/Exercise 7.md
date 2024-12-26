@@ -2,7 +2,7 @@
 
 In this exercise, you will use Microsoft 365 Copilot to manage and enhance communication within your organization. You'll schedule and conduct a meeting in Microsoft Teams, use Copilot to assist during the meeting, and follow up with a chat conversation. This exercise aims to showcase the practical applications of Copilot in real-world scenarios, helping you understand how it can boost productivity and streamline communication.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 

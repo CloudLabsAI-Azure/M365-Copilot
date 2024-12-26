@@ -1,6 +1,6 @@
 # Exercise 04: Using Microsoft 365 Copilot
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 

@@ -2,7 +2,7 @@
 
 In this exercise, you will learn how to utilize Microsoft 365 Copilot in Outlook to enhance email management and drafting. You will explore features such as summarizing lengthy email threads and generating complete emails from prompts. This exercise demonstrates how Copilot can simplify and accelerate email-related tasks, improving productivity and communication efficiency.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 

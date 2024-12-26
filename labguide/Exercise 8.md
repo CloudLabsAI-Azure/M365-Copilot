@@ -2,7 +2,7 @@
 
 In this exercise, you will explore Microsoft Copilot Lab, a tool designed to help users practice prompt engineering with Microsoft Copilot. It offers a variety of prompts to assist with tasks across different Microsoft 365 applications, helping users to streamline their work processes and enhance productivity.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a new feature that became available for all Microsoft 365 users. It’s an AI-powered tool that can help you with various tasks, such as writing documents, creating presentations, sending emails, and summarizing meetings. All you need to do is click a button and let Copilot do the work for you.
 

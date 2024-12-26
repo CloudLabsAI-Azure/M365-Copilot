@@ -2,7 +2,7 @@
 
 In this exercise, you will learn how to use Microsoft 365 Copilot to enhance your data analysis and management in Excel. You will explore how Copilot helps with finding insights, creating formulas, and transforming data into visual representations. This includes tasks such as generating data insights, creating new columns, and customizing your data presentation efficiently.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 

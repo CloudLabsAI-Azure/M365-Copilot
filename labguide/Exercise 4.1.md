@@ -2,7 +2,7 @@
 
 In this exercise, you will use Microsoft 365 Copilot in Word to create, enhance, and reference documents, demonstrating how AI-driven features streamline and elevate the writing process.
 
-## Introduction
+## Overview
 
 **Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
@@ -34,15 +34,15 @@ To use **Copilot in Word**, follow the below steps:
 
 1. Select **Apps** from the left pane and select **Word** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/im2.png)
 
 1. Select **Blank document** to open a new Word document.
 
    ![](./media/word-blank.png)
 
-1. In the **Word** document, you will find the prompt **Draft with Copilot**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
+1. In the **Word** document, you will find the prompt **What do you want Copilot to draft**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
 
-   ![](./media/draft-with-copilot-word-2.png)
+   ![](./media/im3.png)
 
 1. It will create a document on the given topic with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
@@ -60,9 +60,9 @@ You can also link an external Word document present in your **OneDrive account**
 
 1. On the **Draft with Copilot** screen, choose **Reference your content** and select the preferred document. You can also provide prompt like **Summarise the document /**
 
-   ![](./media/reference-doc-word.png)
+   ![](./media/im5.png)
 
-   ![](./media/word1.1.png)
+   ![](./media/im4.png)
 
 1. A summary of the chosen document will be presented as shown.
 
