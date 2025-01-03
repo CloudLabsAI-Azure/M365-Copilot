@@ -48,7 +48,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 ## Conclusion
 
-In conclusion, you have learned how to administer and manage the AI-powered **Microsoft Copilot** in a Microsoft 365 environment using the **Microsoft 365 Admin Center**. You explored how to configure, manage, and optimize Copilot according to an organization's specific needs like managing various services of Copilot, including Graph Connectors, Intelligent Search, Microsoft 365 Chat, Copilot in Teams, Copilot in Productivity Apps, and Power Platform Connectors. Through understanding these features, you have developed the skills necessary to maximize the benefits of Microsoft Copilot in an organization, enhancing productivity and simplifying workflows.
+In conclusion, you have learned how to administer and manage the AI-powered **Microsoft Copilot** in a Microsoft 365 environment using the **Microsoft 365 Admin Center**. You explored how to configure, manage, and optimize Copilot according to an organization's specific needs like managing various services of Copilot, including Graph Connectors, Intelligent Search, Copilot for SharePoint, Copilot in Teams, Copilot in Productivity Apps, Copilot with Graph-Grounded Chat and Power Platform Connectors. Through understanding these features, you have developed the skills necessary to maximize the benefits of Microsoft Copilot in an organization, enhancing productivity and simplifying workflows.
 
 
 ## **Congratulations! you have successfully completed this exercise, please click on next**
