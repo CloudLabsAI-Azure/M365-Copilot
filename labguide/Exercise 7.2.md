@@ -8,13 +8,11 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 ### Task 1.1: Applying a Sensitivity label to a Word document
 
-- Navigate to [Microsoft 365] `https://www.office.com`, then click on Word in the Application launcher. In the new tab, click on **Blank document**.
+- Navigate to [Microsoft 365] `https://www.office.com`, then click on Apps and click on Word in the Application launcher. In the new tab, click on **Blank document**.
 
-   ![](./media/label1.1.png)
+   ![](./media/5.3.png)
 
-   ![](./media/label1.2.png)
-
-- Select blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says **Document (1)**, and in the File Name box enter, **Test-label (2)** and press enter.
+- Select create blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says **Document (1)**, and in the File Name box enter, **Test-label (2)** and press enter.
 
    ![](./media/exercise3(2.36).png)
 
@@ -22,7 +20,7 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 - From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
 
-   ![](./media/exercise3(2.37).png)
+   ![](./media/17.2.png)
 
     >**Note:** The sensitivity bar makes it easy for you to see what label is applied to your file, and to apply or change a label whenever you need to, including when saving the file. Just select the sensitivity bar in the save dialog to see the labelling options for this file.
 
@@ -40,11 +38,11 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 ### Task 1.2: Applying Sensitivity label using Copilot
 
-- Navigate to [Microsoft 365](https://www.office.com), then click on Word in the Application launcher. In the new tab, click on **Blank document**.
+- Navigate to [Microsoft 365](https://www.office.com), then click on Apps and click Word. In the new tab, click on **Create a Blank document**.
 
-   ![](./media/label1.1.png)
+   ![](./media/5.3.png)
 
-   ![](./media/label1.2.png)
+   ![](./media/5.4.png)
 
 - Let's ask Copilot to Summarise a document which has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
 

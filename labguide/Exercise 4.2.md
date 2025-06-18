@@ -28,11 +28,11 @@ To use **Copilot in Outlook**, follow the below steps:
 
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/365-homepage.png)
+   ![](./media/5.2.png)
 
 1. Select **Apps** from the left pane and select **Outlook** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/6.3.png)
 
 1. Open your **Outlook** and click on the email sent by **Spektra Admin**.
 

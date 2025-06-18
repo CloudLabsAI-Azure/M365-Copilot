@@ -30,11 +30,11 @@ To use **Copilot in Excel**, follow the below steps:
 
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/365-homepage.png)
+   ![](./media/5.2.png)
 
 1. Select **Apps** from the left pane and search for **SharePoint** from the apps list. Select it.
 
-   ![](./media/sharepoint.png)
+   ![](./media/3.1.png)
 
 1. You will be navigated to the **SharePoint** homepage.  Select **Marketing Department** to go to the site of Marketing department.
 

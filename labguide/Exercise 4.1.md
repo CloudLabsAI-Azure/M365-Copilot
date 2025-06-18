@@ -30,23 +30,23 @@ To use **Copilot in Word**, follow the below steps:
 
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/365-homepage.png)
+   ![](./media/5.2.png)
 
 1. Select **Apps** from the left pane and select **Word** from the apps list.
 
-   ![](./media/im2.png)
+   ![](./media/5.3.png)
 
 1. Select **Blank document** to open a new Word document.
 
-   ![](./media/word-blank.png)
+   ![](./media/5.4.png)
 
 1. In the **Word** document, you will find the prompt **What do you want Copilot to draft**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
 
-   ![](./media/im3.png)
+   ![](./media/5.5.png)
 
 1. It will create a document on the given topic with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
-   ![](./media/document-created.png)
+   ![](./media/5.6.png)
 
    ![](./media/keep-it-word-2.png)
 

@@ -42,20 +42,20 @@ To use **M365 Chat**, follow the below steps:
 
    ![](./media/licensekey2.png)
 
-1. Navigate to the home page of the `https://www.office.com/login?`, click on **Copilot** icon to open copilot chat application.
+1. Navigate to the home page of the `https://www.office.com/login?`, click on **Chat** icon to open copilot chat.
 
-   ![](../labguide/media/M5.png)
+   ![](../labguide/media/11.2.png)
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **What are the key points from this document:**. Then provide **/** and goto **Files** to select a file, say "Software Training Guide".
+1. Ask Copilot - **What are the key points from this document:**. Then provide **/** and goto **Files** to select a file, say "Increasing Revenue through Social Marketing Strategies".
 
-   ![](../labguide/media/copilot-chat-prompt.png)
+   ![](../labguide/media/11.4.png)
 
 
 1. This response will be presented as below:
 
-   ![](../labguide/media/copilot-chat-answer.png)
+   ![](../labguide/media/11.5.png)
 
    >**Note:** At rare times, the **M365 Copilot Chat** reauthenticates itelf, and during that some issues may arise, causing the **M365 Copilot Chat** to be unresponsive. Whenever that happens, make sure to close the browser, reopen, clear all the cache and cookies, and sign in again. Ensure closing all the incognito tabs as well when trying in Incognito/Private mode.
 

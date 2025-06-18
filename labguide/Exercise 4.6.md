@@ -20,41 +20,33 @@ To use **Copilot in Loop**, follow the below steps:
 
 1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/365-homepage.png)
+   ![](./media/5.2.png)
 
-1. Select **Apps** from the left pane and search for **Loop** in the search bar.
+1. Select **Apps** from the left pane, click on **All apps** and click on **Loop**
 
-   ![](./media/office-apps-page.png)
+   ![](./media/fidingloop.png)
 
-   ![](./media/loop-search.png)
 
 1. Select **get started** icon to create a new workspace.
 
    ![](./media/loop_main.png)
 
-1. Click on **Getting Started** and **+ New workspace** to create a new workspace.
-
-   ![](./media/new-ws01.png)
-   
-1. Provide a name to your workspace under the **Name (1)** column, select **Continue** then click on **Create**. Your workspace will open with a blank page.
-
-   ![](./media/im8.png)
-
-   ![](./media/im7.png)
+1. Click on **Getting Started** and **My workspace** to create a new workspace.
+   > Note: If you dont see My workspace click on the **+** on the left panel which will create one for you.
 
    ![](./media/loop-page.png)
 
-1. Provide a heading to your page and in body section, type **"/"** and select **Draft page content** from the drop-down menu.
+1. Click on the **+** option below Untitled and select **Draft page content** from the drop-down menu.
 
-   ![](./media/loop-copilot.png)
+   ![](./media/10.7.png)
 
 1. The Copilot prompt-box will appear where you can give prompts to let Copilot do the things for you. For instance, you can provide the prompt - `Draft a project plan on marketing campaign that includes goals, target audience, marketing channels, budget, timeline, and key performance indicators (KPIs).`  to create a project plan for you with the necessary details.
 
-   ![](./media/loop-plan.png)
+   ![](./media/10.8.png)
 
 1. You will get the results on the page. If the results are not exactly what you are looking for, you can refine the results by using the box immediately below the response. Change the tone, format, or ask for a more specific subset of ideas.
 
-   ![](./media/loop-final-2.png)
+   ![](./media/10.9.png)
 
    Let's say Copilot offers a result that includes a bulleted list that you don't want. You can remove them, add a few of your own, and even ask Copilot to convert the bulleted list into a table. 
 

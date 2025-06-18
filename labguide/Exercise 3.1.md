@@ -31,13 +31,11 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
       ![](./media/task3.1.2.png)
 
 - **Navigate to SharePoint:**
-   - Go to the SharePoint homepage by clicking on the **SharePoint (2)** app or through the **Microsoft 365 app launcher (1)**.
+   - Go to the SharePoint homepage by folowing the below steps
+      - Click on Apps and then click on Sharepoint
 
-      ![](./media/task3.2.1.png)
+      ![](./media/3.1.png)
 
-     Alternatively, you can also search **SharePoint** in the searchbar and select the icon.
-
-     ![](./media/sharepoint-search].png)
 
    - Click on the Finance Sharepoint site.
 
