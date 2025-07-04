@@ -2,7 +2,7 @@
   {
   "Name": "Microsoft 365 Copilot",
   "Language": "English",
-  "BaseURL": "https://github.com/CloudLabsAI-Azure/M365-Copilot/tree/main",
+  "BaseURL": "https://github.com/CloudLabsAI-Azure/M365-Copilot/tree/pax8",
   "Files": [
      {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/getting-started.md",
