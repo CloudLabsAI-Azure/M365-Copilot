@@ -1,71 +1,108 @@
-# Exercise 4.1: Administering M365 Copilot(Read Only)
+# Exercise 4: Overview of M365 Copilot App
 
-This exercise is aimed at understanding how to manage Microsoft 365 Copilot licenses through the Microsoft 365 Admin Center. Although you are in read-only mode with Global Reader access, you will learn how to view, assign, and remove Copilot licenses.
+### Estimated time: 30 minutes
 
-## Overview
+## Overview:
 
-This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
+In this exercise, we will explore the Copilot interface, understand the concept of reusable no-code agents, and create two powerful agents – Researcher and Analyst – without writing any code. These agents are designed to assist with tasks such as content summarization, document synthesis, data analysis, and insight generation, using data already available in your Microsoft environment.
 
-## Managing Microsoft 365 Copilot Licenses in Admin Center 
+## Objective: 
 
-This exercise guides you through the process of managing **Microsoft 365 Copilot** licenses for users in your tenant through the **Microsoft 365 Admin Center**. You'll learn how to assign and remove licenses, manage Microsoft 365 Copilot services, and configure public web content access. Understanding these operations is crucial for the efficient utilization and management of **Copilot** in your organization.
+In this exercise, we will complete the following tasks
 
->**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
+- Understand the M365 Copilot App interface and capabilities
 
-### Task 1: Assign Copilot licenses to the user
+- Learn about No-code agents in M365 Copilot
 
-Follow these steps to assign a Copilot license for an existing user from the admin center:
+- Create and experiment with “Researcher” and “Analyst” No-code agents
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+- Perform basic tasks with each agent to see their use cases
 
-   ![](./media/licensekey2.png)
 
-1. Go to [Microsoft 365 Admin Center] `https://admin.microsoft.com/` and sign in with your admin credentials.
 
-1. From the left side navigation pane, click on **Users (1)** and then choose **Active users (2)**.
+### Task 1: Introduction to M365 Copilot App
 
-    ![](../labguide/media/M8.png)
+Walk through of M365 Copilot:
 
-1.  In the Active Users page, search or find the user you want to manage the Copilot license. Click on the user.
+1. Open your browser and go to: https://www.office.com
 
-    ![](../labguide/media/active-users.png)
+   ![](./media/)
 
-1. On the user's profile page, on the right side click on **Licenses and apps** to go to their license details.
+1. Sign in with your Microsoft 365 account.
 
-    ![](../labguide/media/user-licenses.png)
+1. Locate the Microsoft Copilot app in the app launcher (waffle menu) or search bar.
 
-1. To assign, expand the **Licenses (1)** section, select the boxes for the licenses that you want to assign, then select **Save changes (3)**.
+    ![](./media/)
 
-   >**Note:** In this case, we have already assigned the licences to the account.
+1. Launch the Copilot app and explore:
 
-    ![](../labguide/media/M11.png)
+    - Home screen
 
- All license changes are saved automatically after you make an assignment change.
+    - Recent Prompts
 
-### Task 2: Remove a Copilot licenses
+    - Recommended actions
 
-To remove an already assigned Copilot license:
+    ![](./media/)
 
-1. Follow the steps above to open the user's **Licenses and apps**.
 
-    ![](../labguide/media/user-licenses.png)
+### Task 2: Understanding No-Code Agents in Copilot
 
-1. Uncheck the **Microsoft Copilot for Microsoft 365** under the licenses section.
+1. In the Copilot app, navigate to the Agents section (may also appear as “Custom Agents” or “Create Agent”).
 
-    ![](../labguide/media/M18.png)
+    ![](./media/)
 
-    >**Note:** In this case, you don't need to remove the licenses.
+1. View sample agents available.
 
-1. Changes apply automatically after saving.
+    ![](./media/)
 
-Now the user's Copilot license assignment status will be updated.
+1. Discuss use cases.
 
-## Conclusion
+    - **Researcher Agent:** Synthesizes large volumes of information.
 
-In conclusion, you've gained an in-depth understanding of how to effectively manage Microsoft Copilot licenses through the **Microsoft 365 Admin Center**.
+    - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
-You've learned how to assign and remove licenses for specific users, an essential function for managing access to **Microsoft Copilot**. You've also gained a strong understanding of how to manage Microsoft Copilot services and configure public web content access, key skills for optimizing the usage of this AI tool in your organization.
+> **Notes:** Emphasize that users don’t need to code or script – configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
 
-## Summary
 
-In this exercise, you've learned how to manage Microsoft 365 Copilot licenses, including how to view, assign, and remove licenses. This knowledge is crucial for ensuring the effective use of Copilot and managing user access in your organization. Even with read-only access, understanding these processes will help you support effective license management and tool utilization.
+### Task 3: Creating a “Researcher” No-Code Agent
+
+Build and test a Researcher agent that can summarize documents and compile findings.
+
+1. Click **Create Agent** and choose **Researcher**
+
+1. Give your agent a name: **Market Trends Researcher**
+
+1. Choose data sources:
+
+    - Upload Word or PDF docs from OneDrive or SharePoint
+
+1. Set tasks:
+
+    - Summarize all documents into key bullet points
+
+    - Identify trends and common themes
+
+1. Save and run the agent.
+
+
+### Task 4: Creating a “Analyst” No-Code Agent
+
+Build an Analyst agent to work with Excel data and generate insights.
+
+1. Click **Create Agent** and choose **Analyst**
+
+1. Give your agent a name: **Sales Insights Analyst**
+
+1. Select an Excel file from OneDrive containing sales data
+
+1. Define agent goals:
+
+    - Calculate monthly growth rates
+
+    - Highlight top-performing products
+
+    - Generate charts (bar/pie)
+
+1. Save and run the agent.
+
+> **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
