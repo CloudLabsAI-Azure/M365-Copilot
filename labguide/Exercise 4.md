@@ -1,4 +1,6 @@
-# Exercise 3: Using Microsoft 365 Copilot
+# Exercise 3: Using Copilot in M365 Applications
+
+### Estimated time: 120 minutes
 
 ## Overview
 
