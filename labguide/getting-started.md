@@ -1,47 +1,28 @@
 # Microsoft Copilot for 365
 
-### Expected Duration : 8 hours
+### Expected Duration : 4 hours
 
 ## Overview
 
-**Contoso Ltd.**, a leading IT Consultancy firm, is always in search of ways to improve its efficiency and productivity. To achieve this, they've decided to incorporate **Microsoft Copilot for Microsoft 365** into their operations. With its extensive range of features and the ability to streamline tasks, automate workflows, and enhance collaboration, Contoso is confident that Copilot will be a game-changer.
-
-As part of the lab, you've been given access to Contoso's Microsoft 365 environment to test and demonstrate the capabilities of **Microsoft 365 Copilot**. You have the access to Contoso's data present in various SharePoint sites, namely Human Resource, Marketing and Finance, which you will utilize in future in the lab. You also have been provided the access to Teams environment as an employee of the **Contoso Ltd.** By the end of this lab, you'll have a thorough understanding of how **Microsoft 365 Copilot** can transform an organization's productivity and efficiency, just as it's doing for **Contoso Ltd**.
+This lab provides an introduction to Microsoft 365 Copilot and its core capabilities.
+You’ll explore the architecture that powers Copilot and learn how to prepare your environment for deployment.
+You will also understand how to use Copilot across M365 apps like Word, Excel, Teams, and more.
+This lab includes a guided overview of the Copilot App and its user experience.
+Security, compliance, and responsible AI practices in Copilot will also be reviewed.
 
 ## Objective
-
-Learn to leverage an OpenAI model to extract data and create embeddings, by end of this lab you will be able to:
+This lab is designed to gain a comprehensive understanding of Microsoft 365 Copilot’s capabilities, architecture, deployment readiness, application usage, interface, and security/compliance features to effectively implement and manage Copilot across the M365 ecosystem.
 
 - **Introduction to M365 Copilot** : Learn about the capabilities of Microsoft 365 Copilot.
 - **Understanding M365 Copilot Architecture** : Explore how M365 Copilot is designed and integrated.
-- **Preparing for M365 Copilot Deployment** : 
-   - **Organizing Sharepoint teams and files** : Structure SharePoint for efficient collaboration.
-   - **Understand Semantic Index** : Learn how Semantic Index improves search and context in M365.
-- **Using Copilot in M365 Applications** :
-   - **Using Microsoft 365 Copilot in Word** : Automate content creation and editing.
-   - **Using Microsoft 365 Copilot in Outlook** : Draft and manage emails efficiently.
-   - **Using Microsoft 365 Copilot in Powerpoint** : Create impactful presentations with AI.
-   - **Using Microsoft 365 Copilot in Excel** : Analyze data and generate insights quickly.
-   - **Using Microsoft 365 Copilot in Teams** : Enhance collaboration and manage tasks with AI.
-   - **Using Microsoft 365 Copilot in Loop** : Collaborate seamlessly with real-time updates.
-   - **Using Microsoft 365 chat** : Centralize conversations and integrate insights.
-- **Administer M365 Copilot** :
-   - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
-   - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.
-   - **Managing Public web content access** : Control Copilot's access to web content for compliance.
-   - **Change update channel of Microsoft 365 Apps to enable Copilot** : Adjust update settings for Copilot functionality.
+- **Preparing for M365 Copilot Deployment** : Organize SharePoint sites and use M365 Copilot to efficiently retrieve and manage information.
+
+- **Using Copilot in M365 Applications** : Using Copilot in Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, Teams, and more.
+   
+- **Overview of M365 Copilot App** : Explore the Copilot interface and create no-code Researcher and Analyst agents
+  
 - **Reviewing Security and Compliance in Copilot** : 
-   - **Reviewing Security and Compliance in Copilot using Sensitivity Labels** : Protect content with appropriate labels.
-   - **Implementing sensitivity label** : Apply labels to classify and secure data.
-   - **Reviewing Security and Compliance in Copilot Using Data Classification** : Organize data based on sensitivity and usage.
-   - **Reviewing Security and Compliance in Copilot Using Customer Keys** : Use customer keys for data encryption.
-   - **Reviewing Security and Compliance in Copilot Using Communication Compliance** : Monitor and manage communication policies.
-   - **Reviewing Security and Compliance in Copilot Using Audit** : Track user activities and system changes.
-   - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
-   - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
-   - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
-- **Exploring Microsoft Copilot Lab** : Gain deeper insights through practical labs.
-- **Try Out Your Organizational Use Cases with M365 Copilot Capabilities** : Experiment with Copilot to address specific business needs.
+  
 
 ## Prerequisites
 
@@ -71,8 +52,6 @@ Microsoft 365 Copilot's architecture seamlessly integrates advanced AI capabilit
 - Teams: Enhance collaboration, summarize chats, and manage tasks efficiently.
 - Loop: Enable real-time collaboration with dynamic and adaptive content blocks.
 - M365 Chat: Consolidate insights and facilitate conversations using data from Microsoft 365.
-- Managing Microsoft 365 Copilot Licenses in Admin Center: Allocate, monitor, and manage user licenses efficiently.
-- Managing Microsoft 365 Copilot Services: Configure Copilot services for optimal use across the organization.
 - Managing Public Web Content Access: Ensure compliance by controlling access to public content sources.
 - Sensitivity Labels: Apply labels to classify and protect sensitive data.
 - Data Classification: Organize and manage data based on its sensitivity and use cases.
