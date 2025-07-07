@@ -1,4 +1,4 @@
-# Exercise 04: Using Microsoft 365 Copilot
+# Exercise 3: Using Microsoft 365 Copilot
 
 ## Overview
 
