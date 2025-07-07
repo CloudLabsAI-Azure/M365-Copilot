@@ -1,4 +1,4 @@
-# Exercise 2.1: Preparing for M365 Copilot Deployment
+# Exercise 2: Preparing for M365 Copilot Deployment
 
 In this exercise, you will organize SharePoint sites and use M365 Copilot to efficiently retrieve and manage information, enhancing collaboration and productivity.
 
