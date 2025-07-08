@@ -42,9 +42,9 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/Apps.png)
 
-1. Open a **Word** document and you will find the prompt **Draft with Copilot**. Provide any input which you want the Copilot to execute and click on **Generate**.
+1. Open a **Word** document and you will find the prompt **What do you want Copilot to draft?** Provide any input which you want the Copilot to execute and click on **Generate**.
 
-   ![](./media/draft-with-copilot-word.png)
+   ![](./media/Word.png)
 
     Examples of sample inputs include:
     ```
@@ -65,9 +65,9 @@ To use **Copilot in Word**, follow the below steps:
 
     >![](./media/copilot-icon-word.png)
 
-1. You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Reference your content** and selecting the preferred document.
+1. You can also link an external Word document present in your **OneDrive account** and generate output based on that by choosing **Add Content** and selecting the preferred document.
 
-   ![](./media/reference-doc-word.png)
+   ![](./media/Word2.png)
 
     Here are some of the prompts you can take help of to explore more on Copilot in Word on existing documents: 
 
