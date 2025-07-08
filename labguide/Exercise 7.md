@@ -10,7 +10,7 @@ In this exercise, you will use Microsoft 365 Copilot to manage and enhance commu
 
 Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
-## Task 1: Using Sensitivity Labels in MS 365 Copilot
+## Task 1: Using Sensitivity Labels in MS 365 Copilot (Read Only)
 
 **Sensitivity labels** from Microsoft Purview Information Protection let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
 

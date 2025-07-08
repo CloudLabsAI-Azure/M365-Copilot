@@ -21,7 +21,7 @@ This lab is designed to gain a comprehensive understanding of Microsoft 365 Copi
    
 - **Overview of M365 Copilot App** : Explore the Copilot interface and create no-code Researcher and Analyst agents
   
-- **Reviewing Security and Compliance in Copilot** : 
+- **Reviewing Security and Compliance in Copilot** : Overview of key security and compliance tasks in Microsoft 365 Copilot, including sensitivity labeling, data classification, customer key usage, communication compliance, auditing, content search, and eDiscovery.
   
 
 ## Prerequisites
