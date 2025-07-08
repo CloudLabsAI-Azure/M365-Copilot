@@ -97,23 +97,23 @@ To use **Copilot in Outlook**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/Office.png)
 
 1. Select **Apps** from the left pane and select **Outlook** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/Apps.png)
 
 1. Open your **Outlook** and click on any of the emails. Choose **Summary by Copilot** to generate an entire summary of the chosen email thread, displayed above the thread in the reading pane.
 
    ![](./media/summary-copilot-outlook.png)
 
-1. You can also generate a complete email using **Copilot**. To do this, click on **New Email** and choose **Draft with Copilot** in the body. Provide an input and click on **Generate**.
+1. You can also generate a complete email using **Copilot**. To do this, click on **New Email** and type **Alt + i** to **Draft with Copilot** in the body. Provide an input in the text box.
 
-   ![](./media/draft-email-copilot.png)
+   ![](./media/Outlook1.png)
 
-    >**Note:** You can also choose the length and tone of your output by clicking on the **Generate options** sign present on the bottom left of the box.
+    >**Note:** You can also choose the length and tone of your output by clicking on the **Suggested prompts** present under the text box and then hit submit button.
 
-    >![](./media/generate-options-email.png)
+    >![](./media/Outlook2.png)
 
 ### Task 1.3: Using Copilot in PowerPoint
 
@@ -131,23 +131,21 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/Office.png)
 
 1. Select **Apps** from the left pane and select **PowerPoint** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/Apps.png)
 
-1. Open your **PowerPoint** and select **Copilot** on top of the screen.
+1. Open your **PowerPoint**, click on **Create blank presentation**, and then select **Copilot icon (1)**.
 
-   ![](./media/ppt-copilot.png)
+1. Click **Create a presentation (2)** and provide your preferred topic and related information to draft your presentation.
 
-1. Click **Create a presentation...** and provide your preferred topic and related information to draft your presentation.
-
-   ![](./media/create-ppt-copilot.png)
+   ![](./media/Ppt1.png)
 
 1. Alternatively, you can also choose **Create a presentation from file...** and attach a Word document as a reference and craft a presentation based on it.
 
-   ![](./media/ppt-from-doc.png)
+   ![](./media/Ppt2.png)
 
 Here are some of the prompts you can take help of to explore more on Copilot in PowerPoint:
 
@@ -179,19 +177,19 @@ To use **Copilot in Excel**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/Office.png)
 
 1. Select **Apps** from the left pane and select **Excel** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/Apps.png)
 
-1. Open an **Excel** workbook and choose **Copilot** on top of the screen.
+1. Open an **Excel**, click on **Create blank workbook**  You will see a **Start with Copilot** in the center of the screen.
 
-   ![](./media/copilot-excel.png)
+   ![](./media/Excel1.png)
 
-1. Provide your input. You can choose prompts like Adding a formula column, highlighting data, sorting and filtering the data, analysing the data and clicking on the **Send** icon.
+1. Click on Copilot on top right and you can choose prompts like Suggest a formula column, Summarize using PivotTables or charts or more avialable options.
 
-   ![](./media/copilot-excel-extra.png)
+   ![](./media/Excel2.png)
 
 Here are some of the prompts you can take help of to explore more on Copilot in Excel:
 
@@ -226,15 +224,15 @@ To use **Copilot in Teams**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/Office.png)
 
 1. Select **Apps** from the left pane and select **Teams** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/Apps.png)
 
-1. Open **Teams** and go to any chat. You will find the **Copilot** icon on the bottom of the chatbox which will help you to rewrite a message or even select its tone and length.
+1. Open **Teams (1)** and go to any chat. You will find the **Copilot (2)** icon on the bottom of the chatbox which will help you to **Rewrite (3)** a message or even select its tone and length.
 
-    ![](./media/copilot-teams-chat.png)
+    ![](./media/Teams1.png)
 
     It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
 
@@ -276,21 +274,25 @@ To use **Copilot in Loop**, follow the below steps:
 
 1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
 
-   ![](./media/office-page.png)
+   ![](./media/Office.png)
 
 1. Select **Apps** from the left pane and scroll down to select **Loop** from the apps list.
 
-   ![](./media/office-apps-page.png)
+   ![](./media/Apps.png)
 
-1. Select **+** icon to create a new workspace.
+1. Click  **Sign in** icon and select the **Email/Username:** <inject key="AzureAdUserEmail"></inject> to Sign in to Loop.
 
-   ![](./media/loop-homepage.png)
+   ![](./media/Loop1.png)
 
-1. Provide a name to your workspace under the **Name** column and select **Continue**. Your workspace will open with a blank page.
+1. Select **+** icon  and select **New Workspace** to create a new workspace.
 
-   ![](./media/loop-namepage.png)
+   ![](./media/Loop2.png)
 
-   ![](./media/loop-page.png)
+1. Provide a name to your workspace under the **Name** column and select **Create**. Your workspace will open with a blank page.
+
+   ![](./media/Loop3.png)
+
+   ![](./media/Loop4.png)
 
 1. Provide a heading to your page and in body section, type **"/"** and select **Copilot** from the drop-down menu.
 
@@ -412,7 +414,7 @@ To use **M365 Chat**, follow the below steps:
 
    - **Subject:** Bringing the joy and community of gaming to everyone
 
-   - On the **textbox** field, click on the **Insert** icon on the top bar and navigate to the **.........**, select, and open it.
+   - Click on the **Attach** icon on the top bar and select a word file.
 
      ![](../labguide/media/M3.png)
 
