@@ -20,15 +20,15 @@ Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites s
 In this task you will navigate to and familiarize yourself with the SharePoint sites for Contoso Ltd., particularly the "Finance" and "Human Resources" sites. You will explore the structure, including document libraries and folders, to understand how information is organized.
 
 - **Login to Microsoft 365:**
-   - Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+   - Navigate to the Environment details page and click on it. You will find the credentials.
 
-      ![](./media/licensekey2.png)
+      ![](./media/env-1.png)
 
-   - Open your web browser and sign in to `https://www.office.com/login?`. You will see the login screen, enter the username and click on **Next**. 
+   - Open your web browser and sign in to `https://m365.cloud.microsoft/chat/?`. You will see the login screen, enter the **Email/Username:** <inject key="AzureAdUserEmail"></inject> and click on **Next**. 
 
       ![](./media/task3.1.1.png)
 
-   - Now enter the password and click on **Sign in**.
+   - Now enter the **Password:** <inject key="AzureAdUserPassword"></inject> and click on **Sign in**.
 
       ![](./media/task3.1.2.png)
 

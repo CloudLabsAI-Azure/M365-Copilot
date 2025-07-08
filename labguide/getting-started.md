@@ -29,10 +29,9 @@ This lab is designed to gain a comprehensive understanding of Microsoft 365 Copi
 Participants should have:
 
 - **Basic Knowledge of Microsoft 365 Services**: Familiarity with core M365 applications such as Word, Excel, PowerPoint, Teams, and SharePoint.
-- **Azure Active Directory (Azure AD) Basics**: Understanding of user management, groups, and access permissions in Azure AD.
-- **Administrative Access to Microsoft 365 Tenant**: Ensure you have admin privileges to configure Copilot services, licenses, and compliance settings.
-- **Access to Microsoft 365 E5 License**: A Microsoft 365 E5 license or equivalent is required for accessing advanced Copilot features.
+
 - **Set Up of Microsoft 365 Environment**: A fully configured M365 environment with necessary applications installed, including SharePoint, Teams, and Outlook.
+
 - **Knowledge of Security and Compliance in Microsoft 365**: Familiarity with sensitivity labels, retention policies, and compliance tools like eDiscovery and audit logs.
 
 ## Architecture
@@ -45,18 +44,30 @@ Microsoft 365 Copilot's architecture seamlessly integrates advanced AI capabilit
 
 ## Explanation of Components
 
-- Word: Automate document creation, editing, and summarization.
-- Outlook: Streamline email drafting, responses, and scheduling.
-- PowerPoint: Generate professional presentations with AI-powered design and content suggestions.
-- Excel: Analyze data, build charts, and gain insights with AI.
-- Teams: Enhance collaboration, summarize chats, and manage tasks efficiently.
-- Loop: Enable real-time collaboration with dynamic and adaptive content blocks.
-- M365 Chat: Consolidate insights and facilitate conversations using data from Microsoft 365.
-- Managing Public Web Content Access: Ensure compliance by controlling access to public content sources.
-- Sensitivity Labels: Apply labels to classify and protect sensitive data.
-- Data Classification: Organize and manage data based on its sensitivity and use cases.
-- Customer Keys: Enhance encryption with customer-managed encryption keys.
-- Communication Compliance: Monitor and enforce organizational communication policies.
+- **Word:** Automate document creation, editing, and summarization.
+
+- **Outlook:** Streamline email drafting, responses, and scheduling.
+
+- **PowerPoint:** Generate professional presentations with AI-powered design and content suggestions.
+
+- **Excel:** Analyze data, build charts, and gain insights with AI.
+
+- **Teams:** Enhance collaboration, summarize chats, and manage tasks efficiently.
+
+- **Loop:** Enable real-time collaboration with dynamic and 
+adaptive content blocks.
+
+- **M365 Chat:** Consolidate insights and facilitate conversations using data from Microsoft 365.
+
+- **Managing Public Web Content Access:** Ensure compliance by controlling access to public content sources.
+
+- **Sensitivity Labels:** Apply labels to classify and protect sensitive data.
+
+- **Data Classification:** Organize and manage data based on its sensitivity and use cases.
+
+- **Customer Keys:** Enhance encryption with customer-managed encryption keys.
+
+- **Communication Compliance:** Monitor and enforce organizational communication policies.
 
 ## Getting Started with Microsoft Copilot for Microsoft 365
 
@@ -70,31 +81,28 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
 
 In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
 
-**Note**: Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
+  ![](./media/Access.png)
 
-  ![](./media/main.png)
+  > **Note:** Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
 
 ## Exploring Your Lab Resources
 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab. You will find your credentials under **M365 Copilot User Details**. The value before the **|** will be your User ID and the value after **|** will be your User password to log into Microsoft 365 applications and utilize the lab environment.
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab. You will find your credentials to log into Microsoft 365 applications and utilize the lab environment.
 
-  ![](./media/labguideupdategettingstarted.png)
+  ![](./media/env-1.png)
 
-Copy and paste the credentials in the notepad **Username (1)** & **Password (2)**
-
-  ![](./media/copy.png)
 
 ## Utilizing the Split Window Feature
 
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Upper right corner.
 
-  ![](./media/main-1.png)
+  ![](./media/Split.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
 To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
 
-![](./media/n21.png) 
+![](./media/G5.png) 
 
 ## Managing Your Virtual Machine
 
@@ -104,7 +112,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 Now, click on Next from the lower right corner to move on to the next page.
 
-  ![](./media/nxt.png)
+  ![](./media/Next.png)
 
 ## Support Contact
 The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
