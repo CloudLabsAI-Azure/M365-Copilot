@@ -41,9 +41,10 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
    - Click on the Finance Sharepoint site.
 
-      >**Note:** If the Finance SharePoint site isn't visible in your Frequent sites, please utilize the search box and enter "Finance" to locate it. 
+      > **Note:** If the Finance SharePoint site isn't visible in your Frequent sites, please enter **Finance (1)** in the search bar and hit search, and click on **Finance (2)** SharePoint site.
 
       ![](./media/finance1.1.png)
+      ![](./media/SharePoint.png)
 
    - Navigate to the **Site Contents** section, where you'll find pre-created document libraries arranged in an organized and structured manner.
 
@@ -55,9 +56,9 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
 - **Using Copilot to fetch data.**
 
-   - Navigate back to `https://www.office.com` and click on **Copilot** to open the M365 Copilot chat.
+   - Navigate back to `https://www.office.com` and click on **Chat** to open the M365 Copilot chat.
    
-      ![](./media/im1.png)
+      ![](./media/Chat.png)
 
    - Let's ask Copilot to fetch some details of the **Finance** sharepoint site. Please use the prompt below.
 
@@ -85,11 +86,11 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
    
       ![](./media/hrsite1.1.png)
 
-   - The first part of the HR site is the 'Policies Library.' This library is an organized collection of all HR-related policies and procedures, which are important documents that guide the conduct and operations of employees within the organization. These include, but are not limited to, rules and regulations regarding behavior, dress code, and usage of internet and email.
+   - The first part of the HR site is the **Policies Library** This library is an organized collection of all HR-related policies and procedures, which are important documents that guide the conduct and operations of employees within the organization. These include, but are not limited to, rules and regulations regarding behavior, dress code, and usage of internet and email.
 
       ![](./media/hrsite1.2.png)
 
-   - The Policies Library is further divided into different folders for effective organization. For example, there is an 'Employee Policies' folder, which contains files like the 'Code of Conduct,' 'Dress Code Policy,' and 'Internet and Email Policy.' These files are essentially documents that detail the organization's expected codes of behavior, dress standards, and rules for using internet and email services.
+   - The Policies Library is further divided into different folders for effective organization. For example, there is an **Employee Policies** folder, which contains files like the **Code of Conduct**, **Dress Code Policy**, and **Internet and Email Policy**. These files are essentially documents that detail the organization's expected codes of behavior, dress standards, and rules for using internet and email services.
 
       ![](./media/hrsite1.4.png)
 
