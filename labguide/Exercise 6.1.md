@@ -32,15 +32,15 @@ Walk through of M365 Copilot:
  
     **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1. Locate the Chat in the app launcher (waffle menu) or search bar.
+1. Locate the **Chat** in the app launcher (waffle menu) or search bar.
 
-   ![](./media/Office.png)
+   ![](./media/Office2.png)
 
 
 
 ### Task 2: Understanding No-Code Agents in Copilot
 
-1. In the Copilot app, navigate to the Agents section (may also appear as “Custom Agents” or “Create Agent”).
+1. In the Copilot app, navigate to the **Agents** section **Create Agent**.
 
 1. There should be some agents already available.
 
