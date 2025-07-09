@@ -24,36 +24,27 @@ In this exercise, we will complete the following tasks
 
 Walk through of M365 Copilot:
 
-1. Open your browser and go to: https://www.office.com
+1. Open your browser and go to: https://www.office.com.
 
-   ![](./media/)
+1. Sign in with your Microsoft 365 account with the credentials below if required.
 
-1. Sign in with your Microsoft 365 account.
+    **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+ 
+    **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1. Locate the Microsoft Copilot app in the app launcher (waffle menu) or search bar.
+1. Locate the Chat in the app launcher (waffle menu) or search bar.
 
-    ![](./media/)
+   ![](./media/Office.png)
 
-1. Launch the Copilot app and explore:
-
-    - Home screen
-
-    - Recent Prompts
-
-    - Recommended actions
-
-    ![](./media/)
 
 
 ### Task 2: Understanding No-Code Agents in Copilot
 
 1. In the Copilot app, navigate to the Agents section (may also appear as “Custom Agents” or “Create Agent”).
 
-    ![](./media/)
+1. There should be some agents already available.
 
-1. View sample agents available.
-
-    ![](./media/)
+    ![](./media/Office.png)
 
 1. Discuss use cases.
 
@@ -61,48 +52,84 @@ Walk through of M365 Copilot:
 
     - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
-> **Notes:** Emphasize that users don’t need to code or script – configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
+> **Notes:** You don’t need to code or script. The configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
 
 
 ### Task 3: Creating a “Researcher” No-Code Agent
 
 Build and test a Researcher agent that can summarize documents and compile findings.
 
-1. Click **Create Agent** and choose **Researcher**
+1. Click **Create Agent**
 
-1. Give your agent a name: **Market Trends Researcher**
+    ![](./media/Agent1.png)
 
-1. Choose data sources:
+1. Click on **Configure**
 
-    - Upload Word or PDF docs from OneDrive or SharePoint
+    - Give your agent a name: **Market Trends Researcher**
 
-1. Set tasks:
+    - **Description:** This intelligent agent is designed to help users analyze documents and extract key insights — such as summaries, common themes, and trends — without needing to write any code or use custom logic.
 
-    - Summarize all documents into key bullet points
+    - **Instructions:** 
+        - Summarize all documents into concise bullet points
 
-    - Identify trends and common themes
+        - Identify trends and common themes across the uploaded content
 
-1. Save and run the agent.
+    - **Knowledge:**
+
+        - Click on **Attach cloud files** button.
+        
+            ![](./media/Agent2.png)
+        
+        - Click on **Finance** SharePoint site.
+
+            ![](./media/Agent3.png)
+        
+        - Select **Market_Trends_Report_Q2_2025.docx (1)** file and click **Select (2)**.
+
+            ![](./media/Agent4.png)
+
+
+1. Leave all other settings as default and click on **Create**.
+
+    ![](./media/Agent5.png)
 
 
 ### Task 4: Creating a “Analyst” No-Code Agent
 
 Build an Analyst agent to work with Excel data and generate insights.
 
-1. Click **Create Agent** and choose **Analyst**
+1. 1. Click **Create Agent**
 
-1. Give your agent a name: **Sales Insights Analyst**
+    ![](./media/Agent1.png)
 
-1. Select an Excel file from OneDrive containing sales data
+1. Click on **Configure**
 
-1. Define agent goals:
+    - Give your agent a name: **Sales Insights Analyst**
 
-    - Calculate monthly growth rates
+    - **Description:** This agent is designed to analyze structured Excel data and automatically extract key insights such as trends, growth patterns, and visualizations.
 
-    - Highlight top-performing products
+    - **Instructions:** 
+        - Calculate monthly growth rates from the sales data.
+        - Identify top-performing products based on revenue or units sold.
+        - Generate charts (such as bar or pie charts) for visual representation.
 
-    - Generate charts (bar/pie)
 
-1. Save and run the agent.
+    - **Knowledge:**
+
+        - Click on **Attach cloud files** button.
+        
+            ![](./media/Agent2.png)
+        
+        - Click on **Finance** SharePoint site.
+
+            ![](./media/Agent3.png)
+        
+        - Select **Sales Data – Q1 2025 (1)** file and click **Select (2)**.
+
+            ![](./media/Agent6.png)
+
+1. Leave all other settings as default and click on **Create**.
+
+    ![](./media/Agent7.png)
 
 > **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
