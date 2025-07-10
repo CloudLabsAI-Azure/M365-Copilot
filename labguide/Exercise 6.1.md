@@ -80,7 +80,6 @@ Walk through of M365 Copilot:
 
         ![](./media/Researcher4.png)
 
-
         > **Note:** The responses from the agent may vary.
 
 1. **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
