@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this exercise, we will explore how Microsoft 365 Copilot enhances productivity across key Microsoft applications—Word, Outlook, PowerPoint, Excel, Teams, Loop, and M365 Chat. You’ll learn how to use Copilot to draft content, summarize meetings and emails, visualize data, build presentations, and collaborate effectively using AI-powered assistance. This hands-on lab will help you unlock Copilot’s full potential within your daily workflows and communication tools.
+In this exercise, we will explore how Microsoft 365 Copilot enhances productivity across key Microsoft applications - Word, Outlook, PowerPoint, Excel, Teams, Loop, and M365 Chat. You’ll learn how to use Copilot to draft content, summarize meetings and emails, visualize data, build presentations, and collaborate effectively using AI-powered assistance. This hands-on lab will help you unlock Copilot’s full potential within your daily workflows and communication tools.
 
 
 ## Objective: 
