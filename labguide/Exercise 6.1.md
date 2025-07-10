@@ -64,24 +64,24 @@ Walk through of M365 Copilot:
             
             ![](./media/Researcher2.png)
 
-    - Enter one of the prompts from below.
+        - Enter one of the prompts from below.
 
-        - “Summarize the documents into key bullet points.”
+            - “Summarize the documents into key bullet points.”
 
-        - “What are the key takeaways from this report?”
+            - “What are the key takeaways from this report?”
 
-        - “Identify common themes across these files.”
+            - “Identify common themes across these files.”
 
-    - The agent will request to proceed with the details with a response, use **Go ahead** or **Go ahead and summarize** to respond to the agent.
+        - The agent will request to proceed with the details with a response, use **Go ahead** or **Go ahead and summarize** to respond to the agent.
 
-        ![](./media/Researcher3.png)
+            ![](./media/Researcher3.png)
 
-    - The response from the agent for the summary of the provided document into bullet points.
+        - The response from the agent for the summary of the provided document into bullet points.
         
-        ![](./media/Researcher4.png)
+            ![](./media/Researcher4.png)
 
 
-        > **Note:** The responses from the agent may vary.
+            > **Note:** The responses from the agent may vary.
 
     - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
@@ -89,31 +89,31 @@ Walk through of M365 Copilot:
         
             ![](./media/Analyst1.png)
 
-    - Select **Sales_Data_Q1_2025 (1)**.
+        - Select **Sales_Data_Q1_2025 (1)**.
 
-        ![](./media/Analyst2.png)
+            ![](./media/Analyst2.png)
 
-    - Interact with the Agent using the prompts.
+        - Interact with the Agent using the prompts.
             
-        - “Summarize the monthly revenue trends.”
+            - “Summarize the monthly revenue trends.”
 
-        - “Which products performed best last quarter?”
+            - “Which products performed best last quarter?”
 
-        - “Create a pie chart of total sales by region.”
+            - “Create a pie chart of total sales by region.”
 
-    - The agent will inspect and read the excel file.
+        - The agent will inspect and read the excel file.
 
-        ![](./media/Analyst3.png)
+            ![](./media/Analyst3.png)
 
-    - The response from the agent for the summary of the provided document into bullet points.
+        - The response from the agent for the summary of the provided document into bullet points.
 
-        ![](./media/Analyst4.png)
-
-
-        > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
+            ![](./media/Analyst4.png)
 
 
-### Task 3: Creating a No-Code Agent
+            > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
+
+
+### Task 3: Creating and using a No-Code Agent
 
 Build and test an agent that can summarize documents and compile findings.
 > **Note:** You don’t need to code or script. The configuration is based on task type and data input.
@@ -150,9 +150,9 @@ Build and test an agent that can summarize documents and compile findings.
             ![](./media/Agent4.png)
 
 
-1. Leave all other settings as default and click on **Create**.
+    - Leave all other settings as default and click on **Create**.
 
-    ![](./media/Agent5.png)
+        ![](./media/Agent5.png)
 
 1. Once the agent is created you will see the prompt below, click on **Go to agent**.
 
