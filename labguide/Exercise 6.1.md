@@ -4,7 +4,7 @@
 
 ## Overview:
 
-In this exercise, we will explore the Copilot interface, understand the concept of reusable no-code agents, and create two powerful agents – Researcher and Analyst – without writing any code. These agents are designed to assist with tasks such as content summarization, document synthesis, data analysis, and insight generation, using data already available in your Microsoft environment.
+In this exercise, we will explore the Copilot interface, understand the concept of reusable no-code agents, and create a powerful agent without writing any code. This agent will be designed to assist with tasks such as content summarization, document synthesis, data analysis, and insight generation, using data already available in your Microsoft environment.
 
 ## Objective: 
 

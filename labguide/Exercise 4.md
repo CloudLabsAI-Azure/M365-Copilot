@@ -4,11 +4,31 @@
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+In this exercise, we will explore how Microsoft 365 Copilot enhances productivity across key Microsoft applications—Word, Outlook, PowerPoint, Excel, Teams, Loop, and M365 Chat. You’ll learn how to use Copilot to draft content, summarize meetings and emails, visualize data, build presentations, and collaborate effectively using AI-powered assistance. This hands-on lab will help you unlock Copilot’s full potential within your daily workflows and communication tools.
 
-**Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
-It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoint, Outlook, Teams, and more. **Microsoft 365 Copilot** provides real-time intelligent assistance, enabling users to enhance their creativity, productivity, and skills.
+## Objective: 
+
+In this exercise, we will complete the following tasks
+
+- **Understand the capabilities and benefits of Microsoft 365 Copilot:** How it enhances productivity across various Microsoft Office applications.
+
+- **Use Copilot in Word:** Generate, summarize, and refine documents using natural language prompts.
+
+- **Leverage Copilot in Outlook:** Summarize email threads and draft clear, context-aware email responses.
+
+- **Create engaging presentations in PowerPoint with Copilot:** Generating slide decks from scratch or transforming Word documents into visual content.
+
+- **Analyze and transform data in Excel using Copilot:** Summarizing trends, suggesting formulas, and generating visualizations.
+
+- **Enhance collaboration in Microsoft Teams:** Using Copilot to summarize meetings, identify action items, and assist with message refinement in chats.
+
+- **Utilize Copilot in Loop:** Support collaborative brainstorming, content creation, and planning using structured AI prompts.
+
+- **Interact with Microsoft 365 Chat and Copilot:** Query organizational data through Microsoft Graph for context-driven insights, document retrieval, and task automation.
+
+- **Apply practical Copilot prompts across all supported apps:** Streamline tasks, improve communication, and make informed decisions with AI-powered support.
+
 
 ## Task 1: Downloading and Using Copilot in Office Apps:
 
