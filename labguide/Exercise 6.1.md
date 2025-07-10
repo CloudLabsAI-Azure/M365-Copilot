@@ -57,9 +57,9 @@ Walk through of M365 Copilot:
     - **Researcher Agent:** Synthesizes large volumes of information.
 
         - Click on the **Researcher (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
-        
-            ![](./media/Researcher1.png)
 
+            ![](./media/Researcher1.png)
+        
         - Select **Market_Trends_Report_2025.docx (1)**
             
             ![](./media/Researcher2.png)
@@ -77,7 +77,7 @@ Walk through of M365 Copilot:
             ![](./media/Researcher3.png)
 
         - The response from the agent for the summary of the provided document into bullet points.
-        
+
             ![](./media/Researcher4.png)
 
 
@@ -86,7 +86,7 @@ Walk through of M365 Copilot:
     - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
         - Click on the **Analyst (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
-        
+
             ![](./media/Analyst1.png)
 
         - Select **Sales_Data_Q1_2025 (1)**.
@@ -109,7 +109,7 @@ Walk through of M365 Copilot:
 
             ![](./media/Analyst4.png)
 
-
+            
             > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
 
