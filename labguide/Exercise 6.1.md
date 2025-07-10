@@ -110,6 +110,10 @@ Walk through of M365 Copilot:
 
         > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
+1. To explore further, you can click on **All Agents (1)** which will take you to the **Agent Store (2)**. Here you can find **your Agents (3)** and the Agents **Built by Microsoft**. You can click on any of them and interact to explore the Agents further. 
+
+    ![](./media/Store1.png)
+
 ### Task 3: Creating and using a No-Code Agent
 
 Build and test an agent that can summarize documents and compile findings.
