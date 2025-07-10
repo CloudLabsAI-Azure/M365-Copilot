@@ -21,7 +21,7 @@ In this exercise, we will complete the following tasks
 
 ### Task 1: Introduction to M365 Copilot App
 
-Walk through of M365 Copilot:
+In this task, you will explore the Microsoft 365 Copilot App interface and its core features - Search, Chat, and Notebooks.
 
 1. Open your browser and go to: https://www.office.com.
 
@@ -45,6 +45,8 @@ Walk through of M365 Copilot:
         > **Example:** Ideal for organizing research findings, training materials, or long-term planning documents collaboratively.
 
 ### Task 2: Understanding and using No-Code Agents in Copilot
+
+In this task, you will explore and interact with no-code Copilot Agents - **Researcher** and **Analyst** to analyze documents and data, summarize insights, and generate visual reports using natural language prompts.
 
 1. In the Copilot app, navigate to the **Agents** section.
 
@@ -116,7 +118,7 @@ Walk through of M365 Copilot:
 
 ### Task 3: Creating and using a No-Code Agent
 
-Build and test an agent that can summarize documents and compile findings.
+In this task, you will build and test an agent that can summarize documents and compile findings.
 > **Note:** You don’t need to code or script. The configuration is based on task type and data input.
 
 1. Click **Create Agent**
