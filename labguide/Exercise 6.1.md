@@ -146,9 +146,8 @@ Build and test an agent that can summarize documents and compile findings.
 
             ![](./media/Agent4.png)
 
-
     - Leave all other settings as default and click on **Create**.
-
+        
         ![](./media/Agent5.png)
 
 1. Once the agent is created you will see the prompt below, click on **Go to agent**.
