@@ -4,13 +4,9 @@
 
 ### Estimated time: 60 minutes
 
-In this exercise, you will use Microsoft 365 Copilot to manage and enhance communication within your organization. You'll schedule and conduct a meeting in Microsoft Teams, use Copilot to assist during the meeting, and follow up with a chat conversation. This exercise aims to showcase the practical applications of Copilot in real-world scenarios, helping you understand how it can boost productivity and streamline communication.
-
 ## Overview
 
-**Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
-
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+In this exercise, you will explore how Microsoft Copilot integrates with Microsoft 365 compliance features like Sensitivity Labels, Data Classification, Customer Key, and Communication Compliance. You'll learn how these tools classify, protect, and monitor sensitive information, automate labeling, and enhance data security. Through Microsoft Purview, you’ll gain hands-on experience in managing data protection, applying sensitivity labels, monitoring communication risks, and leveraging encryption controls to meet organizational and regulatory requirements.
 
 ## Task 1: Using Sensitivity Labels in MS 365 Copilot (Read Only)
 
