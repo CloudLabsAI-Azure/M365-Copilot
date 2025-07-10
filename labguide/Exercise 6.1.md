@@ -48,7 +48,7 @@ Walk through of M365 Copilot:
 
 1. In the Copilot app, navigate to the **Agents** section.
 
-1. There should be some agents already available.
+1. There should be some Agents already available.
 
     ![](./media/Office.png)
 
@@ -72,7 +72,7 @@ Walk through of M365 Copilot:
 
         - “Identify common themes across these files.”
 
-    - The agent will request to proceed with the details with a **Go Proceed** response.
+    - The agent will request to proceed with the details with a response, use **Go ahead** or **go ahead and summarize** to respond to the agent.
 
         ![](./media/Researcher3.png)
 
