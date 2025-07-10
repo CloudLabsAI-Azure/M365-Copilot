@@ -169,5 +169,5 @@ Build and test an agent that can summarize documents and compile findings.
 1. The **Response (1)** from the agent are below, you can also move forward with one of the **Suggested Prompts (2)** or use the prompts in **step 5**
 
     ![](./media/MTA2.png)
-
-> **Notes:** The responses from the agent may vary.
+    
+    > **Notes:** The responses from the agent may vary.
