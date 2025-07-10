@@ -72,7 +72,7 @@ Walk through of M365 Copilot:
 
         - “Identify common themes across these files.”
 
-    - The agent will request to proceed with the details with a response, use **Go ahead** or **go ahead and summarize** to respond to the agent.
+    - The agent will request to proceed with the details with a response, use **Go ahead** or **Go ahead and summarize** to respond to the agent.
 
         ![](./media/Researcher3.png)
 
