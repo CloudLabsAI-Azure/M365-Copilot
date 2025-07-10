@@ -39,18 +39,18 @@ Walk through of M365 Copilot:
 
     - **Search:** You can search for documents, meetings, emails, notes, chats, or even tasks using AI-driven contextual results from Microsoft Graph.
         - **Example:** "Find the latest project update from XYZ” or “Show me Q2 financial reports".
-    
+
 
     - **Chat:** Use this area to ask Copilot questions, summarize content, draft emails, or retrieve insights from your documents or organizational data.
         - **Example:** “Summarize the last meeting with the marketing team” or “Draft a follow-up email for the sales pitch.”
 
-
     - **Notebooks:** You can combine AI-generated content, summaries, and your own notes into organized sections — similar to a digital binder powered by Copilot.
+
         - **Example:** Ideal for organizing research findings, training materials, or long-term planning documents collaboratively.
 
 ### Task 2: Understanding No-Code Agents in Copilot
 
-1. In the Copilot app, navigate to the **Agents** section **Create Agent**.
+1. In the Copilot app, navigate to the **Agents** section.
 
 1. There should be some agents already available.
 
@@ -93,9 +93,9 @@ Walk through of M365 Copilot:
             > **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
 
-### Task 3: Creating a “Researcher” No-Code Agent
+### Task 3: Creating a No-Code Agent
 
-Build and test a Researcher agent that can summarize documents and compile findings.
+Build and test an agent that can summarize documents and compile findings.
 
 1. Click **Create Agent**
 
