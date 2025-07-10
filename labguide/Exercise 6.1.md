@@ -25,7 +25,7 @@ Walk through of M365 Copilot:
 
 1. Open your browser and go to: https://www.office.com.
 
-1. Sign in with your Microsoft 365 account with the credentials below if required.
+1. If required, sign in with your Microsoft 365 account with the credentials below.
 
     **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
@@ -44,7 +44,7 @@ Walk through of M365 Copilot:
     - **Notebooks:** You can combine AI-generated content, summaries, and your own notes into organized sections — similar to a digital binder powered by Copilot.
         > **Example:** Ideal for organizing research findings, training materials, or long-term planning documents collaboratively.
 
-### Task 2: Understanding No-Code Agents in Copilot
+### Task 2: Understanding and using No-Code Agents in Copilot
 
 1. In the Copilot app, navigate to the **Agents** section.
 
@@ -52,7 +52,7 @@ Walk through of M365 Copilot:
 
     ![](./media/Office.png)
 
-1. Discuss use cases.
+1. Discuss use cases for **Researcher** and **Analyst** agents.
 
     - **Researcher Agent:** Synthesizes large volumes of information.
 
@@ -60,15 +60,27 @@ Walk through of M365 Copilot:
         
             ![](./media/Researcher1.png)
 
-        - Select **Market_Trends_Report_Q2_2025.docx (1)** and then enter one of the prompts from below.
+        - Select **Market_Trends_Report_Q2_2025.docx (1)**
             
-            - “Summarize these documents into key bullet points.”
+            ![](./media/Researcher2.png)
 
-            - “What are the key takeaways from this report?”
+    - Enter one of the prompts from below.
 
-            - “Identify common themes across these files.”
+        - “Summarize the documents into key bullet points.”
 
-                ![](./media/Researcher2.png)
+        - “What are the key takeaways from this report?”
+
+        - “Identify common themes across these files.”
+
+    - The agent will request to proceed with the details with a **Go Proceed** response.
+
+        ![](./media/Researcher3.png)
+
+    - The response from the agent for the summary of the provided document into bullet points.
+        
+        ![](./media/Researcher4.png)
+
+
         > **Note:** The responses from the agent may vary.
 
     - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
@@ -77,16 +89,28 @@ Walk through of M365 Copilot:
         
             ![](./media/Analyst1.png)
 
-        - Select **Sales_Data_Q1_2025 (1)** and then enter one of the prompts from below.
+    - Select **Sales_Data_Q1_2025 (1)**.
+
+        ![](./media/Analyst2.png)
+
+    - Enter one of the prompts from below.
             
-            - “Summarize the monthly revenue trends.”
+        - “Summarize the monthly revenue trends.”
 
-            - “Which products performed best last quarter?”
+        - “Which products performed best last quarter?”
 
-            - “Create a pie chart of total sales by region.”
+        - “Create a pie chart of total sales by region.”
 
-                ![](./media/Analyst2.png)
-            > **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
+    - The agent will inspect and read the excel file.
+
+        ![](./media/Analyst3.png)
+
+    - The response from the agent for the summary of the provided document into bullet points.
+
+        ![](./media/Analyst4.png)
+
+
+        > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
 
 ### Task 3: Creating a No-Code Agent
