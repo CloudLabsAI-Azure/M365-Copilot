@@ -60,7 +60,7 @@ Walk through of M365 Copilot:
         
             ![](./media/Researcher1.png)
 
-        - Select **Market_Trends_Report_Q2_2025.docx (1)**
+        - Select **Market_Trends_Report_2025.docx (1)**
             
             ![](./media/Researcher2.png)
 
@@ -93,7 +93,7 @@ Walk through of M365 Copilot:
 
         ![](./media/Analyst2.png)
 
-    - Enter one of the prompts from below.
+    - Interact with the Agent using the prompts.
             
         - “Summarize the monthly revenue trends.”
 
@@ -116,6 +116,7 @@ Walk through of M365 Copilot:
 ### Task 3: Creating a No-Code Agent
 
 Build and test an agent that can summarize documents and compile findings.
+> **Note:** You don’t need to code or script. The configuration is based on task type and data input.
 
 1. Click **Create Agent**
 
@@ -123,14 +124,16 @@ Build and test an agent that can summarize documents and compile findings.
 
 1. Click on **Configure**
 
-    - Give your agent a name: **Market Trends Researcher**
+    - Give your agent a name: **Market Trends Agent**
 
-    - **Description:** This intelligent agent is designed to help users analyze documents and extract key insights — such as summaries, common themes, and trends — without needing to write any code or use custom logic.
+    - **Description:** This intelligent agent is designed to help users analyze documents and extract key insights - such as summaries, common themes, and trends - without needing to write any code or use custom logic.
 
     - **Instructions:** 
         - Summarize all documents into concise bullet points
 
         - Identify trends and common themes across the uploaded content
+
+        ![](./media/MTA1.png)
 
     - **Knowledge:**
 
@@ -142,7 +145,7 @@ Build and test an agent that can summarize documents and compile findings.
 
             ![](./media/Agent3.png)
         
-        - Select **Market_Trends_Report_Q2_2025.docx (1)** file and click **Select (2)**.
+        - Select **Market_Trends_Report_2025.docx (1)** file and click **Select (2)**.
 
             ![](./media/Agent4.png)
 
@@ -151,5 +154,20 @@ Build and test an agent that can summarize documents and compile findings.
 
     ![](./media/Agent5.png)
 
+1. Once the agent is created you will see the prompt below, click on **Go to agent**.
 
-> **Notes:** You don’t need to code or script. The configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
+    ![](./media/Agent8.png)
+
+1. Interact with the Agent using the prompts.
+
+    - “What are the top three trends in Q2 2025?”
+
+    - “Summarize the key points from the Market Trends report.”
+
+    - “Compare Q2 trends with Q1 if such data is available.”
+
+1. The **Response (1)** from the agent are below, you can also move forward with one of the **Suggested Prompts (2)** or use the prompts in **step 5**
+
+    ![](./media/MTA2.png)
+
+> **Notes:** The responses from the agent may vary.
