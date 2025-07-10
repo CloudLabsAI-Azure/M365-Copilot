@@ -54,63 +54,63 @@ Walk through of M365 Copilot:
 
 1. Discuss use cases for **Researcher** and **Analyst** agents.
 
-    - **Researcher Agent:** Synthesizes large volumes of information.
+1. **Researcher Agent:** Synthesizes large volumes of information.
 
-        - Click on the **Researcher (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
+    - Click on the **Researcher (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
 
-            ![](./media/Researcher1.png)
+        ![](./media/Researcher1.png)
         
-        - Select **Market_Trends_Report_2025.docx (1)**
+    - Select **Market_Trends_Report_2025.docx (1)**
             
-            ![](./media/Researcher2.png)
+        ![](./media/Researcher2.png)
 
-        - Enter one of the prompts from below.
+    - Enter one of the prompts from below.
 
-            - “Summarize the documents into key bullet points.”
+        - “Summarize the documents into key bullet points.”
 
-            - “What are the key takeaways from this report?”
+        - “What are the key takeaways from this report?”
 
-            - “Identify common themes across these files.”
+        - “Identify common themes across these files.”
 
-        - The agent will request to proceed with the details with a response, use **Go ahead** or **Go ahead and summarize** to respond to the agent.
+    - The agent will request to proceed with the details with a response, use **Go ahead** or **Go ahead and summarize** to respond to the agent.
 
-            ![](./media/Researcher3.png)
+        ![](./media/Researcher3.png)
 
-        - The response from the agent for the summary of the provided document into bullet points.
+    - The response from the agent for the summary of the provided document into bullet points.
 
-            ![](./media/Researcher4.png)
+        ![](./media/Researcher4.png)
 
 
-            > **Note:** The responses from the agent may vary.
+        > **Note:** The responses from the agent may vary.
 
-    - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
+1. **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
-        - Click on the **Analyst (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
+    - Click on the **Analyst (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
 
-            ![](./media/Analyst1.png)
+        ![](./media/Analyst1.png)
 
-        - Select **Sales_Data_Q1_2025 (1)**.
+    - Select **Sales_Data_Q1_2025 (1)**.
 
-            ![](./media/Analyst2.png)
+        ![](./media/Analyst2.png)
 
-        - Interact with the Agent using the prompts.
+    - Interact with the Agent using the prompts.
             
-            - “Summarize the monthly revenue trends.”
+        - “Summarize the monthly revenue trends.”
 
-            - “Which products performed best last quarter?”
+        - “Which products performed best last quarter?”
 
-            - “Create a pie chart of total sales by region.”
+        - “Create a pie chart of total sales by region.”
 
-        - The agent will inspect and read the excel file.
+    - The agent will inspect and read the excel file.
 
-            ![](./media/Analyst3.png)
+        ![](./media/Analyst3.png)
 
-        - The response from the agent for the summary of the provided document into bullet points.
+    - The response from the agent for the summary of the provided document into bullet points.
 
-            ![](./media/Analyst4.png)
+        ![](./media/Analyst4.png)
 
-            
-            > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
+
+        > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
 
 ### Task 3: Creating and using a No-Code Agent
