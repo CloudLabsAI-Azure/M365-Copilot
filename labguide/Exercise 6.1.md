@@ -108,9 +108,7 @@ Walk through of M365 Copilot:
 
         ![](./media/Analyst4.png)
 
-
         > **Note:** The responses from the agent may vary. Copilot should generate summary insights and create visualizations directly in Excel or as a report.
-
 
 ### Task 3: Creating and using a No-Code Agent
 
