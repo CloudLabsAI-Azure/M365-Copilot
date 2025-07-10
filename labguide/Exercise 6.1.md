@@ -10,13 +10,12 @@ In this exercise, we will explore the Copilot interface, understand the concept 
 
 In this exercise, we will complete the following tasks
 
-- Understand the M365 Copilot App interface and capabilities
+- **Understand the M365 Copilot App interface and capabilities:** Get familiar with the layout, features, and functions of the Microsoft 365 Copilot App.
 
-- Learn about No-code agents in M365 Copilot
+- **Learn about No-code agents and discuss use cases in M365 Copilot:** Explore how no-code agents work in Copilot and identify scenarios where they can be effectively applied. And execute sample actions with Researcher and Analyst agents to understand their practical business applications.
 
-- Create and experiment with “Researcher” and “Analyst” No-code agents
+- **Create and experiment with **Researcher** No-code agent:** Build a Researcher agent to summarize documents and extract key insights without writing any code.
 
-- Perform basic tasks with each agent to see their use cases
 
 
 
@@ -36,7 +35,15 @@ Walk through of M365 Copilot:
 
    ![](./media/Office2.png)
 
+1. Other M365 functionalities
+    - **Search:** You can search for documents, meetings, emails, notes, chats, or even tasks using AI-driven contextual results from Microsoft Graph.
+        - **Example:** "Find the latest project update from XYZ” or “Show me Q2 financial reports".
 
+    - **Chat:** Use this area to ask Copilot questions, summarize content, draft emails, or retrieve insights from your documents or organizational data.
+        - **Example:** “Summarize the last meeting with the marketing team” or “Draft a follow-up email for the sales pitch.”
+
+    - **Notebooks:** You can combine AI-generated content, summaries, and your own notes into organized sections — similar to a digital binder powered by Copilot.
+        - **Example:** Ideal for organizing research findings, training materials, or long-term planning documents collaboratively.
 
 ### Task 2: Understanding No-Code Agents in Copilot
 
@@ -50,9 +57,37 @@ Walk through of M365 Copilot:
 
     - **Researcher Agent:** Synthesizes large volumes of information.
 
+        - Click on the **Researcher (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
+        
+            ![](./media/Researcher1.png)
+
+        - Select **Market_Trends_Report_Q2_2025.docx (1)** and then enter one of the prompts from below.
+            
+            - “Summarize these documents into key bullet points.”
+
+            - “What are the key takeaways from this report?”
+
+            - “Identify common themes across these files.”
+
+                ![](./media/Researcher2.png)
+        > **Note:** The responses from the agent may vary.
+
     - **Analyst Agent:** Performs calculations, summarizes data, and creates visual reports.
 
-> **Notes:** You don’t need to code or script. The configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
+        - Click on the **Analyst (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
+        
+            ![](./media/Analyst1.png)
+
+        - Select **Sales_Data_Q1_2025 (1)** and then enter one of the prompts from below.
+            
+            - “Summarize the monthly revenue trends.”
+
+            - “Which products performed best last quarter?”
+
+            - “Create a pie chart of total sales by region.”
+
+                ![](./media/Analyst2.png)
+            > **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
 
 
 ### Task 3: Creating a “Researcher” No-Code Agent
@@ -94,42 +129,4 @@ Build and test a Researcher agent that can summarize documents and compile findi
     ![](./media/Agent5.png)
 
 
-### Task 4: Creating a “Analyst” No-Code Agent
-
-Build an Analyst agent to work with Excel data and generate insights.
-
-1. 1. Click **Create Agent**
-
-    ![](./media/Agent1.png)
-
-1. Click on **Configure**
-
-    - Give your agent a name: **Sales Insights Analyst**
-
-    - **Description:** This agent is designed to analyze structured Excel data and automatically extract key insights such as trends, growth patterns, and visualizations.
-
-    - **Instructions:** 
-        - Calculate monthly growth rates from the sales data.
-        - Identify top-performing products based on revenue or units sold.
-        - Generate charts (such as bar or pie charts) for visual representation.
-
-
-    - **Knowledge:**
-
-        - Click on **Attach cloud files** button.
-        
-            ![](./media/Agent2.png)
-        
-        - Click on **Finance** SharePoint site.
-
-            ![](./media/Agent3.png)
-        
-        - Select **Sales Data – Q1 2025 (1)** file and click **Select (2)**.
-
-            ![](./media/Agent6.png)
-
-1. Leave all other settings as default and click on **Create**.
-
-    ![](./media/Agent7.png)
-
-> **Note:** Copilot should generate summary insights and create visualizations directly in Excel or as a report.
+> **Notes:** You don’t need to code or script. The configuration is based on task type and data input. Mention security and data compliance through Microsoft 365’s boundaries
