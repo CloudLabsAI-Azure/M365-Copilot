@@ -54,8 +54,6 @@ In this task, you will explore and interact with no-code Copilot Agents - **Rese
 
     ![](./media/Office.png)
 
-1. Discuss use cases for **Researcher** and **Analyst** agents.
-
 1. **Researcher Agent:** Synthesizes large volumes of information.
 
     - Click on the **Researcher (1)** agent from the menu, then click on **+ (2)**, and then click on **Add Content (3)**
