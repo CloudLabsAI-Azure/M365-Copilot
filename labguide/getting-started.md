@@ -120,6 +120,6 @@ The CloudLabs support team is available 24/7, 365 days a year, via email and liv
 Learner Support Contacts:
 
 * Email Support: cloudlabs-support@spektrasystems.com
-* Live Chat Support: https://cloudlabs.ai/labs-support
+* Live Chat Support: http://cloudlabs.ai/ms-support
 
 ## Happy Learning!!
