@@ -17,20 +17,20 @@
         "Order": 3
      },
      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/refs/heads/pax8/labguide/Exercise%207.md",
+       "Order": 4
+     },     
+     {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/refs/heads/pax8/labguide/Exercise%203.1.md",
-        "Order": 4
+        "Order": 5
      },
      {
       "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/refs/heads/pax8/labguide/Exercise%204.md",
-      "Order": 5
+      "Order": 6
      },
      {
       "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/refs/heads/pax8/labguide/Exercise%206.1.md",
-     "Order": 6
-     },
-     {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/refs/heads/pax8/labguide/Exercise%207.md",
-       "Order": 7
+     "Order": 7
      }
    ]
  }
