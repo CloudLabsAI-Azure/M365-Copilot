@@ -1,4 +1,4 @@
-# Exercise 4: Overview of M365 Copilot App
+# Exercise 5: Overview of M365 Copilot App
 
 ### Estimated time: 30 minutes
 

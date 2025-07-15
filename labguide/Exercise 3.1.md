@@ -1,4 +1,4 @@
-# Exercise 2: Preparing for M365 Copilot Deployment
+# Exercise 3: Preparing for M365 Copilot Deployment
 
 ### Estimated time: 30 minutes
 

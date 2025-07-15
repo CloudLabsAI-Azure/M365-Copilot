@@ -1,4 +1,4 @@
-# Exercise 5: Reviewing Security and Compliance in Copilot (Read Olny)
+# Exercise 2: Reviewing Security and Compliance in Copilot (Read Olny)
 
 >**Note:** The following exercise is Read-Only to let you Review security and compliance **M365 Copilot** and to manage and enhance communication within your organization.
 
