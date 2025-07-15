@@ -18,10 +18,10 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 
 - [Introduction to M365 Copilot](#introduction-to-m365-copilot)
 - [Understanding M365 Copilot Architecture](#understanding-m365-copilot-architecture)
+- [Reviewing Security and Compliance in Copilot](#reviewing-security-and-compliance-in-copilot)
 - [Preparing for M365 Copilot Deployment](#preparing-for-m365-copilot-deployment)
 - [Using Copilot in M365 Applications](#using-copilot-in-m365-applications)
 - [Overview of M365 Copilot App](#Overview-of-M365-Copilot-App)
-- [Reviewing Security and Compliance in Copilot](#reviewing-security-and-compliance-in-copilot)
 
 
 ## The AI-Employee Collaboration Advantage

@@ -14,14 +14,17 @@ Security, compliance, and responsible AI practices in Copilot will also be revie
 This lab is designed to gain a comprehensive understanding of Microsoft 365 Copilot’s capabilities, architecture, deployment readiness, application usage, interface, and security/compliance features to effectively implement and manage Copilot across the M365 ecosystem.
 
 - **Introduction to M365 Copilot** : Learn about the capabilities of Microsoft 365 Copilot.
+
 - **Understanding M365 Copilot Architecture** : Explore how M365 Copilot is designed and integrated.
+
+- **Reviewing Security and Compliance in Copilot** : Overview of key security and compliance tasks in Microsoft 365 Copilot, including sensitivity labeling, data classification, customer key usage, communication compliance, auditing, content search, and eDiscovery.
+
 - **Preparing for M365 Copilot Deployment** : Organize SharePoint sites and use M365 Copilot to efficiently retrieve and manage information.
 
 - **Using Copilot in M365 Applications** : Using Copilot in Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, Teams, and more.
    
 - **Overview of M365 Copilot App** : Explore the Copilot interface and create no-code Researcher and Analyst agents
-  
-- **Reviewing Security and Compliance in Copilot** : Overview of key security and compliance tasks in Microsoft 365 Copilot, including sensitivity labeling, data classification, customer key usage, communication compliance, auditing, content search, and eDiscovery.
+
   
 
 ## Prerequisites
