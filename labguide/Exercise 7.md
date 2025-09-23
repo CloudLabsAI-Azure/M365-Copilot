@@ -102,15 +102,25 @@ Follow the given steps to access the **Microsoft data classification dashboard**
 
 Follow the given steps to use the content explorer for data classification:
 
-1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+1. Navigate to `https://purview.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Content explorer**.
+    ![](./media/TE73.png)
 
-1. If you know the name of the label, or the sensitive information type, you can type that into the filter box.
+1. In the left pane, go to **Solutions (1)**, and then click on **Explore All → (2)**
+
+    ![](./media/TE71.png)
+
+1. Then click on **Data Lifecycle Management**, under **Data Governance**.
+
+    ![](./media/TE72.png)
+
+1. Then click on **Explorers**, and then click on **Content explorer**.
+
+1. If you know the name of the label or the sensitive information type, type it into the filter box.
 
 1. Alternately, you can browse for the item by expanding the label type and selecting the label from the list.
 
-1. Select a location under **All locations** and drill down the folder structure to the item and double-click to open the item natively in content explorer.
+1. Select a location under All locations and drill down the folder structure to the item.
 
 1. To create a .csv file that contains a listing of whatever the focus of the pane is, select **export**.
 
@@ -124,7 +134,7 @@ Follow the given steps to use the content explorer for data classification:
 
 To go to the **Activity Explorer**, follow the given steps:
 
-1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+1. Navigate to `https://purview.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Activity explorer**.
 
@@ -210,11 +220,17 @@ The following information is displayed for each item on the **Pending** tab for 
 
 To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
 
-1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+1. Navigate to `https://purview.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **Communication compliance**. You will land on the **Overview** page of the **Communication compliance** portal.
+    ![](./media/TE73.png)
 
-    ![](./media/communication-compliance-overview.png)
+1. In the left pane, go to **Solutions (1)**, and then click on **Explore All → (2)**
+
+    ![](./media/TE71.png)
+
+1. Select **Communication compliance** under **Risk and Compliance**. You will land on the **Overview** page of the **Communication compliance** portal.
+
+    ![](./media/Te74.png)
 
 1. Select the **Policies** tab and select **Create policy** to create and configure a new policy from a template or to create and configure a custom policy.
 
