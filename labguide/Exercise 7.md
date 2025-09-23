@@ -68,7 +68,7 @@ The **data classification page** provides visibility into that body of content, 
 
 Follow the given steps to access the **Microsoft data classification dashboard**:
 
-1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
+1. Navigate to `https://purview.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
 1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Overview**.
 
