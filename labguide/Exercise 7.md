@@ -1,6 +1,10 @@
-# Exercise 2: Reviewing Security and Compliance in Copilot (Read Olny)
+# Exercise 2: Reviewing Security and Compliance in Copilot (Read Only)
 
 >**Note:** The following exercise is Read-Only to let you Review security and compliance **M365 Copilot** and to manage and enhance communication within your organization.
+
+>**Note:** This is a Read-Only exercise, please do not perform any of the steps using the lab environment. 
+
+>**Note:** In the lab guide you might see that some screenshots may look slightly different from the current Microsoft Purview portal. Kindly ignore these variations as updates are underway 
 
 ### Estimated time: 60 minutes
 
