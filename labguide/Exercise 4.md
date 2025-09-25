@@ -254,7 +254,7 @@ To use **Copilot in Teams**, follow the below steps:
 
     ![](./media/Teams1.png)
 
-    > **Note:** If you don not see the Copilot icon, click on the start Free trial option on the Teams app.
+    > **Note:** If you do not see the Copilot icon, click on the start Free trial option on the Teams app.
 
     It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
 
