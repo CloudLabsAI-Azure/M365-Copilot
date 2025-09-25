@@ -254,6 +254,8 @@ To use **Copilot in Teams**, follow the below steps:
 
     ![](./media/Teams1.png)
 
+    > **Note:** If you don not see the Copilot icon, click on the start Free trial option on the Teams app.
+
     It can help you get up to speed on conversations by quickly reviewing the main points, action items, and decisions without having to scroll through long threads.
 
 1. **During a meeting**, Copilot can summarize key discussion points—including who said what and where people are aligned or disagree—and suggest action items, all in real-time.
