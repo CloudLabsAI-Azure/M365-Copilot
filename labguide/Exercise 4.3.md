@@ -74,6 +74,18 @@ To use **Copilot in PowerPoint**, follow the below steps:
 
    ![](./media/m36-gt-lab-ex4-2-g12.png)
 
+1. Alternatively, you can also choose **Create a presentation from file...** and attach a Word document as a reference and craft a presentation based on it.
+
+   ![](./media/ppt-from-doc.png)
+
+1. Suppose you wish to convert a report, such as an Industry Analysis Report for Contoso LTD, into a presentation. You can provide Copilot with the following prompt.
+
+   ![](./media/ppt1.3.png)
+
+1. Copilot will craft an exceptional presentation from the report, complete with speaker notes.
+
+   ![](./media/ppt-created.png)
+
 ## Try Out Yourself
 
 You can also try out your own scenarios and examples to analyse the functioning of Copilot. Here are some of the example prompts you can take help of to explore more on **Copilot in PowerPoint**. Besides these, you can also create your own prompts and interact with Copilot.
