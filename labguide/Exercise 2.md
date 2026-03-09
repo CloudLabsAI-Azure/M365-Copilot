@@ -52,24 +52,29 @@ The following steps outline the processing flow of Copilot for Microsoft 365, fr
 ### Grounding and Data Preparation
 
 2. **Grounding:**
+
    - Copilot prepares the user's input using a method known as "grounding." This step ensures that responses are specific and directly related to the user's task.
    
 3. **Consulting Microsoft Graph:**
+
    - During grounding, Copilot consults Microsoft Graph to gather related data from the organization. It accesses only the data that the user is permitted to see based on their role and permissions in Microsoft 365.
 
 ### Retrieval-Augmented Generation
 
 4. **Retrieval-Augmented Generation:**
+
    - This step involves combining the user's data with other relevant sources, such as knowledge base articles, to refine the question for a more accurate answer.
 
 ### Large Language Model (LLM) Consultation
 
 5. **Consulting the LLM:**
+
    - With the improved input, Copilot consults the Large Language Model (LLM) to generate an initial answer.
 
 ### Answer Refinement
 
 6. **Refinement Process:**
+
    - Copilot further refines the initial answer by conducting additional checks against Microsoft Graph.
    - Evaluations for responsible AI practices, security assessments, and compliance checks are performed.
    - The answer may be converted into actionable commands, ensuring practicality and usability.
@@ -77,6 +82,7 @@ The following steps outline the processing flow of Copilot for Microsoft 365, fr
 ### User Response
 
 7. **Offering Suggestions:**
+
    - Finally, Copilot offers a well-formed, relevant suggestion back to the user, accompanied by any actionable commands.
    - The results are closely tied to the organization's specific data, ensuring relevance and context.
 
@@ -87,3 +93,7 @@ Understanding the intricate architecture and prompt flow of Copilot for Microsof
 ## Summary
 
 In this exercise, you explored how Microsoft Copilot integrates with Microsoft 365 applications and processes user data to deliver relevant, context-aware responses.
+
+Click **Next** from the lower right corner to move on to the next page.
+
+![Launch Azure Portal](./media/m36-gt-lab-gs-g12.png)
