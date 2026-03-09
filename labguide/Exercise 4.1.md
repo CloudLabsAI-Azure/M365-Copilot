@@ -24,25 +24,33 @@ One of the goals of Copilot in Word is to simplify the creation and modification
 
 To use **Copilot in Word**, follow the below steps:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/licensekey2.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
-1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
+1. Select **Apps (1)**, and then choose **Word (2)**.
 
-   ![](./media/5.2.png)
-
-1. Select **Apps** from the left pane and select **Word** from the apps list.
-
-   ![](./media/5.3.png)
+   ![](./media/m36-gt-lab-ex4-1-g1.png)
 
 1. Select **Blank document** to open a new Word document.
 
-   ![](./media/5.4.png)
+   ![](./media/m36-gt-lab-ex4-1-g2.png)
 
-1. In the **Word** document, you will find the prompt **What do you want Copilot to draft**. Provide an input like `Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.`, and click on **Generate**.
+1. If the **Your privacy option** dialog appears, select **Close**.
 
-   ![](./media/5.5.png)
+   ![](./media/m36-gt-lab-ex4-1-g3.png)
+
+1. In the **Word** document, locate the **Describe what you'd like to draft with Copilot** prompt, enter the prompt provided below, and then select **Generate**. If the prompt is not visible, select the **Copilot** icon to open the Copilot draft experience.
+
+   ```
+   Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.
+   ```
+
+   ![](./media/m36-gt-lab-ex4-1-g4.png)
+
+   ![](./media/m36-gt-lab-ex4-1-g5.png)
 
 1. It will create a document on the given topic with its transformative and innovative capabilities. Choose **Keep it** if you are satisfied with the content, else you can also **Regenerate** or **Discard** it.
 
@@ -50,42 +58,44 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/keep-it-word-2.png)
 
-    >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
+   >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
 
-    >![](./media/copilot-icon-word.png)
+   ![](./media/m36-gt-lab-ex4-1-g8.png)
 
 ## Referencing Existing Documents in Word
 
 You can also link an external Word document present in your **OneDrive account** and generate output based on that. To do so, follow the given steps:
 
-1. On the **Draft with Copilot** screen, choose **Reference your content** and select the preferred document. You can also provide prompt like **Summarise the document /**
+1. Select the **Copilot** icon to open the Copilot draft experience, or press **Alt + I**.
 
-   ![](./media/im5.png)
+   ![](./media/m36-gt-lab-ex4-1-g9.png)
 
-   ![](./media/im4.png)
+1. Select **Add content**, and then choose the preferred document to reference.
 
-1. A summary of the chosen document will be presented as shown.
+   ![](./media/m36-gt-lab-ex4-1-g11.png)
 
-   ![](./media/summary-doc.png)
+1. In the Copilot prompt box, enter **Summarise the document**, and then select **Send**.
+
+   ![](./media/m36-gt-lab-ex4-1-g10.png)
 
 ## Try Out Yourself
 
 You can also try your own scenarios and examples out to analyse the functioning of Copilot.
 Here are some of the example prompts which you can take help of to explore more on **Copilot in Word**. Besides these, you can also create your own prompts and interact with Copilot.
 
-- **For Creating New Documents:**
+1. **For Creating New Documents:**
 
    ```
-    Write an essay about Microsoft 365.
-    ```
-    ```
-    Give detailed instructions, including outlines, notes, or file references on use of artificial intelligence in IT companies.
-    ```
-    ```
-    List the technologies used in app development in a bulleted format.
-    ```
+   Write an essay about Microsoft 365.
+   ```
+   ```
+   Give detailed instructions, including outlines, notes, or file references on use of artificial intelligence in IT companies.
+   ```
+   ```
+   List the technologies used in app development in a bulleted format.
+   ```
 
-- **For Referencing Old Documents:**
+1. **For Referencing Old Documents:**
 
    ```
    What are the key points in this doc?
