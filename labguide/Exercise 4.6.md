@@ -14,13 +14,15 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 To use **Copilot in Loop**, follow the below steps:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/licensekey2.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
-1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
+1. From the Microsoft 365 home page, select **Apps (1)**, and then choose **More apps (2)**.
 
-   ![](./media/5.2.png)
+   ![](./media/m36-gt-lab-ex2-g1.png)
 
 1. Select **Apps** from the left pane, click on **All apps** and click on **Loop**
 
