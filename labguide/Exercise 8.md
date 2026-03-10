@@ -22,9 +22,13 @@ Here are some of the main features of Copilot Lab:
 
 ## Using Copilot Lab
 
-1. Navigate to `https://copilot.cloud.microsoft/prompts` to open **Copilot Lab**. You will see a similar screen:
+1. Navigate back to **Microsoft 365** tab.
 
-    ![](./media/copilot-lab-webpage.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
+
+
 
     You will find a large number of example prompts here, based on different situations and tones, for various all kinds of Microsoft 365 apps.
 
