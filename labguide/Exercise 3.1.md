@@ -10,7 +10,7 @@ In this exercise we will walkthrough a comprehensive journey, skillfully prepari
 
 Organizing your SharePoint site is crucial for efficient collaboration and information management within your organization. A well-organized and structured SharePoint site can help Microsoft 365 Copilot by making it easier to find and retrieve relevant information. When the site is organized and the content is properly tagged and categorized, it makes it easier for me to search and retrieve the information you need. This can help me provide you with more accurate and relevant responses to your queries. Additionally, a well-organized SharePoint site can help improve collaboration and productivity within your organization by making it easier for everyone to find and access the information they need.
 
-Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites serves as a collaborative platform integrated with Microsoft 365, facilitating seamless document management and team collaboration.
+Let's explore the SharePoint sites we have set up for Contoso Ltd. These sites serve as a collaborative platform integrated with Microsoft 365, facilitating seamless document management and team collaboration.
 
 ### Task 1.1: Explore SharePoint Sites.
 

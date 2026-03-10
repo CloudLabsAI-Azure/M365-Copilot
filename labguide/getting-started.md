@@ -15,16 +15,16 @@ Learn to leverage an OpenAI model to extract data and create embeddings, by end 
 - **Introduction to M365 Copilot** : Learn about the capabilities of Microsoft 365 Copilot.
 - **Understanding M365 Copilot Architecture** : Explore how M365 Copilot is designed and integrated.
 - **Preparing for M365 Copilot Deployment** : 
-  - **Organizing Sharepoint teams and files** : Structure SharePoint for efficient collaboration.
+  - **Organizing SharePoint teams and files** : Structure SharePoint for efficient collaboration.
   - **Understand Semantic Index** : Learn how Semantic Index improves search and context in M365.
 - **Using Copilot in M365 Applications** :
   - **Using Microsoft 365 Copilot in Word** : Automate content creation and editing.
   - **Using Microsoft 365 Copilot in Outlook** : Draft and manage emails efficiently.
-  - **Using Microsoft 365 Copilot in Powerpoint** : Create impactful presentations with AI.
+  - **Using Microsoft 365 Copilot in PowerPoint** : Create impactful presentations with AI.
   - **Using Microsoft 365 Copilot in Excel** : Analyze data and generate insights quickly.
   - **Using Microsoft 365 Copilot in Teams** : Enhance collaboration and manage tasks with AI.
   - **Using Microsoft 365 Copilot in Loop** : Collaborate seamlessly with real-time updates.
-  - **Using Microsoft 365 chat** : Centralize conversations and integrate insights.
+  - **Using Microsoft 365 Chat** : Centralize conversations and integrate insights.
 - **Administer M365 Copilot** :
   - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
   - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.

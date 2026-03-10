@@ -8,7 +8,7 @@ This exercise is designed to demonstrate the practical utility and capabilities 
 
 ### Scheduling a Meeting
 
-To schedule a meeting in Microsodt Teams with your colleagues, follow the given steps:
+To schedule a meeting in Microsoft Teams with your colleagues, follow the given steps:
 
 1. Navigate to **Microsoft Teams** using the following URL.
 

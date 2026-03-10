@@ -79,7 +79,7 @@ To use **Copilot in Word**, follow the below steps:
 
 In Outlook, **Copilot for Microsoft 365** makes managing emails easier, letting you focus more on effective communication. It helps you understand long email threads, see different viewpoints, and spot unanswered questions. With Copilot, you can quickly reply using prompts or turn short notes into full emails using resources from Microsoft 365. You can also easily adjust your message's tone and length.
 
-#### **Summarizating email threads in Outlook:**
+#### **Summarizing email threads in Outlook:**
 
 **Copilot in Outlook** introduces the "Thread Summarize" feature, designed to simplify your email management. With this feature, Outlook either offers concise bullet points or generates an entire summary of the chosen email thread, displayed above the thread in the reading pane. This design makes it easier to grasp the main points of extended email conversations. Additionally, the summary includes links to specific responses, allowing for quick access to different parts of the thread.
 
