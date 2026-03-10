@@ -1,4 +1,4 @@
-# Exercise 5.2: Implementing sensitivity label
+# Exercise 5.2: Implementing sensitivity label (Read Only)
 
 In this exercise, you'll learn how to apply sensitivity labels to Word documents in Microsoft 365. Sensitivity labels are part of Microsoft Information Protection (MIP) and help classify and protect data. You'll explore how to manually apply these labels to a Word document and also see how Microsoft Copilot can automatically apply labels when summarizing documents.
 
@@ -8,17 +8,29 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
 ### Task 1.1: Applying a Sensitivity label to a Word document
 
-- Navigate to [Microsoft 365] `https://www.office.com`, then click on Apps and click on Word in the Application launcher. In the new tab, click on **Blank document**.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/5.3.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
-- Select create blank document, then enter some text on the page. On the blue bar on the top of the page, select the down arrow, next to where it says **Document (1)**, and in the File Name box enter, **Test-label (2)** and press enter.
+1. Select **Apps (1)**, and then choose **Word (2)**.
 
-   ![](./media/exercise3(2.36).png)
+   ![](./media/m36-gt-lab-ex4-1-g1.png)
 
-   >**Note:** In this step, we are creating a new Word document that will be utilized for applying a sensitivity lab.
+1. Select **Blank document** to open a new Word document.
 
-- From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
+   ![](./media/m36-gt-lab-ex4-1-g2.png)
+
+1. In the title bar, verify the document name **Test-label (1)** and observe the sensitivity indicator icon **(2)**.
+
+   ![](./media/m36-gt-lab-ex4-0-g2.png)
+
+1. From the **Sensitivity** menu, select **Confidential-Finance** to apply the sensitivity label to the document.
+
+   ![](./media/m36-gt-lab-ex4-0-g3.png)
+
+1. From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
 
    ![](./media/17.2.png)
 
@@ -26,34 +38,15 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
     >**Note**: Applying a sensitivity label helps secure data by abstracting sensitive content.
 
-- From the top menu bar, select **View (1)**, then select **Reading view (2)**.
+1. From the top menu bar, select **View (1)**, then select **Reading view (2)**.
 
    ![](./media/exercise3(2.38).png)
 
    >**Note:** Reading view allows you to observe how the document includes a watermark, a visual indication of the document's sensitivity level.
 
-- Notice how the document includes the watermark.
+1. Notice how the document includes the watermark.
 
    ![](./media/exercise3(2.39).png)
-
-### Task 1.2: Applying Sensitivity label using Copilot
-
-- Navigate to [Microsoft 365](https://www.office.com), then click on Apps and click Word. In the new tab, click on **Create a Blank document**.
-
-   ![](./media/5.3.png)
-
-   ![](./media/5.4.png)
-
-- Let's ask Copilot to Summarise a document which has a sensitivity label already applied. Notice how the Public sensitivity label is applied automatically when a user drafts with Copilot and references a labeled file. The information bar under the ribbon informs the user that content created by Copilot resulted in the new label being automatically applied. Please use the below prompt.
-
-   ```
-   Summarise the document /Industry Analysis Report for Contoso Ltd.docx
-   ```
-
-   ![](./media/label1.3.png)
-
-
-   ![](./media/label1.4.png)
 
 ## Conclusion:
 Applying sensitivity labels in Microsoft 365 is a crucial step in protecting sensitive data. Whether you're working on a Word document or using the Copilot tool to summarize a document, understanding how to apply these labels is essential. The process involves navigating to the document, selecting the "Sensitivity" option from the top menu bar, and choosing the appropriate label.
