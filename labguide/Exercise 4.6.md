@@ -28,7 +28,6 @@ To use **Copilot in Loop**, follow the below steps:
 
    ![](./media/fidingloop.png)
 
-
 1. Select **get started** icon to create a new workspace.
 
    ![](./media/loop_main.png)

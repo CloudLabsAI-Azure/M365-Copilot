@@ -10,25 +10,73 @@ This exercise is designed to demonstrate the practical utility and capabilities 
 
 To schedule a meeting in Microsodt Teams with your colleagues, follow the given steps:
 
-1. Open **Microsoft Teams** and select **Calender** from the left pane. Choose **New Meeting** from the top right corner.
+1. Navigate to **Microsoft Teams** using the following URL.
 
-1. A  new page will open where you can add a title to your meeting, add required attendees, select the date and time and add any other required information.
+    ```
+    https://teams.microsoft.com/v2/
+    ```
 
-    Give a name to your meeting and add your colleagues by typing their usernames in the appropriate box, and choose your favourable time slot.
+1. If prompted to sign in, use the lab credentials to sign in.
 
-    ![](./media/setup-meeting.png)
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+   
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
 
-1. Select **Save** from the top right corner. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+1. In **Microsoft Teams**, select **Calendar (1)** from the left pane, and then choose a preferred date and time slot from the calendar view **(2)**.
 
-    ![](./media/meeting-setup.png)
+    ![](./media/m36-gt-lab-ex8-1-g13.png)
+
+1. In the meeting details page, enter **Discussion on Copilot (1)** as the meeting title and add the following description in the meeting details **(2)**.
+
+    ```
+    This meeting will focus on discussing how Microsoft Copilot can support daily work and improve productivity across teams. We will review key Copilot capabilities, explore practical use cases in applications such as Word, Excel, PowerPoint, and Outlook, and discuss how AI can help with tasks like summarizing meetings, drafting emails, and generating reports. The session will also include an open discussion to identify potential scenarios where Copilot can be used within our organization.
+    ```
+
+    ![](./media/m36-gt-lab-ex8-1-g22.png)
+
+1. On the meeting details page, select **Add an agenda** to include an agenda for the meeting.
+
+    ![](./media/m36-gt-lab-ex8-1-g23.png)
+
+1. In the agenda section, clear the existing template content, and then enter the following meeting agenda.
+
+    ```
+    • Overview of Microsoft Copilot capabilities
+    • Examples of using Copilot in Word, Excel, PowerPoint, and Outlook
+    • Discussion on how teams can use Copilot for meeting summaries, email drafting, and document creation
+    • Identify potential use cases within our organization
+    • Next steps and action items
+    ```
+
+    ![](./media/m36-gt-lab-ex8-1-g24.png)
+
+1. Select **Save** to schedule the meeting.
+
+    ![](./media/m36-gt-lab-ex8-1-g16.png)
+
+1. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+
+    ![](./media/m36-gt-lab-ex8-1-g17.png)
 
 1. To start the meeting, click on the invite and select **Join**.
 
-### Utilizing M365 Copilot during the Meeting
+1. On the meeting join screen, review the audio settings and select **Join now** to start the meeting.
 
-To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the given steps:
+    ![](./media/m36-gt-lab-ex8-1-g18.png)
 
-1. Organise a meeting and select **Copilot** from the top bar. A side pane will open where you can give prompts to the Copilot.
+1. During the meeting, select **Copilot** from the meeting toolbar to open the Copilot pane.
+
+    ![](./media/m36-gt-lab-ex8-1-g20.png)
+
+1. In the language selection dialog, review the **Spoken language** setting and select **Confirm**.
+
+    ![](./media/m36-gt-lab-ex8-1-g21.png)
+
+### Utilizing M365 Copilot during the Meeting (Read Only)
+
+> **Note:** In this lab environment, the meeting scenario is provided for demonstration purposes only. Because this is not a live meeting with participants speaking, Microsoft 365 Copilot will not generate real-time notes, action items, or summaries. In a real meeting where participants are actively speaking, Copilot can automatically capture discussions, identify key decisions, generate action items, and provide meeting summaries.
+
+1. A side pane will open where you can give prompts to the Copilot.
 
 1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
 
@@ -41,12 +89,6 @@ To utilise the capabilities of Microsoft 365 Copilot in a meeting, follow the gi
     ![](./media/summary-meeting.png)
 
     Share the summary with others who may have missed the meeting.
-
-### Conduct a Chat Conversation
-
-After the meeting, continue the discussion through a chat conversation with your colleagues on Microsoft Teams.
-
-![](./media/meeting-chat.png)
 
 1. On the chat conversation page, select the **Copilot** icon on the top right corner to utilise the Copilot.
 
