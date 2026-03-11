@@ -26,11 +26,11 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
     ![](../labguide/media/m36-gt-lab-ex6-1-g1.png)
 
-1.  In the Active Users page, search or find the user you want to manage the Copilot license. Click on the user.
+1.  In the Active Users page, search for or find the user you want to manage the Copilot license. Click on the user.
 
     ![](../labguide/media/active-users.png)
 
-1. On the user's profile page, on the right side click on **Licenses and apps** to go to their license details.
+1. On the user's profile page, on the right side, click on **Licenses and apps** to go to their license details.
 
     ![](../labguide/media/user-licenses.png)
 
@@ -42,7 +42,7 @@ Follow these steps to assign a Copilot license for an existing user from the adm
 
  All license changes are saved automatically after you make an assignment change.
 
-### Task 2: Remove a Copilot licenses
+### Task 2: Remove a Copilot license
 
 To remove an already assigned Copilot license:
 

@@ -1,10 +1,10 @@
 # Exercise 3.6: Using Microsoft 365 Copilot in Loop
 
-In this exercise, you will learn how to use Microsoft 365 Copilot in Loop to enhance team collaboration and content creation. Copilot assists with drafting, brainstorming, and refining ideas in a shared workspace, making it easier to plan projects, develop content, and generate creative solutions. You will practice creating and updating workspaces, refining generated content, and using Copilot to streamline team efforts.
+In this exercise, you will use Microsoft 365 Copilot in Loop to create a workspace and generate a comprehensive marketing campaign project plan from a text prompt.
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -51,7 +51,7 @@ To use **Copilot in Loop**, follow the below steps:
 1. In the **Copilot** pane, enter the following prompt **(1)** and select **Send (2)**.
 
    ```
-   Draft a project plan on marketing campaign that includes goals, target audience, marketing channels, budget, timeline, and key performance indicators (KPIs).
+   Draft a project plan for a marketing campaign that includes goals, target audience, marketing channels, budget, timeline, and key performance indicators (KPIs).
    ```
 
    ![](./media/m36-gt-lab-ex4-6-g7.png)
@@ -80,8 +80,8 @@ To use **Copilot in Loop**, follow the below steps:
 
 ## Conclusion
 
-In conclusion, **Copilot** is a powerful AI tool designed to automate tasks, enhance collaboration, and streamline workflows across various Microsoft 365 apps, including Loop. It helps in co-creating and planning by offering AI-powered contextual suggestions, making it easier to start or update a shared workspace. It aids in creating new content, brainstorming ideas, providing blueprints for best practices, or describing concepts in an easily understandable manner. Thus, **Microsoft 365 Copilot in Loop** is an invaluable tool for any organization, enhancing productivity and creativity while fostering effective team collaboration. Its intelligent assistance capabilities make it a continually evolving asset that can adapt to an organization's ever-changing needs.
+You've successfully used Microsoft 365 Copilot in Loop to generate a marketing campaign project plan from a text prompt. You learned how Copilot can help create structured content in a shared workspace, including project plans with goals, timelines, budgets, and KPIs. You also explored how to reference Loop pages in Copilot prompts to extract specific information, such as the total budget, demonstrating how Copilot can help teams collaborate and manage content efficiently in Loop workspaces.
 
 ## Summary
 
-In this exercise, you explored how Microsoft 365 Copilot in Loop enhances team collaboration by providing AI-powered suggestions for drafting, brainstorming, and refining content. Copilot helps automate the creation of project plans, marketing strategies, and more by generating initial drafts and allowing for iterative refinement. This tool facilitates effective teamwork and creative processes, making it easier to manage and develop content in a shared workspace. Microsoft 365 Copilot in Loop is a valuable asset for improving productivity and collaboration within any organization.
+In this exercise, you used Microsoft 365 Copilot in Loop to create a new workspace and generate a comprehensive marketing campaign project plan. You learned how to use Copilot to draft content, reference existing pages, and extract specific information from Loop content using natural language queries.

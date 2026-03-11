@@ -51,8 +51,7 @@ At its core, Copilot for Microsoft 365 is a fusion of cutting-edge technology an
 
 **Contoso Ltd.**, a leading IT Consultancy firm, is always in search of ways to improve its efficiency and productivity. To achieve this, they've decided to incorporate **Microsoft Copilot for Microsoft 365** into their operations. With its extensive range of features and the ability to streamline tasks, automate workflows, and enhance collaboration, Contoso is confident that Copilot will be a game-changer.
 
-As part of the lab, you've been given access to Contoso's Microsoft 365 environment to test and demonstrate the capabilities of **Microsoft 365 Copilot**. You have the access to Contoso's data present in various SharePoint sites, namely Human Resource, Marketing and Finance, which you will utilize in future in the lab. You also have been provided the access to Teams environment as an employee of the **Contoso Ltd.** By the end of this lab, you'll have a thorough understanding of how **Microsoft 365 Copilot** can transform an organization's productivity and efficiency, just as it's doing for **Contoso Ltd**.
-
+As part of the lab, you've been given access to Contoso's Microsoft 365 environment to test and demonstrate the capabilities of **Microsoft 365 Copilot**. You have access to Contoso's data present in various SharePoint sites, namely Human Resource, Marketing, and Finance, which you will utilize in future in the lab. You have also been provided access to the Teams environment as an employee of the **Contoso Ltd.** By the end of this lab, you'll have a thorough understanding of how **Microsoft 365 Copilot** can transform an organization's productivity and efficiency, just as it's doing for **Contoso Ltd**.
 
 ## The AI-Employee Collaboration Advantage
 
@@ -68,4 +67,4 @@ Throughout this lab guide, we'll explore real-world examples of Copilot for Micr
 
 ## Conclusion
 
-The aim of Copilot for Microsoft 365 is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot, and discover how AI can truly become an invaluable ally in your quest for professional excellence. 
+The aim of Copilot for Microsoft 365 is clear – to change the way you work, turning routine tasks into opportunities for growth and innovation. Join us on this journey as we unlock the full potential of Microsoft Copilot and discover how AI can truly become an invaluable ally in your quest for professional excellence. 

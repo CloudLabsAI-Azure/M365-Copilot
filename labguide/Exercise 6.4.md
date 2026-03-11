@@ -10,7 +10,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 One of the benefits of Microsoft 365 Apps is that Microsoft provides new (and updated) features for Office apps, such as Excel and Word, regularly. You can control how often the users in your organization get these new features by specifying the update channel. In addition to new features, update channels provide, as needed, security and non-security updates regularly, every month. Non-security updates provide fixes for known issues and provide stability or performance improvements for Office.
 
-**Contoso Ltd**, a leading IT Consultancy firm, has decided to opt for the Monthly Enterprise Channel for their **Microsoft 365 Apps**. This decision was taken after a thorough assessment of the company’s needs and understanding the benefits of the Monthly Enterprise Channel. **Contoso Ltd.** is a dynamic organization that requires regular updates to keep their operations running smoothly and securely, but also needs stability and predictability in their software environment. The Monthly Enterprise Channel perfectly fits their needs as it provides new features, security and non-security updates on a predictable monthly schedule. Contoso appreciates the fact that these updates occur only once a month, allowing their IT team to plan and manage these updates efficiently. Furthermore, the Monthly Enterprise Channel offers Contoso a good balance between receiving the latest updates and having a stable, secure software environment.
+**Contoso Ltd**, a leading IT Consultancy firm, has decided to opt for the Monthly Enterprise Channel for their **Microsoft 365 Apps**. This decision was taken after a thorough assessment of the company’s needs and understanding of the benefits of the Monthly Enterprise Channel. **Contoso Ltd.** is a dynamic organization that requires regular updates to keep its operations running smoothly and securely, but also needs stability and predictability in its software environment. The Monthly Enterprise Channel perfectly fits their needs as it provides new features, security, and non-security updates on a predictable monthly schedule. Contoso appreciates the fact that these updates occur only once a month, allowing its IT team to plan and manage these updates efficiently. Furthermore, the Monthly Enterprise Channel offers Contoso a good balance between receiving the latest updates and having a stable, secure software environment.
 
 In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to utilize Cloud updates as its management solution. This strategic decision is aimed at maximizing the benefits of cloud-based technologies in their software management processes. With Cloud updates, Contoso can enjoy a more streamlined, efficient, and automated update process. This solution reduces the manual intervention required from the IT team, freeing them up to focus on more strategic tasks. Cloud updates provide real-time access to the latest updates, ensuring that Contoso's Microsoft 365 Apps are always up-to-date with the latest features and security patches. Moreover, the cloud-based solution allows Contoso to manage updates across multiple devices and locations seamlessly, a feature that is particularly beneficial for a global corporation like Contoso Ltd.
 
@@ -18,9 +18,9 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
 - **Enable Cloud Update**
 
-1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, we have already established a security group named **Copilot Users**.
+1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, you have already established a security group named **Copilot Users**.
 
-1. Log into the **Microsoft 365 Apps admin center**, you should land on the Home page automatically. On the Recommendation based on your tenant card, select Enable cloud.
+1. Log in to the **Microsoft 365 Apps admin center**, and you should land on the Home page automatically. On the Recommendation based on your tenant card, select Enable cloud.
 
     ![](../labguide/media/channel1.1.png)
 
@@ -34,7 +34,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
     ![](../labguide/media/channel1.3.png)
 
-1. Select the **Switch device update channel** button on the top. You can enter device names or Microsoft Entra ID groups, or a mix of both. In this case, we will choose our Security group.
+1. Select the **Switch device update channel** button at the top. You can enter device names or Microsoft Entra ID groups, or a mix of both. In this case, choose our Security group.
 
     ![](../labguide/media/channel1.4.png)
 
@@ -50,4 +50,4 @@ In conclusion, Contoso Ltd's decision to opt for the Monthly Enterprise Channel 
 
 ## Summary
 
-In this exercice,You’ve learned how to view and understand the process of changing the update channel for Microsoft 365 Apps and enabling Cloud updates. By opting for the Monthly Enterprise Channel and using Cloud updates, Contoso Ltd. ensures a balance of feature updates, security, and stability while benefiting from an automated update management process.
+In this exercise, you’ve learned how to view and understand the process of changing the update channel for Microsoft 365 Apps and enabling Cloud updates. By opting for the Monthly Enterprise Channel and using Cloud updates, Contoso Ltd. ensures a balance of feature updates, security, and stability while benefiting from an automated update management process.

@@ -24,7 +24,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 1. Select the user and select **Manage apps & services**.
 
-   >**Note:** Temporarily, the **Manage apps & services** view is not visible to the **Read-Only** access you have been provided with. This feature is ONLY accessible to the ADMINS with Administrative level of access. Thus, please go through the lab guide to understand the feature purpose, and how admins can utilize it.
+   >**Note:** Temporarily, the **Manage apps & services** view is not visible to the **Read-Only** access you have been provided with. This feature is ONLY accessible to the ADMINS with an Administrative level of access. Thus, please go through the lab guide to understand the feature's purpose and how admins can utilize it.
 
    ![](../labguide/media/user-manage-license.png)
 
@@ -42,7 +42,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
     - **Microsoft 365 Copilot in Teams:** In Teams, Copilot can help summarize key points in a conversation, suggest next steps, and even help with meeting notes. This feature can keep you updated and organized, and enhance the efficiency of teamwork by turning conversations into actions.
 
-    - **Microsoft 365 Copilot in Productivity Apps:** Copilot is integrated with productivity apps like Word, Excel, PowerPoint, and more. It can provide suggestions, automate tasks, and even generate content based on user input. In PowerPoint, for example, it can help design slides, while in Word it can help draft and edit documents.
+    - **Microsoft 365 Copilot in Productivity Apps:** Copilot is integrated with productivity apps like Word, Excel, PowerPoint, and more. It can provide suggestions, automate tasks, and even generate content based on user input. In PowerPoint, for example, it can help design slides, while in Word, it can help draft and edit documents.
 
     - **Power Platform Connectors in Microsoft 365 Copilot:** These connectors allow Copilot to interact with the **Power Platform**, a suite of tools including Power Apps, Power Automate, Power BI, and Power Virtual Agents. This enables the AI to access data, perform operations, or trigger workflows within these tools, further enhancing its capabilities and the range of tasks it can help automate.
 
@@ -50,7 +50,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 ## Conclusion
 
-In conclusion, you have learned how to administer and manage the AI-powered **Microsoft Copilot** in a Microsoft 365 environment using the **Microsoft 365 Admin Center**. You explored how to configure, manage, and optimize Copilot according to an organization's specific needs like managing various services of Copilot, including Graph Connectors, Intelligent Search, Microsoft 365 Chat, Copilot in Teams, Copilot in Productivity Apps, and Power Platform Connectors. Through understanding these features, you have developed the skills necessary to maximize the benefits of Microsoft Copilot in an organization, enhancing productivity and simplifying workflows.
+In conclusion, you have learned how to administer and manage the AI-powered **Microsoft Copilot** in a Microsoft 365 environment using the **Microsoft 365 Admin Center**. You explored how to configure, manage, and optimize Copilot according to an organization's specific needs, like managing various services of Copilot, including Graph Connectors, Intelligent Search, Microsoft 365 Chat, Copilot in Teams, Copilot in Productivity Apps, and Power Platform Connectors. Through understanding these features, you have developed the skills necessary to maximize the benefits of Microsoft Copilot in an organization, enhancing productivity and simplifying workflows.
 
 ## Summary
 

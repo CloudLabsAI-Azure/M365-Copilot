@@ -6,7 +6,7 @@ This exercise covers how to manage Microsoft 365 Copilot, particularly focusing 
 
 This exercise is designed to provide a comprehensive understanding of how to effectively administer and manage the AI-powered **Microsoft Copilot** in a **Microsoft 365** environment through the **Microsoft 365 Admin Center**. Understanding these operations is crucial for the efficient utilization and management of Copilot in your organization. You will delve into the administrative side of **Microsoft Copilot**, exploring how to configure, manage, and optimize it for an organization's specific needs, equipping you with the knowledge and skills needed to maximize the benefits of this powerful tool in your organization.
 
-## Managing Public web content access 
+## Managing Public Web Content Access 
 
 **Microsoft Copilot for Microsoft 365** chat experiences in Bing, Microsoft Edge, and the Microsoft Teams app have a feature that allows Copilot to reference web content when responding to user prompts. Allowing **Copilot for Microsoft 365** to reference web content enhances the end-user experience and productivity with Copilot. The feature is automatically turned on when you first start using Copilot. You can turn off this feature by following these steps:
 
@@ -34,9 +34,9 @@ All admin setting updates may take up to 24 hours to reflect any changes.
 
 - ### End-user Action Required
 
-Once the admin provides access to let **M365 Copilot** access content from the web, the user need to manually turn it on as well. Follow the given steps below to allow the access to the web content for the Copilot:
+Once the admin provides access to let **M365 Copilot** access content from the web, the user needs to manually turn it on as well. Follow the given steps below to allow access to the web content for the Copilot:
 
-1. Navigate to `https://www.office.com` and sign in using the **CloudLabs provided credentials**. Select **Copilot** icon from the left pane.
+1. Navigate to `https://www.office.com` and sign in using the **CloudLabs provided credentials**. Select the **Copilot** icon from the left pane.
 
     ![](../labguide/media/office-page.png)
 
@@ -44,11 +44,11 @@ Once the admin provides access to let **M365 Copilot** access content from the w
 
     ![](../labguide/media/copilot-plugins.png)
 
-1. You will see a toggle for the plugin **Web Content** which is set off by default. Turn this toggle **ON**. Once it's ON, it allows Copilot to access web-based resources to improve its functionality and suggestions.
+1. You will see a toggle for the plugin **Web Content**, which is set off by default. Turn this toggle **ON**. Once it's ON, it allows Copilot to access web-based resources to improve its functionality and suggestions.
 
     ![](../labguide/media/web-content-toggle.png)
 
-    Your Microsoft 365 Copilot Chat can, now, utilize web to display the responses to you.
+    Your Microsoft 365 Copilot Chat can now utilize the web to display the responses to you.
 
 >**Note:** If you turn off web access from the admin center, this control is disabled. However, if you enable web access, you must enable this toggle as well to allow web access for the Copilot. Remember, changes to the admin settings may take up to **24 hours** to reflect.
 
@@ -58,4 +58,4 @@ In conclusion, you learnt how to manage **Microsoft 365 Copilot** licenses withi
 
 ## Summary
 
-In this exercise, You have learned how to view and understand the management of Copilot’s public web content access settings. With read-only access, you reviewed the configuration options and learned how users can enable this feature in Copilot Chat. This ensures that Copilot can enhance its responses by referencing web-based resources.
+In this exercise, you have learned how to view and understand the management of Copilot’s public web content access settings. With read-only access, you reviewed the configuration options and learned how users can enable this feature in Copilot Chat. This ensures that Copilot can enhance its responses by referencing web-based resources.

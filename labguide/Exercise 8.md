@@ -8,7 +8,7 @@ In this exercise, you will explore Microsoft Copilot Lab, a tool designed to hel
 
 **Copilot Lab** is a collection of prompts that you can use to explore and experiment with Copilot. You can also see how other users and experts are using Copilot and learn from their tips and tricks.
 
-- **Prompt Engineering:** Prompt engineering is the skill of knowing when and how to ask Copilot to do something for you. It’s like giving instructions to a smart assistant. You want to be clear, concise, and specific, so that Copilot can understand your goal and deliver the best results.
+- **Prompt Engineering:** Prompt engineering is the skill of knowing when and how to ask Copilot to do something for you. It’s like giving instructions to a smart assistant. You want to be clear, concise, and specific so that Copilot can understand your goal and deliver the best results.
 
 ## Features of Copilot Lab
 
@@ -27,6 +27,7 @@ Here are some of the main features of Copilot Lab:
    ```
    https://m365.cloud.microsoft/
    ```
+   
 1. On the **Copilot Lab** page, review the available prompt suggestions and select **Show more** to load additional prompts.
 
     ![](./media/m36-gt-lab-ex8-1-g2.png)
@@ -35,7 +36,7 @@ Here are some of the main features of Copilot Lab:
 
     ![](./media/m36-gt-lab-ex8-1-g3.png)
 
-1. You will find a large number of example prompts here, based on different situations and tones, for various all kinds of Microsoft 365 apps.
+1. You will find a large number of example prompts here, based on different situations and tones, for all kinds of Microsoft 365 apps.
 
     ![](./media/m36-gt-lab-ex8-1-g4.png)
 
@@ -71,7 +72,7 @@ Here are some of the main features of Copilot Lab:
 
 ### Filtering the prompts
 
-You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel etc. or as per the scenarios where you want to use the, like for creating a documnet, understanding an email or report etc.
+You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel, etc., or as per the scenarios where you want to use them, like for creating a document, understanding an email or report, etc.
 
 1. In the **Copilot Prompt Gallery**, select **Task (1)** and choose a category from the available options **(2)** to filter prompts.
 
@@ -91,8 +92,8 @@ You can also filter the prompts as per the application where you need them, like
 
 ## Conclusion
 
-Microsoft Copilot Lab presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
+You've successfully explored Microsoft Copilot Lab and learned how to discover and use pre-written prompts. You browsed the Prompt Gallery, tested a prompt with sample text about Contoso's productivity goals, and learned how to filter prompts by task, job type, and application. You also saved prompts for future use. This experience demonstrates how Copilot Lab can help you learn effective prompt engineering techniques and discover new ways to use Copilot across Microsoft 365 applications.
 
 ## Summary
 
-Through this exercise, you have learned how to navigate and utilize Microsoft Copilot Lab to enhance your prompt engineering skills. You explored different prompt categories, customized prompts for specific needs, and integrated these prompts into applications like Word, PowerPoint, and Microsoft Chat. This experience demonstrates how to effectively use Microsoft Copilot to streamline tasks and improve productivity, while also contributing to a collaborative environment by sharing and learning from prompts within the community.
+In this exercise, you explored Microsoft Copilot Lab and its Prompt Gallery. You tested prompts with sample text, learned to filter prompts by various categories (task, job type, application), and saved prompts for later use. This hands-on experience helped you understand how to craft better prompts and use Copilot more effectively.

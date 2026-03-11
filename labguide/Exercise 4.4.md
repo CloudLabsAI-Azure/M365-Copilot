@@ -1,10 +1,10 @@
 # Exercise 3.4: Using Microsoft 365 Copilot in Excel
 
-In this exercise, you will learn how to use Microsoft 365 Copilot to enhance your data analysis and management in Excel. You will explore how Copilot helps with finding insights, creating formulas, and transforming data into visual representations. This includes tasks such as generating data insights, creating new columns, and customizing your data presentation efficiently.
+In this exercise, you will use Microsoft 365 Copilot in Excel to analyze a Campaign Awareness Report, generate insights, and create calculated columns using AI-powered formulas.
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -38,13 +38,13 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/m36-gt-lab-ex2-g2.png)
 
-1. You will be navigated to the **SharePoint** homepage.  Select **Marketing Department** to go to the site of Marketing department.
+1. You will be navigated to the **SharePoint** homepage.  Select **Marketing Department** to go to the site of the Marketing Department.
 
    ![](./media/marketing-dept.png)
 
-   >**Note:** If you are not able to find **Marketing Department** sharepoint, Search for **Marketing Department** sharepoint site from the search bar.
+   ![](./media/sharepoint-search.png)
 
-      ![](./media/sharepoint-search.png)
+      >**Note:** If you are not able to find **Marketing Department** sharepoint, Search for **Marketing Department** sharepoint site from the search bar.
 
 1. From the left pane, select **Site Contents** and then, choose **Strategy Library** folder.
 
@@ -54,13 +54,13 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/camp-awareness-page.png)
 
-1. Your excel file will open containing the data, Select **File** tab. 
+1. Your Excel file will open, containing the data. Select the **File** tab. 
 
    ![](./media/camp-aware-sheet.png)
 
    ![](./media/file-tab.png)
 
-   >**Note:** Make sure not to edit anything on the file here as it is shared with other users as well.
+      >**Note:** Make sure not to edit anything in the file here, as it is shared with other users as well.
 
 1. Select **Save As** and choose **Save a Copy** to save a copy of the **Campaign Awareness Report** in your own OneDrive.
 
@@ -70,17 +70,17 @@ To use **Copilot in Excel**, follow the below steps:
 
    ![](./media/save-locations.png)
 
-1. Select **My Files** from the left pane and select **Save Here** to save the copy of the file to your personal **OneDrive** account.
+1. Select **My Files** from the left pane and select **Save Here** to save a copy of the file to your personal **OneDrive** account.
 
    ![](./media/save-here.png)
 
-1. Your new **Excel** workbook will open that you saved by your preferred name, click on any cell of the table to select it and choose **Copilot** on top of the screen.
+1. Your new **Excel** workbook will open that you saved by your preferred name, click on any cell of the table to select it, and choose **Copilot** at the top of the screen.
 
    ![](./media/camp-aware-copilot.png)
 
-1. The **Copilot** popup will appear, Click on it.
+1. The **Copilot** pop-up will appear. Click on it.
 
-1. Provide your input. You can you can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
+1. Provide your input. You can provide prompts like `Show data insights` to see the insights from the given Excel table. and clicking on the **Send** icon.
 
    ![](./media/excel-sample-prompt.png)
 
@@ -92,19 +92,19 @@ To use **Copilot in Excel**, follow the below steps:
    How can I highlight, filter and sort data?
    ```
 
-1. The following output appears showing the insights for the provided table.
+1. The following output appears, showing the insights for the provided table.
 
     ![](./media/excel-data-insights.png)
 
-1. You can also add a new column in your report by providing Copilot the necessary information regarding the column. For instance, ask Copilot to `Add a column called 'Engagement Rate' that divides the number of Engaged Users by the total number of Users Targeted and display the result as a percentage.` in the prompt-box and send it.
+1. You can also add a new column in your report by providing Copilot with the necessary information regarding the column. For instance, ask Copilot to `Add a column called 'Engagement Rate' that divides the number of Engaged Users by the total number of Users Targeted and display the result as a percentage.` in the prompt box and send it.
 
    ![](./media/excel-prompt2.png)
 
-1. The **Copilot** would provide you the formula that it used for creating the column you asked. Select **Insert column** to insert the column based on the same formula.
+1. The **Copilot** would provide you with the formula that it used for creating the column you asked for. Select **Insert column** to insert the column based on the same formula.
 
    ![](./media/engagement-rate.png)
 
-1. The new column named **Engagement Rate** will be addded to your table as shown below:
+1. The new column named **Engagement Rate** will be added to your table as shown below:
 
    ![](./media/modified-table.png)
 
@@ -129,8 +129,8 @@ Create a pivot table where the row is category, the column is supplier, and the 
 
 ## Conclusion
 
-In conclusion, Copilot is an intuitive and powerful tool that simplifies data analysis, making it easy for users to derive meaningful insights from complex datasets. It also offers robust data visualization and management features, enabling users to customize and enhance their data presentations. Through a series of simple commands, Copilot can execute intricate tasks such as creating pivot tables, sorting and filtering data, and performing 'what-if' analyses. Thus, **Microsoft 365 Copilot** significantly enhances the Excel user experience, facilitating seamless data analysis, management, and visualization, thereby proving to be a valuable asset for any organization seeking to optimize their data handling and decision-making processes.
+You've successfully used Microsoft 365 Copilot in Excel to analyze the Campaign Awareness Report from SharePoint. You learned how Copilot can quickly generate data insights, suggest formulas, and create calculated columns like the Engagement Rate. By using simple natural language prompts, you can transform and analyze complex datasets without manually writing formulas or performing calculations, significantly improving data analysis efficiency.
 
 ## Summary
 
-In this exercise, you explored how Microsoft 365 Copilot assists with data analysis in Excel. You learned to use Copilot for tasks such as generating insights, creating formulas, and transforming data. Copilot simplifies data management and visualization, making it easier to derive actionable insights and enhance your data presentations efficiently.
+In this exercise, you used Microsoft 365 Copilot in Excel to analyze a Campaign Awareness Report. You generated data insights, added a calculated Engagement Rate column using Copilot-suggested formulas, and explored how Copilot simplifies data analysis and management tasks.

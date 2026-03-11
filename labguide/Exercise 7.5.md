@@ -1,12 +1,12 @@
 # Exercise 5.5: Reviewing Security and Compliance in Copilot Using Communication Compliance (Read Only)
 
-In this exercise, we will review how Communication Compliance enhances security and compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor and manage communications to detect and address potentially inappropriate or risky messages. It supports various communication channels, including Microsoft Copilot, and helps ensure adherence to organizational and regulatory policies.
+In this exercise, you will review how Communication Compliance enhances security and compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor and manage communications to detect and address potentially inappropriate or risky messages. It supports various communication channels, including Microsoft Copilot, and helps ensure adherence to organizational and regulatory policies.
 
 ## Overview
 
-**Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
+**Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview that strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Communication Compliance in Microsoft 365 Copilot
 
@@ -24,18 +24,18 @@ Given below are the capabilities from Microsoft Purview which strengthen your da
 
 - **Corporate policies**: Users must comply with acceptable use, ethical standards, and other corporate policies in all their business-related communications. Communication compliance policies can detect policy matches and help you take corrective actions to help mitigate these types of incidents. For example, you could check user communications in your organization for human resources concerns such as harassment or the use of potentially inappropriate or offensive language.
 
-- **Risk Management**: Organizations are responsible to all communications distributed throughout their infrastructure and corporate network systems. Using communication compliance policies to help identify and manage potential legal exposure and risk can help minimize risks before they can damage corporate operations. For example, you could check messages in your organization for unauthorized communications and conflicts of interest about confidential projects such as upcoming acquisitions, mergers, earnings disclosures, reorganizations, or leadership team changes.
+- **Risk Management**: Organizations are responsible for all communications distributed throughout their infrastructure and corporate network systems. Using communication compliance policies to help identify and manage potential legal exposure and risk can help minimize risks before they can damage corporate operations. For example, you could check messages in your organization for unauthorized communications and conflicts of interest about confidential projects such as upcoming acquisitions, mergers, earnings disclosures, reorganizations, or leadership team changes.
 
 - **Regulatory compliance**: Most organizations must comply with some type of regulatory compliance standards as part of their normal operating procedures. These regulations often require organizations to implement some type of scoping or oversight process for messaging that is appropriate for their industry. For example:
 
-    - **The Financial Industry Regulatory Authority (FINRA) Rule 3110** is a requirement for organizations to have scoping procedures in place to check user communications and the types of businesses in which it engages.
+    - **The Financial Industry Regulatory Authority (FINRA) Rule 3110** is a requirement for organizations to have scoping procedures in place to check user communications and the types of businesses in which they engage.
     - Another example may be a need to review broker-dealer communications in your organization to safeguard against potential insider trading, collusion, or bribery activities.
 
 Communication compliance policies can help your organization meet these requirements by providing a process to both analyze and report on corporate communications.
 
 ### Microsoft Copilot for Microsoft 365
 
-Communication compliance provides support for **Microsoft Copilot for Microsoft 365**. You can use communication compliance to analyze interactions (prompts and responses) entered into Copilot to detect for inappropriate or risky interactions or sharing of confidential information.
+Communication compliance provides support for **Microsoft Copilot for Microsoft 365**. You can use communication compliance to analyze interactions (prompts and responses) entered into Copilot to detect inappropriate or risky interactions or the sharing of confidential information.
 
 The following **Copilot apps** are supported by communication compliance:
 
@@ -65,9 +65,9 @@ The following information is displayed for each item on the **Pending** tab for 
 
 >**Note:** You are not expected to perform the following steps. This information is provided solely to give you an understanding of the process of creating and using Communication Compliance policies in the Purview portal. Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
-To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
+To use Communication compliance in Microsoft 365 Copilot, follow the steps below:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate to the Environment details page and click on it. You will find the M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
 
    ![](./media/licensekey2.png)
 
@@ -95,13 +95,13 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
 
     - **Sensitive data to collect:** This step is where you can select default and custom sensitive info types. Pick from existing custom sensitive information types or custom keyword dictionaries in the communication compliance policy wizard. You can create these items before running the wizard if needed. You can also create new sensitive information types from within the communication compliance policy wizard.
 
-        Select **Add trainable classifiers** to choose classifiers which can detect potentially inappropriate language and images sent or received in the body of email messages or other types of text. You can also select all the classifiers as per your choice and click **Add**.
+    - Select **Add trainable classifiers** to choose classifiers that can detect potentially inappropriate language and images sent or received in the body of email messages or other types of text. You can also select all the classifiers as per your choice and click **Add**.
 
         ![](./media/policy-trainable-classifiers.png)
 
 1. Select **Create policy**.
 
-1. Within sometime, your policy will be created and select **Close** to close the flyout page.
+1. Within some time, your policy will be created and select **Close** to close the flyout page.
 
     ![](./media/compliance-policy-created.png)
 
@@ -117,7 +117,7 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
 
     - Select the **Enter messages to test** option, and then enter some messages that you expect would be detected by the policy. Separate messages with a comma.
 
-    - If you have a .txt file that includes a list of messages to detect, select **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
+    - If you have a .txt file that includes a list of messages to detect, select the **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
 
 1. Select **Test** to see a list of test results.
 
@@ -129,4 +129,4 @@ By leveraging pre-defined and custom policies, **Communication Compliance** prov
 
 ## Summary
 
-In this exercise, we explored the role of Communication Compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor internal and external communications to identify and manage policy violations. By applying predefined and custom policies, organizations can detect inappropriate messages, manage risks, and ensure compliance across various communication channels, including Copilot. This feature supports proactive risk management and adherence to regulatory standards, enhancing overall security and compliance.
+In this exercise, you explored the role of Communication Compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor internal and external communications to identify and manage policy violations. By applying predefined and custom policies, organizations can detect inappropriate messages, manage risks, and ensure compliance across various communication channels, including Copilot. This feature supports proactive risk management and adherence to regulatory standards, enhancing overall security and compliance.
