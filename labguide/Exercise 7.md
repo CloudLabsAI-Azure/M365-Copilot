@@ -4,33 +4,33 @@ In this exercise, you will use Microsoft 365 Copilot to manage and enhance commu
 
 ## Overview
 
-**Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
+**Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview that strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Task 1: Using Sensitivity Labels in MS 365 Copilot
 
-**Sensitivity labels** from Microsoft Purview Information Protection let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
+**Sensitivity labels** from Microsoft Purview Information Protection let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate aren't hindered.
 
 Sensitivity labels offer the following capabilities:
 
-1. **Customiable:** Specific to your organization and business needs, you can create categories for different levels of sensitive content in your organization. For example, Personal, Public, General, Confidential, and Highly Confidential.
+1. **Customizable:** Specific to your organization and business needs, you can create categories for different levels of sensitive content in your organization. For example, Personal, Public, General, Confidential, and Highly Confidential.
 
 1. **Clear Text:** Because a label is stored in clear text in the metadata for files and emails, third-party apps and services can read it and then apply their own protective actions, if required.
 
 1. **Persistent**: Because the label is stored in metadata for files and emails, the label stays with the content, no matter where it's saved or stored. The label identification that's unique to your organization becomes the basis for applying and enforcing policies that you configure.
 
-The sensitivity labels that you use to protect your organization's data are recognized and used by **Microsoft Copilot for Microsoft 365** to provide an extra layer of protection. For example, in Microsoft Copilot Graph-grounded chat conversations that can reference data from different types of items, the sensitivity label with the highest priority (typically, the most restrictive label) is visible to users. Similarly, when sensitivity label inheritance is supported by Copilot, the sensitivity label with the highest priority is selected.
+The sensitivity labels that you use to protect your organization's data are recognized and used by **Microsoft Copilot for Microsoft 365** to provide an extra layer of protection. For example, in Microsoft Copilot, Graph-grounded chat conversations that can reference data from different types of items, the sensitivity label with the highest priority (typically, the most restrictive label) is visible to users. Similarly, when sensitivity label inheritance is supported by Copilot, the sensitivity label with the highest priority is selected.
 
 If the labels applied encryption from Microsoft Purview Information Protection, Copilot checks the usage rights for the user. Only if the user is granted permissions to copy (the **EXTRACT** usage right) from an item, is data from that item returned by Copilot.
 
-In short, the user that uses **Microsoft Copilot**, cannot access labeled documents where he/she has not been added to the permissions for the label. When the user has been added to the permissions, with either Reviewer or Viewer permission, then the document can also not be accessed.
+In short, the user who uses **Microsoft Copilot** cannot access labeled documents where he/she has not been added to the permissions for the label. When the user has been added to the permissions, with either Reviewer or Viewer permission, then the document can also not be accessed.
 
 In summary, **Microsoft 365 Copilot** is more stringent when handling encrypted documents with a sensitivity label. As you will need either custom permissions or at least the Co-author role, sensitive information is safeguarded. Provided, of course, that:
 
-1. you have sensitivity labels employed within the enterprise;
-1. you have set the right level of permissions to the labels;
-1. you are protecting your most sensitive information using labels.
+1. You have sensitivity labels employed within the enterprise.
+1. You have set the right level of permissions for the labels.
+1. You are protecting your most sensitive information using labels.
 
 ## Task 2: Using Data Classification in MS 365 Copilot
 
@@ -46,9 +46,9 @@ Before deploying Copilot, it is essential to prepare your data to maximize its e
 
 - **Data inventory and analysis:** Conduct a comprehensive inventory of your data and analyze its content to identify patterns and commonalities. This step will help in defining appropriate classification categories and labels.
 
-- **Data cleansing and normalization:** Cleanse and normalize your data by removing duplicates, standardizing formats, removing old or legacy versions and ensuring consistency. This process will improve classification accuracy and optimize Copilot's performance by enabling it to surface accurate data.
+- **Data cleansing and normalization:** Cleanse and normalize your data by removing duplicates, standardizing formats, removing old or legacy versions, and ensuring consistency. This process will improve classification accuracy and optimize Copilot's performance by enabling it to surface accurate data.
 
-- **Engage stakeholders:** Involve key stakeholders, such as legal, compliance and IT teams, in the data preparation process. Their input will ensure the classification process aligns with regulatory requirements and organizational policies.
+- **Engage stakeholders:** Involve key stakeholders, such as legal, compliance, and IT teams, in the data preparation process. Their input will ensure the classification process aligns with regulatory requirements and organizational policies.
 
 - **Training and awareness:** Provide training and awareness sessions to users and administrators about the importance of data classification and how to effectively use Copilot. This approach will facilitate a smooth transition and increase user adoption. In addition, utilize organizational change management strategies to champion the process and educate the workforce on how data classification and sanitization can expedite Copilot’s ingestion of the data.
 
@@ -70,9 +70,9 @@ Follow the given steps to access the **Microsoft data classification dashboard**
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Overview**.
+1. In the left navigation pane of the compliance portal, select **Data classification** and then select **Overview**.
 
-1. Data classification will scan your sensitive content and labeled content before you create any policies. This is called **zero change management**. This lets you see the impact that all the retention and sensitivity labels are having in your environment and empower you to start assessing your protection and governance policy needs.
+1. Data classification will scan your sensitive content and labeled content before you create any policies. This is called **zero change management**. This lets you see the impact that all the retention and sensitivity labels are having in your environment and empowers you to start assessing your protection and governance policy needs.
 
 1. The **Top sensitive information type** card shows the top sensitive information types that have been found and labeled across your organization.
 
@@ -86,27 +86,27 @@ Follow the given steps to access the **Microsoft data classification dashboard**
 
 1. The **Top retention labels applied to content** card shows you how many items have a given retention label. Retention labels are used to manage the retention and disposition of content in your organization. When applied, they can be used to control how long an item will be kept before deletion, whether it should be reviewed prior to deletion, when its retention period expires, and whether it should be marked as a record.
 
-    >**Note:** If this card displays the message,**"No retention labels detected"**, it means you haven't created or published any retention labels or no content has had a retention label applied.
+    >**Note:** If this card displays the message,**"No retention labels detected"**, it means you haven't created or published any retention labels, or no content has had a retention label applied.
 
-1. The **Top activities detected** card provides a quick summary of the most common actions that users are taking on the sensitivity labeled items.
+1. The **Top activities detected** card provides a quick summary of the most common actions that users are taking on the sensitivity-labeled items.
 
-    >**Note:** If this card displays the message, **"No activity detected"** it means that there's been no activity on the files or that user and admin auditing isn't turned on.
+    >**Note:** If this card displays the message, **"No activity detected"**, it means that there's been no activity on the files or that user and admin auditing isn't turned on.
 
-1. The **Sensitivity and retention labeled data by location** cards provide visibility into the number of items that have which label as well as their location.
+1. The **Sensitivity and retention labeled data by location** cards provide visibility into the number of items that have which label, as well as their location.
 
-    >**Note:** If this card displays the message, **"No locations detected"**, it means you haven't created or published any sensitivity labels or no content has had a retention label applied.
+    >**Note:** If this card displays the message, **"No locations detected"**, it means you haven't created or published any sensitivity labels, or no content has had a retention label applied.
 
 ### Task 2.2: Using Content Explorer for Data Classification
 
-**Content explorer** allows you to natively view the items that were summarized on the **Overview** page. It shows a current snapshot of the items that have a sensitivity label, a retention label or have been classified as a sensitive information type in your organization.
+**Content explorer** allows you to natively view the items that were summarized on the **Overview** page. It shows a current snapshot of the items that have a sensitivity label, a retention label, or have been classified as a sensitive information type in your organization.
 
 Follow the given steps to use the content explorer for data classification:
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Content explorer**.
+1. In the left navigation pane of the compliance portal, select **Data classification** and then select **Content explorer**.
 
-1. If you know the name of the label, or the sensitive information type, you can type that into the filter box.
+1. If you know the name of the label or the sensitive information type, you can type that into the filter box.
 
 1. Alternately, you can browse for the item by expanding the label type and selecting the label from the list.
 
@@ -118,7 +118,7 @@ Follow the given steps to use the content explorer for data classification:
 
 ### Task 2.3: Using Activity Explorer
 
-**Activity explorer** allows you to monitor what's being done with your labeled content. It provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and then made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data. There are more than 30 different filters available for use, like Data range, Activity type, Location, User, Sensitivity label, Retention label etc.
+**Activity explorer** allows you to monitor what's being done with your labeled content. It provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and then made available in the Activity explorer UI. Activity explorer reports on up to 30 days' worth of data. There are more than 30 different filters available for use, like Data range, Activity type, Location, User, Sensitivity label, Retention label, etc.
 
 >**Note:** Make sure **Audit** is turned on before using this in your account. If it's not, select **Turn Audit ON** from the activity explorer page.
 
@@ -126,7 +126,7 @@ To go to the **Activity Explorer**, follow the given steps:
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **Data classification** and then, select **Activity explorer**.
+1. In the left navigation pane of the compliance portal, select **Data classification** and then select **Activity explorer**.
 
 Activity explorer gathers information from the audit logs of multiple sources of activities. Some examples of the **Sensitivity label activities** and **Retention labeling activities** from applications native to Microsoft Office, the Azure Information Protection (AIP) unified labeling client and scanner, SharePoint, Exchange (sensitivity labels only), and OneDrive include:
 
@@ -135,11 +135,11 @@ Activity explorer gathers information from the audit logs of multiple sources of
 - Autolabeling simulation
 - File read
 
-In addition, using Endpoint data loss prevention (DLP), Activity explorer gathers DLP policy matches events from Exchange, SharePoint, OneDrive, Teams Chat and Channel, on-premises SharePoint folders and libraries and more.
+In addition, using Endpoint data loss prevention (DLP), Activity explorer gathers DLP policy matches events from Exchange, SharePoint, OneDrive, Teams Chat and Channel, on-premises SharePoint folders and libraries, and more.
 
 ## Task 3: Using Customer Keys in Microsoft 365 Copilot
 
-A **Customer Key** provides extra protection against viewing of data by unauthorized systems or personnel, and complements BitLocker disk encryption and SSE in Microsoft data centers. It helps you meet regulatory or compliance obligations for controlling root keys. You explicitly authorize Microsoft 365 services to use your encryption keys to provide value added cloud services, such as eDiscovery, anti-malware, anti-spam, search indexing, and so on.
+A **Customer Key** provides extra protection against viewing of data by unauthorized systems or personnel, and complements BitLocker disk encryption and SSE in Microsoft data centers. It helps you meet regulatory or compliance obligations for controlling root keys. You explicitly authorize Microsoft 365 services to use your encryption keys to provide value-added cloud services, such as eDiscovery, anti-malware, anti-spam, search indexing, and so on.
 
 Customer Key is built on service encryption and lets you provide and control encryption keys. Microsoft 365 then uses these keys to encrypt your data at rest and helps you meet compliance obligations because you control the encryption keys that Microsoft 365 uses to encrypt and decrypt data.
 
@@ -149,7 +149,7 @@ As with other Microsoft 365 services, such as eDiscovery and search, items encry
 
 ### Encryption Ciphers used by Customer Key
 
-Customer Key uses various encryption ciphers to encrypt keys as shown in the following figure:
+Customer Key uses various encryption ciphers to encrypt keys, as shown in the following figure:
 
 ![](./media/customer-key-encryption.png)
 
@@ -169,18 +169,18 @@ Customer Key uses various encryption ciphers to encrypt keys as shown in the fol
 
 - **Corporate policies**: Users must comply with acceptable use, ethical standards, and other corporate policies in all their business-related communications. Communication compliance policies can detect policy matches and help you take corrective actions to help mitigate these types of incidents. For example, you could check user communications in your organization for human resources concerns such as harassment or the use of potentially inappropriate or offensive language.
 
-- **Risk Management**: Organizations are responsible to all communications distributed throughout their infrastructure and corporate network systems. Using communication compliance policies to help identify and manage potential legal exposure and risk can help minimize risks before they can damage corporate operations. For example, you could check messages in your organization for unauthorized communications and conflicts of interest about confidential projects such as upcoming acquisitions, mergers, earnings disclosures, reorganizations, or leadership team changes.
+- **Risk Management**: Organizations are responsible for all communications distributed throughout their infrastructure and corporate network systems. Using communication compliance policies to help identify and manage potential legal exposure and risk can help minimize risks before they can damage corporate operations. For example, you could check messages in your organization for unauthorized communications and conflicts of interest about confidential projects such as upcoming acquisitions, mergers, earnings disclosures, reorganizations, or leadership team changes.
 
 - **Regulatory compliance**: Most organizations must comply with some type of regulatory compliance standards as part of their normal operating procedures. These regulations often require organizations to implement some type of scoping or oversight process for messaging that is appropriate for their industry. For example:
 
-    - **The Financial Industry Regulatory Authority (FINRA) Rule 3110** is a requirement for organizations to have scoping procedures in place to check user communications and the types of businesses in which it engages.
+    - **The Financial Industry Regulatory Authority (FINRA) Rule 3110** is a requirement for organizations to have scoping procedures in place to check user communications and the types of businesses in which they engage.
     - Another example may be a need to review broker-dealer communications in your organization to safeguard against potential insider trading, collusion, or bribery activities.
 
 Communication compliance policies can help your organization meet these requirements by providing a process to both analyze and report on corporate communications.
 
 ### Microsoft Copilot for Microsoft 365
 
-Communication compliance provides support for **Microsoft Copilot for Microsoft 365**. You can use communication compliance to analyze interactions (prompts and responses) entered into Copilot to detect for inappropriate or risky interactions or sharing of confidential information.
+Communication compliance provides support for **Microsoft Copilot for Microsoft 365**. You can use communication compliance to analyze interactions (prompts and responses) entered into Copilot to detect inappropriate or risky interactions or the sharing of confidential information.
 
 The following **Copilot apps** are supported by communication compliance:
 
@@ -208,7 +208,7 @@ The following information is displayed for each item on the **Pending** tab for 
 
 ### Using Communication Compliance in Microsoft 365 Copilot
 
-To use Communication compliance in Microsoft 365 Copilot, follow the below steps:
+To use Communication compliance in Microsoft 365 Copilot, follow the steps below:
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
@@ -234,13 +234,13 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
 
     - **Sensitive data to collect:** This step is where you can select default and custom sensitive info types. Pick from existing custom sensitive information types or custom keyword dictionaries in the communication compliance policy wizard. You can create these items before running the wizard if needed. You can also create new sensitive information types from within the communication compliance policy wizard.
 
-        Select **Add trainable classifiers** to choose classifiers which can detect potentially inappropriate language and images sent or received in the body of email messages or other types of text. You can also select all the classifiers as per your choice and click **Add**.
+        Select **Add trainable classifiers** to choose classifiers that can detect potentially inappropriate language and images sent or received in the body of email messages or other types of text. You can also select all the classifiers as per your choice and click **Add**.
 
         ![](./media/policy-trainable-classifiers.png)
 
 1. Select **Create policy**.
 
-1. Within sometime, your policy will be created and select **Close** to close the flyout page.
+1. Within some time, your policy will be created, and select **Close** to close the flyout page.
 
     ![](./media/compliance-policy-created.png)
 
@@ -256,13 +256,13 @@ To use Communication compliance in Microsoft 365 Copilot, follow the below steps
 
     - Select the **Enter messages to test** option, and then enter some messages that you expect would be detected by the policy. Separate messages with a comma.
 
-    - If you have a .txt file that includes a list of messages to detect, select **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
+    - If you have a .txt file that includes a list of messages to detect, select the **Upload a file containing messages to test** option, and then select **Upload file** to upload your text file.
 
 1. Select **Test** to see a list of test results.
 
 ## Task 5: Auditing in Microsoft 365 Copilot
 
-Microsoft Purview auditing solutions provide an integrated solution to help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations. Thousands of user and admin operations performed in dozens of Microsoft 365 services including **M365 Copilot** and solutions are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed across your **Microsoft 365 organization**.
+Microsoft Purview auditing solutions provide an integrated solution to help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations. Thousands of user and admin operations performed in dozens of Microsoft 365 services, including **M365 Copilot** and solutions, are captured, recorded, and retained in your organization's unified audit log. Audit records for these events are searchable by security ops, IT admins, insider risk teams, and compliance and legal investigators in your organization. This capability provides visibility into the activities performed across your **Microsoft 365 organization**.
 
 For **auditing in M365 Copilot**, details are captured when users interact with Copilot. Events include how and when users interact with Copilot, in which Microsoft 365 service the activity took place, and references to the files stored in Microsoft 365 that were accessed during the interaction. If these files have a sensitivity label applied, that's also captured.
 
@@ -270,7 +270,7 @@ For **auditing in M365 Copilot**, details are captured when users interact with 
 
 Copilot events can be accessed in the **Audit** solution from the **Microsoft Purview compliance portal**.
 
-1. Navigate to `https://compliance.microsoft.com/` and sign in using the CloudLabs provided credentials.
+1. Navigate to `https://compliance.microsoft.com/` and sign in using the CloudLabs-provided credentials.
 
 1. In the left navigation pane of the compliance portal, select **Show all** and then select **Audit**.
 
@@ -292,7 +292,7 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 
         ![](./media/audit-workload.png)
 
-    - **Users:** Select this box and start typing the name of users to display search results for. The audit log entries for the selected activities performed by the users you select in this box are displayed in the list of results. Leave this box blank to return entries for all users (and service accounts) in your organization.
+    - **Users:** Select this box and start typing the names of users to display search results for. The audit log entries for the selected activities performed by the users you select in this box are displayed in the list of results. Leave this box blank to return entries for all users (and service accounts) in your organization.
 
 1. Select **Search** to run the search.
 
@@ -302,17 +302,17 @@ Copilot events can be accessed in the **Audit** solution from the **Microsof
 
 1. The screen gets displayed showing all the record entries of the required type.
 
-1. Click on any entry to see it in more details.
+1. Click on any entry to see it in more detail.
 
     ![](./media/audit-details.png)
 
-1. If you want to download the results as a report to your local system, select **Export** on the top of the Audit search results page and choose **Downloads file**.
+1. If you want to download the results as a report to your local system, select **Export** at the top of the Audit search results page and choose **Download file**.
 
     ![](./media/audit-search-export.png)
 
 ## Task 6: Using Content Search in Microsoft 365 Copilot
 
-You can use the Content search eDiscovery tool in the **Microsoft Purview compliance portal** to search for in-place content such as email, documents, and instant messaging conversations including the responses with **M365 Copilot** in your organization.
+You can use the Content search eDiscovery tool in the **Microsoft Purview compliance portal** to search for in-place content such as email, documents, and instant messaging conversations, including the responses with **M365 Copilot** in your organization.
 
 After you run a search, the number of content locations and an estimated number of search results are displayed on the search flyout page. You can quickly view statistics, such as the content locations that have the most items that match the search query. After you run a search, you can preview the results or export them to a local computer.
 
@@ -328,7 +328,7 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
 
     ![](./media/content-search-page.png)
 
-1. On the **Name and description** page, enter a name for the search, an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
+1. On the **Name and description** page, enter a name for the search and an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
 
     ![](./media/content-search-name.png)
 
@@ -340,7 +340,7 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
 
     - **SharePoint sites:** Set the toggle to **On**. The option to search all SharePoint sites is automatically selected. Select **Choose sites** to specify SharePoint sites and OneDrive sites to search. Enter the URL for each site that you want to search. You can also add the URL for the SharePoint site for a Microsoft Team, Microsoft 365 Group, or Viva Engage Group.
 
-    - **Exchange public folders:** Set the toggle to **On**. The option to search all Exchange public folders is automatically selected to search all public folders in your Exchange Online organization. You can't choose specific public folders to search. Leave the toggle switch off if you don't want search all public folders.
+    - **Exchange public folders:** Set the toggle to **On**. The option to search all Exchange public folders is automatically selected to search all public folders in your Exchange Online organization. You can't choose specific public folders to search. Leave the toggle switch off if you don't want to search all public folders.
 
     - **Add App Content for On-Premises Users:** Keep this checkbox selected to search for Teams content for on-premises users. For example, if you search all Exchange mailboxes in the organization and this checkbox is selected, the cloud-based storage used to store Teams chat data for on-premises users will be included in the scope of the search.
 
@@ -348,7 +348,7 @@ When a user interacts with **Microsoft Copilot for Microsoft 365** apps (such as
 
     - Specify keywords, message properties such as sent and received dates, or document properties such as file names or the date that a document was last changed. You can use more complex queries that use a Boolean operator, such as **AND, OR, NOT**, and **NEAR**. If you leave the keyword box empty, all content located in the specified content locations is included in the search results.
 
-    - Alternatively, you can select the **Show keyword list** checkbox and the enter a keyword in each row. If you do this, the keywords on each row are connected by a logical operator (c:s) that is similar in functionality to the OR operator in the search query that's created.
+    - Alternatively, you can select the **Show keyword list** checkbox and enter a keyword in each row. If you do this, the keywords on each row are connected by a logical operator (c:s) that is similar in functionality to the OR operator in the search query that's created.
 
     - You can add search conditions by selecting **Add condition** to narrow a search and return a more refined set of results. Each condition adds a clause to the search query that is created and run when you start the search. A condition is logically connected to the keyword query (specified in the keyword box) by a logical operator (c:c) that is similar in functionality to the AND operator. That means that items have to satisfy both the keyword query and one or more conditions to be included in the results. This is how conditions help to narrow your results.
 
@@ -382,9 +382,9 @@ Follow the given steps to download the content search report of your recently ge
 
 1. Under **Output** options, choose one of the following options:
 
-    - **All items, excluding ones that have unrecognized format, are encrypted, or weren't indexed for other reasons:** This option only exports information about indexed items.
+    - **All items, excluding those that have an unrecognized format, are encrypted, or weren't indexed for other reasons:** This option only exports information about indexed items.
 
-    - **All items, including ones that have unrecognized format, are encrypted, or weren't indexed for other reasons:** This option exports information about indexed and unindexed items.
+    - **All items, including ones that have an unrecognized format, are encrypted, or weren't indexed for other reasons:** This option exports information about indexed and unindexed items.
 
     - **Only items that have an unrecognized format, are encrypted, or weren't indexed for other reasons.** This option only exports information about unindexed items.
 
@@ -428,13 +428,13 @@ Now, you need to download the report from the Azure Storage area to your local c
 
     ![](./media/ediscoveryexporttool.png)
 
-    - Paste the export key that you copied in the appropriate box.
+    - Paste the export key that you copied into the appropriate box.
 
     - Select **Browse** to specify the location where you want to download the search report files.
 
 1. Select **Start** to download the search results to your computer.
 
-1. Once the report gets downloaded, goto the location of the downloaded folder and open it.
+1. Once the report gets downloaded, go to the location of the downloaded folder and open it.
 
     ![](./media/content-search-downloaded-report.png)
 
@@ -444,17 +444,17 @@ Now, you need to download the report from the Azure Storage area to your local c
 
 **Microsoft Purview eDiscovery (Standard)** provides a basic eDiscovery tool that organizations can use to search and export content in Microsoft 365 and Office 365, including **M365 Copilot**. You can also use eDiscovery (Standard) to place an eDiscovery hold on content locations, such as Exchange mailboxes, SharePoint sites, OneDrive accounts, and Microsoft Teams.
 
-When users within an organization leverage **Microsoft Copilot** to create prompt and response data, it may contain sensitive or confidential information, or evidence of intellectual property. Organizations need to have visibility and control over this data and be able to identify, preserve, collect, review and export it for legal, regulatory or data security investigation. That's why M**icrosoft Purview eDiscovery** provides support for **Microsoft 365 Copilot interactions.**
+When users within an organization leverage **Microsoft Copilot** to create prompt and response data, it may contain sensitive or confidential information, or evidence of intellectual property. Organizations need to have visibility and control over this data and be able to identify, preserve, collect, review, and export it for legal, regulatory, or data security investigation. That's why M**icrosoft Purview eDiscovery** provides support for **Microsoft 365 Copilot interactions.**
 
-**eDiscovery** has the ability to help with search, discovery, preservation, review and export of Copilot interactions in Microsoft 365 across Word, Excel, PowerPoint, Teams to name a few. It ensures these Copilot conversations are discoverable and actionable through the regular eDiscovery process. It also provides the ability to filter for specific Copilot interactions in the query building experience to make it easier to scope the searches.
+**eDiscovery** has the ability to help with search, discovery, preservation, review, and export of Copilot interactions in Microsoft 365 across Word, Excel, PowerPoint, Teams, to name a few. It ensures these Copilot conversations are discoverable and actionable through the regular eDiscovery process. It also provides the ability to filter for specific Copilot interactions in the query building experience to make it easier to scope the searches.
 
 ### Task 7.1: Creating an eDiscovery Case
 
- Here are the steps to create a case on eDiscovery page in the **Microsoft Compliance portal**.
+ Here are the steps to create a case on the eDiscovery page in the **Microsoft Compliance portal**.
 
  1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
-1. In the left navigation pane of the compliance portal, select **eDiscovery** and then, **Standard**.
+1. In the left navigation pane of the compliance portal, select **eDiscovery** and then **Standard**.
 
     ![](./media/ediscovery-standard.png)
 
@@ -470,7 +470,7 @@ When users within an organization leverage **Microsoft Copilot** to create promp
 
 ### Optional Task: Creating an eDiscovery hold
 
-After creating an eDiscovery case, you can place a hold (also called an **eDiscovery hold**) on the content locations of the people of interest in your investigation. Content locations include Exchange mailboxes, SharePoint sites, OneDrive accounts, and the mailboxes and sites associated with Microsoft Teams and Microsoft 365 Groups, along with **Microsoft 365 Copilot**. While this step is optional, creating an eDiscovery hold preserves content that may be relevant to the case during the investigation. When you create an **eDiscovery hold** you can preserve all content in specific content locations or you can create a query-based hold to preserve only the content that matches a hold query.
+After creating an eDiscovery case, you can place a hold (also called an **eDiscovery hold**) on the content locations of the people of interest in your investigation. Content locations include Exchange mailboxes, SharePoint sites, OneDrive accounts, and the mailboxes and sites associated with Microsoft Teams and Microsoft 365 Groups, along with **Microsoft 365 Copilot**. While this step is optional, creating an eDiscovery hold preserves content that may be relevant to the case during the investigation. When you create an **eDiscovery hold**, you can preserve all content in specific content locations, or you can create a query-based hold to preserve only the content that matches a hold query.
 
 In addition to preserving content, another good reason to create **eDiscovery holds** is to quickly search the content locations on hold (instead of having to select each location to search) when you create and run searches in the next step. After you complete your investigation, you can release any hold that you created.
 
@@ -488,19 +488,19 @@ To create an **eDiscovery hold** that's associated with a **eDiscovery (Standard
 
     - **Exchange mailboxes:** Set the toggle to **On** and then select Choose users, groups, or teams to specify the mailboxes to place on hold. Use the search box to find user mailboxes and distribution groups (to place a hold on the mailboxes of group members) to place on hold. You can also place a hold on the associated mailbox for a Microsoft Team, Microsoft 365 group, and Viva Engage Group.
 
-    - **SharePoint sites:** Set the toggle to **On** and then select Choose sites to specify SharePoint sites and OneDrive accounts to place on hold. Type the URL for each site that you want to place on hold. You can also add the URL for the SharePoint site for a Microsoft Team, Microsoft 365 group or a Yammer Group.
+    - **SharePoint sites:** Set the toggle to **On** and then select Choose sites to specify SharePoint sites and OneDrive accounts to place on hold. Type the URL for each site that you want to place on hold. You can also add the URL for the SharePoint site for a Microsoft Team, Microsoft 365 group, or a Yammer Group.
 
     - **Exchange public folders:** You can keep this toggle **Off**. You can't choose specific public folders to put on hold. Leave the toggle switch off if you don't want to put a hold on public folders.
 
-    >**Note:** When adding **Exchange mailboxes** or **SharePoint sites** to a hold, you must explicitly add **at least one** content location to the hold. In other words, if you set the toggle to **On** for mailboxes or sites, you must select specific mailboxes or sites to add to the hold. **Otherwise**, the eDiscovery hold will be created but no mailboxes or sites will be added to the hold.
+    >**Note:** When adding **Exchange mailboxes** or **SharePoint sites** to a hold, you must explicitly add **at least one** content location to the hold. In other words, if you set the toggle to **On** for mailboxes or sites, you must select specific mailboxes or sites to add to the hold. **Otherwise**, the eDiscovery hold will be created, but no mailboxes or sites will be added to the hold.
 
     Select **Next**.
 
-1. To create a query-based hold using keywords or conditions, specifically for **Microsoft 365 Copilot** complete the following steps:
+1. To create a query-based hold using keywords or conditions, specifically for **Microsoft 365 Copilot**, complete the following steps:
 
     - In the box under **Keywords**, type a query to preserve only the content that matches the query criteria. You can specify keywords, email message properties, or site properties, such as file names. You can also use more complex queries that use a Boolean operator, such as **AND**, **OR**, or **NOT**.
 
-    - Select **Add condition** to add one or more conditions to narrow the query for the hold. Each condition adds a clause to the KQL search query that is created and run when you create the hold. For example, you can specify a date range so that email or site documents that were created within the date ranged are preserved. A condition is logically connected to the keyword query (specified in the **Keywords** box) and other conditions by the **AND** operator. That means items have to satisfy both the keyword query and the condition to be preserved.
+    - Select **Add condition** to add one or more conditions to narrow the query for the hold. Each condition adds a clause to the KQL search query that is created and run when you create the hold. For example, you can specify a date range so that email or site documents that were created within the date range are preserved. A condition is logically connected to the keyword query (specified in the **Keywords** box) and other conditions by the **AND** operator. That means items have to satisfy both the keyword query and the condition to be preserved.
 
     For creating a hold, because user prompts to **Copilot** and responses from **Copilot** are stored in a user's mailbox, they can be searched and retrieved when the user's mailbox is selected as the source for a search query. Select and retrieve this data from the source mailbox by selecting **Add condition > Type > Copilot interactions**.
 
@@ -510,13 +510,13 @@ To create an **eDiscovery hold** that's associated with a **eDiscovery (Standard
 
 1. After some time, your **eDsiscovery hold** will be created. Click on **Done** and return to the **Hold** page.
 
-1. Select your newly created hold and check it got created properly.
+1. Select your newly created hold and check that it got created properly.
 
 ### Task 7.2: Creating a search in eDiscovery
 
 After a **Microsoft Purview eDiscovery (Standard)** case is created, you can create and run one or more searches for content relevant to the case. Searches associated with a **eDiscovery (Standard)** case aren't listed on the Content search page in the **Microsoft Purview compliance portal**. These searches are listed on the **Searches** page of the **eDiscovery (Standard)** case the searches are associated with. This also means that searches associated with a case can only be accessed by case members.
 
-To create a **eDiscovery (Standard)** search, follow the given steps:
+To create an **eDiscovery (Standard)** search, follow the given steps:
 
 1. Select the **eDiscovery case** that you created in the previous steps.
 
@@ -524,7 +524,7 @@ To create a **eDiscovery (Standard)** search, follow the given steps:
 
     ![](./media/ediscovery-search-create.png)
 
-1. In the **New search** wizard, type a name for the search, and an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
+1. In the **New search** wizard, type a name for the search and an optional description that helps identify the search. The name of the search must be unique in your organization. Select **Next**.
 
     ![](./media/ediscovery-search-name.png)
 
@@ -542,13 +542,13 @@ To create a **eDiscovery (Standard)** search, follow the given steps:
 
     >**Note:** Select the **Locations on hold** option ONLY if you have previously created any hold, to search all the content locations that have been placed on hold. If the case contains multiple eDiscovery holds, the content locations from all holds are searched when you select this option. Additionally, if a content location was placed on a query-based hold, only the items that match the hold query are searched when you run the search. In other words, only the content that matches both the hold criteria and the search criteria is returned with the search results.
 
-    Select **Next**.
+1. Select **Next**.
 
 1. On the **Conditions** page, enter a keyword query and add conditions to the search query if necessary.
 
     - Specify keywords, message properties such as sent and received dates, or document properties such as file names or the date that a document was last changed. You can use more complex queries that use a Boolean operator, such as **AND, OR, NOT**, and **NEAR**. If you leave the keyword box empty, all content located in the specified content locations is included in the search results.
 
-    - Alternatively, you can select the **Show keyword list** checkbox and the enter a keyword in each row. If you do this, the keywords on each row are connected by a logical operator (c:s) that is similar in functionality to the OR operator in the search query that's created.
+    - Alternatively, you can select the **Show keyword list** checkbox and enter a keyword in each row. If you do this, the keywords on each row are connected by a logical operator (c:s) that is similar in functionality to the OR operator in the search query that's created.
 
     - You can add search conditions by selecting **Add condition** to narrow a search and return a more refined set of results. Each condition adds a clause to the search query that is created and run when you start the search. A condition is logically connected to the keyword query (specified in the keyword box) by a logical operator (c:c) that is similar in functionality to the AND operator. That means that items have to satisfy both the keyword query and one or more conditions to be included in the results. This is how conditions help to narrow your results.
 
@@ -582,9 +582,9 @@ Follow the given steps to download the content search report of your recently ge
 
     ![](./media/content-search-report-options.png)
 
-    - **All items, excluding ones that have unrecognized format, are encrypted, or weren't indexed for other reasons:** This option only exports information about indexed items.
+    - **All items, excluding those that have an unrecognized format, are encrypted, or weren't indexed for other reasons:** This option only exports information about indexed items.
 
-    - **All items, including ones that have unrecognized format, are encrypted, or weren't indexed for other reasons:** This option exports information about indexed and unindexed items.
+    - **All items, including ones that have an unrecognized format, are encrypted, or weren't indexed for other reasons:** This option exports information about indexed and unindexed items.
 
     - **Only items that have an unrecognized format, are encrypted, or weren't indexed for other reasons.** This option only exports information about unindexed items.
 
@@ -624,13 +624,13 @@ Now, you need to download the report from the Azure Storage area to your local c
 
     ![](./media/ediscoveryexporttool.png)
 
-    - Paste the export key that you copied in the appropriate box.
+    - Paste the export key that you copied into the appropriate box.
 
     - Select **Browse** to specify the location where you want to download the search report files.
 
 1. Select **Start** to download the search results to your computer.
 
-1. Once the report gets downloaded, goto the location of the downloaded folder and open it.
+1. Once the report gets downloaded, go to the location of the downloaded folder and open it.
 
     ![](./media/content-search-downloaded-report.png)
 
@@ -638,43 +638,43 @@ Now, you need to download the report from the Azure Storage area to your local c
 
 ## Task 8: Retention and Deletion in Microsoft 365 Copilot
 
-You can use a retention policy to retain data from messages in **Microsoft Copilot for Microsoft 365**, and delete those messages. Behind the scenes, Exchange mailboxes are used to store data copied from these messages. Data from **Copilot** messages is stored in a hidden folder in the mailbox of the user who runs **Copilot**. This hidden folder isn't designed to be directly accessible to users or administrators, but instead, store data that compliance administrators can search with **eDiscovery tools**.
+You can use a retention policy to retain data from messages in **Microsoft Copilot for Microsoft 365**, and delete those messages. Behind the scenes, Exchange mailboxes are used to store data copied from these messages. Data from **Copilot** messages is stored in a hidden folder in the mailbox of the user who runs **Copilot**. This hidden folder isn't designed to be directly accessible to users or administrators, but instead, stores data that compliance administrators can search with **eDiscovery tools**.
 
 The Exchange mailbox for retaining **Microsoft Copilot for Microsoft 365** messages has the RecipientTypeDetails attribute of **UserMailbox**, which also stores message data for **Teams** private channels and cloud-based **Teams** users. The copy is retained in a hidden folder named **SubstrateHolds** as a subfolder in the Exchange **Recoverable Items** folder.
 
 After a retention policy is configured for **Microsoft Copilot for Microsoft 365** interactions, a timer job from the Exchange service periodically evaluates items in the hidden mailbox folder where these messages are stored. The timer job typically takes **1-7 days** to run. When these items have expired their retention period, they're moved to the SubstrateHolds folder—another hidden folder that's in every user mailbox to store "soft-deleted" items before they're permanently deleted. After a **retention policy** is configured for **Microsoft Copilot for Microsoft 365**, the paths the content takes depend on whether the retention policy is to retain and then delete, to retain only, or delete only.
 
-The following diagram represents the flow in details:
+The following diagram represents the flow in detail:
 
 ![](./media/copilotretentionlifecycle.png)
 
 For the two paths in the diagram:
 
-1. **If messages are removed from Copilot**, the message is moved to the SubstrateHolds folder where it remains for at least 1 day. When the retention period expires, the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
+1. **If messages are removed from Copilot**, the message is moved to the SubstrateHolds folder, where it remains for at least 1 day. When the retention period expires, the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
 
-1. **If messages remain in Copilot** after the retention period expires, the message is copied to the SubstrateHolds folder. This action typically takes between 1-7 days from the expiry date. When the message is in the SubstrateHolds folder, it's stored there for at least 1 day, and then the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
+1. **If messages remain in Copilot** after the retention period expires, the message is copied to the SubstrateHolds folder. This action typically takes between 1 and 7 days from the expiry date. When the message is in the SubstrateHolds folder, it's stored there for at least 1 day, and then the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
 
 >**Note:** Messages stored in mailboxes, including the hidden folders, are searchable by **eDiscovery tools**. Until messages are permanently deleted from the SubstrateHolds folder, they remain searchable by **eDiscovery tools**.
 
-When the retention period expires and copies a message to the SubstrateHolds folder, a delete operation is communicated to the backend service for Copilot, that then relays the same operation to the user app with Copilot. Delays in this communication or caching can explain why, for a short period of time, users continue to see these messages in Copilot.
+When the retention period expires and copies a message to the SubstrateHolds folder, a delete operation is communicated to the backend service for Copilot, which then relays the same operation to the user app with Copilot. Delays in this communication or caching can explain why, for a short period of time, users continue to see these messages in Copilot.
 
 ### Content paths for retain-only retention policy
 
-1. **If messages are removed from Copilot** the message is moved to the SubstrateHolds folder after the retention period expires. This action typically takes between 1-7 days from the expiry date. If the retention policy is configured to retain forever, the item remains there. If the retention policy has an end date for the retention period and it expires, the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
+1. **If messages are removed from Copilot,** the message is moved to the SubstrateHolds folder after the retention period expires. This action typically takes between 1 and 7 days from the expiry date. If the retention policy is configured to retain forever, the item remains there. If the retention policy has an end date for the retention period and it expires, the message is permanently deleted the next time the timer job runs (typically between 1-7 days).
 
 1. **If messages remain in Copilot** after the retention period expires, nothing happens before and after the retention period; the message remains in its original location.
 
 ### Content paths for delete-only retention policy
 
-1. **If messages are removed from Copilot** during the retention period, the message is moved to the SubstrateHolds folder. The message is stored in the SubstrateHolds folder for at least 1 day and permanently deleted the next time the timer job runs (typically between 1-7 days).
+1. **If messages are removed from Copilot** during the retention period, the message is moved to the SubstrateHolds folder. The message is stored in the SubstrateHolds folder for at least 1 day and is permanently deleted the next time the timer job runs (typically between 1-7 days).
 
-1. **If messages remain in Copilot** after the retention period expires, the message is copied to the SubstrateHolds folder. This action typically takes between 1-7 days from the expiry date. The message is retained there for at least 1 day and then permanently deleted the next time the timer job runs (typically between 1-7 days).
+1. **If messages remain in Copilot** after the retention period expires, the message is copied to the SubstrateHolds folder. This action typically takes between 1 and 7 days from the expiry date. The message is retained there for at least 1 day and then permanently deleted the next time the timer job runs (typically between 1-7 days).
 
-### Creating and Configuring Retenetion Policies
+### Creating and Configuring Retention Policies
 
 A **retention policy** lets you manage the data for your organization by deciding proactively whether to retain content, delete content, or retain and then delete the content very efficiently by assigning the same retention settings at the container level to be automatically inherited by content in that container. For example, retention policies for the location **Teams chats and Copilot interactions** include user prompts to **Microsoft Copilot for Microsoft 365**, and the Copilot responses to users. These messages can be retained and deleted for compliance reasons.
 
-To create a retention policy to for all the interactions with **Microsoft 365 Copilot**, follow the given steps:
+To create a retention policy for all the interactions with **Microsoft 365 Copilot**, follow the given steps:
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 
@@ -696,7 +696,7 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
     ![](./media/retention-policy-static.png)
 
-    Deselect all the locations and select **Teams chats and Copilot interactions** ONLY to apply the policy on **Copilot for Microsoft 365**, and its all user prompts to Copilot and all Copilot responses. Select **Next**.
+    Deselect all the locations and select **Teams chats and Copilot interactions** ONLY to apply the policy on **Copilot for Microsoft 365**, and it's all user prompts to Copilot and all Copilot responses. Select **Next**.
 
     ![](./media/retention-policy-locations.png)
 
@@ -712,7 +712,7 @@ To create a retention policy to for all the interactions with **Microsoft 365 Co
 
     ![](./media/retention-policy-review.png)
 
-1. Select your recently created policy to see it in details and also check its status.
+1. Select your recently created policy to see it in detail and also check its status.
 
     ![](./media/retention-policy-created.png)
 
