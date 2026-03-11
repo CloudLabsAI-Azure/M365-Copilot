@@ -27,6 +27,7 @@ Here are some of the main features of Copilot Lab:
    ```
    https://m365.cloud.microsoft/
    ```
+   
 1. On the **Copilot Lab** page, review the available prompt suggestions and select **Show more** to load additional prompts.
 
     ![](./media/m36-gt-lab-ex8-1-g2.png)
