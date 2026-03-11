@@ -4,7 +4,7 @@ In this exercise, you will use Microsoft 365 Copilot in Teams to summarize chat 
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -49,7 +49,7 @@ To use **Copilot in Teams**, follow the below steps:
 1. In the chat with **Spektra Admin**, enter the following message in the chat box and send it.
 
     ```
-    Contoso had a strong performance this year, achieving a 56% increase in revenue compared to the previous year. This growth was driven by successful product launches, improved customer engagement, and the adoption of modern digital tools that enhanced operational efficiency across teams. The company also expanded its market presence and strengthened partnerships with key clients, contributing significantly to overall business growth. As a result, Contoso is well positioned to continue building on this momentum and pursue further innovation and expansion in the coming year.
+    Contoso had a strong performance this year, achieving a 56% increase in revenue compared to the previous year. This growth was driven by successful product launches, improved customer engagement, and the adoption of modern digital tools that enhanced operational efficiency across teams. The company also expanded its market presence and strengthened partnerships with key clients, contributing significantly to overall business growth. As a result, Contoso is well-positioned to continue building on this momentum and pursue further innovation and expansion in the coming year.
     ```
 
     ![](./media/m36-gt-lab-ex8-1-g29.png)
