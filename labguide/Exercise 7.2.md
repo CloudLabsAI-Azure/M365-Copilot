@@ -30,7 +30,7 @@ This guide introduces how to apply sensitivity labels to Word documents in Micro
 
    ![](./media/m36-gt-lab-ex4-0-g3.png)
 
-1. From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time wait until you see the Sensitivity option, reflect Alternatively try refreshing the page or sign out and sign in again) From the drop-down select **Confidential-Finance (2)**.
+1. From the top menu bar, select **Sensitivity (1)**. (Note: If the option is not available, it will take some time to wait until you see the Sensitivity option. Alternatively, try refreshing the page or sign out and sign in again.) From the drop-down select **Confidential-Finance (2)**.
 
    ![](./media/17.2.png)
 
