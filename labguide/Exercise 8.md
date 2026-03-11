@@ -8,7 +8,7 @@ In this exercise, you will explore Microsoft Copilot Lab, a tool designed to hel
 
 **Copilot Lab** is a collection of prompts that you can use to explore and experiment with Copilot. You can also see how other users and experts are using Copilot and learn from their tips and tricks.
 
-- **Prompt Engineering:** Prompt engineering is the skill of knowing when and how to ask Copilot to do something for you. It’s like giving instructions to a smart assistant. You want to be clear, concise, and specific, so that Copilot can understand your goal and deliver the best results.
+- **Prompt Engineering:** Prompt engineering is the skill of knowing when and how to ask Copilot to do something for you. It’s like giving instructions to a smart assistant. You want to be clear, concise, and specific so that Copilot can understand your goal and deliver the best results.
 
 ## Features of Copilot Lab
 
@@ -36,7 +36,7 @@ Here are some of the main features of Copilot Lab:
 
     ![](./media/m36-gt-lab-ex8-1-g3.png)
 
-1. You will find a large number of example prompts here, based on different situations and tones, for various all kinds of Microsoft 365 apps.
+1. You will find a large number of example prompts here, based on different situations and tones, for all kinds of Microsoft 365 apps.
 
     ![](./media/m36-gt-lab-ex8-1-g4.png)
 
@@ -72,7 +72,7 @@ Here are some of the main features of Copilot Lab:
 
 ### Filtering the prompts
 
-You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel etc. or as per the scenarios where you want to use the, like for creating a documnet, understanding an email or report etc.
+You can also filter the prompts as per the application where you need them, like PowerPoint, Word, Excel, etc., or as per the scenarios where you want to use them, like for creating a document, understanding an email or report, etc.
 
 1. In the **Copilot Prompt Gallery**, select **Task (1)** and choose a category from the available options **(2)** to filter prompts.
 
