@@ -4,7 +4,7 @@ In this exercise, you will use Microsoft 365 Copilot in Word to generate new doc
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -45,7 +45,7 @@ To use **Copilot in Word**, follow the below steps:
 1. In the **Word** document, locate the **Describe what you'd like to draft with Copilot** prompt, enter the prompt provided below, and then select **Generate**. If the prompt is not visible, select the **Copilot** icon to open the Copilot draft experience.
 
    ```
-   Generate a document describing how Contoso Ltd. can increase its revenue through social-media marketing.
+   Generate a document describing how Contoso Ltd. can increase its revenue through social media marketing.
    ```
 
    ![](./media/m36-gt-lab-ex4-1-g4.png)
@@ -58,7 +58,7 @@ To use **Copilot in Word**, follow the below steps:
 
    ![](./media/keep-it-word-2.png)
 
-   >**Note:** You can also choose the **"Copilot"** icon present on the top of the page and utilise the service.
+   >**Note:** You can also choose the **"Copilot"** icon present at the top of the page and utilise the service.
 
    ![](./media/m36-gt-lab-ex4-1-g8.png)
 
@@ -89,7 +89,7 @@ Here are some of the example prompts which you can take help of to explore more 
    Write an essay about Microsoft 365.
    ```
    ```
-   Give detailed instructions, including outlines, notes, or file references on use of artificial intelligence in IT companies.
+   Give detailed instructions, including outlines, notes, or file references on the use of artificial intelligence in IT companies.
    ```
    ```
    List the technologies used in app development in a bulleted format.
