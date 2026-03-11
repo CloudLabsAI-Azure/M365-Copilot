@@ -56,7 +56,7 @@ To schedule a meeting in Microsoft Teams with your colleagues, follow the given 
 
     ![](./media/m36-gt-lab-ex8-1-g16.png)
 
-1. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calender** page in the time slot you chose.
+1. A meeting invite will be sent to the attendees of the meeting. You can find it on your **Calendar** page in the time slot you chose.
 
     ![](./media/m36-gt-lab-ex8-1-g17.png)
 
@@ -80,7 +80,7 @@ To schedule a meeting in Microsoft Teams with your colleagues, follow the given 
 
 1. A side pane will open where you can give prompts to the Copilot.
 
-1. During the meeting, ask Copilot to take notes, list action items or generate relevant questions.
+1. During the meeting, ask Copilot to take notes, list action items, or generate relevant questions.
 
     ![](./media/action-items.png)
 
@@ -96,7 +96,7 @@ To schedule a meeting in Microsoft Teams with your colleagues, follow the given 
 
     ![](./media/teams-copilot.png)
 
-1. Ask Copilot about highlights from the conversation, any decisions derived out of it or even to summarise the whole chat.
+1. Ask Copilot about highlights from the conversation, any decisions derived from it, or even to summarise the whole chat.
 
     ![](./media/chat-highlights.png)
 
