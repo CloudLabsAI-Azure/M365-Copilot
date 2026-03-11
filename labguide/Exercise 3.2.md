@@ -8,7 +8,7 @@ Microsoft technologies underpin **Copilot for Microsoft 365**, with a key role p
 
 The Semantic Index for Copilot constructs an intricate map of your personal and company data, establishing important connections and identifying significant relationships. This design is much like the inner workings of the human brain. It goes beyond the confines of keyword search by interpreting and encoding the conceptual relationships between data elements. By analyzing your Microsoft Graph data - encompassing emails, documents, calendars, chats, and more - and working synergistically with LLMs, it delivers personalized, relevant, and actionable responses.
 
-The Semantic Index stands at the forefront of Copilot for Microsoft 365, revolutionizing data understanding and contextual comprehension within the ecosystem. you will unravel the intricate workings of the Semantic Index, elucidating its role in connecting billions of objects, concepts, and relationships. By parsing intent beyond literal words and continuously expanding its knowledge graph, the Semantic Index empowers Copilot to deliver personalized and actionable responses. This exercise underscores the transformative impact of the Semantic Index in driving deeper contextual understanding and fostering continuous improvement within Microsoft 365.
+The Semantic Index stands at the forefront of Copilot for Microsoft 365, revolutionizing data understanding and contextual comprehension within the ecosystem. You will unravel the intricate workings of the Semantic Index, elucidating its role in connecting billions of objects, concepts, and relationships. By parsing intent beyond literal words and continuously expanding its knowledge graph, the Semantic Index empowers Copilot to deliver personalized and actionable responses. This exercise underscores the transformative impact of the Semantic Index in driving deeper contextual understanding and fostering continuous improvement within Microsoft 365.
 
 ## Key Features
 
@@ -46,7 +46,7 @@ The Semantic Index relies on a predefined knowledge graph that features various 
 - **"located-in":** Relates an entity to its geographic location (e.g., "Paris located-in France").
 - **"causes":** Connects a cause to an effect (e.g., "rain causes wet").
 
-Semantic Index uses billions of these structured relationships between entities, concepts, and data to encode human-like understanding of the connections between things. This web of semantic relationships is what enables context and language grounding.
+Semantic Index uses billions of these structured relationships between entities, concepts, and data to encode a human-like understanding of the connections between things. This web of semantic relationships is what enables context and language grounding.
 
 ## Customer Data and Security
 
