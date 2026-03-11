@@ -92,7 +92,7 @@ To use **Copilot in Outlook**, follow the below steps:
 1. In the **Draft with Copilot** prompt box, enter the following prompt **(1)** and select **Generate (2)**.
 
    ```
-   Compose an email asking the employees of Contoso Ltd. to join an organisation-level meeting on upcoming Friday asking employees to come up with their reviews, issues and suggestions which they feel should be implemented for the skyrocketing growth of organisation.
+   Compose an email asking the employees of Contoso Ltd. to join an organisation-level meeting on the upcoming Friday, asking employees to come up with their reviews, issues, and suggestions that they feel should be implemented for the skyrocketing growth of the organisation.
    ```
 
    ![](./media/m36-gt-lab-ex6-1-g11.png)
@@ -103,13 +103,13 @@ To use **Copilot in Outlook**, follow the below steps:
 
 ## Try Yourself Out
 
-You can also try your own scenarios and examples out to analyse the functioning of Copilot. Here are some of the example prompts which you can take help of to explore more on **Copilot in Outlook**. Besides these, you can also create your own prompts and interact with Copilot.
+You can also try your own scenarios and examples out to analyse the functioning of Copilot. Here are some of the example prompts that you can take help of to explore more on **Copilot in Outlook**. Besides these, you can also create your own prompts and interact with Copilot.
 
 ```
 Write an email congratulating my team on the end of the fiscal year.
 ```
 ```
-Draft an email asking your manager for your planned leaves.
+Draft an email asking your manager for your planned leave.
 ```
 
 ## Conclusion:
