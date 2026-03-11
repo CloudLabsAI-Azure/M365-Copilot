@@ -1,6 +1,6 @@
 # Exercise 3.5: Using Microsoft 365 Copilot in Teams
 
-In this exercise, you will explore how Microsoft 365 Copilot enhances teamwork and communication in Microsoft Teams. You'll learn how Copilot helps summarize chat threads, organize meeting insights, and draft emails based on meeting discussions. You will also gain practical experience by scheduling and managing meetings using Copilot to streamline communications and improve productivity.
+In this exercise, you will use Microsoft 365 Copilot in Teams to summarize chat conversations and understand how Copilot can help you quickly catch up on discussions.
 
 ## Overview
 

@@ -1,8 +1,10 @@
 # Exercise 7: Try Out Your Organizational Use Cases with M365 Copilot Capabilities
 
+In this exercise, you will schedule a meeting in Microsoft Teams, explore how Copilot can assist during meetings, and use Copilot to summarize chat conversations.
+
 ## Overview
 
-This exercise is designed to demonstrate the practical utility and capabilities of the M365 Copilot in a real-world context. You'll conduct a meeting and a chat conversation with your colleagues, using the M365 Copilot to streamline and summarize these interactions. The goal is to gain hands-on experience with the tool and understand its potential to enhance productivity and communication within your organization.
+In this exercise, you will gain hands-on experience with **Microsoft 365 Copilot** in a real-world Teams scenario. You'll schedule a meeting in Teams with an agenda about discussing Copilot capabilities, then explore how Copilot can be used during meetings to take notes, identify action items, and generate summaries. While the meeting scenario in this lab is for demonstration purposes (Copilot won't generate live content without active participants), you'll learn about Copilot's meeting capabilities and how it can capture key points in real meetings. You'll also use Copilot in Teams chat to summarize conversations, demonstrating how it can help you quickly catch up on discussions and extract important information.
 
 ## Task 1: Utilize M365 Copilot in teams.
 
@@ -107,4 +109,5 @@ To schedule a meeting in Microsoft Teams with your colleagues, follow the given 
 1. Reflect on how accurately and effectively M365 Copilot captured the key points of your communication.
 
 ## Conclusion: 
-By the end of this exercise, you'll have a clear understanding of how M365 Copilot can assist you in summarizing meetings and chat conversations. This hands-on experience will demonstrate the tool's potential to enhance productivity and efficiency in your professional communication. Remember to provide feedback and suggestions for improvements to further refine the capabilities of M365 Copilot.
+
+You've successfully explored how Microsoft 365 Copilot can be used in Microsoft Teams for meetings and chats. You scheduled a meeting with an agenda, learned about Copilot's capabilities for taking notes, identifying action items, and generating meeting summaries, and explored how Copilot can summarize chat conversations. While the lab environment provides a demonstration scenario, you now understand how Copilot can enhance real-world team communication by automatically capturing key discussions, helping team members stay aligned, and making it easier to catch up on missed conversations.

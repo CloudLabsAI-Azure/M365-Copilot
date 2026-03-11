@@ -1,6 +1,6 @@
 # Exercise 3.4: Using Microsoft 365 Copilot in Excel
 
-In this exercise, you will learn how to use Microsoft 365 Copilot to enhance your data analysis and management in Excel. You will explore how Copilot helps with finding insights, creating formulas, and transforming data into visual representations. This includes tasks such as generating data insights, creating new columns, and customizing your data presentation efficiently.
+In this exercise, you will use Microsoft 365 Copilot in Excel to analyze a Campaign Awareness Report, generate insights, and create calculated columns using AI-powered formulas.
 
 ## Overview
 
@@ -129,8 +129,8 @@ Create a pivot table where the row is category, the column is supplier, and the 
 
 ## Conclusion
 
-In conclusion, Copilot is an intuitive and powerful tool that simplifies data analysis, making it easy for users to derive meaningful insights from complex datasets. It also offers robust data visualization and management features, enabling users to customize and enhance their data presentations. Through a series of simple commands, Copilot can execute intricate tasks such as creating pivot tables, sorting and filtering data, and performing 'what-if' analyses. Thus, **Microsoft 365 Copilot** significantly enhances the Excel user experience, facilitating seamless data analysis, management, and visualization, thereby proving to be a valuable asset for any organization seeking to optimize their data handling and decision-making processes.
+You've successfully used Microsoft 365 Copilot in Excel to analyze the Campaign Awareness Report from SharePoint. You learned how Copilot can quickly generate data insights, suggest formulas, and create calculated columns like the Engagement Rate. By using simple natural language prompts, you can transform and analyze complex datasets without manually writing formulas or performing calculations, significantly improving data analysis efficiency.
 
 ## Summary
 
-In this exercise, you explored how Microsoft 365 Copilot assists with data analysis in Excel. You learned to use Copilot for tasks such as generating insights, creating formulas, and transforming data. Copilot simplifies data management and visualization, making it easier to derive actionable insights and enhance your data presentations efficiently.
+In this exercise, you used Microsoft 365 Copilot in Excel to analyze a Campaign Awareness Report. You generated data insights, added a calculated Engagement Rate column using Copilot-suggested formulas, and explored how Copilot simplifies data analysis and management tasks.

@@ -1,6 +1,6 @@
 # Exercise 3.1: Using Microsoft 365 Copilot in Word
 
-In this exercise, you will use Microsoft 365 Copilot in Word to create, enhance, and reference documents, demonstrating how AI-driven features streamline and elevate the writing process.
+In this exercise, you will use Microsoft 365 Copilot in Word to generate new documents from prompts and summarize existing documents from your OneDrive.
 
 ## Overview
 
@@ -109,8 +109,8 @@ Here are some of the example prompts which you can take help of to explore more 
 
 ## Conclusion: 
 
-In conclusion, Microsoft 365 Copilot transforms the document creation process in Word, enabling users to write faster, with confidence, and with creativity. By leveraging AI capabilities, Copilot assists in generating relevant and original content, enhancing productivity and quality. Whether starting from scratch or referencing existing documents, Copilot simplifies the writing process, providing users with valuable insights and suggestions. With its intuitive interface and seamless integration with Word, Copilot empowers users to create compelling and polished documents efficiently.
+You've successfully used Microsoft 365 Copilot in Word to generate a complete document from a simple prompt and summarize existing documents from your OneDrive. You've seen how Copilot can quickly create relevant content and extract key information from existing files, significantly reducing the time needed for document creation and review.
 
 ## Summary
 
-In this exercise, you explored how to use Microsoft 365 Copilot in Word to generate, refine, and summarize documents. You learned how Copilot can accelerate writing, enhance content quality, and streamline referencing existing documents.
+In this exercise, you used Microsoft 365 Copilot in Word to generate a new document about social media marketing for Contoso Ltd. from a prompt, and learned how to reference and summarize existing documents stored in OneDrive.

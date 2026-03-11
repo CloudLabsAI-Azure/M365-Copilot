@@ -1,6 +1,6 @@
 # Exercise 3.3: Using Microsoft 365 Copilot in PowerPoint
 
-In this exercise, you will explore how Microsoft 365 Copilot enhances the PowerPoint experience. You’ll learn how to use Copilot to create, refine, and transform presentations. The exercise will guide you through generating presentations from scratch or converting existing Word documents into slide decks, allowing you to streamline the creation of impactful and visually appealing presentations.
+In this exercise, you will use Microsoft 365 Copilot in PowerPoint to generate a complete presentation from a simple prompt about Artificial Intelligence.
 
 ## Overview
 

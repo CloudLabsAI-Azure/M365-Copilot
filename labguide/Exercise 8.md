@@ -91,8 +91,8 @@ You can also filter the prompts as per the application where you need them, like
 
 ## Conclusion
 
-Microsoft Copilot Lab presents a dynamic and engaging platform for users to enhance their prompt engineering skills and leverage the capabilities of Microsoft Copilot. This innovative tool offers a diverse range of prompts across various categories, empowering users to effortlessly navigate and experiment with prompts tailored to their needs. The ability to customize prompts, explore responses in real applications, and share insights with the community fosters a collaborative learning environment. The integration of Copilot Lab into Microsoft Word, PowerPoint, and Chat further streamlines the workflow, allowing users to seamlessly access prompts directly within their familiar workspace.
+You've successfully explored Microsoft Copilot Lab and learned how to discover and use pre-written prompts. You browsed the Prompt Gallery, tested a prompt with sample text about Contoso's productivity goals, and learned how to filter prompts by task, job type, and application. You also saved prompts for future use. This experience demonstrates how Copilot Lab can help you learn effective prompt engineering techniques and discover new ways to use Copilot across Microsoft 365 applications.
 
 ## Summary
 
-Through this exercise, you have learned how to navigate and utilize Microsoft Copilot Lab to enhance your prompt engineering skills. You explored different prompt categories, customized prompts for specific needs, and integrated these prompts into applications like Word, PowerPoint, and Microsoft Chat. This experience demonstrates how to effectively use Microsoft Copilot to streamline tasks and improve productivity, while also contributing to a collaborative environment by sharing and learning from prompts within the community.
+In this exercise, you explored Microsoft Copilot Lab and its Prompt Gallery. You tested prompts with sample text, learned to filter prompts by various categories (task, job type, application), and saved prompts for later use. This hands-on experience helped you understand how to craft better prompts and use Copilot more effectively.

@@ -1,6 +1,6 @@
 # Exercise 3.7: Using Microsoft 365 Copilot with M365 Chat to Access Microsoft Graph Data
 
-In this exercise, you will learn how to use Microsoft 365 Copilot with M365 Chat to access and interact with Microsoft Graph data. Copilot’s integration with M365 Chat enables users to make data-driven requests and receive tailored responses based on organizational knowledge and connected services. This exercise will guide you through querying data, summarizing documents, and automating tasks within your Microsoft 365 environment.
+In this exercise, you will use Microsoft 365 Copilot with M365 Chat to query and summarize documents from your Microsoft 365 environment using natural language.
 
 ## Overview
 
