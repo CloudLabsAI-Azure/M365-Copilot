@@ -4,7 +4,7 @@ In this exercise, you will use Microsoft 365 Copilot with M365 Chat to query and
 
 ## Overview
 
-**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
+**Microsoft Copilot** is a chatbot developed by Microsoft. **Microsoft Copilot for Microsoft 365** combines the power of large language models (LLMs) with your organization’s data, all in the flow of work to turn your words into one of the most powerful productivity tools on the planet.
 
 **Copilot** is designed to benefit everyone in an organization. From leaders to IT professional managers, Copilot offers features that streamline tasks, automate workflows, and enhance collaboration. Its adaptability means that it can be customized to meet the unique needs of any organization. The ability to extend its capabilities through plugins makes it a continually evolving asset that can adapt to the ever-changing landscape of business needs.
 
@@ -14,7 +14,7 @@ It works alongside popular **Microsoft 365** apps such as Word, Excel, PowerPoin
 
 For example, within a SharePoint site dedicated to a specific project, users can use natural language in M365 Chat to ask questions or make requests such as:
 
-"Copilot, show me my most recent draft documents related to this customer project"
+"Copilot, show me my most recent draft documents related to this customer project."
 
 "Copilot, who has presented proposals to our largest customer in the last 6 months?"  
 
@@ -54,11 +54,11 @@ To use **M365 Chat**, follow the below steps:
 
    ![](../labguide/media/m36-gt-lab-ex4-7-g4.png)
 
-1. This response will be presented as below:
+1. This response will be presented as follows:
 
    ![](../labguide/media/m36-gt-lab-ex4-7-g6.png)
 
-   >**Note:** At rare times, the **M365 Copilot Chat** reauthenticates itelf, and during that some issues may arise, causing the **M365 Copilot Chat** to be unresponsive. Whenever that happens, make sure to close the browser, reopen, clear all the cache and cookies, and sign in again. Ensure closing all the incognito tabs as well when trying in Incognito/Private mode.
+   >**Note:** At rare times, the **M365 Copilot Chat** reauthenticates itself, and during that, some issues may arise, causing the **M365 Copilot Chat** to be unresponsive. Whenever that happens, make sure to close the browser, reopen it, clear all the cache and cookies, and sign in again. Ensure you close all the incognito tabs as well when trying in Incognito/Private mode.
 
 ## Try Out Yourself
 
@@ -71,7 +71,7 @@ Summarize this document: /(document)
 Draft FAQs based on this file: /(file)
 ```
 ```
-List ideas for a fun remote team even for Contoso Ltd.
+List ideas for a fun remote team, even for Contoso Ltd.
 ```
 
 ## Conclusion
