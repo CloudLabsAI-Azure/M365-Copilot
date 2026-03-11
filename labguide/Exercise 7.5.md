@@ -1,6 +1,6 @@
 # Exercise 5.5: Reviewing Security and Compliance in Copilot Using Communication Compliance (Read Only)
 
-In this exercise, we will review how Communication Compliance enhances security and compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor and manage communications to detect and address potentially inappropriate or risky messages. It supports various communication channels, including Microsoft Copilot, and helps ensure adherence to organizational and regulatory policies.
+In this exercise, you will review how Communication Compliance enhances security and compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor and manage communications to detect and address potentially inappropriate or risky messages. It supports various communication channels, including Microsoft Copilot, and helps ensure adherence to organizational and regulatory policies.
 
 ## Overview
 
@@ -129,4 +129,4 @@ By leveraging pre-defined and custom policies, **Communication Compliance** prov
 
 ## Summary
 
-In this exercise, we explored the role of Communication Compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor internal and external communications to identify and manage policy violations. By applying predefined and custom policies, organizations can detect inappropriate messages, manage risks, and ensure compliance across various communication channels, including Copilot. This feature supports proactive risk management and adherence to regulatory standards, enhancing overall security and compliance.
+In this exercise, you explored the role of Communication Compliance in Microsoft 365 Copilot. Communication Compliance helps organizations monitor internal and external communications to identify and manage policy violations. By applying predefined and custom policies, organizations can detect inappropriate messages, manage risks, and ensure compliance across various communication channels, including Copilot. This feature supports proactive risk management and adherence to regulatory standards, enhancing overall security and compliance.

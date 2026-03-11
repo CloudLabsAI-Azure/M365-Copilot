@@ -1,6 +1,6 @@
 # Exercise 5.6: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
 
-In this exercise, we will review how auditing in Microsoft 365 Copilot enhances security and compliance. Auditing captures detailed records of user and admin activities, helping organizations respond to security events, conduct investigations, and meet compliance obligations.
+In this exercise, you will review how auditing in Microsoft 365 Copilot enhances security and compliance. Auditing captures detailed records of user and admin activities, helping organizations respond to security events, conduct investigations, and meet compliance obligations.
 
 ## Overview
 
@@ -66,4 +66,4 @@ In conclusion, the integration of auditing capabilities within **Microsoft 365 C
 
 ## Summary
 
-In this exercise, we examined how auditing in Microsoft 365 Copilot supports security and compliance. Auditing captures detailed logs of user interactions with Copilot, including activity timestamps and accessed files. By accessing and configuring these logs through the Microsoft Purview compliance portal, organizations can monitor activities, perform investigations, and ensure compliance. This capability strengthens data security and provides valuable insights into user interactions, contributing to a robust security and compliance framework.
+In this exercise, you examined how auditing in Microsoft 365 Copilot supports security and compliance. Auditing captures detailed logs of user interactions with Copilot, including activity timestamps and accessed files. By accessing and configuring these logs through the Microsoft Purview compliance portal, organizations can monitor activities, perform investigations, and ensure compliance. This capability strengthens data security and provides valuable insights into user interactions, contributing to a robust security and compliance framework.

@@ -80,7 +80,7 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
    ![](./media/m36-gt-lab-ex2-g12.png)
    
-1. We can also request Copilot to retrieve specific information about a file within the SharePoint site. Use the following prompt.
+1. You can also request Copilot to retrieve specific information about a file within the SharePoint site. Use the following prompt.
 
    ```
    Could you elaborate more on February Payroll?
@@ -116,7 +116,7 @@ In this task you will navigate to and familiarize yourself with the SharePoint s
 
    ![](./media/hrsite1.4.png)
 
-1. We can even ask Copilot regarding the Policies of our Organization from the **Human Resources** SharePoint site. Please use the following prompt.
+1. you can even ask Copilot regarding the Policies of our Organization from the **Human Resources** SharePoint site. Please use the following prompt.
 
    ```
    Create an FAQ based on Code of Conduct Policy.docx

@@ -18,7 +18,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
 - **Enable Cloud Update**
 
-1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, we have already established a security group named **Copilot Users**.
+1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, you have already established a security group named **Copilot Users**.
 
 1. Log into the **Microsoft 365 Apps admin center**, you should land on the Home page automatically. On the Recommendation based on your tenant card, select Enable cloud.
 
@@ -34,7 +34,7 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 
     ![](../labguide/media/channel1.3.png)
 
-1. Select the **Switch device update channel** button on the top. You can enter device names or Microsoft Entra ID groups, or a mix of both. In this case, we will choose our Security group.
+1. Select the **Switch device update channel** button on the top. You can enter device names or Microsoft Entra ID groups, or a mix of both. In this case, choose our Security group.
 
     ![](../labguide/media/channel1.4.png)
 

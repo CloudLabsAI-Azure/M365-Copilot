@@ -1,6 +1,6 @@
 # Exercise 5.4: Reviewing Security and Compliance in Copilot Using Customer Keys (Read Only)
 
-In this exercise, we will examine how Customer Keys bolster security and compliance in Microsoft 365 Copilot. Customer Keys allow organizations to control their own encryption keys, which enhances data protection and helps meet regulatory requirements. This feature complements existing encryption methods like BitLocker and SSE, ensuring that sensitive data remains secure.
+In this exercise, you will examine how Customer Keys bolster security and compliance in Microsoft 365 Copilot. Customer Keys allow organizations to control their own encryption keys, which enhances data protection and helps meet regulatory requirements. This feature complements existing encryption methods like BitLocker and SSE, ensuring that sensitive data remains secure.
 
 ## Overview
 
@@ -32,4 +32,4 @@ The interoperability of items encrypted with Microsoft Purview Customer Key with
 
 ## Summary
 
-In this exercise, we explored the role of Customer Keys in enhancing data security and compliance in Microsoft 365 Copilot. By managing their own encryption keys, organizations add an extra layer of protection to their data and meet compliance obligations more effectively. The use of Customer Keys ensures that Microsoft 365 services, including Copilot, maintain robust security and meet regulatory standards.
+In this exercise, you explored the role of Customer Keys in enhancing data security and compliance in Microsoft 365 Copilot. By managing their own encryption keys, organizations add an extra layer of protection to their data and meet compliance obligations more effectively. The use of Customer Keys ensures that Microsoft 365 services, including Copilot, maintain robust security and meet regulatory standards.

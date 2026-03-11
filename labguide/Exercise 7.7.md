@@ -1,6 +1,6 @@
 # Exercise 5.7: Reviewing Security and Compliance in Copilot Using Content Search (Read Only)
 
-In this exercise, we explore how Content Search in Microsoft 365 Copilot helps ensure data security and compliance by allowing searches and analysis of content, including Copilot interactions.
+In this exercise, you will explore how Content Search in Microsoft 365 Copilot helps ensure data security and compliance by allowing searches and analysis of content, including Copilot interactions.
 
 ## Overview
 
