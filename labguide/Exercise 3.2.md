@@ -72,3 +72,7 @@ In conclusion, the Semantic Index is a pivotal component empowering Copilot for 
 ## Summary
 
 In this exercise, you learned about the Semantic Index, which helps Microsoft 365 Copilot understand and connect information better. You saw how it maps out data relationships to provide smarter, more relevant responses while keeping your data secure and up-to-date.
+
+Click **Next** from the lower right corner to move on to the next page.
+
+![Launch Azure Portal](./media/m36-gt-lab-gs-g13.png)

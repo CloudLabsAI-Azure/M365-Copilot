@@ -6,7 +6,7 @@ In this exercise, you will review how Microsoft Copilot integrates with data cla
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Using Data Classification in Microsoft 365 Copilot
 
@@ -47,8 +47,6 @@ The **data classification page** provides visibility into that body of content, 
 Follow the given steps to access the **Microsoft data classification dashboard**:
 
 1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
-
-   ![](./media/licensekey2.png)
 
 1. Navigate to `https://compliance.microsoft.com/` and sign in using the **CloudLabs provided credentials**.
 

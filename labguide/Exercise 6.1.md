@@ -1,4 +1,4 @@
-# Exercise 4.1: Administering M365 Copilot(Read Only)
+# Exercise 4.1: Administering M365 Copilot (Read Only)
 
 This exercise is aimed at understanding how to manage Microsoft 365 Copilot licenses through the Microsoft 365 Admin Center. Although you are in read-only mode with Global Reader access, you will learn how to view, assign, and remove Copilot licenses.
 
@@ -16,15 +16,15 @@ This exercise guides you through the process of managing **Microsoft 365 Copilot
 
 Follow these steps to assign a Copilot license for an existing user from the admin center:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate to the **Microsoft 365 Admin Center** using the link below, and sign in with your admin credentials.
 
-   ![](./media/licensekey2.png)
-
-1. Go to [Microsoft 365 Admin Center] `https://admin.microsoft.com/` and sign in with your admin credentials.
+    ```
+    https://admin.microsoft.com/
+    ```
 
 1. From the left side navigation pane, click on **Users (1)** and then choose **Active users (2)**.
 
-    ![](../labguide/media/M8.png)
+    ![](../labguide/media/m36-gt-lab-ex6-1-g1.png)
 
 1.  In the Active Users page, search or find the user you want to manage the Copilot license. Click on the user.
 

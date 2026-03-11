@@ -22,42 +22,57 @@ In PowerPoint, **Copilot for Microsoft 365** acts as your presentation assistant
 
 To use **Copilot in PowerPoint**, follow the below steps:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/licensekey2.png)
-
-1. Navigate to `https://www.office.com/` and sign in using **CloudLabs provided credentials**.
-
-   ![](./media/5.2.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
 1. Select **Apps** from the left pane and select **PowerPoint** from the apps list.
 
-   ![](./media/7.3.png)
+   ![](./media/m36-gt-lab-ex4-2-g2.png)
 
 1. Open your **PowerPoint** and select a **Blank Presentation** then select **Copilot** on top of the screen.
 
-   ![](./media/7.4.png)  
-   ![](./media/ppt-copilot.png)
+   ![](./media/m36-gt-lab-ex4-2-g3.png) 
 
-1. Click **Create a presentation...** and provide your preferred topic and related information to draft your presentation.
+   ![](./media/m36-gt-lab-ex4-2-g4.png)
 
-   ![](./media/create-ppt-copilot.png)
+   > **Note:** If the **Copilot** option is not visible in the ribbon, move your mouse to the ribbon area at the top of the screen to expand and display the available options.
 
-1. Imagine you need to create a PowerPoint presentation on Artificial Intelligence. You can provide Copilot with the following prompt, and it will generate a PowerPoint presentation for you.
+1. In the Copilot pane, enter the prompt provided below in the **prompt box (1)**, and then select **Send (2)**.
 
-   ![](./media/ppt1.2.png)
+   ```
+   Create a presentation on Artificial Intelligence
+   ```
 
-1. Alternatively, you can also choose **Create a presentation from file...** and attach a Word document as a reference and craft a presentation based on it.
+   ![](./media/m36-gt-lab-ex4-2-g6.png)
 
-   ![](./media/ppt-from-doc.png)
+   > **Note:** If the **Copilot** pane does not appear, refresh the page and wait for 2–3 minutes for it to load.
 
-1. Suppose you wish to convert a report, such as an Industry Analysis Report for Contoso LTD, into a presentation. You can provide Copilot with the following prompt.
+1. If Copilot prompts you to select an audience or other preferences, choose any option based on your preference to continue.
 
-   ![](./media/ppt1.3.png)
+   ![](./media/m36-gt-lab-ex4-2-g7.png)
 
-1. Copilot will craft an exceptional presentation from the report, complete with speaker notes.
+1. After selecting your preferred options, select **Confirm** to proceed.
 
-   ![](./media/ppt-created.png)
+   ![](./media/m36-gt-lab-ex4-2-g8.png)
+
+1. If prompted to choose a template, select any preferred template to continue.
+
+   ![](./media/m36-gt-lab-ex4-2-g9.png)
+
+   > **Note:** In some cases, Copilot may ask for confirmation before generating the presentation. Enter **Yes proceed**, and then select **Send** to continue.
+
+      ![](./media/m36-gt-lab-ex4-2-g10.png)
+
+1. And it will generate a PowerPoint presentation for you.
+
+   ![](./media/m36-gt-lab-ex4-2-g11.png)
+
+1. Select **File (1)**, choose **New (2)**, and then select **Blank presentation (3)**.
+
+   ![](./media/m36-gt-lab-ex4-2-g12.png)
 
 ## Try Out Yourself
 

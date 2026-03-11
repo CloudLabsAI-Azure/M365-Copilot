@@ -15,31 +15,31 @@ Learn to leverage an OpenAI model to extract data and create embeddings, by end 
 - **Introduction to M365 Copilot** : Learn about the capabilities of Microsoft 365 Copilot.
 - **Understanding M365 Copilot Architecture** : Explore how M365 Copilot is designed and integrated.
 - **Preparing for M365 Copilot Deployment** : 
-   - **Organizing Sharepoint teams and files** : Structure SharePoint for efficient collaboration.
-   - **Understand Semantic Index** : Learn how Semantic Index improves search and context in M365.
+  - **Organizing SharePoint teams and files** : Structure SharePoint for efficient collaboration.
+  - **Understand Semantic Index** : Learn how Semantic Index improves search and context in M365.
 - **Using Copilot in M365 Applications** :
-   - **Using Microsoft 365 Copilot in Word** : Automate content creation and editing.
-   - **Using Microsoft 365 Copilot in Outlook** : Draft and manage emails efficiently.
-   - **Using Microsoft 365 Copilot in Powerpoint** : Create impactful presentations with AI.
-   - **Using Microsoft 365 Copilot in Excel** : Analyze data and generate insights quickly.
-   - **Using Microsoft 365 Copilot in Teams** : Enhance collaboration and manage tasks with AI.
-   - **Using Microsoft 365 Copilot in Loop** : Collaborate seamlessly with real-time updates.
-   - **Using Microsoft 365 chat** : Centralize conversations and integrate insights.
+  - **Using Microsoft 365 Copilot in Word** : Automate content creation and editing.
+  - **Using Microsoft 365 Copilot in Outlook** : Draft and manage emails efficiently.
+  - **Using Microsoft 365 Copilot in PowerPoint** : Create impactful presentations with AI.
+  - **Using Microsoft 365 Copilot in Excel** : Analyze data and generate insights quickly.
+  - **Using Microsoft 365 Copilot in Teams** : Enhance collaboration and manage tasks with AI.
+  - **Using Microsoft 365 Copilot in Loop** : Collaborate seamlessly with real-time updates.
+  - **Using Microsoft 365 Chat** : Centralize conversations and integrate insights.
 - **Administer M365 Copilot** :
-   - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
-   - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.
-   - **Managing Public web content access** : Control Copilot's access to web content for compliance.
-   - **Change update channel of Microsoft 365 Apps to enable Copilot** : Adjust update settings for Copilot functionality.
+  - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
+  - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.
+  - **Managing Public web content access** : Control Copilot's access to web content for compliance.
+  - **Change update channel of Microsoft 365 Apps to enable Copilot** : Adjust update settings for Copilot functionality.
 - **Reviewing Security and Compliance in Copilot** : 
-   - **Reviewing Security and Compliance in Copilot using Sensitivity Labels** : Protect content with appropriate labels.
-   - **Implementing sensitivity label** : Apply labels to classify and secure data.
-   - **Reviewing Security and Compliance in Copilot Using Data Classification** : Organize data based on sensitivity and usage.
-   - **Reviewing Security and Compliance in Copilot Using Customer Keys** : Use customer keys for data encryption.
-   - **Reviewing Security and Compliance in Copilot Using Communication Compliance** : Monitor and manage communication policies.
-   - **Reviewing Security and Compliance in Copilot Using Audit** : Track user activities and system changes.
-   - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
-   - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
-   - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
+  - **Reviewing Security and Compliance in Copilot using Sensitivity Labels** : Protect content with appropriate labels.
+  - **Implementing sensitivity label** : Apply labels to classify and secure data.
+  - **Reviewing Security and Compliance in Copilot Using Data Classification** : Organize data based on sensitivity and usage.
+  - **Reviewing Security and Compliance in Copilot Using Customer Keys** : Use customer keys for data encryption.
+  - **Reviewing Security and Compliance in Copilot Using Communication Compliance** : Monitor and manage communication policies.
+  - **Reviewing Security and Compliance in Copilot Using Audit** : Track user activities and system changes.
+  - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
+  - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
+  - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
 - **Exploring Microsoft Copilot Lab** : Gain deeper insights through practical labs.
 - **Try Out Your Organizational Use Cases with M365 Copilot Capabilities** : Experiment with Copilot to address specific business needs.
 
@@ -87,52 +87,75 @@ Welcome to your **Microsoft Copilot for Microsoft 365** lab! We've prepared a se
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-## Virtual Machine & Lab Guide
+## Accessing Your Lab Environment
+ 
+Once you are ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
-In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
-
-**Note**: Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
-
-  ![](./media/main.png)
-
-## Exploring Your Lab Resources
-
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab. You will find your credentials under **M365 Copilot User Details**. The value before the **|** will be your User ID and the value after **|** will be your User password to log into Microsoft 365 applications and utilize the lab environment.
-
-  ![](./media/labguideupdategettingstarted.png)
-
-Copy and paste the credentials in the notepad **Username (1)** & **Password (2)**
-
-  ![](./media/copy.png)
-
-## Utilizing the Split Window Feature
-
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Upper right corner.
-
-  ![](./media/main-1.png)
+   ![](./media/m36-gt-lab-gs-g1.png)
 
 ## Lab Guide Zoom In/Zoom Out
+
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
+
+   ![Manage Your Virtual Machine](./media/m36-gt-lab-gs-g2.png)
+
+## Virtual Machine & Lab Guide
  
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
-
-![](./media/n21.png) 
-
+Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+ 
+## Exploring Your Lab Resources
+ 
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+ 
+   ![](./media/m36-gt-lab-gs-g3.png)
+ 
+## Utilizing the Split Window Feature
+ 
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
+ 
+   ![Use the Split Window Feature](./media/m36-gt-lab-gs-g4.png)
+ 
 ## Managing Your Virtual Machine
+ 
+Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
+ 
+   ![Manage Your Virtual Machine](./media/m36-gt-lab-gs-g5.png)
 
-Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+## Let's Get Started
 
-  ![](./media/vm-run.png)
+1. On your virtual machine, click on the **Microsoft Edge** icon as shown below:
 
-Now, click on Next from the lower right corner to move on to the next page.
+   ![Launch Azure Portal](./media/m36-gt-lab-gs-g6.png)
+   
+1. You will see the **Sign in to the Microsoft Azure** tab. Here, enter your credentials:
+ 
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+ 
+      ![Enter Your Username](./media/m36-gt-lab-gs-g8.png)
+ 
+1. Next, provide your Temporary Access Password:
+ 
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
+ 
+      ![Enter Your Password](./media/m36-gt-lab-gs-g9.png)
+    
+1. If prompted to stay signed in, you can click **No**.
 
-  ![](./media/nxt.png)
+   ![Enter Your Password](./media/m36-gt-lab-gs-g10.png)
+ 
+1. If a **Welcome to Microsoft Azure** pop-up window appears, click **Cancel** to skip the tour.
 
 ## Support Contact
-The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance anytime. We offer dedicated support channels tailored specifically for learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
 Learner Support Contacts:
 
-* Email Support: cloudlabs-support@spektrasystems.com
-* Live Chat Support: https://cloudlabs.ai/labs-support
+- Email Support: cloudlabs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
+
+Click **Next** from the lower right corner to move on to the next page.
+
+![Launch Azure Portal](./media/m36-gt-lab-gs-g11.png)
 
 ## Happy Learning!!

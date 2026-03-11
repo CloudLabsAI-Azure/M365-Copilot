@@ -24,17 +24,19 @@ With **Copilot in Excel**, taking control of your data visualization and managem
 
 To use **Copilot in Excel**, follow the below steps:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/licensekey2.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
-1. Navigate to `https://www.office.com` and sign in using **CloudLabs provided credentials**.
+1. From the Microsoft 365 home page, select **Apps (1)**, and then choose **More apps (2)**.
 
-   ![](./media/5.2.png)
+   ![](./media/m36-gt-lab-ex2-g1.png)
 
-1. Select **Apps** from the left pane and search for **SharePoint** from the apps list. Select it.
+1. On the **Apps** page, select **SharePoint**.
 
-   ![](./media/3.1.png)
+   ![](./media/m36-gt-lab-ex2-g2.png)
 
 1. You will be navigated to the **SharePoint** homepage.  Select **Marketing Department** to go to the site of Marketing department.
 

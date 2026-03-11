@@ -6,7 +6,7 @@ In this exercise, you will use Microsoft 365 Copilot to manage and enhance commu
 
 **Microsoft Copilot** is designed with security and compliance in mind. It does not store or share any of the user's data. It only uses the data or information that the user explicitly provides as input or context. It also respects the user's privacy and preferences, and does not collect any personal or sensitive information by itself.
 
-Given below are the capabilities from Microsoft Purview whcih strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
+Given below are the capabilities from Microsoft Purview which strengthen your data security and compliance for Microsoft Copilot for Microsoft 365:
 
 ## Task 1: Using Sensitivity Labels in MS 365 Copilot
 

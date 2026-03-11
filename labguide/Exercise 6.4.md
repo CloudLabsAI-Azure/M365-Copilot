@@ -1,4 +1,4 @@
-# Exercise 4.4: Administering M365 Copilot
+# Exercise 4.4: Administering M365 Copilot (Read Only)
 
 This exercise provides guidance on how to manage the update channels for Microsoft 365 Apps, specifically focusing on changing to the Monthly Enterprise Channel and enabling Cloud updates.
 
@@ -19,10 +19,6 @@ In addition to the Monthly Enterprise Channel, Contoso Ltd has also decided to u
 - **Enable Cloud Update**
 
 1. A Microsoft Entra ID security group must be established to enable the channel change feature to target an entire security group. This channel change feature can also target individual devices. In our scenario, we have already established a security group named **Copilot Users**.
-
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
-
-   ![](./media/licensekey2.png)
 
 1. Log into the **Microsoft 365 Apps admin center**, you should land on the Home page automatically. On the Recommendation based on your tenant card, select Enable cloud.
 

@@ -18,13 +18,11 @@ For example, within a SharePoint site dedicated to a specific project, users can
 
 "Copilot, who has presented proposals to our largest customer in the last 6 months?"  
 
-
 Copilot can then query connected services such as SharePoint, Exchange, Teams, and more via Microsoft.
 
 "Copilot, set up a meeting for the project team next Wednesday at 2 pm to discuss our timeline."
 
 Copilot can then query connected services such as SharePoint, Exchange, Teams, and others via Microsoft Graph to provide answers and recommendations tailored to the user's specific M365 dataset and context. This includes surfacing relevant documents, conversations, employee insights, and calendar availability.
-
 
 **Key advantages of this integration include:**
 
@@ -38,24 +36,27 @@ By incorporating Copilot's intelligence into the collaboration flow via chat in 
 
 To use **M365 Chat**, follow the below steps:
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate back to **Microsoft 365** tab.
 
-   ![](./media/licensekey2.png)
+   ```
+   https://m365.cloud.microsoft/
+   ```
 
-1. Navigate to the home page of the `https://www.office.com/login?`, click on **Chat** icon to open copilot chat.
+1. In Microsoft 365 Copilot chat, select **New chat**.
 
-   ![](../labguide/media/11.2.png)
+   ![](../labguide/media/m36-gt-lab-ex4-7-g1.png)
 
 1. Say **Hi** or **Hello** to initiate a conversation with Copilot.
 
-1. Ask Copilot - **What are the key points from this document:**. Then provide **/** and goto **Files** to select a file, say "Increasing Revenue through Social Marketing Strategies".
+   ![](../labguide/media/m36-gt-lab-ex4-7-g2.png)
 
-   ![](../labguide/media/11.4.png)
+1. In Copilot chat, enter **What are the key points from this document: (1)**, type **/** to open the file picker, select the **Increasing Revenue through Social Marketing Strategies (2)** document, and then choose the **Files (3)** tab if required.
 
+   ![](../labguide/media/m36-gt-lab-ex4-7-g4.png)
 
 1. This response will be presented as below:
 
-   ![](../labguide/media/11.5.png)
+   ![](../labguide/media/m36-gt-lab-ex4-7-g6.png)
 
    >**Note:** At rare times, the **M365 Copilot Chat** reauthenticates itelf, and during that some issues may arise, causing the **M365 Copilot Chat** to be unresponsive. Whenever that happens, make sure to close the browser, reopen, clear all the cache and cookies, and sign in again. Ensure closing all the incognito tabs as well when trying in Incognito/Private mode.
 

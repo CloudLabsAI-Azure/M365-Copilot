@@ -12,13 +12,9 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 >**Note:** Your access has been set to Global Reader, meaning you won't be able to make changes. These instructions are for viewing only, reflecting the read-only access granted in your environment.
 
-1. Navigate to the Environment details page and click on it. You will find M365 Copilot User Details tab. Click on the tab and copy the Username | Password provided there.
+1. Navigate to the **Microsoft 365 Admin Center**.
 
-   ![](./media/licensekey2.png)
-
-1. Log in to [Microsoft 365 Admin Center]`https://admin.microsoft.com/`.
-
-1. Go to **Billing (1)** > **Licenses (2)**.
+1. Go to **Billing (1)** and select **Licenses (2)**.
 
     ![](../labguide/media/M14.png)
 
@@ -28,7 +24,7 @@ This exercise is designed to provide a comprehensive understanding of how to eff
 
 1. Select the user and select **Manage apps & services**.
 
-   >**Note:** Temporarily, The **Manage apps & services** view is not visible to the **Read-Only** access you have been provided with. This feature is ONLY accessible to the ADMINS with Administrative level of access. Thus, please go through the lab guide to understand the feature purpose, and how admins can utilize it.
+   >**Note:** Temporarily, the **Manage apps & services** view is not visible to the **Read-Only** access you have been provided with. This feature is ONLY accessible to the ADMINS with Administrative level of access. Thus, please go through the lab guide to understand the feature purpose, and how admins can utilize it.
 
    ![](../labguide/media/user-manage-license.png)
 
