@@ -12,12 +12,12 @@ As part of the lab, you've been given access to Contoso's Microsoft 365 environm
 
 Learn to leverage an OpenAI model to extract data and create embeddings, by end of this lab you will be able to:
 
-- **Administer M365 Copilot** :
+- **Administer M365 Copilot (Read Only)** :
   - **Managing Microsoft 365 Copilot Licenses in Admin Center** : Allocate and monitor licenses effectively.
   - **Managing Microsoft 365 Copilot Services** : Configure and manage Copilot services for optimal performance.
   - **Managing Public web content access** : Control Copilot's access to web content for compliance.
   - **Change update channel of Microsoft 365 Apps to enable Copilot** : Adjust update settings for Copilot functionality.
-- **Reviewing Security and Compliance in Copilot** : 
+- **Reviewing Security and Compliance in Copilot (Read Only)** : 
   - **Reviewing Security and Compliance in Copilot using Sensitivity Labels** : Protect content with appropriate labels.
   - **Implementing sensitivity label** : Apply labels to classify and secure data.
   - **Reviewing Security and Compliance in Copilot Using Data Classification** : Organize data based on sensitivity and usage.
@@ -27,8 +27,7 @@ Learn to leverage an OpenAI model to extract data and create embeddings, by end 
   - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
   - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
   - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
-- **Exploring Microsoft Copilot Lab** : Gain deeper insights through practical labs.
-- **Try Out Your Organizational Use Cases with M365 Copilot Capabilities** : Experiment with Copilot to address specific business needs.
+- **The Spark – Identifying Chaos** : Copilot Chat (Free, Web-Based) & Microsoft 365 Copilot (Work, Enterprise-Level). 
 
 ## Prerequisites
 
