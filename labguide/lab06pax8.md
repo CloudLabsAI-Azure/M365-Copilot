@@ -1,4 +1,4 @@
-# Exercise 1.2: Implementing sensitivity label (Read Only)
+# Exercise 2.2: Implementing sensitivity label (Read Only)
 
 In this exercise, you'll learn how to apply sensitivity labels to Word documents in Microsoft 365. Sensitivity labels are part of Microsoft Information Protection (MIP) and help classify and protect data. You'll explore how to manually apply these labels to a Word document and also see how Microsoft Copilot can automatically apply labels when summarizing documents.
 
