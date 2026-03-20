@@ -1,4 +1,4 @@
-# Exercise 4.1: Administering M365 Copilot (Read Only)
+# Exercise 1.1: Administering M365 Copilot (Read Only)
 
 This exercise is aimed at understanding how to manage Microsoft 365 Copilot licenses through the Microsoft 365 Admin Center. Although you are in read-only mode with Global Reader access, you will learn how to view, assign, and remove Copilot licenses.
 
