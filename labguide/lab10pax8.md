@@ -1,4 +1,4 @@
-# Exercise 1.6: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
+# Exercise 2.6: Reviewing Security and Compliance in Copilot Using Audit (Read Only)
 
 In this exercise, you will review how auditing in Microsoft 365 Copilot enhances security and compliance. Auditing captures detailed records of user and admin activities, helping organizations respond to security events, conduct investigations, and meet compliance obligations.
 
