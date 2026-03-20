@@ -1,4 +1,4 @@
-# Exercise 4.3: Administering M365 Copilot (Read Only)
+# Exercise 1.3: Administering M365 Copilot (Read Only)
 
 This exercise covers how to manage Microsoft 365 Copilot, particularly focusing on configuring public web content access. The steps include understanding how to enable or disable this feature to enhance Copilot’s functionality.
 
