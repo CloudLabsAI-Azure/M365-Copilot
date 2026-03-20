@@ -39,7 +39,7 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    ![](./media/l1-m-3.png)
 
->**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to `https://m365.cloud.microsoft/`,** and try again.
+>**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try again.
 
    - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
  
