@@ -78,7 +78,7 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
  
 Once you are ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
-   ![](./media/m36-gt-lab-gs-g1.png)
+   ![](./media/labvm01.png)
 
 ## Lab Guide Zoom In/Zoom Out
 
