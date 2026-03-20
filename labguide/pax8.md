@@ -1,6 +1,6 @@
-# The Spark – Identifying Chaos - Intelligent Search & Content Analysis (HOL) 
+# Exercise 3: The Spark – Identifying Chaos - Intelligent Search & Content Analysis (HOL) 
 
-#### Estimated Duration: 30 Minutes
+#### Estimated Duration: 40 Minutes
 
 ### Overview
 
