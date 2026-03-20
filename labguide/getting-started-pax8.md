@@ -27,7 +27,8 @@ Learn to leverage an OpenAI model to extract data and create embeddings, by end 
   - **Reviewing Security and Compliance in Copilot Using Content Search** : Perform advanced searches for compliance and security.
   - **Reviewing Security and Compliance in Copilot Using eDiscovery** : Manage legal and investigative workflows.
   - **Reviewing Security and Compliance in Copilot using Retention Policies** : Retain and manage important data efficiently.
-- **The Spark – Identifying Chaos** : Copilot Chat (Free, Web-Based) & Microsoft 365 Copilot (Work, Enterprise-Level). 
+  - **The Spark – Identifying Chaos - Intelligent Search & Content Analysis (HOL)**: Use Copilot Chat to retrieve and summarize web information, and leverage Copilot to analyze documents and generate actionable insights.
+ 
 
 ## Prerequisites
 
