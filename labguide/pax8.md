@@ -32,31 +32,31 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
 1. In the virtual machine (VM) desktop, type **Microsoft 365 Copilot (1)** in the search bar and select **Microsoft 365 Copilot (2)** from the results to open.
 
-   >**Note:** You can also open the **Microsoft 365 Copilot** by clicking the ![](../media/cop.png) icon on the taskbar.
+   >**Note:** You can also open the **Microsoft 365 Copilot** by clicking the ![](./media/cop.png) icon on the taskbar.
    
-   ![](../media/7-10-lab1-0.png)
+   ![](./media/7-10-lab1-0.png)
 
 1. On **Choose a Microsoft account** pop-up, click **Create or Sign in with a different account**.
 
-   ![](../media/l1-m-3.png)
+   ![](./media/l1-m-3.png)
 
    - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
  
-      ![](../media/l1-m-3.1.png)
+      ![](./media/l1-m-3.1.png)
  
    - Enter **Temporary Access Pass:** **<inject key="AzureAdUserPassword"></inject>** **(1)** and click on **Sign in (2)**. 
 
-      ![](../media/m365-g3.png)
+      ![](./media/m365-g3.png)
 
    - On **Sign in to all apps, websites, and services on this device?** page, select **Yes**.
 
-      ![](../media/m365-g4.png)
+      ![](./media/m365-g4.png)
 
       >**Note:** If you encounter any error, click **OK** and wait a few seconds for the page to load.
 
 1. On the M365 copilot page, from the left panel, select **New chat (1)**, switch it to **Web (2)**, and then provide the following prompt:
 
-    ![](../media/lab1-03-0.png)
+    ![](./media/lab1-03-0.png)
 
    **Prompt:**
    ```
@@ -65,7 +65,7 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    **Expected Output:**
 
-   ![image](../media/Lab1c-12-1.png)
+   ![image](./media/Lab1c-12-1.png)
 
    >**Note:** `In some cases, after launching the Microsoft 365 Copilot app, the Enter button may appear unresponsive and display a message such as Service communication is currently unavailable. This behavior is expected during initial service initialization. If this happens, close the Microsoft 365 Copilot app, right-click on the desktop and select Refresh, and then reopen the app. This helps reinitialize the service connection.`
    
@@ -75,11 +75,11 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
 1. To provide Copilot with internal context, upload the policy document by selecting the **+ (1)** symbol and select **Upload images and files (2)**.
 
-   ![image](../media/12-9-m2.png)
+   ![image](./media/12-9-m2.png)
    
 1. Navigate to the `C:\LabFiles\Documents` **(1)** path, then select the document named `Contoso_Support_Policy.docx` **(2)**,  and then **Open (3)**.
 
-   ![image](../media/mc57.png)
+   ![image](./media/mc57.png)
 
    > **Note:** `If Copilot chat is not responding, or the document upload fails, please sign out and sign in again, then retry the action.`
 
@@ -89,11 +89,11 @@ In this task, you will simulate a real-world scenario where you analyze internal
    ```
    Summarize this document.
    ```
-   ![image](../media/Lab1c-12-2.png)
+   ![image](./media/Lab1c-12-2.png)
 
    **Expected Output:**
 
-   ![image](../media/Lab1c-12-3.png)
+   ![image](./media/Lab1c-12-3.png)
 
    - A concise summary of the policy’s purpose, scope, and key sections (e.g., **Support Channels, Escalation Procedures, SLAs**).
 
@@ -106,7 +106,7 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    **Expected Output:** 
 
-   ![image](../media/Lab1c-12-4.png)
+   ![image](./media/Lab1c-12-4.png)
 
    A list of frequently asked questions, such as:
    - What are the response and resolution times for critical support issues?
@@ -124,7 +124,7 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
     **Expected Output:** 
 
-   ![image](../media/Lab1c-12-5.png)
+   ![image](./media/Lab1c-12-5.png)
 
    Copilot may highlight:
      - Conflicting escalation paths
@@ -141,13 +141,13 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
 1. In the virtual machine (VM) desktop, type **Microsoft 365 Copilot (1)** in the search bar and select **Microsoft 365 Copilot (2)** from the results to open.
    
-   ![](../media/7-10-lab1-0.png)
+   ![](./media/7-10-lab1-0.png)
 
    - **Purpose:** Enables secure access to your org’s structured and unstructured data emails, OneDrive files, Teams chats, SharePoint pages, calendar items, and more.
 
 1. Select the **New chat (1)** from the left panel, and then switch it from **Web** to **Work (licensed version) (2)**.
 
-   ![](../media/lab1-03-01.png)
+   ![](./media/lab1-03-01.png)
 
 1. In the prompt box, enter the following prompt to explore the types of business data available on the Contoso SharePoint site, then click **Send**:
 
@@ -158,7 +158,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Expected Output:**
 
-    ![image](../media/l1-m-3.2.png)
+    ![image](./media/l1-m-3.2.png)
 
    >**Note:** If the expected output is not displayed, proceed with the subsequent steps without waiting. After completing all lab exercises, you may revisit this step and run the prompts again, as the expected output may take several hours to appear due to SharePoint indexing latency, which affects Copilot’s ability to surface results.
    
@@ -170,7 +170,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
    ```
    **Expected Output:**
 
-    ![image](../media/lab1-1-2.png)    
+    ![image](./media/lab1-1-2.png)    
   
    >**Note:** It will scan relevant reports, internal audits, org charts, and conversations to detect fragmentation points, proposing action items like standardization, documentation gaps, or automation needs.
 
@@ -178,15 +178,15 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
 1. On the Windows taskbar, click the **Search** icon and type **Microsoft Teams (1)**. From the search results, select the **Microsoft Teams app (2)** to open it.
 
-    ![](../media/7-10-lab1-2.png)
+    ![](./media/7-10-lab1-2.png)
 
 1. Once the team is open, click on **ODL_User<inject key="DeploymentID" enableCopy="false"/>** to proceed.
 
-    ![](../media/7-10-lab1-2a.png)
+    ![](./media/7-10-lab1-2a.png)
 
 1. Once Teams opens, select the **Contoso executive group (1)** and then access **Copilot (2)** from the top-right corner. Provide the below prompt.
 
-   ![image](../media/l1-m-6.png)
+   ![image](./media/l1-m-6.png)
 
    > **Note:** <span style="color:red">If you don’t see **Copilot icon** in Teams, it might take additional time due to **Copilot indexing** or **Graph connection** not being fully synced yet. In that case, open **Microsoft Edge** and access Microsoft Teams by visiting **https://teams.microsoft.com/**</span>.
 
@@ -201,7 +201,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Expected Output**
 
-    ![image](../media/l1-m-3.3.png)
+    ![image](./media/l1-m-3.3.png)
 
 1. On Microsoft Teams Copilot, try out the following prompt to analyze leadership discussions:
 
@@ -211,7 +211,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Expected Output**
 
-   ![image](../media/lab1-teams2.png)
+   ![image](./media/lab1-teams2.png)
 
 1. Switch back to **M365 Copilot**, select the **Work** tab at the top, and enter the following prompt to draft FAQs from internal documents:
    ```
@@ -220,17 +220,17 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Expected Output**
 
-   ![image](../media/l1-m-4.png) 
+   ![image](./media/l1-m-4.png) 
 
 1. On the Lab VM, open the **Edge browser (1)** from the desktop, copy the url **<inject key="sharepointsite"></inject> (2)** and paste it into a new tab to navigate directly to the **Contoso Corp<inject key="DeploymentID" enableCopy="false" />** SharePoint site.
 
-   ![image](../media/edg.png) 
+   ![image](./media/edg.png) 
 
-   ![image](../media/url.png) 
+   ![image](./media/url.png) 
 
 1. On the **Contoso Corp<inject key="DeploymentID" enableCopy="false" />** SharePoint site, navigate to **Documents (1)** from the left panel, click on the **Open Agents (2)** icon from the top-right corner, and enter the prompt provided below.
 
-    ![image](../media/upp30-9-l1-2.png)
+    ![image](./media/upp30-9-l1-2.png)
 
    ```
    What are the top 3 issues facing Contoso in Q3?
@@ -238,7 +238,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Expected Output**
 
-   ![image](../media/9-10-lab1-3.png)      
+   ![image](./media/9-10-lab1-3.png)      
 
    > **Note:** If the expected output is not displayed, proceed with the subsequent steps without waiting. After completing all lab exercises, you may revisit this step and run the prompts again, as the expected output may take several hours to appear due to SharePoint indexing latency, which affects Copilot’s ability to surface results. 
 
@@ -251,7 +251,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
    
    **Expected Output**
 
-   ![image](../media/lab1-1-4.png) 
+   ![image](./media/lab1-1-4.png) 
 
 1. To detect the top 5 urgent problems across key departments. Please enter the below prompts.
 
@@ -260,7 +260,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
    Access Contoso_Corp_Business_Performance_Report document and identify recurring escalation themes within the Support team over the past 60 days.
    ```
 
-   ![image](../media/l1-5.png)
+   ![image](./media/l1-5.png)
 
 1. Use @ Mentions and Slash (/) Commands for Precision. Please provide the below prompt.
 
@@ -271,7 +271,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
     **Expected Output**
 
-    ![image](../media/lab1-1-6.png)   
+    ![image](./media/lab1-1-6.png)   
 
      >**Note:** This enhances Copilot’s accuracy by grounding context in specific assets.
 
@@ -284,7 +284,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
     **Expected Output**
       
-     ![](../media/l1-m-5.png)
+     ![](./media/l1-m-5.png)
 
 1. Cross-check the most frequently mentioned issues across emails and meeting notes for validation. Please provide the below prompt.
 
@@ -295,7 +295,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
     **Expected Output**
 
-    ![image](../media/lab1-1-8.png)    
+    ![image](./media/lab1-1-8.png)    
      
 1. Identify any trends or recurring bottlenecks causing operational inefficiencies. Please provide the below prompts.
 
@@ -306,7 +306,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
     
     **Expected Output**
    
-    ![image](../media/lab1-1-9.png)
+    ![image](./media/lab1-1-9.png)
 
     ```
     Identify departments with consistent SLA violations over the past reporting period.
@@ -314,7 +314,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
     **Expected Output**
    
-    ![image](../media/lab1-1-10.png)
+    ![image](./media/lab1-1-10.png)
       
 ### Review
 
@@ -328,4 +328,3 @@ Successfully completed the following  tasks for prompting:
     
 **You have successfully completed the lab. Click on Next >>**
 
-![Start Your Azure Journey](../media/gci7.png)
