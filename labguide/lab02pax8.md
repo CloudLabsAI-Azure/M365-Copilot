@@ -1,4 +1,4 @@
-# Exercise 4.2: Administering M365 Copilot( Read-Only)
+# Exercise 1.2: Administering M365 Copilot( Read-Only)
 
 This exercise is aimed at understanding how to manage Microsoft 365 Copilot services through the Microsoft 365 Admin Center, even with read-only access. You will learn how to view and understand the configuration and management of various Copilot services.
 
