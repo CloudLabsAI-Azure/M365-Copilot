@@ -10,7 +10,6 @@ Through a series of guided tasks, you will explore how AI-powered tools can:
 - Analyze documents and policies for inconsistencies.
 - Surface insights from internal communications and business data.
 - Prioritize operational challenges and propose actionable solutions.
-- Collaborate across teams using Copilot to align stakeholders and define KPIs.
 
 **Copilot Chat vs. Microsoft 365 Copilot:**<br>
 At the start of this lab, it's important to understand the distinction between: 
