@@ -1,4 +1,4 @@
-# Microsoft Copilot for 365
+# Microsoft Copilot for M365
 
 ### Expected Duration : 1 hour
 
