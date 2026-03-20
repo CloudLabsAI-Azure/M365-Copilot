@@ -1,6 +1,6 @@
-# Exercise 8: The Spark – Identifying Chaos 
+# The Spark – Identifying Chaos - Intelligent Search & Content Analysis (HOL) 
 
-#### Estimated Duration: 45 Minutes
+#### Estimated Duration: 30 Minutes
 
 ### Overview
 
@@ -326,5 +326,5 @@ Successfully completed the following  tasks for prompting:
 - Leveraging Organizational Data for Insights
 - Prioritizing and Structuring Key Findings  
     
-**You have successfully completed the lab. Click on Next >>**
+**You have successfully completed the lab!**
 
