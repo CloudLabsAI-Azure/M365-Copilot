@@ -60,17 +60,10 @@
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/lab13pax8.md",
         "Order": 14
       },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%208.md",
-        "Order": 15
-      },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/Exercise%209.md",
-        "Order": 16
-      },
+    
       {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/M365-Copilot/main/labguide/pax8.md",
-        "Order": 17
+        "Order": 15
       }
     ]
   }
