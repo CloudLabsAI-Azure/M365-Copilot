@@ -39,21 +39,21 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    ![](./media/l1-m-3.png)
 
->**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try again.
+   >**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try again.
 
-   - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
- 
-      ![](./media/l1-m-3.1.png)
- 
-   - Enter **Temporary Access Pass:** **<inject key="AzureAdUserPassword"></inject>** **(1)** and click on **Sign in (2)**. 
+      - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
+   
+         ![](./media/l1-m-3.1.png)
+   
+      - Enter **Temporary Access Pass:** **<inject key="AzureAdUserPassword"></inject>** **(1)** and click on **Sign in (2)**. 
 
-      ![](./media/m365-g3.png)
+         ![](./media/m365-g3.png)
 
-   - On **Sign in to all apps, websites, and services on this device?** page, select **Yes**.
+      - On **Sign in to all apps, websites, and services on this device?** page, select **Yes**.
 
-      ![](./media/m365-g4.png)
+         ![](./media/m365-g4.png)
 
-      >**Note:** If you encounter any error, click **OK** and wait a few seconds for the page to load.
+         >**Note:** If you encounter any error, click **OK** and wait a few seconds for the page to load.
 
 1. On the M365 copilot page, from the left panel, select **New chat (1)**, switch it to **Web (2)**, and then provide the following prompt:
 
