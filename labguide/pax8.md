@@ -25,6 +25,16 @@ This lab simulates a real-world transformation journey, empowering you to apply 
 + **Task 1:** Understanding Contoso Corp’s Chaos (Exploring the free Version of Copilot Chat) 
 + **Task 2:** Leveraging Organizational Data for Insights (Exploring M365 Copilot Chat) 
 
+### Environment Setup
+
+1. On the **Lab VM**, when prompted to **Choose privacy settings for your device**, click **Next** thrice.
+
+    ![](./media/privacy-1.png)
+
+2. Click **Accept** to confirm and apply the privacy settings.
+  
+    ![](./media/privacy-2.png)
+   
 ### Task 1: Understanding Contoso Corp’s Chaos (Exploring the Free Version of Copilot Chat) 
 
 In this task, you will simulate a real-world scenario where you analyze internal documentation by using the Free version of Copilot chat. We're using Copilot Chat (Free) with Enterprise Data protection, using our user's organizational identity (Entra ID). 
@@ -39,7 +49,7 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    ![](./media/l1-m-3.png)
 
-   >**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try again.
+   >**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try sign in again.
 
       - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
    
