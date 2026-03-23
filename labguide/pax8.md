@@ -209,7 +209,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Prompt:**
    ```
-   Explore the Mysite<inject key="DeploymentID"/> SharePoint site and identify the various categories of business data available on the platform.
+   Explore the mysite<inject key="DeploymentID"/> SharePoint site and identify the various categories of business data available on the platform.
    ```
 
    **Expected Output:**
