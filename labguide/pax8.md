@@ -171,13 +171,13 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    ![](./media/teamsite.png)
 
-1.On the **Select a template** page, choose **Standard team**.
+1. On the **Select a template** page, choose **Standard team**.
 
    ![](./media/standardteam.png)
 
 1. Preview the standard team template and click on **Use template**.
 
-    ![](./media/usetemplate.png)
+   ![](./media/usetemplate.png)
 
 1. Use **the following name (1)** for your site name and select **Next (2)**  (Use the same name as specified in the instructions to avoid issues in the subsequent steps)
 
