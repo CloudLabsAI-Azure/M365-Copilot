@@ -161,7 +161,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
 1. Select **SharePoint**
 
-   ![](./media/sharepoint.png)
+   ![](./media/sharepoint1.png)
 
 1. Select **+ Create Site** to create a new SharePoint site.
 
