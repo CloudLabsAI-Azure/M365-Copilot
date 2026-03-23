@@ -49,8 +49,6 @@ In this task, you will simulate a real-world scenario where you analyze internal
 
    ![](./media/l1-m-3.png)
 
-   >**Please Note**: If you encounter an error such as “No Network Connection,” **please open the Microsoft Edge browser on the VM desktop, navigate to ```https://m365.cloud.microsoft/```** and try sign in again.
-
       - On the **Sign in** page enter **Email/Username:** **<inject key="AzureAdUserEmail"></inject>** **(1)** and click on **Next (2)**.
    
          ![](./media/l1-m-3.1.png)
@@ -150,12 +148,59 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
 >**Note:** `Copilot may generate outputs that differ slightly from the screenshots provided, please proceed with the workflow as expected`.
 
+
 1. In the virtual machine (VM) desktop, type **Microsoft 365 Copilot (1)** in the search bar and select **Microsoft 365 Copilot (2)** from the results to open.
    
    ![](./media/7-10-lab1-0.png)
 
    - **Purpose:** Enables secure access to your org’s structured and unstructured data emails, OneDrive files, Teams chats, SharePoint pages, calendar items, and more.
 
+1. Navigate to **Apps**
+
+   ![](./media/launchapps.png)
+
+1. Select **SharePoint**
+
+   ![](./media/sharepoint.png)
+
+1. Select **+ Create Site** to create a new SharePoint site.
+
+   ![](./media/createsite.png)
+
+1. On Create a site page, choose **Team site**
+
+   ![](./media/teamsite.png)
+
+1.On the **Select a template** page, choose **Standard team**.
+
+   ![](./media/standardteam.png)
+
+1. Preview the standard team template and click on **Use template**.
+
+    ![](./media/usetemplate.png)
+
+1. Use **the following name (1)** for your site name and select **Next (2)**  (Use the same name as specified in the instructions to avoid issues in the subsequent steps)
+
+   ```
+   mysite<inject key="DeploymentID"/>
+   ```
+   
+1. Keep the default settings for language and other options, then select **Create Site**.
+
+   ![](./media/createsitefinal.png)
+
+1. Select **Add (1)**, choose your user account **(2)**, and then select **Finish (3)**.
+
+    ![](./media/addmember.png)
+
+1. Now, upload the document by selecting **Documents (1)**, then **+ Create or Upload (2)**, and finally **File upload (3)**.
+
+   ![](./media/uploadfile.png)
+
+1. Navigate to the `C:\LabFiles\Documents` **(1)** path, then **select** the document named **Contoso_Business_Performance_Report (2)**, and then **Open (3)**.
+
+   ![](./media/chooseexcelfile.png)
+   
 1. Select the **New chat (1)** from the left panel, and then switch it from **Web** to **Work (licensed version) (2)**.
 
    ![](./media/lab1-03-01.png)
@@ -164,7 +209,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Prompt:**
    ```
-   Explore the Contoso Corp<inject key="DeploymentID" enableCopy="false"/> SharePoint site and identify the various categories of business data available on the platform.
+   Explore the Mysite<inject key="DeploymentID"/> SharePoint site and identify the various categories of business data available on the platform.
    ```
 
    **Expected Output:**
@@ -177,7 +222,7 @@ We’re now switching to Microsoft 365 Copilot, the paid add-on powered by organ
 
    **Prompt:**
    ```
-   Access Contoso_business_performance_report.xlsx you can see the rapid growth has outpaced its current processes. What are some immediate actions we can take to restore structure and improve operational control?
+   Access Contoso_Business_Performance_Report.xlsx you can see the rapid growth has outpaced its current processes. What are some immediate actions we can take to restore structure and improve operational control?
    ```
    **Expected Output:**
 
