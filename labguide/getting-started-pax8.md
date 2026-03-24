@@ -31,7 +31,9 @@ Learn to leverage an OpenAI model to extract data and create embeddings, by end 
   
   - **The Spark – Identifying Chaos - Intelligent Search & Content Analysis (HOL)**: Use Copilot Chat to retrieve and summarize web information, and leverage Copilot to analyze documents and generate actionable insights.
  
-## Important Note: This lab contains a total of 15 pages. The first 14 pages provide read-only content on administering M365 Copilot and reviewing security and compliance in Copilot. Page 15 includes the hands-on tasks.
+## Important:
+
+This lab contains a total of 15 pages. The first 14 pages provide read-only content on administering M365 Copilot and reviewing security and compliance in Copilot. Page 15 includes the hands-on tasks.
 
 If you’d like to perform the tasks, you can directly navigate to page 15. You can also save this [Lab Guide Preview Link](https://experience.cloudlabs.ai/#labguidepreview/13b37205-ec6b-47d3-91ed-3b678d6324ee/1) to revisit the read-only content anytime later.
 
